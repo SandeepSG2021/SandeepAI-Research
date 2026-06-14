@@ -54,16 +54,6 @@
       ]
     },
     {
-      "title": "SAM 3D - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ENnVFVkY3akhxR0xuRkFwWTVHM3kxeFNCR3dEUHhSd25mcEFRMTJrTDk5eWhKRURyQVphdVllb184ZWdoYWhsM2ZpWQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 30 Ja",
-      "summary": "SAM 3D AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "AI Research: Introducing Muse Spark - New Foundation Model | AI at Meta - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1ejNyS2o0RlZaazlqcUFsS1FCTWpsanZ3MFc0cExGY3ljWHBvWE5aR1VOVVhVMUM1S1kyR1ljVTdmVkU?oc=5",
       "authors": "Meta AI",
@@ -79,6 +69,16 @@
       "authors": "Meta AI",
       "published": "Wed, 11 Ma",
       "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "SAM 3D - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ENnVFVkY3akhxR0xuRkFwWTVHM3kxeFNCR3dEUHhSd25mcEFRMTJrTDk5eWhKRURyQVphdVllb184ZWdoYWhsM2ZpWQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Fri, 30 Ja",
+      "summary": "SAM 3D AI at Meta",
       "tags": [
         "Meta AI"
       ]
