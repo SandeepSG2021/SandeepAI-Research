@@ -13,17 +13,29 @@ import feedparser
 from ._common import clean, http_get, merge_with_existing, soup, write_tab
 
 
-def from_feed(feed_url: str, *, source_tag: str, limit: int = 8) -> list[dict]:
+def _strip_html(s: str) -> str:
+    """Google News summaries are wrapped in <a>...</a><font>source</font> HTML."""
+    if not s:
+        return ""
+    return clean(soup(s).get_text(" ", strip=True))
+
+
+def from_feed(feed_url: str, *, source_tag: str, limit: int = 10) -> list[dict]:
     r = http_get(feed_url, accept="application/rss+xml, application/atom+xml, */*")
     feed = feedparser.parse(r.content)
     out: list[dict] = []
     for e in feed.entries[:limit]:
+        title = clean(getattr(e, "title", ""))
+        # Many feeds (incl. Google News) suffix the source name in the title; trim it.
+        for tail in (f" - {source_tag}", f" — {source_tag}", f" | {source_tag}"):
+            if title.endswith(tail):
+                title = title[: -len(tail)].rstrip()
         out.append({
-            "title": clean(getattr(e, "title", "")),
+            "title": title,
             "link": clean(getattr(e, "link", "")),
             "authors": clean(getattr(e, "author", "")) or source_tag,
             "published": clean(getattr(e, "published", "") or getattr(e, "updated", ""))[:10],
-            "summary": clean(
+            "summary": _strip_html(
                 getattr(e, "summary", "") or getattr(e, "description", "")
             )[:1200],
             "tags": [t.term for t in getattr(e, "tags", [])][:5] or [source_tag],

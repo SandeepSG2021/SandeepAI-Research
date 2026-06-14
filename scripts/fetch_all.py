@@ -19,6 +19,9 @@ def fetch_google():
         [
             {"kind": "feed", "feed_url": "https://blog.google/technology/ai/rss/", "source_tag": "Google AI Blog"},
             {"kind": "feed", "feed_url": "https://deepmind.google/blog/rss.xml",   "source_tag": "Google DeepMind"},
+            {"kind": "feed",
+             "feed_url": "https://news.google.com/rss/search?q=site:ai.google/research+OR+site:blog.google/technology/ai+OR+site:deepmind.google/discover&hl=en-US&gl=US&ceid=US:en",
+             "source_tag": "Google AI"},
         ],
     )
 
@@ -32,6 +35,9 @@ def fetch_microsoft():
              "feed_url": "https://www.microsoft.com/en-us/research/feed/?research_area=13556",
              "source_tag": "Microsoft Research"},
             {"kind": "feed", "feed_url": "https://www.microsoft.com/en-us/research/feed/", "source_tag": "Microsoft Research"},
+            {"kind": "feed",
+             "feed_url": "https://news.google.com/rss/search?q=site:microsoft.com/en-us/research&hl=en-US&gl=US&ceid=US:en",
+             "source_tag": "Microsoft Research"},
         ],
     )
 
@@ -40,11 +46,12 @@ def fetch_openai():
     vendor_run(
         "openai", "OpenAI-AI", "https://openai.com/research/",
         [
-            {"kind": "html",
-             "page_url": "https://openai.com/research/",
-             "item_selector": "a[href*='/index/'], a[href*='/research/']",
-             "title_selector": "h3, h2",
-             "summary_selector": "p",
+            # Primary: Google News (works; openai.com blocks direct scrapers).
+            {"kind": "feed",
+             "feed_url": "https://news.google.com/rss/search?q=site:openai.com/index/&hl=en-US&gl=US&ceid=US:en",
+             "source_tag": "OpenAI"},
+            {"kind": "feed",
+             "feed_url": "https://news.google.com/rss/search?q=site:openai.com/research&hl=en-US&gl=US&ceid=US:en",
              "source_tag": "OpenAI"},
         ],
     )
@@ -54,12 +61,8 @@ def fetch_anthropic():
     vendor_run(
         "anthropic", "Anthropic-AI", "https://www.anthropic.com/research",
         [
-            {"kind": "feed", "feed_url": "https://www.anthropic.com/news/rss.xml", "source_tag": "Anthropic"},
-            {"kind": "html",
-             "page_url": "https://www.anthropic.com/research",
-             "item_selector": "a[href*='/research/'], a[href*='/news/']",
-             "title_selector": "h3, h2",
-             "summary_selector": "p",
+            {"kind": "feed",
+             "feed_url": "https://news.google.com/rss/search?q=site:anthropic.com/research+OR+site:anthropic.com/news&hl=en-US&gl=US&ceid=US:en",
              "source_tag": "Anthropic"},
         ],
     )
@@ -69,12 +72,8 @@ def fetch_meta():
     vendor_run(
         "meta", "Meta-AI", "https://ai.meta.com/research/",
         [
-            {"kind": "feed", "feed_url": "https://ai.meta.com/blog/rss/", "source_tag": "Meta AI"},
-            {"kind": "html",
-             "page_url": "https://ai.meta.com/research/",
-             "item_selector": "a[href*='/research/publications/'], a[href*='/blog/']",
-             "title_selector": "h3, h2",
-             "summary_selector": "p",
+            {"kind": "feed",
+             "feed_url": "https://news.google.com/rss/search?q=site:ai.meta.com/blog+OR+site:ai.meta.com/research&hl=en-US&gl=US&ceid=US:en",
              "source_tag": "Meta AI"},
         ],
     )
