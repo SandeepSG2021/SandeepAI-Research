@@ -8,7 +8,7 @@
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
       "authors": "Google AI Blog",
       "published": "Thu, 11 Ju",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\" />We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
       "tags": [
         "Google.org",
         "Global Network",
@@ -60,7 +60,7 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
       "authors": "Zahra Thompson",
       "published": "Fri, 29 Ma",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
       "tags": [
         "Developer tools",
         "AI"
@@ -83,7 +83,7 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
       "authors": "Google AI Blog",
       "published": "Fri, 29 Ma",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\" />University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
       "tags": [
         "Learning & Education",
         "AI"
@@ -104,61 +104,28 @@
       ]
     },
     {
-      "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
-      "link": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/",
-      "authors": "Google DeepMind",
-      "published": "2024-02",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "authors": "Google AI Blog",
+      "published": "Fri, 22 Ma",
+      "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
       "tags": [
-        "Long context",
-        "Multimodal",
-        "Foundation model"
-      ],
-      "summary": "Mixture-of-experts model with up to 1M-token context, capable of reasoning over hours of video, large code repos, or entire books in a single prompt.",
-      "insurance_business_case": {
-        "headline": "Eliminates the chunking gymnastics for long-document insurance use cases: full policy contracts, claim files, and reinsurance treaties go in whole.",
-        "points": [
-          "Group benefits underwriting: ingest a 400-page RFP, census, and prior carrier experience in one shot — produces gap analysis and pricing memo.",
-          "Litigation triage: read the full claim file (FNOL → SOAP notes → IME → demand letter) and surface inconsistencies.",
-          "Producer training: load the entire product guide + objection handling + compliance disclosure and ask scenario questions."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Long-context LLM as a 'reasoning surface' over case files, with RAG as the precision retrieval layer.",
-        "points": [
-          "Hybrid: RAG narrows to the relevant case file; long-context model reasons across it without further chunking.",
-          "Token-cost controls: cap per-case context, cache prior turns with Vertex AI context caching.",
-          "PII redaction at ingestion; per-tenant CMEK encryption for jurisdictional data residency.",
-          "Eval: needle-in-haystack tests using synthetic clauses planted in real contracts."
-        ]
-      }
+        "AI",
+        "Googlers"
+      ]
     },
     {
-      "title": "Med-PaLM 2: Towards Expert-Level Medical Question Answering",
-      "link": "https://arxiv.org/abs/2305.09617",
-      "authors": "Google Research & DeepMind",
-      "published": "2023-05",
+      "title": "We’re announcing new community investments in Missouri.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "authors": "Google AI Blog",
+      "published": "Wed, 20 Ma",
+      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
       "tags": [
-        "Healthcare LLM",
-        "Domain adaptation"
-      ],
-      "summary": "Medical-domain LLM that scored expert-level on USMLE-style questions through instruction tuning and ensemble refinement on physician-rated data.",
-      "insurance_business_case": {
-        "headline": "Foundation for clinically-grounded medical underwriting and disability claims adjudication.",
-        "points": [
-          "Life underwriting: interprets APS / lab values for impairment classification consistent with manual underwriting guidelines.",
-          "Disability/LTC claims: assesses functional capacity from clinician notes, reducing nurse-reviewer queue time.",
-          "Group health stop-loss: triages high-cost claimants from medical narratives for early case management."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Domain-adapted LLM with physician-in-the-loop evaluation, deployed behind a clinical-decision-support wrapper.",
-        "points": [
-          "Wrap with structured output schema mapped to underwriting manual codes (e.g., Swiss Re Life Guide).",
-          "HITL: every adverse decision routed to a medical director with model rationale + source quotes.",
-          "FDA / Health Canada SaMD classification analysis before any 'diagnostic' use.",
-          "Bias eval across age/sex/ancestry on historical decisions before deployment."
-        ]
-      }
+        "Google.org",
+        "Global Network",
+        "Creating opportunity",
+        "AI"
+      ]
     }
   ]
 }

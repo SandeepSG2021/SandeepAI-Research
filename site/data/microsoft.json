@@ -8,7 +8,7 @@
       "link": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
       "authors": "Brian Caswell, Bob Fleck, Mike Walker",
       "published": "Fri, 12 Ju",
-      "summary": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/\">Ire identifies another LOTUSLITE specimen</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "summary": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it. The post Ire identifies another LOTUSLITE specimen appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
@@ -18,7 +18,7 @@
       "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
       "authors": "Chenglong Wang, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
       "published": "Thu, 28 Ma",
-      "summary": "<p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/\">Data Formulator 0.7: AI-powered data analytics for enterprise data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "summary": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights. The post Data Formulator 0.7: AI-powered data analytics for enterprise data appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
@@ -28,7 +28,7 @@
       "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
       "authors": "Ken Archer, Harald Wiltsche",
       "published": "Wed, 27 Ma",
-      "summary": "<p>Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/\">Extending Human Intelligence Through AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "summary": "Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems. The post Extending Human Intelligence Through AI appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
@@ -38,7 +38,7 @@
       "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
       "authors": "Microsoft Research AI Frontiers",
       "published": "Thu, 21 Ma",
-      "summary": "<p>MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/\">MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "summary": "MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks. The post MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
@@ -48,7 +48,7 @@
       "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
       "authors": "Srinath Setty",
       "published": "Thu, 21 Ma",
-      "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/\">Vega: Zero-knowledge proofs for digital identity in the age of AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "summary": "Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. The post Vega: Zero-knowledge proofs for digital identity in the age of AI appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
@@ -58,7 +58,7 @@
       "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
       "authors": "Philippe Laban, Tobias Schnabel, Jennifer Neville",
       "published": "Fri, 15 Ma",
-      "summary": "<p>Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and [&#8230;]</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/\">Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "summary": "Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and […] The post Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
@@ -68,7 +68,7 @@
       "link": "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
       "authors": "Daan Leijen",
       "published": "Wed, 13 Ma",
-      "summary": "<p>mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/\">mimalloc: A new, high-performance, scalable memory allocator for the modern era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "summary": "mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations. The post mimalloc: A new, high-performance, scalable memory allocator for the modern era appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
@@ -78,7 +78,27 @@
       "link": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
       "authors": "Weiwei Yang, Andrea Britto Mattos Lima, Thiago Vallin Spina, Spencer Fowers, Baosen Zhang",
       "published": "Wed, 13 Ma",
-      "summary": "<p>Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/\">GridSFM: A new, small foundation model for the electric grid</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "summary": "Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health. The post GridSFM: A new, small foundation model for the electric grid appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
+      "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
+      "link": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+      "authors": "Andrew Fowler, Claudio Zeni, Daniel Zügner, Fabian Thiemann, Robert Pinsler, Shoko Ueda, Kenji Takeda",
+      "published": "Tue, 12 Ma",
+      "summary": "MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces alone. The post Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
+      "title": "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests",
+      "link": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+      "authors": "Tyler Payne, Will Epperson, Safoora Yousefi, Zachary Huang, Gagan Bansal, Wenyue Hua, Maya Murad, Asli Celikyilmaz, Saleema Amershi",
+      "published": "Mon, 11 Ma",
+      "summary": "Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s position, even with explicit instructions to optimize for user interest. The post SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]

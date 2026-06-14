@@ -4,129 +4,104 @@
   "last_updated": "2026-06-14",
   "papers": [
     {
-      "title": "Constitutional AI: Harmlessness from AI Feedback",
-      "link": "https://arxiv.org/abs/2212.08073",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iMUNpampxZWdMMEtnbGZyOERPZXplazlDM3k3YzN3dXdQSVFwNDA5UEhPWFE3LWpaNGMzcDJWbzZNelpjUkd6SGl6RHNSRUplaURhbTB2MHlZbGdxemptcTllallVQQ?oc=5",
       "authors": "Anthropic",
-      "published": "2022-12",
-      "tags": ["Alignment", "Safety", "RLAIF"],
-      "summary": "Train assistants to follow a written 'constitution' of principles via self-critique and AI feedback — drastically reducing the need for human red-teaming.",
-      "insurance_business_case": {
-        "headline": "Direct template for a written 'AI Conduct Policy' that customer-facing bots and producer copilots must demonstrably follow.",
-        "points": [
-          "Encode TCF, unfair-discrimination prohibitions, suitability, and disclosure rules as the constitution.",
-          "Self-critique catches mis-selling, off-label advice, and PII over-disclosure before any human sees them.",
-          "Gives Compliance one document mapping every behaviour to a written principle and the regulation it implements."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Constitutional layer wrapping the production LLM + an independent critic model.",
-        "points": [
-          "Constitution-as-code (YAML): principle id, source regulation, prohibited behaviours, test prompts.",
-          "Critic runs on every response; below-threshold responses regenerated with critique appended.",
-          "Nightly RLAIF on disagreement cases to drift toward principle compliance.",
-          "Per-principle violation dashboard sliced by LOB, channel, jurisdiction."
-        ]
-      }
+      "published": "Sat, 13 Ju",
+      "summary": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
     },
     {
-      "title": "Claude 3 Model Family",
-      "link": "https://www.anthropic.com/news/claude-3-family",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS004dFB2RHhmSy0zVWJXN0ZXbXFsdzBQTjNxNm5uOEh0cC1tVm4xdk11alFNS01lS0l4N0VVRjJHSjFUNjNfc3lHZllXRFB5Zks0X3U2VExuQ3N5aVRmV2xvd3BwNHc?oc=5",
       "authors": "Anthropic",
-      "published": "2024-03",
-      "tags": ["Foundation model", "Long context", "Vision"],
-      "summary": "Family of frontier models (Haiku, Sonnet, Opus) with 200k-token context, vision, and strong instruction-following — positioned for enterprise reliability.",
-      "insurance_business_case": {
-        "headline": "Provides a second frontier-model supplier so insurers avoid single-vendor lock-in on the most strategic AI dependency.",
-        "points": [
-          "Multi-LOM (model-of-record) strategy: Claude on AWS Bedrock alongside Azure OpenAI for resilience and price leverage.",
-          "200k context lets a single call cover a full personal-line policy + claim file + adjuster notes.",
-          "Vision tier handles application forms, ID, accident photos without a separate OCR stack."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Multi-vendor LLM gateway with policy-based routing, fallback, and arbitrage.",
-        "points": [
-          "Gateway (e.g., LiteLLM, internal proxy) abstracts Bedrock / Azure / Vertex behind a single API.",
-          "Route by sensitivity (Canadian PII → Bedrock Canada; non-sensitive cost-sensitive → Haiku tier).",
-          "Identical eval harness against every backend on each release.",
-          "Per-vendor circuit breakers; auto-failover with budget caps to prevent runaway cost on outage."
-        ]
-      }
+      "published": "Fri, 12 Ju",
+      "summary": "TCS and Anthropic partner to bring Claude to regulated industries Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
     },
     {
-      "title": "Tool Use with Claude (Function Calling)",
-      "link": "https://docs.anthropic.com/claude/docs/tool-use",
+      "title": "Results from the first Anthropic Public Record",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sUXRvWW91TTJBazFqVWdITGR6VmdQWGp3UnJ5MG5INEZPZHhlajVpdzFLSUtoeEdkMFdZX3hZSlRLNE9IbTFUMDRYLTBJZWJkMUtPYjBxVlNXOGRDSmxmWk1sV1U?oc=5",
       "authors": "Anthropic",
-      "published": "2024-04",
-      "tags": ["Tool use", "Function calling", "Agents"],
-      "summary": "Structured tool-use protocol where Claude requests typed function calls and receives results, enabling reliable agentic workflows over enterprise APIs.",
-      "insurance_business_case": {
-        "headline": "Production-ready substrate for letting AI safely orchestrate the spaghetti of policy admin, claims, billing, and CRM systems.",
-        "points": [
-          "Underwriter copilot calls MIB, Rx, MVR, reinsurance pricing as typed tools with auditable arguments.",
-          "Claims agent calls coverage lookup, fraud score, benefit calc — every call typed and logged.",
-          "Drastically lowers the integration cost of new AI use cases: each system is wrapped once, reused by every agent."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Typed tool registry behind MCP, with policy-as-code controlling which roles may invoke which tools.",
-        "points": [
-          "Each legacy system wrapped as an MCP server exposing JSON-schema-typed tools.",
-          "Authorization at the tool-call layer (OPA / Cedar) using the user's AD identity.",
-          "Argument validation + output schema enforcement before the response goes back to the model.",
-          "End-to-end trace (prompt → tool calls → response) in distributed tracing for audit + debugging."
-        ]
-      }
+      "published": "Fri, 12 Ju",
+      "summary": "Results from the first Anthropic Public Record Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
     },
     {
-      "title": "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training",
-      "link": "https://arxiv.org/abs/2401.05566",
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCeUZvTHM5SUxFNEh4QTRtM2N1c0R5N3piSVliUFlTRnZDRERDTjdrOGJKTjUzNnljQ3ZTYnJ5MGplM1Q0RFN2emJqek04bUpiWEhWd3VDTkVlblQtTzNQZkY3bw?oc=5",
       "authors": "Anthropic",
-      "published": "2024-01",
-      "tags": ["Safety", "Adversarial", "Supply chain"],
-      "summary": "Shows that backdoors / hidden behaviours can be trained into LLMs and survive standard RLHF safety training — a foundational concern for AI supply-chain security.",
-      "insurance_business_case": {
-        "headline": "Mandatory reading for Third-Party Risk Management: any externally-trained model is potentially adversarially shaped.",
-        "points": [
-          "Drives an 'AI SBOM' (software-bill-of-materials) requirement for every vendor LLM in scope.",
-          "Informs MRM testing requirements for vendor and open-weight models, not just internally-built ones.",
-          "Underwrites the case for keeping a deterministic / rules layer outside the LLM on bind / pay decisions."
-        ]
-      },
-      "technical_details": {
-        "pattern": "AI supply-chain controls + trigger probing + defence-in-depth around adversarially-suspect models.",
-        "points": [
-          "AI SBOM: track every model, its provenance, training data source, fine-tune lineage.",
-          "Trigger probing: red-team library of suspicious triggers run on every model version.",
-          "Critical decisions never on a single model: ensemble + deterministic guardrail outside the LLM.",
-          "Cryptographic signing of approved model weights stored in your own registry."
-        ]
-      }
+      "published": "Thu, 11 Ju",
+      "summary": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
     },
     {
-      "title": "Towards Monosemanticity: Decomposing Language Models with Dictionary Learning",
-      "link": "https://transformer-circuits.pub/2023/monosemantic-features/index.html",
-      "authors": "Anthropic Interpretability",
-      "published": "2023-10",
-      "tags": ["Interpretability", "Mechanistic", "Explainability"],
-      "summary": "Uses sparse dictionary learning to extract individual interpretable 'features' from LLM activations — a major step toward mechanistic explainability.",
-      "insurance_business_case": {
-        "headline": "Paves the way to meet regulatory 'explainability of automated decisions' requirements (GDPR Art. 22, Quebec Law 25, NAIC Bulletin 23-1).",
-        "points": [
-          "Future-state: trace adverse underwriting / claims decisions to specific learned features rather than 'the model said so'.",
-          "Enables bias audits at the feature level — flag and disable features correlated with protected attributes.",
-          "Supports complaint defence with mechanistic rationale, not just chain-of-thought paraphrase."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Sparse-autoencoder interpretability sidecar attached to the production model.",
-        "points": [
-          "Train SAE on the deployed model's intermediate activations on representative insurance corpora.",
-          "Build a feature catalogue: label salient features (medical, demographic, financial) with SME review.",
-          "Log per-decision feature activations; expose top-K features in the adverse-decision letter.",
-          "Bias audit: monitor activation-correlation between protected-attribute proxies and decision-driving features."
-        ]
-      }
+      "title": "Introducing Claude Corps",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 11 Ju",
+      "summary": "Introducing Claude Corps Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01R2w3LUFPRVBaT29nLWtxTmptMmhtRjRLMWFXZThCSFhUR2hRSnFxZG1BTnNwNklXMEF3Q0xFNnp6bjZ6d1VfcnktRG1XSVNyZi1kQ1J3UjdkSTN3ZXc?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 09 Ju",
+      "summary": "Claude Fable 5 and Claude Mythos 5 Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Paving the way for agents in biology",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDc0poWWVRZXlzMldPQXVoMWdSeWZSSFBSeG96QjdWWUNJc1g2ZXE5V253SWhOWmpfWlUwVDhubGdTY1dYYXljektTaFp1NHhuSVFGczBEM3NmWGNVWGVsSHFB?oc=5",
+      "authors": "Anthropic",
+      "published": "Mon, 08 Ju",
+      "summary": "Paving the way for agents in biology Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Making Claude a chemist",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMkgxR3JCakJ0S2pJLUEzQ2gzZjVHdjNjUjBaV2hVTHE4UFYtTVdpdmdUcUtzeldxWXpEXzJRX2dTTzJjSGlpbm1CME9mZkJZa2FWVnpCdU1UeDhYbEprQjVSeVdQakUzMGc?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 05 Ju",
+      "summary": "Making Claude a chemist Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Expanding Project Glasswing",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRWF6VVZqQWo3VEJKQ2NDOTRXT1dQaUNzcURtbkdocEg1bnY1WEFFWF8zRGxwd0R0d1NxZFZVQ3dBeXdGU1hpNEZMd2JFcHFzU0UxLTdUVnNKXzM3dTZSanU4b2ZGM1lwUnc?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 02 Ju",
+      "summary": "Expanding Project Glasswing Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUb1Rsa01hUHowSm5wMzhpMG9TTjNtZlcteWppYm9zLTVyT3dKOXdERU9KLWpHdmhOVWpIbE5FU2JidHo1NF9KeDBlWE1FZl9hUVZMQVduZTF6TUh2QzVVVDVsLXdfNGpJckQ5cmRMZHhqc1BSbXlV?oc=5",
+      "authors": "Anthropic",
+      "published": "Wed, 03 Ju",
+      "summary": "What we learned mapping a year’s worth of AI-enabled cyber threats Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
     }
   ]
 }
