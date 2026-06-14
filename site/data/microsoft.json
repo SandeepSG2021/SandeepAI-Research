@@ -4,128 +4,84 @@
   "last_updated": "2026-06-14",
   "papers": [
     {
-      "title": "Sparks of Artificial General Intelligence: Early Experiments with GPT-4",
-      "link": "https://arxiv.org/abs/2303.12712",
-      "authors": "Bubeck et al. (Microsoft Research)",
-      "published": "2023-03",
-      "tags": ["Foundation model", "Evaluation"],
-      "summary": "Wide-ranging qualitative study showing GPT-4 exhibits cross-domain reasoning, planning, and tool-use that go materially beyond prior LLMs — and a sober assessment of where it still fails.",
-      "insurance_business_case": {
-        "headline": "Frames the executive narrative for AI investment: which insurance tasks are now feasible vs. which still need humans-in-the-loop.",
-        "points": [
-          "Use the paper's failure modes (math drift, hallucination, planning depth) to draw the line between AI-automated and AI-assisted insurance workflows.",
-          "Justifies investment in agent frameworks for compound tasks (multi-step underwriting) vs. single-call APIs for simple ones (FAQ).",
-          "Provides language for board-level AI strategy / risk papers."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Capability-vs-risk matrix per insurance workflow, mapped to LLM strength/weakness.",
-        "points": [
-          "Build a capability scorecard per LOB (Life, Health, Annuity, Group) × workflow stage.",
-          "Score against the paper's known failure axes (arithmetic, multi-hop, recency, hallucination).",
-          "Pair with NIST AI RMF for the risk side; use to prioritize AI roadmap funding."
-        ]
-      }
+      "title": "Ire identifies another LOTUSLITE specimen",
+      "link": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+      "authors": "Brian Caswell, Bob Fleck, Mike Walker",
+      "published": "Fri, 12 Ju",
+      "summary": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/\">Ire identifies another LOTUSLITE specimen</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "tags": [
+        "Research Blog"
+      ]
     },
     {
-      "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
-      "link": "https://arxiv.org/abs/2308.08155",
-      "authors": "Wu et al. (Microsoft Research)",
-      "published": "2023-08",
-      "tags": ["Multi-agent", "Agents", "Orchestration"],
-      "summary": "Framework where specialized LLM agents (planner, coder, critic, executor) converse to solve tasks — the basis of Microsoft's agent stack.",
-      "insurance_business_case": {
-        "headline": "Production pattern for breaking complex insurance processes into specialist AI roles that mirror today's org chart.",
-        "points": [
-          "New-business: 'Intake agent' + 'Underwriter agent' + 'Pricing agent' + 'Compliance agent' converse to bind a policy.",
-          "Claims: 'Triage agent' + 'Medical agent' + 'Fraud agent' + 'Settlement agent' jointly recommend a disposition.",
-          "Distribution: 'Lead-qualification agent' + 'Needs-analysis agent' + 'Illustration agent' for assisted producer journeys."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Role-based multi-agent system on AutoGen / Semantic Kernel, with a critic agent enforcing compliance.",
-        "points": [
-          "Define agents in code with explicit system prompts, allowed tools, and stop conditions.",
-          "Conversation orchestrator persists every message to immutable storage for audit.",
-          "Critic agent runs against the Constitutional-AI-style policy file (see Anthropic tab).",
-          "Cost & latency budgets per case; SLA-trip routes to humans automatically."
-        ]
-      }
+      "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+      "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+      "authors": "Chenglong Wang, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
+      "published": "Thu, 28 Ma",
+      "summary": "<p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/\">Data Formulator 0.7: AI-powered data analytics for enterprise data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "tags": [
+        "Research Blog"
+      ]
     },
     {
-      "title": "Phi-3: A Highly Capable Language Model Locally on Your Phone",
-      "link": "https://arxiv.org/abs/2404.14219",
-      "authors": "Microsoft Research",
-      "published": "2024-04",
-      "tags": ["Small LM", "On-device", "Efficient"],
-      "summary": "3.8B-parameter open model trained on heavily curated 'textbook-quality' data that matches GPT-3.5-level reasoning at a fraction of the cost — runs offline on a phone.",
-      "insurance_business_case": {
-        "headline": "Enables AI assistants where the cloud LLM is impossible: agent-laptop offline mode, hospital kiosks, regulated-data zones.",
-        "points": [
-          "Field-agent app that captures, validates, and pre-fills applications offline in rural / low-connectivity markets (Asia, Africa LATAM).",
-          "On-prem deployments in jurisdictions with strict data-residency (e.g., certain group health books).",
-          "Cost-driven downshift: route ~70% of low-complexity intents (FAQ, status checks) to Phi-class models, GPT-4-class only for hard cases."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Tiered LLM routing: small on-device / on-prem model for the easy majority, frontier model for the long tail.",
-        "points": [
-          "Router classifies intent + difficulty (a tiny BERT or rules) and selects the model tier.",
-          "On-device: ONNX Runtime + DirectML / Core ML; quantize to INT4 for laptop / phone footprint.",
-          "Continuous distillation: log frontier-model outputs on hard cases, retrain Phi periodically.",
-          "Privacy posture: PII never leaves device unless escalated; explicit consent on escalation."
-        ]
-      }
+      "title": "Extending Human Intelligence Through AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+      "authors": "Ken Archer, Harald Wiltsche",
+      "published": "Wed, 27 Ma",
+      "summary": "<p>Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/\">Extending Human Intelligence Through AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "tags": [
+        "Research Blog"
+      ]
     },
     {
-      "title": "Orca 2: Teaching Small Language Models How to Reason",
-      "link": "https://arxiv.org/abs/2311.11045",
-      "authors": "Microsoft Research",
-      "published": "2023-11",
-      "tags": ["Reasoning", "Distillation", "Small LM"],
-      "summary": "Demonstrates that small models can be taught when to use Chain-of-Thought vs direct answer vs step-by-step explanation, narrowing the gap with much larger models on reasoning benchmarks.",
-      "insurance_business_case": {
-        "headline": "Affordable accuracy gains for the high-volume, decision-rich workflows where running GPT-4 on every call is uneconomic.",
-        "points": [
-          "Premium calculation explainers in the call centre — small model gives consistent, traceable rationales.",
-          "Adjudication co-pilot for short-term disability claims (10s of thousands of decisions/month).",
-          "Auto-letter generation with mandatory CoT rationale for compliance sampling."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Reasoning-distilled small LM fine-tuned on expert teacher traces.",
-        "points": [
-          "Build teacher corpus: GPT-4 CoT explanations on 100k anonymized historical adjudications.",
-          "Supervised fine-tune Phi/Orca-class student; reinforce on agreement with teacher final answer.",
-          "Serve on dedicated GPU pool with vLLM / TensorRT-LLM for throughput.",
-          "Drift monitor: weekly agreement with teacher on rolling sample → trigger refresh."
-        ]
-      }
+      "title": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+      "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      "authors": "Microsoft Research AI Frontiers",
+      "published": "Thu, 21 Ma",
+      "summary": "<p>MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/\">MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "tags": [
+        "Research Blog"
+      ]
     },
     {
-      "title": "VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time",
-      "link": "https://www.microsoft.com/en-us/research/project/vasa-1/",
-      "authors": "Microsoft Research",
-      "published": "2024-04",
-      "tags": ["Generative video", "Avatar", "Risk"],
-      "summary": "Generates a photo-realistic talking head from a single image and audio clip, in real time. Microsoft published with explicit deepfake-risk framing.",
-      "insurance_business_case": {
-        "headline": "Two-sided implication: enables next-gen customer / training experiences AND raises a material new fraud vector that risk functions must address now.",
-        "points": [
-          "Opportunity: multilingual personalized policy explainers and producer training avatars at scale.",
-          "Threat: synthetic-identity onboarding, deepfake video-claim submissions, deepfake CEO fraud against finance.",
-          "Compliance: drives liveness-detection, voice-print, and provenance (C2PA) controls into the identity stack."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Generative AI threat model + defensive controls embedded in onboarding and claims intake.",
-        "points": [
-          "Liveness: passive (texture, micro-expression) + active (random prompt) checks on every video submission.",
-          "C2PA content-credentials verification on submitted media; reject unsigned where feasible.",
-          "Voice-biometric enrolment on policy issue; verify on phone-channel claims and beneficiary changes.",
-          "Red-team program: regularly attack your own intake with deepfake samples; track false-accept rate."
-        ]
-      }
+      "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+      "authors": "Srinath Setty",
+      "published": "Thu, 21 Ma",
+      "summary": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/\">Vega: Zero-knowledge proofs for digital identity in the age of AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
+      "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
+      "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+      "authors": "Philippe Laban, Tobias Schnabel, Jennifer Neville",
+      "published": "Fri, 15 Ma",
+      "summary": "<p>Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and [&#8230;]</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/\">Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
+      "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
+      "link": "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+      "authors": "Daan Leijen",
+      "published": "Wed, 13 Ma",
+      "summary": "<p>mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/\">mimalloc: A new, high-performance, scalable memory allocator for the modern era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
+      "title": "GridSFM: A new, small foundation model for the electric grid",
+      "link": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+      "authors": "Weiwei Yang, Andrea Britto Mattos Lima, Thiago Vallin Spina, Spencer Fowers, Baosen Zhang",
+      "published": "Wed, 13 Ma",
+      "summary": "<p>Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/\">GridSFM: A new, small foundation model for the electric grid</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+      "tags": [
+        "Research Blog"
+      ]
     }
   ]
 }

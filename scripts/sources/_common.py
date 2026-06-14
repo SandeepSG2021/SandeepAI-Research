@@ -11,20 +11,26 @@ from typing import Any
 import requests
 from bs4 import BeautifulSoup
 
-ROOT = Path(__file__).resolve().parents[1]
+# _common.py lives at scripts/sources/_common.py -> parents[2] is the project root.
+ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR = ROOT / "site" / "data"
 
+# Identify the bot honestly without leaking a personal email address.
 USER_AGENT = (
-    "SandeepAI-Research/1.0 (+https://SandeepAI.digitalplat.org)"
-    " research-aggregator; contact: Sandeep_singh@manulife.com"
+    "SandeepAI-Research/1.0 "
+    "(+https://github.com/SandeepSG2021/SandeepAI-Research) research-aggregator"
 )
 
+DEFAULT_TIMEOUT = (10, 30)  # (connect, read) seconds
 
-def http_get(url: str, *, timeout: int = 30, accept: str | None = None) -> requests.Response:
+
+def http_get(url: str, *, timeout: tuple[int, int] | int = DEFAULT_TIMEOUT,
+             accept: str | None = None) -> requests.Response:
     headers = {"User-Agent": USER_AGENT}
     if accept:
         headers["Accept"] = accept
-    r = requests.get(url, headers=headers, timeout=timeout)
+    # verify=True is the requests default; do NOT disable it.
+    r = requests.get(url, headers=headers, timeout=timeout, allow_redirects=True)
     r.raise_for_status()
     return r
 
