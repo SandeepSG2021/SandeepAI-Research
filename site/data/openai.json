@@ -1,0 +1,132 @@
+{
+  "source": "OpenAI-AI",
+  "source_url": "https://openai.com/research/",
+  "last_updated": "2026-06-14",
+  "papers": [
+    {
+      "title": "GPT-4 Technical Report",
+      "link": "https://arxiv.org/abs/2303.08774",
+      "authors": "OpenAI",
+      "published": "2023-03",
+      "tags": ["Foundation model", "Multimodal"],
+      "summary": "Establishes GPT-4's capabilities, safety evaluations, and the 'predictable scaling' methodology used to forecast performance before training.",
+      "insurance_business_case": {
+        "headline": "The baseline 'frontier model' against which every insurance AI build/buy/partner decision should be benchmarked.",
+        "points": [
+          "Sets the performance ceiling for general-purpose copilots in underwriting, claims, and contact-centre.",
+          "Provides safety / red-team artifacts the CISO and Model Risk Management teams can reference directly.",
+          "Use the predictable-scaling section to defend GPU and budget asks: capability is a forecastable function of compute."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Frontier LLM as a service via Azure OpenAI, with enterprise controls layered on top.",
+        "points": [
+          "Azure OpenAI deployment in Canadian / regional region for data residency.",
+          "Private endpoints + VNet + customer-managed keys; no data used for OpenAI training.",
+          "Centralized prompt/response logging into the enterprise SIEM for audit.",
+          "Model evaluation harness: insurance-specific golden sets gated on every model version upgrade."
+        ]
+      }
+    },
+    {
+      "title": "GPT-4o System Card",
+      "link": "https://openai.com/index/gpt-4o-system-card/",
+      "authors": "OpenAI",
+      "published": "2024-08",
+      "tags": ["Multimodal", "Voice", "Realtime"],
+      "summary": "Single end-to-end model that natively handles text, audio, and vision in real time at half the cost of GPT-4 Turbo.",
+      "insurance_business_case": {
+        "headline": "Unlocks naturally voice-driven insurance experiences — beneficiary updates, claims FNOL, policy explainers — at price points that scale.",
+        "points": [
+          "Voice-first FNOL: customer calls, describes the loss, model captures structured FNOL and confirms coverage within minutes.",
+          "Visual claims intake: customer shares photos/video of damage; model converses and asks the right follow-ups.",
+          "Multilingual without separate models — material for Manulife Asia, US Hispanic, and Quebec French markets."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Realtime audio LLM behind WebRTC / SIP, with structured-extraction post-processing.",
+        "points": [
+          "Realtime API over WebSockets; voice-activity-detection on the edge for latency.",
+          "Function-calling pulls policy data, validates coverage, writes structured FNOL to claims system.",
+          "PCI / HIPAA-equivalent posture: payment / PHI redacted on-the-fly via secondary model.",
+          "Recording + transcription stored encrypted; consent + retention per provincial regulation."
+        ]
+      }
+    },
+    {
+      "title": "OpenAI o1: Learning to Reason with LLMs",
+      "link": "https://openai.com/index/learning-to-reason-with-llms/",
+      "authors": "OpenAI",
+      "published": "2024-09",
+      "tags": ["Reasoning", "Chain-of-thought", "Inference scaling"],
+      "summary": "RL-trained model that 'thinks before it speaks' using long internal chains-of-thought, yielding step-changes on math, science, and code benchmarks.",
+      "insurance_business_case": {
+        "headline": "Game-changer for the small set of high-value, high-complexity insurance decisions where being right beats being fast.",
+        "points": [
+          "Complex group / large-case underwriting where one decision is worth $millions in premium.",
+          "Reinsurance treaty optimization and capital-modelling assistance.",
+          "Litigation strategy on complex bad-faith claims — model can reason through legal precedent."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Reasoning-model tier in a multi-tier inference stack, gated by case value / complexity.",
+        "points": [
+          "Router escalates to o-series only when (case value > X) AND (router confidence < threshold).",
+          "Budget the 'thinking tokens' per case; alert on outliers for cost control.",
+          "Capture and store the reasoning trace separately from the answer for legal privilege management.",
+          "Evaluation: track decision quality vs reasoning-token-spend curve quarterly."
+        ]
+      }
+    },
+    {
+      "title": "Sora: Creating Video from Text",
+      "link": "https://openai.com/index/sora/",
+      "authors": "OpenAI",
+      "published": "2024-02",
+      "tags": ["Generative video", "Multimodal"],
+      "summary": "Diffusion transformer that generates coherent multi-second video from a text prompt, demonstrating world-model-like physical consistency.",
+      "insurance_business_case": {
+        "headline": "Opportunity for radically cheaper customer education and producer training; threat to the integrity of video-evidence in claims.",
+        "points": [
+          "Personalized 30-second policy explainers in the customer's language at issuance.",
+          "Producer scenario training (objection handling, suitability reviews) without studio cost.",
+          "Risk: video evidence of damage / accidents is no longer self-authenticating — provenance controls become essential."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Generative content pipeline with provenance + a parallel evidence-verification pipeline on the claims side.",
+        "points": [
+          "Creative side: prompt templates + brand-safety filter + legal review workflow before publishing.",
+          "Evidence side: C2PA verification on every submitted media asset; cross-check EXIF, geolocation, weather.",
+          "Detector model (deepfake/synthetic) as a second-opinion signal; never the sole control.",
+          "Track synthetic-media fraud KPIs as a board-level metric."
+        ]
+      }
+    },
+    {
+      "title": "Weak-to-Strong Generalization",
+      "link": "https://openai.com/index/weak-to-strong-generalization/",
+      "authors": "OpenAI Superalignment team",
+      "published": "2023-12",
+      "tags": ["Alignment", "Evaluation", "Safety"],
+      "summary": "Studies whether weaker models / humans can effectively supervise stronger models — a stand-in for the future problem of aligning superhuman AI.",
+      "insurance_business_case": {
+        "headline": "Directly informs how Model Risk Management can validate AI systems whose answers their own validators don't fully understand.",
+        "points": [
+          "Designs validation processes for AI used in actuarial work where the model's reasoning may exceed any single validator's expertise.",
+          "Supports the case for ensemble + tournament-style validation in MRM (SR 11-7 / OSFI E-23 contexts).",
+          "Frames a multi-year capability investment in AI evaluation tooling, not just model tooling."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Ensemble validation: multiple weaker validators (rules, classical ML, junior LLM) cross-checking a frontier model.",
+        "points": [
+          "Validator stack: deterministic rule checks → classical ML benchmark → smaller LLM critic → human spot check.",
+          "Disagreement-driven sampling: when validators disagree with the frontier model, escalate.",
+          "Maintain a 'capability ledger' tracking what the validators can/cannot reliably check.",
+          "Tie model release gates to validator coverage of the model's claimed capabilities."
+        ]
+      }
+    }
+  ]
+}

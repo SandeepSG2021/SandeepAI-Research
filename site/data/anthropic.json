@@ -1,0 +1,132 @@
+{
+  "source": "Anthropic-AI",
+  "source_url": "https://www.anthropic.com/research",
+  "last_updated": "2026-06-14",
+  "papers": [
+    {
+      "title": "Constitutional AI: Harmlessness from AI Feedback",
+      "link": "https://arxiv.org/abs/2212.08073",
+      "authors": "Anthropic",
+      "published": "2022-12",
+      "tags": ["Alignment", "Safety", "RLAIF"],
+      "summary": "Train assistants to follow a written 'constitution' of principles via self-critique and AI feedback — drastically reducing the need for human red-teaming.",
+      "insurance_business_case": {
+        "headline": "Direct template for a written 'AI Conduct Policy' that customer-facing bots and producer copilots must demonstrably follow.",
+        "points": [
+          "Encode TCF, unfair-discrimination prohibitions, suitability, and disclosure rules as the constitution.",
+          "Self-critique catches mis-selling, off-label advice, and PII over-disclosure before any human sees them.",
+          "Gives Compliance one document mapping every behaviour to a written principle and the regulation it implements."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Constitutional layer wrapping the production LLM + an independent critic model.",
+        "points": [
+          "Constitution-as-code (YAML): principle id, source regulation, prohibited behaviours, test prompts.",
+          "Critic runs on every response; below-threshold responses regenerated with critique appended.",
+          "Nightly RLAIF on disagreement cases to drift toward principle compliance.",
+          "Per-principle violation dashboard sliced by LOB, channel, jurisdiction."
+        ]
+      }
+    },
+    {
+      "title": "Claude 3 Model Family",
+      "link": "https://www.anthropic.com/news/claude-3-family",
+      "authors": "Anthropic",
+      "published": "2024-03",
+      "tags": ["Foundation model", "Long context", "Vision"],
+      "summary": "Family of frontier models (Haiku, Sonnet, Opus) with 200k-token context, vision, and strong instruction-following — positioned for enterprise reliability.",
+      "insurance_business_case": {
+        "headline": "Provides a second frontier-model supplier so insurers avoid single-vendor lock-in on the most strategic AI dependency.",
+        "points": [
+          "Multi-LOM (model-of-record) strategy: Claude on AWS Bedrock alongside Azure OpenAI for resilience and price leverage.",
+          "200k context lets a single call cover a full personal-line policy + claim file + adjuster notes.",
+          "Vision tier handles application forms, ID, accident photos without a separate OCR stack."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Multi-vendor LLM gateway with policy-based routing, fallback, and arbitrage.",
+        "points": [
+          "Gateway (e.g., LiteLLM, internal proxy) abstracts Bedrock / Azure / Vertex behind a single API.",
+          "Route by sensitivity (Canadian PII → Bedrock Canada; non-sensitive cost-sensitive → Haiku tier).",
+          "Identical eval harness against every backend on each release.",
+          "Per-vendor circuit breakers; auto-failover with budget caps to prevent runaway cost on outage."
+        ]
+      }
+    },
+    {
+      "title": "Tool Use with Claude (Function Calling)",
+      "link": "https://docs.anthropic.com/claude/docs/tool-use",
+      "authors": "Anthropic",
+      "published": "2024-04",
+      "tags": ["Tool use", "Function calling", "Agents"],
+      "summary": "Structured tool-use protocol where Claude requests typed function calls and receives results, enabling reliable agentic workflows over enterprise APIs.",
+      "insurance_business_case": {
+        "headline": "Production-ready substrate for letting AI safely orchestrate the spaghetti of policy admin, claims, billing, and CRM systems.",
+        "points": [
+          "Underwriter copilot calls MIB, Rx, MVR, reinsurance pricing as typed tools with auditable arguments.",
+          "Claims agent calls coverage lookup, fraud score, benefit calc — every call typed and logged.",
+          "Drastically lowers the integration cost of new AI use cases: each system is wrapped once, reused by every agent."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Typed tool registry behind MCP, with policy-as-code controlling which roles may invoke which tools.",
+        "points": [
+          "Each legacy system wrapped as an MCP server exposing JSON-schema-typed tools.",
+          "Authorization at the tool-call layer (OPA / Cedar) using the user's AD identity.",
+          "Argument validation + output schema enforcement before the response goes back to the model.",
+          "End-to-end trace (prompt → tool calls → response) in distributed tracing for audit + debugging."
+        ]
+      }
+    },
+    {
+      "title": "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training",
+      "link": "https://arxiv.org/abs/2401.05566",
+      "authors": "Anthropic",
+      "published": "2024-01",
+      "tags": ["Safety", "Adversarial", "Supply chain"],
+      "summary": "Shows that backdoors / hidden behaviours can be trained into LLMs and survive standard RLHF safety training — a foundational concern for AI supply-chain security.",
+      "insurance_business_case": {
+        "headline": "Mandatory reading for Third-Party Risk Management: any externally-trained model is potentially adversarially shaped.",
+        "points": [
+          "Drives an 'AI SBOM' (software-bill-of-materials) requirement for every vendor LLM in scope.",
+          "Informs MRM testing requirements for vendor and open-weight models, not just internally-built ones.",
+          "Underwrites the case for keeping a deterministic / rules layer outside the LLM on bind / pay decisions."
+        ]
+      },
+      "technical_details": {
+        "pattern": "AI supply-chain controls + trigger probing + defence-in-depth around adversarially-suspect models.",
+        "points": [
+          "AI SBOM: track every model, its provenance, training data source, fine-tune lineage.",
+          "Trigger probing: red-team library of suspicious triggers run on every model version.",
+          "Critical decisions never on a single model: ensemble + deterministic guardrail outside the LLM.",
+          "Cryptographic signing of approved model weights stored in your own registry."
+        ]
+      }
+    },
+    {
+      "title": "Towards Monosemanticity: Decomposing Language Models with Dictionary Learning",
+      "link": "https://transformer-circuits.pub/2023/monosemantic-features/index.html",
+      "authors": "Anthropic Interpretability",
+      "published": "2023-10",
+      "tags": ["Interpretability", "Mechanistic", "Explainability"],
+      "summary": "Uses sparse dictionary learning to extract individual interpretable 'features' from LLM activations — a major step toward mechanistic explainability.",
+      "insurance_business_case": {
+        "headline": "Paves the way to meet regulatory 'explainability of automated decisions' requirements (GDPR Art. 22, Quebec Law 25, NAIC Bulletin 23-1).",
+        "points": [
+          "Future-state: trace adverse underwriting / claims decisions to specific learned features rather than 'the model said so'.",
+          "Enables bias audits at the feature level — flag and disable features correlated with protected attributes.",
+          "Supports complaint defence with mechanistic rationale, not just chain-of-thought paraphrase."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Sparse-autoencoder interpretability sidecar attached to the production model.",
+        "points": [
+          "Train SAE on the deployed model's intermediate activations on representative insurance corpora.",
+          "Build a feature catalogue: label salient features (medical, demographic, financial) with SME review.",
+          "Log per-decision feature activations; expose top-K features in the adverse-decision letter.",
+          "Bias audit: monitor activation-correlation between protected-attribute proxies and decision-driving features."
+        ]
+      }
+    }
+  ]
+}

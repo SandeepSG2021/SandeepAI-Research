@@ -1,0 +1,132 @@
+{
+  "source": "Meta-AI",
+  "source_url": "https://ai.meta.com/research/",
+  "last_updated": "2026-06-14",
+  "papers": [
+    {
+      "title": "LLaMA 3: Open Foundation Language Models",
+      "link": "https://ai.meta.com/blog/meta-llama-3/",
+      "authors": "Meta AI",
+      "published": "2024-04",
+      "tags": ["Open weights", "Foundation model"],
+      "summary": "Open-weight LLM family (8B to 70B, later 405B) trained on 15T tokens with strong instruction-tuned variants. Permissive license suitable for commercial use.",
+      "insurance_business_case": {
+        "headline": "The credible 'sovereign AI' option for insurers in jurisdictions where data cannot leave the country or a specific cloud.",
+        "points": [
+          "Host on-prem or in-region for Singapore / Hong Kong / Vietnam / Indonesia group-business books where PDPA / similar laws require it.",
+          "Removes per-token API costs for high-volume internal use cases (call summarization, knowledge base Q&A).",
+          "Fine-tunable on internal underwriting / claims data without exposing it to a third-party trainer."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Self-hosted open-weight LLM platform with LoRA fine-tuning and vLLM serving.",
+        "points": [
+          "Deploy on AKS / EKS GPU node pools (A100/H100); vLLM for high-throughput batched serving.",
+          "LoRA / QLoRA fine-tune on PII-scrubbed historical data; evaluate against same gold set used for closed models.",
+          "Model registry + signed weights; reproducible builds for SR 11-7 / OSFI E-23 model risk management.",
+          "Cost ceiling vs frontier API: typically break-even at ~10–50M tokens/day depending on tier."
+        ]
+      }
+    },
+    {
+      "title": "Segment Anything (SAM)",
+      "link": "https://ai.meta.com/research/publications/segment-anything/",
+      "authors": "Meta AI Research",
+      "published": "2023-04",
+      "tags": ["Vision", "Segmentation", "Foundation model"],
+      "summary": "Foundation segmentation model that can isolate any object in any image from minimal prompts — trained on 1B masks.",
+      "insurance_business_case": {
+        "headline": "Backbone for the next generation of property, auto, and medical-imaging claim assessment.",
+        "points": [
+          "Property claims: isolate roof, gutter, wall damage from a photo; estimate area and severity.",
+          "Auto (where carriers offer it): isolate panel-level damage from a few smartphone photos.",
+          "Medical imaging (Group LTD/Critical Illness): pre-segment radiology images for clinician reviewers."
+        ]
+      },
+      "technical_details": {
+        "pattern": "SAM as a callable computer-vision microservice, with downstream regressors for cost estimation.",
+        "points": [
+          "Containerize SAM behind a REST/gRPC service with autoscaling on GPU pools.",
+          "Stack: SAM (segment) → classifier (damage type) → regressor (severity / area) → repair-cost lookup.",
+          "Human review queue keyed on (confidence, estimate, prior fraud signal).",
+          "Validate on held-out adjuster-labelled set; track per-class IoU and cost-estimate MAE."
+        ]
+      }
+    },
+    {
+      "title": "ESMFold: Evolutionary-scale Prediction of Atomic-level Protein Structure",
+      "link": "https://www.science.org/doi/10.1126/science.ade2574",
+      "authors": "Meta AI",
+      "published": "2023-03",
+      "tags": ["Biology", "Foundation model", "Healthcare"],
+      "summary": "Protein-language model that predicts atomic-resolution protein structures from sequence alone, faster (though slightly less accurate) than AlphaFold.",
+      "insurance_business_case": {
+        "headline": "Long-horizon disruption to mortality and morbidity assumptions underpinning life and health pricing.",
+        "points": [
+          "Faster drug discovery shortens time-to-market for therapies that materially change mortality (oncology, ALS, rare disease).",
+          "Drives need for actuaries to model rapid morbidity-improvement scenarios in pricing & reserving.",
+          "Opportunity: partner with biotech-aligned health programs for differentiated wellness products."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Actuarial scenario engine fed by biomedical-AI signal, not a direct production model.",
+        "points": [
+          "Build a 'biomedical-AI signal' feed: tracked candidate drugs, trial phase, AI-predicted novel targets.",
+          "Translate into morbidity-improvement scenarios in the actuarial model (deterministic + stochastic).",
+          "Feed into IFRS 17 sensitivity disclosure and ORSA scenario library.",
+          "Cross-functional: Actuarial × Underwriting × Medical Directors × Strategy."
+        ]
+      }
+    },
+    {
+      "title": "Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale",
+      "link": "https://ai.meta.com/research/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/",
+      "authors": "Meta AI",
+      "published": "2023-06",
+      "tags": ["Speech", "Generative audio", "Multilingual"],
+      "summary": "Non-autoregressive speech-generation model that can synthesize, edit, and style-transfer speech in multiple languages from text.",
+      "insurance_business_case": {
+        "headline": "Cost-out for omni-channel customer comms and a foundational risk for voice-channel identity assurance.",
+        "points": [
+          "IVR / outbound voice in 20+ languages without per-language voice-actor cost.",
+          "Personalized renewal / claims-update voice messages at scale.",
+          "Threat: voice-cloning attacks on the phone channel (especially beneficiary changes, address changes)."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Generative speech for outbound + voice-biometric and challenge-response controls for inbound.",
+        "points": [
+          "Outbound: TTS API + brand-voice + consent + DNC checks in a content pipeline.",
+          "Inbound: voice biometric enrolment at policy issue; verify on every authenticated phone call.",
+          "Risk-based step-up: high-impact requests (beneficiary, banking) require additional channel (push, OTP).",
+          "Detector model for synthetic-voice signal; capture and store waveform for forensics."
+        ]
+      }
+    },
+    {
+      "title": "Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations",
+      "link": "https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/",
+      "authors": "Meta AI",
+      "published": "2023-12",
+      "tags": ["Safety", "Guardrails", "Open weights"],
+      "summary": "Open-weight 7B classifier specifically trained to label user / model messages against a customizable taxonomy of unsafe content.",
+      "insurance_business_case": {
+        "headline": "Free, self-hostable guardrail layer that meets the 'human-rights-of-data-subjects' obligations for AI-powered customer channels.",
+        "points": [
+          "Filters PHI / PII oversharing before it reaches the LLM or downstream logs.",
+          "Catches mis-selling, prohibited financial advice, off-label medical claims in producer copilots.",
+          "Catches abuse / self-harm signals routed to a duty-of-care escalation path."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Pre- and post-filter classifier on every LLM turn, with a domain-specific taxonomy.",
+        "points": [
+          "Taxonomy as YAML: categories, severity, allowed/blocked actions, escalation route.",
+          "Inference: Llama Guard on cheap CPU/GPU pool; sub-100ms target.",
+          "Post-filter regenerates / redacts; pre-filter blocks or sanitizes the prompt.",
+          "Quarterly recalibration on red-team transcripts + customer complaint sample."
+        ]
+      }
+    }
+  ]
+}

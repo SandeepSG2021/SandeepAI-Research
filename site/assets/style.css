@@ -1,0 +1,385 @@
+/* =========================================================================
+   SandeepAI Research — Apple Liquid Glass (light, system)
+   Design language (Apple HIG / iOS 26 Liquid Glass):
+     - System background (no decorative colour fill)
+     - Translucent .glass surfaces over content (light material)
+     - SF-style system font, dark text on light, high legibility
+     - Subtle 1px hairline border + soft ambient shadow
+     - No animated orbs; rely on real content + backdrop blur
+   ========================================================================= */
+
+:root {
+  /* Apple-ish system materials, light appearance */
+  --bg:               #f5f5f7;   /* apple.com page background */
+  --bg-elev:          #ffffff;
+  --text:             #1d1d1f;   /* apple primary text */
+  --text-dim:         #424245;
+  --text-muted:       #6e6e73;
+  --hairline:         rgba(0, 0, 0, 0.08);
+  --hairline-strong:  rgba(0, 0, 0, 0.14);
+
+  /* Liquid Glass material (light) */
+  --glass-bg:         rgba(255, 255, 255, 0.62);
+  --glass-bg-strong:  rgba(255, 255, 255, 0.78);
+  --glass-border:     rgba(255, 255, 255, 0.85);
+  --glass-highlight:  rgba(255, 255, 255, 0.95);
+  --glass-shadow:     0 1px 0 rgba(255,255,255,0.7) inset,
+                      0 8px 24px rgba(0, 0, 0, 0.06),
+                      0 1px 2px rgba(0, 0, 0, 0.05);
+
+  /* Accents (used sparingly — Apple-style restraint) */
+  --accent:           #0071e3;   /* apple blue */
+  --accent-2:         #5e5ce6;   /* apple indigo */
+  --accent-3:         #bf5af2;   /* apple purple */
+
+  --radius:           20px;
+  --radius-sm:        12px;
+  --maxw:             1240px;
+
+  --font: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text",
+          "Inter", "Segoe UI Variable", "Segoe UI", system-ui, Roboto, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  font-family: var(--font);
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+code {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  background: rgba(0,0,0,0.05);
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-size: 0.9em;
+  color: var(--text);
+}
+
+/* ---------- Background — system, no colour ---------------------------- */
+
+.bg-stage {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: var(--bg);
+}
+/* Hide the decorative orbs/grain from the original dark theme */
+.orb, .grain { display: none !important; }
+
+/* ---------- Liquid Glass primitive ------------------------------------ */
+
+.glass {
+  position: relative;
+  background: var(--glass-bg);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius);
+  backdrop-filter: blur(28px) saturate(180%);
+  -webkit-backdrop-filter: blur(28px) saturate(180%);
+  box-shadow: var(--glass-shadow);
+}
+/* Crisp top inner highlight — the wet-glass edge */
+.glass::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(
+      180deg,
+      var(--glass-highlight) 0%,
+      rgba(255,255,255,0.40) 28%,
+      transparent 60%,
+      rgba(0,0,0,0.04) 100%);
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+          mask-composite: exclude;
+  pointer-events: none;
+}
+
+/* ---------- Top bar ---------------------------------------------------- */
+
+.topbar {
+  max-width: var(--maxw);
+  margin: 16px auto 0;
+  padding: 14px 22px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  flex-wrap: wrap;
+  position: sticky;
+  top: 12px;
+  z-index: 10;
+}
+
+.brand { display: flex; align-items: center; gap: 12px; }
+.brand-mark {
+  width: 38px; height: 38px;
+  display: grid; place-items: center;
+  border-radius: 10px;
+  font-weight: 700; font-size: 18px;
+  background: #1d1d1f;
+  color: #ffffff;
+  letter-spacing: 0.5px;
+}
+.brand-text h1 {
+  margin: 0;
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--text);
+}
+.brand-text h1 .dim { color: var(--text-muted); font-weight: 400; }
+.brand-text .tagline {
+  margin: 2px 0 0;
+  color: var(--text-muted);
+  font-size: 12.5px;
+  letter-spacing: 0.01em;
+}
+
+.meta { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.pill {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 7px 13px;
+  border-radius: 999px;
+  background: var(--glass-bg-strong);
+  border: 1px solid var(--hairline);
+  font-size: 12.5px;
+  color: var(--text-dim);
+  backdrop-filter: blur(20px) saturate(180%);
+}
+.pill-link { color: var(--text); }
+.pill-link:hover { text-decoration: none; background: #ffffff; }
+
+/* ---------- Tabs ------------------------------------------------------- */
+
+.tabs {
+  max-width: var(--maxw);
+  margin: 14px auto 0;
+  padding: 6px;
+  display: flex;
+  gap: 4px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  position: sticky;
+  top: 86px;
+  z-index: 9;
+}
+.tabs::-webkit-scrollbar { display: none; }
+
+.tab-btn {
+  flex: 0 0 auto;
+  position: relative;
+  padding: 9px 18px;
+  border-radius: 999px;       /* Apple-style pill tabs */
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--text-dim);
+  font-family: inherit;
+  font-size: 13.5px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  cursor: pointer;
+  transition: color .2s ease, background .2s ease, border-color .2s ease;
+}
+.tab-btn:hover {
+  color: var(--text);
+  background: rgba(0,0,0,0.04);
+}
+.tab-btn[aria-selected="true"] {
+  color: #ffffff;
+  background: #1d1d1f;
+  border-color: #1d1d1f;
+}
+.tab-btn .count {
+  margin-left: 8px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  background: rgba(0,0,0,0.06);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+.tab-btn[aria-selected="true"] .count {
+  background: rgba(255,255,255,0.18);
+  color: #ffffff;
+}
+
+/* ---------- Content ---------------------------------------------------- */
+
+.content { max-width: var(--maxw); margin: 22px auto 60px; padding: 0 16px; }
+
+.intro {
+  padding: 22px 26px;
+  margin-bottom: 22px;
+}
+.intro h2 {
+  margin: 0 0 8px;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--text);
+}
+.intro p { margin: 0 0 10px; color: var(--text-dim); }
+.intro-list {
+  margin: 6px 0 0;
+  padding-left: 18px;
+  color: var(--text-dim);
+  line-height: 1.6;
+}
+.intro-list strong { color: var(--text); font-weight: 600; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 1px 0 rgba(255,255,255,0.7) inset,
+              0 14px 36px rgba(0,0,0,0.08),
+              0 2px 4px rgba(0,0,0,0.06);
+}
+
+.card h3 {
+  margin: 0;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: -0.005em;
+  color: var(--text);
+}
+.card h3 a { color: var(--text); }
+.card h3 a:hover { color: var(--accent); text-decoration: none; }
+
+.card .byline {
+  font-size: 12px;
+  color: var(--text-muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+.byline .dot { opacity: 0.4; }
+.byline .src {
+  padding: 2px 9px;
+  border-radius: 999px;
+  background: rgba(0, 113, 227, 0.10);
+  color: var(--accent);
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: 0.02em;
+}
+
+.section-block {
+  border-top: 1px solid var(--hairline);
+  padding-top: 12px;
+}
+.section-block h4 {
+  margin: 0 0 6px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.section-block.bcase h4 { color: var(--accent); }
+.section-block.tech  h4 { color: var(--accent-2); }
+
+.section-block p,
+.section-block ul {
+  margin: 0;
+  color: var(--text-dim);
+  font-size: 14px;
+  line-height: 1.55;
+}
+.section-block ul { padding-left: 18px; }
+.section-block li + li { margin-top: 4px; }
+
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.tag {
+  font-size: 11px;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: rgba(0,0,0,0.05);
+  color: var(--text-dim);
+  border: 1px solid var(--hairline);
+}
+
+.empty { padding: 40px; text-align: center; color: var(--text-muted); }
+.hidden { display: none !important; }
+
+/* ---------- Footer ----------------------------------------------------- */
+
+.footer {
+  max-width: var(--maxw);
+  margin: 30px auto;
+  padding: 14px 20px;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 12.5px;
+}
+.footer a { color: var(--text-dim); }
+.footer a:hover { color: var(--accent); }
+
+/* ---------- Responsive ------------------------------------------------- */
+
+@media (max-width: 640px) {
+  .brand-text h1 { font-size: 17px; }
+  .tagline { display: none; }
+  .grid { grid-template-columns: 1fr; }
+  .topbar, .tabs, .content, .footer { margin-left: 8px; margin-right: 8px; }
+  .topbar { top: 8px; }
+  .tabs   { top: 76px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card { transition: none; }
+}
+
+/* ---------- Optional: respect system dark appearance ------------------ */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:              #000000;
+    --bg-elev:         #1c1c1e;
+    --text:            #f5f5f7;
+    --text-dim:        #d1d1d6;
+    --text-muted:      #8e8e93;
+    --hairline:        rgba(255,255,255,0.10);
+    --hairline-strong: rgba(255,255,255,0.18);
+
+    --glass-bg:        rgba(28,28,30,0.62);
+    --glass-bg-strong: rgba(28,28,30,0.82);
+    --glass-border:    rgba(255,255,255,0.10);
+    --glass-highlight: rgba(255,255,255,0.18);
+    --glass-shadow:    0 1px 0 rgba(255,255,255,0.06) inset,
+                       0 10px 28px rgba(0,0,0,0.5),
+                       0 1px 2px rgba(0,0,0,0.4);
+  }
+  .brand-mark { background: #ffffff; color: #1d1d1f; }
+  .tab-btn[aria-selected="true"] { background: #ffffff; color: #1d1d1f; border-color: #ffffff; }
+  .tab-btn[aria-selected="true"] .count { background: rgba(0,0,0,0.10); color: #1d1d1f; }
+  .byline .src { background: rgba(10,132,255,0.20); color: #0a84ff; }
+  code { background: rgba(255,255,255,0.08); }
+}

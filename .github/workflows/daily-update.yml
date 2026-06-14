@@ -1,0 +1,61 @@
+name: SandeepAI Daily Update
+
+on:
+  schedule:
+    # 11:00 UTC = 07:00 ET. Adjust with https://crontab.guru/
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # needed to push refreshed JSON back to main
+
+jobs:
+  refresh-and-email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Fetch all sources
+        run: python scripts/fetch_all.py
+        continue-on-error: true   # one source down should not block the digest
+
+      - name: Enrich with insurance angle
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
+        run: python scripts/enrich.py
+        continue-on-error: true
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "sandeepai-bot"
+          git config user.email "sandeepai-bot@users.noreply.github.com"
+          git add site/data/*.json
+          if git diff --cached --quiet; then
+            echo "no data changes today"
+          else
+            git commit -m "chore(data): daily refresh $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Send daily email
+        env:
+          SMTP_HOST:     ${{ secrets.SMTP_HOST }}
+          SMTP_PORT:     ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_FROM:     ${{ secrets.MAIL_FROM }}
+          MAIL_TO:       "Sandeep.chauhans@gmail.com,Sandeep_singh@manulife.com"
+          SITE_URL:      "https://SandeepAI.digitalplat.org"
+        run: python scripts/send_email.py

@@ -1,0 +1,132 @@
+{
+  "source": "Google-AI",
+  "source_url": "https://ai.google/research/",
+  "last_updated": "2026-06-14",
+  "papers": [
+    {
+      "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+      "link": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/",
+      "authors": "Google DeepMind",
+      "published": "2024-02",
+      "tags": ["Long context", "Multimodal", "Foundation model"],
+      "summary": "Mixture-of-experts model with up to 1M-token context, capable of reasoning over hours of video, large code repos, or entire books in a single prompt.",
+      "insurance_business_case": {
+        "headline": "Eliminates the chunking gymnastics for long-document insurance use cases: full policy contracts, claim files, and reinsurance treaties go in whole.",
+        "points": [
+          "Group benefits underwriting: ingest a 400-page RFP, census, and prior carrier experience in one shot — produces gap analysis and pricing memo.",
+          "Litigation triage: read the full claim file (FNOL → SOAP notes → IME → demand letter) and surface inconsistencies.",
+          "Producer training: load the entire product guide + objection handling + compliance disclosure and ask scenario questions."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Long-context LLM as a 'reasoning surface' over case files, with RAG as the precision retrieval layer.",
+        "points": [
+          "Hybrid: RAG narrows to the relevant case file; long-context model reasons across it without further chunking.",
+          "Token-cost controls: cap per-case context, cache prior turns with Vertex AI context caching.",
+          "PII redaction at ingestion; per-tenant CMEK encryption for jurisdictional data residency.",
+          "Eval: needle-in-haystack tests using synthetic clauses planted in real contracts."
+        ]
+      }
+    },
+    {
+      "title": "Med-PaLM 2: Towards Expert-Level Medical Question Answering",
+      "link": "https://arxiv.org/abs/2305.09617",
+      "authors": "Google Research & DeepMind",
+      "published": "2023-05",
+      "tags": ["Healthcare LLM", "Domain adaptation"],
+      "summary": "Medical-domain LLM that scored expert-level on USMLE-style questions through instruction tuning and ensemble refinement on physician-rated data.",
+      "insurance_business_case": {
+        "headline": "Foundation for clinically-grounded medical underwriting and disability claims adjudication.",
+        "points": [
+          "Life underwriting: interprets APS / lab values for impairment classification consistent with manual underwriting guidelines.",
+          "Disability/LTC claims: assesses functional capacity from clinician notes, reducing nurse-reviewer queue time.",
+          "Group health stop-loss: triages high-cost claimants from medical narratives for early case management."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Domain-adapted LLM with physician-in-the-loop evaluation, deployed behind a clinical-decision-support wrapper.",
+        "points": [
+          "Wrap with structured output schema mapped to underwriting manual codes (e.g., Swiss Re Life Guide).",
+          "HITL: every adverse decision routed to a medical director with model rationale + source quotes.",
+          "FDA / Health Canada SaMD classification analysis before any 'diagnostic' use.",
+          "Bias eval across age/sex/ancestry on historical decisions before deployment."
+        ]
+      }
+    },
+    {
+      "title": "AlphaCode 2: Competitive Code Generation with Gemini",
+      "link": "https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf",
+      "authors": "Google DeepMind",
+      "published": "2023-12",
+      "tags": ["Code generation", "Search", "Agents"],
+      "summary": "Generation-and-search pipeline that produces, tests, and ranks thousands of candidate programs to solve competitive programming problems above the 85th percentile of human coders.",
+      "insurance_business_case": {
+        "headline": "Blueprint for a 'rules-as-code' modernization engine that converts legacy COBOL/PL/I underwriting rules into testable Java / Python services.",
+        "points": [
+          "Accelerates mainframe modernization of policy admin & rating engines — a multi-year cost-out program at most life carriers.",
+          "Generates Drools / DMN rule files from the actuarial pricing manuals automatically.",
+          "Self-tests via generated unit tests against captured production traffic for behavioural parity."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Generate-many-then-test pipeline with execution sandbox and learned ranker.",
+        "points": [
+          "Capture replay corpus: 100k anonymized (input, output) pairs from the legacy rating engine.",
+          "Generate N candidate implementations; auto-run in container sandbox against the corpus.",
+          "Rank by (pass rate, latency, cyclomatic complexity); keep top-K for human review.",
+          "Promote behind a shadow-traffic gate with automated regression on every release."
+        ]
+      }
+    },
+    {
+      "title": "TimesFM: A Decoder-Only Foundation Model for Time-Series Forecasting",
+      "link": "https://arxiv.org/abs/2310.10688",
+      "authors": "Google Research",
+      "published": "2023-10",
+      "tags": ["Time series", "Foundation model", "Zero-shot"],
+      "summary": "Pre-trained 200M-parameter decoder-only model that zero-shot-forecasts unseen time series at accuracy near supervised baselines.",
+      "insurance_business_case": {
+        "headline": "Replaces dozens of bespoke ARIMA/Prophet models across actuarial and finance with one model that handles new lines of business out-of-the-box.",
+        "points": [
+          "Lapse and surrender forecasting for ALM and capital projections.",
+          "Claims frequency / severity nowcasting for IBNR reserving by LOB and geography.",
+          "Premium-cashflow forecasting for treasury and liquidity planning."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Foundation TS model + light per-series fine-tune, integrated into the actuarial modelling pipeline.",
+        "points": [
+          "Serve via Vertex AI online prediction; offline backfill via batch.",
+          "Couple with conformal prediction for calibrated confidence intervals (regulator-friendly).",
+          "Champion/challenger vs incumbent Prophet/SARIMA on monthly closing run.",
+          "Lineage tracked in feature store (Feast/Vertex Feature Store) for SOX audit."
+        ]
+      }
+    },
+    {
+      "title": "PaLI-3: A Smaller, Faster, Stronger Vision-Language Model",
+      "link": "https://arxiv.org/abs/2310.09199",
+      "authors": "Google Research",
+      "published": "2023-10",
+      "tags": ["Vision-language", "Multimodal"],
+      "summary": "5B-parameter vision-language model that matches or beats 10× larger competitors on document VQA and image captioning.",
+      "insurance_business_case": {
+        "headline": "Cost-effective engine for the document-and-image deluge of insurance: paper applications, ID, voided cheques, accident photos, property damage.",
+        "points": [
+          "Auto-NIGO on paper applications by reading and validating field-by-field at submission.",
+          "Auto-property assessment from roof photos for home content / hospital indemnity rider validation.",
+          "Beneficiary form scrutiny: detects altered amounts, mismatched signatures."
+        ]
+      },
+      "technical_details": {
+        "pattern": "VLM as the document understanding layer, with structured-output extraction and human review queue.",
+        "points": [
+          "Pipeline: ingestion → VLM extraction (JSON schema) → business validators → STP or NIGO queue.",
+          "Confidence thresholds per field; below threshold = workflow event for human.",
+          "Bias / fairness eval on signature / handwriting recognition across demographics.",
+          "Edge deployment for branch / agency scanners via TFLite or ONNX."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "source": "ARXIV-AI",
+  "source_url": "https://arxiv.org/list/cs.AI/recent",
+  "last_updated": "2026-06-14",
+  "papers": [
+    {
+      "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+      "link": "https://arxiv.org/abs/2302.04761",
+      "authors": "Schick et al. (Meta AI)",
+      "published": "arXiv:2302.04761",
+      "tags": ["LLM", "Tool use", "Agents"],
+      "summary": "An LLM that learns, by self-supervision, when and how to call external APIs (calculator, search, translation, calendar) and merges the result back into its own generation — without losing general language ability.",
+      "insurance_business_case": {
+        "headline": "Lets a single underwriting / claims copilot orchestrate the patchwork of legacy insurance systems without per-system prompt engineering.",
+        "points": [
+          "Underwriter copilot can call MIB, Rx, MVR, policy admin, and reinsurance pricing APIs as 'tools' from one chat surface.",
+          "Claims adjuster bot can self-decide when to look up benefit schedules, ICD-10 codes, or provider network rates instead of hard-coded workflows.",
+          "Reduces the integration backlog for AI assistants: new APIs become a tool registration, not a model retraining."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Tool-augmented LLM via MCP (Model Context Protocol) — each insurance system exposed as an MCP tool, with the LLM selecting tools at inference time.",
+        "points": [
+          "Wrap policy-admin (Ingenium / OIPA), claims (Guidewire ClaimCenter), CRM (Salesforce FSC) as MCP servers with typed schemas.",
+          "Govern tool selection with an allow-list + RBAC mapped to the underwriter/adjuster's AD group.",
+          "Log every tool call to a tamper-evident audit store (Azure Monitor + immutable blob) for FSRA / NAIC Model Bulletin 23-1 traceability.",
+          "Evaluate with replay harness on historical cases before promoting to production."
+        ]
+      }
+    },
+    {
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "link": "https://arxiv.org/abs/2210.03629",
+      "authors": "Yao et al. (Princeton, Google)",
+      "published": "arXiv:2210.03629",
+      "tags": ["Reasoning", "Agents", "Prompting"],
+      "summary": "Interleaves chain-of-thought reasoning with concrete actions (search, lookup) so an LLM can plan, observe, and revise — the foundational pattern behind today's agent frameworks (LangGraph, AutoGen, OpenAI Agents SDK).",
+      "insurance_business_case": {
+        "headline": "Production pattern for any multi-step insurance workflow that needs explainability (why did the agent ask for an APS?).",
+        "points": [
+          "STP underwriting: agent reasons over application → decides which evidence to pull → re-evaluates after each piece arrives.",
+          "FNOL triage: agent reads the loss notice, decides whether to dispatch an adjuster, request medical records, or auto-approve under the small-claims threshold.",
+          "Each reasoning trace becomes the audit narrative regulators and complaint handlers can read in plain English."
+        ]
+      },
+      "technical_details": {
+        "pattern": "ReAct loop running on LangGraph / OpenAI Agents SDK, with persisted reasoning traces.",
+        "points": [
+          "State graph: Observe (event) → Think (LLM CoT) → Act (tool) → Observe → ... → Decide.",
+          "Store every (thought, action, observation) tuple in an event-sourced store (e.g., Cosmos DB) keyed by case ID.",
+          "Add a guardrail node that blocks actions outside policy (e.g., 'never bind coverage above $1M without human').",
+          "Replay store powers QA sampling, complaint defence, and model regression tests."
+        ]
+      }
+    },
+    {
+      "title": "Constitutional AI: Harmlessness from AI Feedback",
+      "link": "https://arxiv.org/abs/2212.08073",
+      "authors": "Bai et al. (Anthropic)",
+      "published": "arXiv:2212.08073",
+      "tags": ["Alignment", "Safety", "RLAIF"],
+      "summary": "Trains an assistant to be helpful and harmless using a written 'constitution' of principles plus self-critique — replacing most human red-teaming with AI feedback.",
+      "insurance_business_case": {
+        "headline": "Direct template for a regulator-defensible 'AI Conduct Policy' your customer-facing bots must follow.",
+        "points": [
+          "Encode TCF (Treating Customers Fairly), unfair-discrimination prohibitions, and CASL/CAN-SPAM rules as the constitution.",
+          "Self-critique catches mis-selling, off-label advice, and PII over-disclosure before a human ever sees it.",
+          "Gives the Chief Compliance Officer a single document mapping every model behaviour to a written principle."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Constitutional layer wrapping the production LLM, plus a second 'critic' model trained on the constitution.",
+        "points": [
+          "Author the constitution as YAML (principle id, source regulation, test prompts).",
+          "Run every customer response through critic → if score < threshold, regenerate with critique appended.",
+          "Nightly RLAIF fine-tune on disagreement cases to drift toward principle compliance.",
+          "Dashboards: per-principle violation rate, sliced by line of business and channel."
+        ]
+      }
+    },
+    {
+      "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+      "link": "https://arxiv.org/abs/2203.11171",
+      "authors": "Wang et al. (Google Research)",
+      "published": "arXiv:2203.11171",
+      "tags": ["Reasoning", "Inference"],
+      "summary": "Samples multiple reasoning paths and majority-votes the answer, dramatically improving accuracy on arithmetic and commonsense tasks without any retraining.",
+      "insurance_business_case": {
+        "headline": "Cheap accuracy boost for any numeric or rule-heavy insurance task — premium quotes, mortality factors, lapse probabilities.",
+        "points": [
+          "Improves first-time-right rate on illustrations and quotes, reducing rework with distributors.",
+          "Cuts disputes on commission calculations by cross-checking the same prompt across N samples.",
+          "Detects model uncertainty: low-consensus answers automatically route to a human."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Ensemble-of-thoughts inference layer over a single base model.",
+        "points": [
+          "Run N (5–10) sampled completions at temperature 0.7; majority-vote the final structured answer.",
+          "Surface variance as a confidence score; route < threshold to human queue.",
+          "Cost-cap with adaptive N (only sample more when first 3 disagree)."
+        ]
+      }
+    },
+    {
+      "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+      "link": "https://arxiv.org/abs/2005.11401",
+      "authors": "Lewis et al. (Facebook AI)",
+      "published": "arXiv:2005.11401",
+      "tags": ["RAG", "Retrieval", "Foundational"],
+      "summary": "The original RAG paper — combines a parametric LLM with a non-parametric vector index so generation is grounded in retrievable documents.",
+      "insurance_business_case": {
+        "headline": "The backbone for every 'ask your policy/contract/regulation' assistant the business is asking for.",
+        "points": [
+          "Producer copilot answers product questions from the current Product Guide, not stale training data.",
+          "Compliance officer queries the entire OSFI / FSRA / FINRA library and gets cited paragraphs.",
+          "Claims adjuster gets the exact policy clause that controls a benefit decision."
+        ]
+      },
+      "technical_details": {
+        "pattern": "Hybrid RAG (BM25 + dense vectors) with strict citation enforcement.",
+        "points": [
+          "Index: Azure AI Search hybrid index over policy contracts, regulations, internal procedures.",
+          "Chunking: semantic chunking respecting clause boundaries; metadata = product, jurisdiction, effective date.",
+          "Prompt forces inline citations; responses without citations are rejected by post-filter.",
+          "Eval harness: 500-question gold set per LOB, refreshed quarterly."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>SandeepAI Research — Liquid Glass Hub</title>
+  <meta name="description" content="Daily AI research, translated into Life &amp; Health Insurance business cases." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%2378d6ff'/%3E%3Cstop offset='1' stop-color='%23a78bfa'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect rx='14' width='64' height='64' fill='url(%23g)'/%3E%3Ctext x='50%25' y='58%25' text-anchor='middle' font-family='SF Pro,Inter,sans-serif' font-weight='800' font-size='28' fill='white'%3ES%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <!-- Decorative animated background orbs (the "liquid" under the glass) -->
+  <div class="bg-stage" aria-hidden="true">
+    <span class="orb orb-1"></span>
+    <span class="orb orb-2"></span>
+    <span class="orb orb-3"></span>
+    <span class="orb orb-4"></span>
+    <span class="grain"></span>
+  </div>
+
+  <header class="topbar glass">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">S</span>
+      <div class="brand-text">
+        <h1>SandeepAI <span class="dim">Research</span></h1>
+        <p class="tagline">AI research, translated for Life &amp; Health Insurance — daily.</p>
+      </div>
+    </div>
+    <div class="meta">
+      <span class="pill" id="lastUpdated">Loading…</span>
+      <a class="pill pill-link" href="mailto:Sandeep.chauhans@gmail.com,Sandeep_singh@manulife.com?subject=SandeepAI%20Research%20feedback">
+        Subscribe / Feedback
+      </a>
+    </div>
+  </header>
+
+  <nav class="tabs glass" role="tablist" aria-label="AI research sources">
+    <!-- Tabs are injected by app.js so the order/labels stay in one place -->
+  </nav>
+
+  <main id="content" class="content">
+    <section class="intro glass" aria-live="polite">
+      <h2>How to read this hub</h2>
+      <p>
+        Each tab pulls the latest publications from a major AI research source and explains, for every paper:
+      </p>
+      <ul class="intro-list">
+        <li><strong>Summary</strong> — what the paper actually contributes, in plain language.</li>
+        <li><strong>Insurance Business Case</strong> — where this lands in a Life &amp; Health insurer's value chain (underwriting, claims, customer, distribution, ops, risk).</li>
+        <li><strong>Technical Details</strong> — the concrete pattern an Architecture / Engineering team would implement (data, model, integration, governance).</li>
+      </ul>
+    </section>
+
+    <section id="papers" class="grid" aria-live="polite"></section>
+
+    <section class="empty glass hidden" id="empty">
+      <h3>No papers loaded yet</h3>
+      <p>Run <code>py -3 scripts/fetch_all.py</code> to refresh the JSON in <code>site/data/</code>.</p>
+    </section>
+  </main>
+
+  <footer class="footer glass">
+    <p>
+      Built for Sandeep Singh · Liquid Glass UI ·
+      Daily digest to <a href="mailto:Sandeep.chauhans@gmail.com">Sandeep.chauhans@gmail.com</a> &amp;
+      <a href="mailto:Sandeep_singh@manulife.com">Sandeep_singh@manulife.com</a>
+    </p>
+  </footer>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
