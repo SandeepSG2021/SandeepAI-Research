@@ -4,11 +4,115 @@
   "last_updated": "2026-06-14",
   "papers": [
     {
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "authors": "Google AI Blog",
+      "published": "Thu, 11 Ju",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\" />We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "tags": [
+        "Google.org",
+        "Global Network",
+        "Creating opportunity",
+        "AI"
+      ]
+    },
+    {
+      "title": "The latest AI news we announced in May 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "authors": "The Keyword Team",
+      "published": "Fri, 05 Ju",
+      "summary": "May AI recap",
+      "tags": [
+        "Search",
+        "Android",
+        "Google DeepMind",
+        "Google Labs",
+        "Quantum computing"
+      ]
+    },
+    {
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "authors": "Megan Stoner",
+      "published": "Wed, 03 Ju",
+      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "tags": [
+        "Search",
+        "Shopping",
+        "AI"
+      ]
+    },
+    {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "authors": "Marvin Chow",
+      "published": "Mon, 01 Ju",
+      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
+      "tags": [
+        "Gemini models",
+        "Google Labs",
+        "Developer tools",
+        "AI"
+      ]
+    },
+    {
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "authors": "Zahra Thompson",
+      "published": "Fri, 29 Ma",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "tags": [
+        "Developer tools",
+        "AI"
+      ]
+    },
+    {
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "authors": "Zahra Thompson",
+      "published": "Fri, 29 Ma",
+      "summary": "Gemini Omni & Gemini 3.5 hero",
+      "tags": [
+        "Gemini models",
+        "Google DeepMind",
+        "AI"
+      ]
+    },
+    {
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "authors": "Google AI Blog",
+      "published": "Fri, 29 Ma",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\" />University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "tags": [
+        "Learning & Education",
+        "AI"
+      ]
+    },
+    {
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "authors": "Zahra Thompson",
+      "published": "Thu, 28 Ma",
+      "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+      "tags": [
+        "Search",
+        "Android",
+        "Google Labs",
+        "Shopping",
+        "AI"
+      ]
+    },
+    {
       "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
       "link": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/",
       "authors": "Google DeepMind",
       "published": "2024-02",
-      "tags": ["Long context", "Multimodal", "Foundation model"],
+      "tags": [
+        "Long context",
+        "Multimodal",
+        "Foundation model"
+      ],
       "summary": "Mixture-of-experts model with up to 1M-token context, capable of reasoning over hours of video, large code repos, or entire books in a single prompt.",
       "insurance_business_case": {
         "headline": "Eliminates the chunking gymnastics for long-document insurance use cases: full policy contracts, claim files, and reinsurance treaties go in whole.",
@@ -33,7 +137,10 @@
       "link": "https://arxiv.org/abs/2305.09617",
       "authors": "Google Research & DeepMind",
       "published": "2023-05",
-      "tags": ["Healthcare LLM", "Domain adaptation"],
+      "tags": [
+        "Healthcare LLM",
+        "Domain adaptation"
+      ],
       "summary": "Medical-domain LLM that scored expert-level on USMLE-style questions through instruction tuning and ensemble refinement on physician-rated data.",
       "insurance_business_case": {
         "headline": "Foundation for clinically-grounded medical underwriting and disability claims adjudication.",
@@ -50,81 +157,6 @@
           "HITL: every adverse decision routed to a medical director with model rationale + source quotes.",
           "FDA / Health Canada SaMD classification analysis before any 'diagnostic' use.",
           "Bias eval across age/sex/ancestry on historical decisions before deployment."
-        ]
-      }
-    },
-    {
-      "title": "AlphaCode 2: Competitive Code Generation with Gemini",
-      "link": "https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf",
-      "authors": "Google DeepMind",
-      "published": "2023-12",
-      "tags": ["Code generation", "Search", "Agents"],
-      "summary": "Generation-and-search pipeline that produces, tests, and ranks thousands of candidate programs to solve competitive programming problems above the 85th percentile of human coders.",
-      "insurance_business_case": {
-        "headline": "Blueprint for a 'rules-as-code' modernization engine that converts legacy COBOL/PL/I underwriting rules into testable Java / Python services.",
-        "points": [
-          "Accelerates mainframe modernization of policy admin & rating engines — a multi-year cost-out program at most life carriers.",
-          "Generates Drools / DMN rule files from the actuarial pricing manuals automatically.",
-          "Self-tests via generated unit tests against captured production traffic for behavioural parity."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Generate-many-then-test pipeline with execution sandbox and learned ranker.",
-        "points": [
-          "Capture replay corpus: 100k anonymized (input, output) pairs from the legacy rating engine.",
-          "Generate N candidate implementations; auto-run in container sandbox against the corpus.",
-          "Rank by (pass rate, latency, cyclomatic complexity); keep top-K for human review.",
-          "Promote behind a shadow-traffic gate with automated regression on every release."
-        ]
-      }
-    },
-    {
-      "title": "TimesFM: A Decoder-Only Foundation Model for Time-Series Forecasting",
-      "link": "https://arxiv.org/abs/2310.10688",
-      "authors": "Google Research",
-      "published": "2023-10",
-      "tags": ["Time series", "Foundation model", "Zero-shot"],
-      "summary": "Pre-trained 200M-parameter decoder-only model that zero-shot-forecasts unseen time series at accuracy near supervised baselines.",
-      "insurance_business_case": {
-        "headline": "Replaces dozens of bespoke ARIMA/Prophet models across actuarial and finance with one model that handles new lines of business out-of-the-box.",
-        "points": [
-          "Lapse and surrender forecasting for ALM and capital projections.",
-          "Claims frequency / severity nowcasting for IBNR reserving by LOB and geography.",
-          "Premium-cashflow forecasting for treasury and liquidity planning."
-        ]
-      },
-      "technical_details": {
-        "pattern": "Foundation TS model + light per-series fine-tune, integrated into the actuarial modelling pipeline.",
-        "points": [
-          "Serve via Vertex AI online prediction; offline backfill via batch.",
-          "Couple with conformal prediction for calibrated confidence intervals (regulator-friendly).",
-          "Champion/challenger vs incumbent Prophet/SARIMA on monthly closing run.",
-          "Lineage tracked in feature store (Feast/Vertex Feature Store) for SOX audit."
-        ]
-      }
-    },
-    {
-      "title": "PaLI-3: A Smaller, Faster, Stronger Vision-Language Model",
-      "link": "https://arxiv.org/abs/2310.09199",
-      "authors": "Google Research",
-      "published": "2023-10",
-      "tags": ["Vision-language", "Multimodal"],
-      "summary": "5B-parameter vision-language model that matches or beats 10× larger competitors on document VQA and image captioning.",
-      "insurance_business_case": {
-        "headline": "Cost-effective engine for the document-and-image deluge of insurance: paper applications, ID, voided cheques, accident photos, property damage.",
-        "points": [
-          "Auto-NIGO on paper applications by reading and validating field-by-field at submission.",
-          "Auto-property assessment from roof photos for home content / hospital indemnity rider validation.",
-          "Beneficiary form scrutiny: detects altered amounts, mismatched signatures."
-        ]
-      },
-      "technical_details": {
-        "pattern": "VLM as the document understanding layer, with structured-output extraction and human review queue.",
-        "points": [
-          "Pipeline: ingestion → VLM extraction (JSON schema) → business validators → STP or NIGO queue.",
-          "Confidence thresholds per field; below threshold = workflow event for human.",
-          "Bias / fairness eval on signature / handwriting recognition across demographics.",
-          "Edge deployment for branch / agency scanners via TFLite or ONNX."
         ]
       }
     }
