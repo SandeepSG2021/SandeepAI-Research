@@ -6,7 +6,7 @@
     {
       "title": "Ire identifies another LOTUSLITE specimen",
       "link": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
-      "authors": "Brian Caswell, Bob Fleck, Mike Walker",
+      "authors": "Brian Caswell, Bob Fleck, Mike Walker, Sarah Smith",
       "published": "Fri, 12 Ju",
       "summary": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it. The post Ire identifies another LOTUSLITE specimen appeared first on Microsoft Research .",
       "tags": [
