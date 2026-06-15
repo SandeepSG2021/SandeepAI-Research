@@ -14,16 +14,6 @@
       ]
     },
     {
-      "title": "SAM 3: Segment Anything with Concepts - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOczdPdVlOX0pwTXVzcnlVZWd0bmdWUVIzaE1IZlhkMGZpZllYaktLWENkVEdxdElWeGk4bnRTWXlqOW1Xa0h4UjYzajdHN1pQQ2VXQk5EX3FhVjNRNE84N1dmNUVCODVZV2FEOHZJOXdPZ3A4dTNJMlJsd2xCeHZCOEZCaWoxUQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 19 No",
-      "summary": "SAM 3: Segment Anything with Concepts AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
       "authors": "Meta AI",
@@ -49,6 +39,16 @@
       "authors": "Meta AI",
       "published": "Wed, 25 Se",
       "summary": "Connect 2024: The responsible approach we’re taking to generative AI AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "SAM 3: Segment Anything with Concepts - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOczdPdVlOX0pwTXVzcnlVZWd0bmdWUVIzaE1IZlhkMGZpZllYaktLWENkVEdxdElWeGk4bnRTWXlqOW1Xa0h4UjYzajdHN1pQQ2VXQk5EX3FhVjNRNE84N1dmNUVCODVZV2FEOHZJOXdPZ3A4dTNJMlJsd2xCeHZCOEZCaWoxUQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 19 No",
+      "summary": "SAM 3: Segment Anything with Concepts AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "DINOv3 - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XZnU0d3NfMHZJRnFJbzVBNm11bDJEWm9GRk9xck5YQ3JUS3NMZG5wcVdmOG9xa3pKakNBS3E3cXJBZUNrU0Y4UE1oM05TNnVnem1lOFZTVlk1Tzl6OGc?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 14 Au",
-      "summary": "DINOv3 AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
       "authors": "Meta AI",
       "published": "Sat, 05 Ap",
       "summary": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "DINOv3 - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XZnU0d3NfMHZJRnFJbzVBNm11bDJEWm9GRk9xck5YQ3JUS3NMZG5wcVdmOG9xa3pKakNBS3E3cXJBZUNrU0Y4UE1oM05TNnVnem1lOFZTVlk1Tzl6OGc?oc=5",
+      "authors": "Meta AI",
+      "published": "Thu, 14 Au",
+      "summary": "DINOv3 AI at Meta",
       "tags": [
         "Meta AI"
       ]

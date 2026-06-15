@@ -4,6 +4,18 @@
   "last_updated": "2026-06-15",
   "papers": [
     {
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "authors": "Google AI Blog",
+      "published": "Mon, 15 Ju",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "tags": [
+        "Global Network",
+        "Creating opportunity",
+        "AI"
+      ]
+    },
+    {
       "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
       "authors": "Google AI Blog",
@@ -112,19 +124,6 @@
       "tags": [
         "AI",
         "Googlers"
-      ]
-    },
-    {
-      "title": "We’re announcing new community investments in Missouri.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-      "authors": "Google AI Blog",
-      "published": "Wed, 20 Ma",
-      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-      "tags": [
-        "Google.org",
-        "Global Network",
-        "Creating opportunity",
-        "AI"
       ]
     }
   ]
