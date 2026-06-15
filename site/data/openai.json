@@ -1,8 +1,18 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-06-14",
+  "last_updated": "2026-06-15",
   "papers": [
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uMkJtTlNBalBxNWxuLVlzbHlsaTFGdXdmUks2Z1pqZ0IyZkNyYmZUU1JkYlc4emNMclpXUWo1aEpyRVJRX3VKQnlScl93bkdrN1pBeWlaVVNSeWk2cmh5dlpWRF9ZTkY2LW9qMw?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 15 Ju",
+      "summary": "Introducing the OpenAI Partner Network OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "New OpenAI Academy courses for the next era of work",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04c214STNfR3hUQi10QnRUUXNDSzZidVp4VTl1dWJKVDJGT3Naem1URGkxUEk5Y0o1MTVZOERYMjU2ejlHcDBhWjJpZUppTVFCSVFnUU44UUlCTDQzd2VkdlN0d2psVy1rX3lZb29B?oc=5",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 02 Ju",
       "summary": "Codex for every role, tool, and workflow OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JQ0otU0wtSnVTb3p3RUo3RGFwcXhzMEs5ell1ZU9LeF92REQ0WWpYZXRNR3dON0ROdVVmako1V29YZWUzN0Z3ajBINldtc3lGczRBOUh6OFZ0RWJxc3V1MTk4eUlZUnUxdnZB?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 18 Ma",
-      "summary": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments OpenAI",
       "tags": [
         "OpenAI"
       ]

@@ -1,104 +1,104 @@
 {
   "source": "ARXIV-AI",
   "source_url": "https://arxiv.org/list/cs.AI/recent",
-  "last_updated": "2026-06-14",
+  "last_updated": "2026-06-15",
   "papers": [
     {
-      "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
-      "link": "http://arxiv.org/abs/2606.13680v1",
-      "authors": "Zilin Xiao, Qi Ma, Chun-cheng Jason Chen, Xintao Chen, Avinash Atreya, Hanjie Chen, Vicente Ordonez",
-      "published": "2026-06-11",
-      "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly suited for complex reasoning tasks: a semantically similar problem may demand an entirely different solution strategy, while a superficially different problem may share the same underlying reasoning pattern. We propose Retrieval-Augmented Reinforcement Fine-Tuning (RA-RFT), a post-training framework that teaches language models to reason by analogy. RA-RFT uses gold-relevance distillation to train a retriever that ranks contexts by expected reasoning benefit rather than semantic overlap, and then fine-tunes the policy model via reinforcement fine-tuning methods with retrieved analogous demonstrations, so the model learns to leverage reasoning traces under verifiable outcome rewards. We further analyze the diversity of retrieved contexts and find that reasoning-aware retrieval surfaces complementary solution strategies that provide distinct reasoning scaffolds for individual problems. Across challenging mathematical reasoning benchmarks, RA-RFT consistently outperforms standard reinforce",
+      "title": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+      "link": "http://arxiv.org/abs/2606.14697v1",
+      "authors": "Sicheng Yang, Hangjie Yuan, Wenjun Zhang, Jinwang Wang, Yichen Qian, Weihua Chen, Fan Wang, Lei Zhu",
+      "published": "2026-06-12",
+      "summary": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but often ignore where hallucinations originate within the reasoning process. We find that hallucination sources vary across samples: errors may arise from visual misrecognition, incorrect medical knowledge recall, or flawed reasoning integration. To enable source-level hallucination diagnosis, we introduce ClinHallu, a benchmark for stage-wise hallucination diagnosis in medical MLLM reasoning. ClinHallu contains 7,031 validated instances, where each instance is augmented with a structured reasoning trace decomposed into Visual Recognition, Knowledge Recall, and Reasoning Integration. We also use stage-replacement interventions to measure how correcting specific stages affects the final answer. Beyond evaluation, we show that trace-supervised fine-tuning reduces stage-wise hallucinations. ClinHallu provides a fine-grained hallucination testbed for diagnosing and mitigating reasoning failures in medical MLLMs. The benchmark is publicly available at https://github.com/alibaba-damo-academy/C",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Mana: Dexterous Manipulation of Articulated Tools",
-      "link": "http://arxiv.org/abs/2606.13677v1",
-      "authors": "Zhao-Heng Yin, Guanya Shi, Pieter Abbeel, C. Karen Liu",
-      "published": "2026-06-11",
-      "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focused on rigid objects, articulated tool use remains underexplored because of its physical complexity and the difficulty of learning functional grasping and manipulation policies. We present Mana (Manipulation Animator), a general sim-to-real framework that reinterprets dexterous manipulation as an animation problem. Inspired by computer animation, Mana employs a coarse-to-fine pipeline that transforms procedurally-generated grasp keyframes into manipulation trajectories through motion planning and reinforcement learning. The data generation process is largely automatic, requiring only a few mouse clicks to specify functional affordances (<1 minute per tool). Across four articulated tools spanning different scales and joint types, Mana achieves zero-shot sim-to-real transfer for both grasping and in-hand manipulation, demonstrating a scalable approach to dexterous articulated tool use.",
+      "title": "Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning",
+      "link": "http://arxiv.org/abs/2606.14693v1",
+      "authors": "Pengxin Wang, Lihao Guo, Yi Xie, Bo Liu, Siyang Cao, Jingdi Chen",
+      "published": "2026-06-12",
+      "summary": "Cooperative multi-objective multi-agent reinforcement learning (MOMARL) models team decision making under multiple, potentially conflicting objectives. In this setting, conflicts arise not only across objectives but also across agents with different observations, roles, and contributions. We propose Preference Coordinated Multi-agent Policy Optimization (PCMA), which learns coordinated agent-specific preferences to enable complementary trade-offs among agents. Theoretically, we formulate cooperative MOMARL as a team-optimal game and show that, under suitable conditions, preference diversity can induce team improvement through a first-order improvement decomposition. Experiments on multiple cooperative MOMA environments and a practical traffic-control scenario show that PCMA improves both performance and trade-off coordination.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
-      "link": "http://arxiv.org/abs/2606.13673v1",
-      "authors": "Seokju Cho, Ryo Hachiuma, Abhishek Badki, Hang Su, Byung-Kwan Lee, Chan Hee Song, Sifei Liu, Subhashree Radhakrishnan, Seungryong Kim, Yu-Chiang Frank Wang, Min-Hung Chen",
-      "published": "2026-06-11",
-      "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attempt to address this by augmenting VLMs with specialist perception modules, yet their effectiveness is bounded by the action interface through which those tools are invoked. In this work, we study how the design of this interface shapes the agent's capacity for open-ended spatial reasoning. Existing spatial agents either employ single-pass code execution, which commits to a full analysis strategy before any intermediate result is observed, or rely on a structured tool-call interface that often offers less flexibility for freely composing operations or tailoring the analysis to each task. Both designs offer limited flexibility for open-ended, complex 3D/4D spatial reasoning. We therefore propose SpatialClaw, a training-free framework for spatial reasoning that adopts code as the action interface. SpatialClaw maintains a stateful Python kernel pre-loaded with input frames and a suite of perception and geometry primitives, letting a VLM-backed agent write one executable cell per step conditi",
+      "title": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
+      "link": "http://arxiv.org/abs/2606.14688v1",
+      "authors": "Xiaoyu Li, Andi Han, Dai Shi, Zheng Gao, Jiaojiao Jiang, Junbin Gao",
+      "published": "2026-06-12",
+      "summary": "AI systems coupled to proof assistants now generate formal mathematics at scale, and the gap between what a checker can verify and what a mathematician would value has become the binding constraint. We model the generation of valuable mathematics as nested language generation in the limit: a verifiable formal language $F$, accessed through a membership oracle (the proof checker), contains an unknown valuable language $H \\in \\mathcal{H}$ revealed only through an adversarial enumeration of a core $C \\subseteq H$ of exact density $α$ (the literature). Every output is valuable ($\\in H$), trivial ($\\in F \\setminus H$), or a hallucination ($\\notin F$). We settle four questions. First, the verifier is not taste: the collections admitting generation with breadth are exactly those of the oracle-free model, characterized fiber-wise by Angluin's condition. Second, the verifier does buy sound coverage, covering all unseen valuable statements while asserting only valid ones: possible with it, impossible without it; it relocates unavoidable errors from false to trivial. Third, and centrally, a sharp dichotomy on the tight family: generators emitting finitely many trivia achieve optimal coverage ",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Automated reproducibility assessments in the social and behavioral sciences using large language models",
-      "link": "http://arxiv.org/abs/2606.13670v1",
-      "authors": "Tobias Holtdirk, Pietro Marcolongo, Anna Steinberg Schulten, Felix Henninger, Stefan Rose, Sarah Ball, Bolei Ma, Frauke Kreuter, Markus Weinmann, Stefan Feuerriegel",
-      "published": "2026-06-11",
-      "summary": "Reproducibility in the social and behavioral sciences is typically evaluated by independent researchers who reanalyze the original data to assess whether the published findings can be recovered. However, such approaches are resource-intensive and difficult to scale. Here, we show that large language models (LLMs) can automate reproducibility assessments. Using N=76 published studies with predefined claims from the behavioral and social sciences, we compare LLM-generated analysis with the original findings and human reanalysis. For 7 studies, the LLM could not produce a viable effect size estimate. For the remaining studies, our LLM pipeline recovered the original effect sizes in 41% of studies using a +/-0.05 tolerance in Cohen's d. Further, our LLM pipeline reached the same qualitative conclusion as the original study in 96% of cases, where conclusions indicate whether the reanalysis supports the original claim. For comparison, human reanalysts recovered the original effect sizes in 34% of studies and reached the same qualitative conclusion in 74% of cases. Together, these results show that LLMs can serve as a scalable tool for automated reproducibility assessment and provide a fo",
+      "title": "CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification",
+      "link": "http://arxiv.org/abs/2606.14686v1",
+      "authors": "Rafi Ahamed, Md. Abir Rahman, Tasnia Tarannum Roza, Munaia Jannat Easha, Md. Asif Khan, Sudeepta Mandal",
+      "published": "2026-06-12",
+      "summary": "Globally, cotton is a highly economically beneficial crop, as the textile industry heavily depends on it. So, the precise identification and detection of cotton leaf disease is crucial for economic stability. The development goal of \"CottonLeafVision\" is to accurately classify and detect cotton leaf disease. With this goal, we have evaluated multiple pretrained Deep Convolutional Neural Networks, including DenseNet201, InceptionV3, and VGG19 on a publicly available cotton leaf disease image dataset. This image dataset includes seven classes, six disease classes, and one healthy class, collected under various field conditions reflecting real-world challenges. Among these pretrained models, with DenseNet201, we have achieved the highest classification accuracy of 98%. To enhance the model reliability and interpretability, we have implemented different techniques and methods such as Gradient-weighted Class Activation Mapping (Grad-CAM), occlusion sensitivity analysis and adversarial training to increase the noise resistance of the model. Finally, we have developed a prototype in order to utilize the model's capabilities on real life agriculture. This paper shows the deep learning mode",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Agents-K1: Towards Agent-native Knowledge Orchestration",
-      "link": "http://arxiv.org/abs/2606.13669v1",
-      "authors": "Zongsheng Cao, Bihao Zhan, Jinxin Shi, Jiong Wang, Fangchen Yu, Zhijie Zhong, Zijie Guo, Tianshuo Peng, Zhuo Liu, Yi Xie, Xiang Zhuang, Yue Fan, Runmin Ma, Shiyang Feng, Xiangchao Yan, Anran Liu, Peng Ye, Wenlong Zhang, Shufei Zhang, Chunfe",
-      "published": "2026-06-11",
-      "summary": "Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions, and flat \\texttt{cites} edges, omitting key entities, claims, evidence, mechanisms, and method lineages essential for scientific reasoning. To this end, we introduce \\textbf{Agents-K1}, an end-to-end knowledge orchestration pipeline that converts raw documents into agent-native scientific knowledge graphs. Agents-K1 integrates three components under a unifying theoretical foundation: a multimodal parser whose five-module schema captures entities, multimodal evidence, citations, and typed inter-entity relations across the full paper rather than abstracts alone; a 4B information-extraction backbone trained with GRPO under a rule-based reward; and a graphanything CLI, a tri-source agent interface that unifies web search, multimodal graph retrieval, and cross-document traversal. On top of this, we process 2.46 million scientific papers across six subjects to produce \\textbf{Scholar-KG}, of which we release a one-million-paper subset, and the full Scholar-KG is accessible via the SCP link ",
+      "title": "Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows",
+      "link": "http://arxiv.org/abs/2606.14672v1",
+      "authors": "Shikun Liu, Mufei Li, Dongqi Fu, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li",
+      "published": "2026-06-12",
+      "summary": "Large language models increasingly serve as execution engines for agentic systems, yet they still consume context through a sequential text interface. This creates a mismatch with modern structured agent workflows, in which independent branches explore subtasks, retrieve evidence, or generate candidate solutions before a final synthesis step. Existing systems typically merge these branches by concatenating their textual outputs, which discards the parallel structure and incurs redundant prefill computation. In this work, we introduce Parallel-Synthesis, a plug-and-play framework that enables a synthesizer to directly consume the KV caches produced by parallel worker agents. Parallel-Synthesis combines a cache mapper that calibrates independently generated branch caches with a fine-tuned synthesizer adapter that enables generation from this non-sequential cache interface. We train Parallel-Synthesis using data that exposes the synthesizer to parallel cache contexts, teaches aggregation across cached branches, and distills reasoning behavior from standard text-concatenation-based synthesis. Across nine downstream datasets spanning math, science QA, code generation, GAIA, and multi-ag",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
-      "link": "http://arxiv.org/abs/2606.13662v1",
-      "authors": "Amy Xin, Jiening Siow, Junjie Wang, Zijun Yao, Fanjin Zhang, Jian Song, Lei Hou, Juanzi Li",
-      "published": "2026-06-11",
-      "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific solutions, and have produced results that outperform human-designed approaches. As model capabilities continue to improve, we argue that the bottleneck for autonomous scientific discovery is shifting from prescribing agent workflows to designing agent environments: the resources, constraints, and interfaces that shape agent behavior. We frame this as environment engineering: building environments that amplify productive behaviors, such as open-ended exploration, systematic artifact management, and inter-agent collaboration, while suppressing harmful behaviors, such as reward hacking and high-friction human oversight. We present EurekAgent, an environment-engineered agent system for metric-driven autonomous scientific discovery. EurekAgent engineers the environment along four dimensions: permissions engineering for bounded agent execution and isolated evaluation; artifact engineering for filesystem and Git-based collaboration; budget engineering for budget-aware exploration; and human-in-the-",
+      "title": "Giving AI a Headache: Acoustic Adversarial Attacks to Computer Vision Applications",
+      "link": "http://arxiv.org/abs/2606.14658v1",
+      "authors": "Nicole Villavicencio-Garduño, Maksim Ekin Eren, Milo Prisbrey, Ben Migliori, Michael Teti",
+      "published": "2026-06-12",
+      "summary": "Artificial Intelligence (AI) is increasingly used to automate a variety of real-world computer vision (CV) applications, such as autonomous vehicle control, facial recognition, and security cameras. Recent research has shown that acoustic vibration can induce real physical motion in cameras, interfering with their internal stabilization mechanisms. Because the motion falls outside the conditions the stabilization system was designed to handle, the system introduces artifacts into the frame, causing AI-based CV models to misclassify, miss targets, or hallucinate objects. Previous work used ultrasonic frequencies (>20 kHz) to perform short-range attacks, which limits them to short distances due to the attenuation exhibited by high frequencies. In this work, we investigate acoustic attacks using lower frequencies in the audible range (<20 kHz), and we further expand our analysis to include how various image and object features are affected by the attacks. Specifically, we performed physical experiments to demonstrate the viability of our attacks on an off-the-shelf object detection model (YOLO11) by resonating a commercially available camera with various frequencies. Based on our resu",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization",
-      "link": "http://arxiv.org/abs/2606.13658v1",
-      "authors": "Marianna Bergamaschi Ganapini, Massimo Chiriatti, Enrico Panai, Giuseppe Riva",
-      "published": "2026-06-11",
-      "summary": "This paper examines three recent frameworks for understanding the cognitive and epistemic consequences of artificial intelligence: Tri-System Theory, Thinkframes, and System 0. It argues that while the first two capture important dimensions of AI's influence on individual reasoning and collective epistemic practices, System 0 occupies a theoretically distinctive position that neither can fully replicate. The paper introduces the concept of cognitive colonization, according to which AI systems can embed external interests within the architecture of the self in ways that are difficult for users to perceive. Because such systems are already widely deployed, understanding these invisible forms of influence is an urgent philosophical and practical task.",
+      "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
+      "link": "http://arxiv.org/abs/2606.14654v1",
+      "authors": "Gaurav Verma, Scott Counts",
+      "published": "2026-06-12",
+      "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful insights into people's work. Such insights are essential for improving digital products in ways grounded in real-world user interactions. Prior research has applied deep learning models to cluster user actions into high-level activities, but these approaches are highly sensitive to noise and struggle to generalize across applications. To address this limitation, we introduce WorkflowView, a framework that uses large language models (LLMs) to abstract low-level action sequences into high-level activities. We establish the effectiveness and generality of our approach across three distinct, challenging sequential tasks and diverse domains: (a) zero-shot task description reconstruction from browser logs (achieving high semantic similarity, $μ_{sim} = 0.91$), (b) few-shot student dropout prediction using MOOC interaction logs (reaching weighted $F_1 = 0.90$ with only five few-shot examples), and (c) anonymized, privacy-preserving analysis of AI tool integration within document workflows in Microsoft Word. Our work demonstrates that ",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation",
-      "link": "http://arxiv.org/abs/2606.13647v1",
-      "authors": "Marek Šuppa, Andrej Ridzik, Daniel Hládek, Natália Kňažeková, Viktória Ondrejová",
-      "published": "2026-06-11",
-      "summary": "We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$\\times$ the depth of existing multilingual benchmark coverage for Slovak. Our evaluation of 31 embedding models reveals that large instruction-tuned multilingual models achieve the strongest performance, while existing Slovak-specific models trained for NLU tasks transfer poorly to embedding tasks. To address the need for efficient, locally-deployable Slovak embeddings, we develop \\texttt{e5-sk-small} (45M parameters) and \\texttt{e5-sk-large} (365M) by applying vocabulary trimming and fine-tuning to Multilingual E5 models. Despite size reductions of up to 62\\%, our open-source models achieve competitive performance with proprietary APIs while remaining locally deployable for semantic search and retrieval-augmented generation (RAG). We release the benchmark, models, datasets, and code openly, hoping our approach offers a replicable path for other under-resourced languages.",
+      "title": "Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models",
+      "link": "http://arxiv.org/abs/2606.14647v1",
+      "authors": "Ravi Ranjan, Utkarsh Grover, Xiaomin Lin, Agoritsa Polyzou",
+      "published": "2026-06-12",
+      "summary": "Transformer-based automatic speech recognition (ASR) models such as Whisper are highly accurate, but their predictions remain difficult to interpret. Existing explainable AI (XAI) methods often lack faithfulness and precise temporal grounding. We propose Listening with Entropy-guided Attention for Faithful explainability (LEAF-X), a model-intrinsic XAI framework for transformer-based ASR. LEAF-X combines entropy-guided attention weighting, multi-layer attention rollout, and optional causal ablations to identify low-entropy, high-impact heads and layers, producing sparse token-to-frame attributions. Unlike perturbation-based explainers or raw attention maps, LEAF-X exploits the internal structure of encoder-decoder and speech-augmented decoder-only models to generate explanations that better reflect model computation. Results show 32% improved faithfulness, 35-39% stronger locality/sparsity, and the most stable attributions, supporting more transparent and auditable ASR.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Valid Inference with Synthetic Data via Task Exchangeability",
-      "link": "http://arxiv.org/abs/2606.13629v1",
-      "authors": "Lezhi Tan, Tijana Zrnic",
-      "published": "2026-06-11",
-      "summary": "There is a proliferation of work arguing for the use of synthetic data in scientific research. For example, social scientists are arguing for the use of LLM-generated \"silicon samples\" in pilot studies; AI evaluations increasingly rely on \"LLM-as-a-judge\" outputs; and proteomics research is accelerated by generative models that produce synthetic protein structures. These developments raise an intriguing possibility: synthetic data may help researchers ask more questions, run more studies, and accelerate discovery. But they also raise a fundamental concern: synthetic data can be biased, noisy, and misspecified. In this work, we propose statistical principles for using synthetic data in scientific research with provable validity guarantees. The key insight is a new technical condition that we call task exchangeability. Informally, this is a requirement that the researcher can identify historical tasks, for which real data is available, such that their current task of interest is exchangeable with the historical tasks in an appropriate mathematical sense. We develop methods for valid inference under task exchangeability, together with extensions that provide guarantees even beyond exc",
+      "title": "From Self-Supervised Speech Models to Mixture-of-Experts for Robust Anti-Spoofing",
+      "link": "http://arxiv.org/abs/2606.14639v1",
+      "authors": "Hugo Daumain, Driss Matrouf, Khaled Khelif, Mickael Rouvier",
+      "published": "2026-06-12",
+      "summary": "Recent advances in speech generation have significantly improved the naturalness of synthetic speech, making spoofing detection increasingly challenging. A key limitation of current anti-spoofing systems is their limited robustness to unseen synthesis methods. In this work, we transform a self-supervised speech representation model into a Mixture-of-Experts (MoE) architecture to improve generalization. Feed-forward blocks in selected encoder layers are replaced by multiple expert networks controlled by a layer-wise gating mechanism, allowing experts to capture complementary acoustic patterns while preserving the representations learned during self-supervised pretraining. We further analyze the architectural choices affecting the performance of this MoE conversion and investigate the activation behavior of the experts. The proposed approach is evaluated on 14 spoofing datasets and reduces the macro EER from 5.46% to 4.81%, corresponding to 11.9% relative improvement over the baseline.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks",
-      "link": "http://arxiv.org/abs/2606.13621v1",
-      "authors": "Achraf Hsain, Sultan Almuhammadi",
-      "published": "2026-06-11",
-      "summary": "Shielded reinforcement learning is typically presented as a runtime safety mechanism that compiles temporal-logic specifications into automata restricting an agent's actions. We argue this is the wrong product. The same automata-theoretic machinery -- specification compilation, product game construction, attractor computation, and winning-region extraction -- is better read as a design-time analytical instrument whose outputs are structural insights about a system rather than runtime constraints on a deployed agent. We instantiate this through a constrained two-player safety game for network defense. The two specifications are enforced asymmetrically: the defender specification defines the unsafe region of the game, whereas the attacker specification restricts the adversary's legal actions during attractor computation. Solving the game yields a defensibility verdict -- a formal certificate that a topology-specification pair is or is not defensible -- with the associated winning region and shield. Beyond the binary verdict, we derive topology-level metrics from the attractor structure and combine them with post-convergence behavior from shield-constrained adversarial multi-agent rei",
+      "title": "When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks",
+      "link": "http://arxiv.org/abs/2606.14629v1",
+      "authors": "Jianzhe Lin",
+      "published": "2026-06-12",
+      "summary": "Verifier-driven self-DPO is a common recipe for self-improving production visual-language models. In this setup, a frozen verifier scores candidate generations, the top- and bottom-scoring candidates form a preference example, and DPO updates the learner. The deployment-time assumption is monotone: a stronger verifier should yield a stronger student. We show that this assumption can fail because verifier quality is highly task-specific. On a four-rung open-source verifier ladder across MathVista, MMMU, and BLINK, the same verifiers that are above-threshold and improve a Qwen-3-VL-2B student on MathVista become sub-threshold on MMMU, where their task-rubric accuracy drops to 8% to 23%. In this regime, every verifier we tested silently regresses the student, producing drops of 3.4 to 10.9 percentage points below the frozen baseline while the DPO training loss continues to decrease. The regression replicates on a second student, Qwen-2.5-VL-3B. Moreover, within the failure regime, damage is confidence-inverted: the more accurate-but-still-wrong verifier causes larger regression than a near-random verifier, suggesting that progress-gated replay amplifies confidently wrong preference pa",
       "tags": [
         "cs.AI"
       ]
