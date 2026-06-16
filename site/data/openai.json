@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-06-15",
+  "last_updated": "2026-06-16",
   "papers": [
     {
       "title": "Introducing the OpenAI Partner Network",
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Yb1BlMUdZSUpjNVNmZ0dtbU4zWGt1aGw0M0FKLWlkYUlNNHZnQ1pPaVl6RWNwdDdLMkl6SW1jeC11VGJv?oc=5",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aaG00WThPOVR1NGNqZUVQMlBGdExXbnEzN3p2NjBkU3JrLWJlNWlIQ2dLcGpMU1JLQy1iZ1ZxbEpkVjg5TDh2cHRzX1ZZOTg4N194eVhkdzU3UWNURmhOTG5OWTNDRTg3M1JhbTJ6WTNZRnFGSm9JZ0NB?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 10 Ju",
-      "summary": "From data to decisions: how LSEG is scaling trusted AI OpenAI",
+      "published": "Wed, 03 Ju",
+      "summary": "Introducing new capabilities to GPT-Rosalind OpenAI",
       "tags": [
         "OpenAI"
       ]

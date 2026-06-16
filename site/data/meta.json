@@ -1,8 +1,28 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-06-15",
+  "last_updated": "2026-06-16",
   "papers": [
+    {
+      "title": "A foundation model of vision, audition, and language for in-silico neuroscience | Research - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3VCY2NMc1daVUowUER4eE1uRGRtTWtEU3IzdGlFRi10bTJUdkZwYktoYXJxT2dGblVOcGVwR0VpS0hETm5MSm9aWjFTNUtuRlZ0ZDhFcERJYmlSWnJDd3p5NW41bDJ1VE5nSG5PMUhCYVR0ZWlRREUxamVPOF9YZE53a2swMUtrRFhBSGxOaHZJbkpVQ2FORVV1di12NGdWenR2Sm9Ib2x2U2x0eWNkd2ZJZU42YjY1ektWVQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Thu, 26 Ma",
+      "summary": "A foundation model of vision, audition, and language for in-silico neuroscience | Research AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 11 Ja",
+      "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
     {
       "title": "Introducing Llama 3.1: Our most capable models to date - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
@@ -24,11 +44,31 @@
       ]
     },
     {
+      "title": "SAM 3: Segment Anything with Concepts - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOczdPdVlOX0pwTXVzcnlVZWd0bmdWUVIzaE1IZlhkMGZpZllYaktLWENkVEdxdElWeGk4bnRTWXlqOW1Xa0h4UjYzajdHN1pQQ2VXQk5EX3FhVjNRNE84N1dmNUVCODVZV2FEOHZJOXdPZ3A4dTNJMlJsd2xCeHZCOEZCaWoxUQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 19 No",
+      "summary": "SAM 3: Segment Anything with Concepts AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
       "title": "AI Research: Introducing Muse Spark - New Foundation Model | AI at Meta - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1ejNyS2o0RlZaazlqcUFsS1FCTWpsanZ3MFc0cExGY3ljWHBvWE5aR1VOVVhVMUM1S1kyR1ljVTdmVkU?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 12 Ju",
       "summary": "AI Research: Introducing Muse Spark - New Foundation Model | AI at Meta AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "SAM 3 - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zc0VQak1ZR1pYSDdEbXVGa2lCbmZkWTRaUmU3bFhLTFFqOVB6UVJIMkFFSjZQQ1F5STczbkJqWGMxRGw2bFdHb293?oc=5",
+      "authors": "Meta AI",
+      "published": "Fri, 30 Ja",
+      "summary": "SAM 3 AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -59,46 +99,6 @@
       "authors": "Meta AI",
       "published": "Sat, 05 Ap",
       "summary": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Introducing V-JEPA 2 - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4X0ZETVA1cFhtQW5TbjFPUlJmM0FGMWtlY0xza0tGWjVocFdUX1d2LU11ZkI1OUxzbFFpMWNIUGRIRWF6T0V4ZDg1RQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 30 Ja",
-      "summary": "Introducing V-JEPA 2 AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "DINOv3 - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ka1lOS3E4N29NQ1hCREJKc1FQbkNTZEVQSTJ0THIxVHVTbVZQdmZ6dHZPNEZFRnc2Z1RmZ2o4RUdva3hBVDludUJXRlA?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 30 Ja",
-      "summary": "DINOv3 AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Brain-to-Text Decoding: A Non-invasive Approach via Typing - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzFPSmpHZTBYUlY0NjhNQ0VPLURXZTlSYjFwNndhemV0X04tVzlaWlByMjN4VkVBaGRKQkt5elJQNU9aRHpBZS14bUNrN05zSldwUTlNemxMME9aTjhHaDVzUWRLLWtfdnJiczE3SjJhOWpmUFQ5Nm5KY1VpLVlHcjhuTk1Yd2NtbUc4NWhBeEhLUUJpOUw3bEFEd1pFM19QVFE?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 06 Fe",
-      "summary": "Brain-to-Text Decoding: A Non-invasive Approach via Typing AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Bringing the world closer together with a foundational multimodal model for speech translation - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNlJicUU0RTJWZ2VjNF96VlFNcnp0TTJnUk5KQWR3VFVxNWNkYjU0clozVG03eG1Ha0FwZkhzaTUwbE5TNUJieWx0OS1xVjQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Tue, 22 Au",
-      "summary": "Bringing the world closer together with a foundational multimodal model for speech translation AI at Meta",
       "tags": [
         "Meta AI"
       ]
