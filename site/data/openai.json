@@ -4,6 +4,16 @@
   "last_updated": "2026-06-16",
   "papers": [
     {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nX1dtRWRkRy15dFR5OEVqMWY0aHlwaDNWR1Zfb3g4c3huZkh4MDB2UHp3Ulg3OWJDLVM2NDQxaXVIbzgxd2pBcmVRaktNZ2thUFA0dWxrWUdRT0k?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 16 Ju",
+      "summary": "Predicting model behavior before release by simulating deployment OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing the OpenAI Partner Network",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uMkJtTlNBalBxNWxuLVlzbHlsaTFGdXdmUks2Z1pqZ0IyZkNyYmZUU1JkYlc4emNMclpXUWo1aEpyRVJRX3VKQnlScl93bkdrN1pBeWlaVVNSeWk2cmh5dlpWRF9ZTkY2LW9qMw?oc=5",
       "authors": "OpenAI",
@@ -84,21 +94,11 @@
       ]
     },
     {
-      "title": "Codex for every role, tool, and workflow",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6RzVPbFNDZEpQQWYwa3MyOTJ1ZTFMemc2MFJXUl9MZXNiTmVIMjZaSVN6VkwxNkFGekF3UEVHc3d4SS13SEFsbURCMGgtcVFzZ0xZWlRYQmx4b0Qwdnk1cFEwNklFc3dKbzhlUQ?oc=5",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2QjliMWJCUGplNU1kRFdCMWlGb3o5UHpzUnVJMnd1U0dSUmQ0RGhnZ0M5eGxLVGlIM3V2LXhDb1k1M3VwWWRibEc2eUg3dDZkWGFXUXJJajFnOVRiTnY3VUtB?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 02 Ju",
-      "summary": "Codex for every role, tool, and workflow OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aaG00WThPOVR1NGNqZUVQMlBGdExXbnEzN3p2NjBkU3JrLWJlNWlIQ2dLcGpMU1JLQy1iZ1ZxbEpkVjg5TDh2cHRzX1ZZOTg4N194eVhkdzU3UWNURmhOTG5OWTNDRTg3M1JhbTJ6WTNZRnFGSm9JZ0NB?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 03 Ju",
-      "summary": "Introducing new capabilities to GPT-Rosalind OpenAI",
+      "published": "Mon, 08 Ju",
+      "summary": "Introducing the OpenAI Economic Research Exchange OpenAI",
       "tags": [
         "OpenAI"
       ]
