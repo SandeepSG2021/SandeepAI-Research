@@ -4,6 +4,19 @@
   "last_updated": "2026-06-17",
   "papers": [
     {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "authors": "Mike Schaekermann",
+      "published": "Wed, 17 Ju",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "tags": [
+        "Google Research",
+        "Google DeepMind",
+        "Health",
+        "AI"
+      ]
+    },
+    {
       "title": "We’re strengthening our presence in Alabama through new investments and community support.",
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
       "authors": "Google AI Blog",
@@ -113,17 +126,6 @@
         "Google Labs",
         "Shopping",
         "AI"
-      ]
-    },
-    {
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-      "authors": "Google AI Blog",
-      "published": "Fri, 22 Ma",
-      "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
-      "tags": [
-        "AI",
-        "Googlers"
       ]
     }
   ]
