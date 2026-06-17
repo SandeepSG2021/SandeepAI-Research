@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-06-16",
+  "last_updated": "2026-06-17",
   "papers": [
     {
       "title": "Predicting model behavior before release by simulating deployment",

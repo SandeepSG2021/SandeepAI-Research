@@ -1,104 +1,104 @@
 {
   "source": "ARXIV-AI",
   "source_url": "https://arxiv.org/list/cs.AI/recent",
-  "last_updated": "2026-06-16",
+  "last_updated": "2026-06-17",
   "papers": [
     {
-      "title": "The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
-      "link": "http://arxiv.org/abs/2606.17037v1",
-      "authors": "Alper Yıldırım",
-      "published": "2026-06-15",
-      "summary": "Oppenheim and Lim (1981) showed that natural images stay recognizable when reconstructed from their Fourier phase alone, while the magnitude carries little of their identity. We ask whether trained image classifiers reproduce this asymmetry inside their hidden layers, and we test it causally: given two images, we transplant the phase of one onto the magnitude of the other at a chosen layer and record which image the prediction follows. In PRISM2D, GFNet, and ViT-B/16 the prediction follows the phase or sign donor, and deleting all image-specific magnitude barely moves accuracy, so identity rides on phase while image-specific magnitude is largely dispensable to the readout. ResNet-50 at first seems to break the pattern, because transplanting sign after its ReLUs does nothing; a fair intervention before the ReLU reveals a strong latent sign code in the late blocks, and a DC-only control shows the readout consumes a channel-wise spatial average. Controls rule out the trivial case in which magnitude simply stops depending on the image. The architectures therefore share a phase/sign identity code but expose it in different bases, set by rectification and readout geometry, which gives a ",
+      "title": "LLM Consumer Behavior Theory: Foundations of a Novel Research Field",
+      "link": "http://arxiv.org/abs/2606.18005v1",
+      "authors": "Manon Reusens, Sofie Goethals, David Martens",
+      "published": "2026-06-16",
+      "summary": "Large language models (LLMs) are increasingly deployed as autonomous agents that make consumption decisions on behalf of users. This shift raises fundamental questions for consumer theory, which has traditionally modeled humans as the primary decision-makers. In this paper, we introduce LLM Consumer Behavior Theory, a new field of study concerned with analyzing consumer behavior in agentic markets. Drawing on classical and behavioral economics alongside recent advances in Natural Language Processing, we formalize how human preferences are reflected and acted upon by LLM-based agents, and how agent-level decisions aggregate into market demand. We unify previously fragmented literature on LLM decision-making, human behavior simulation, and preference elicitation under a common economic lens, highlighting where assumptions, such as rationality and heterogeneity, may fail in agentic markets. Rather than providing empirical validation, this paper outlines the scope of LLM consumer behavior and identifies open research questions related to alignment, preference representation, and market dynamics.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting",
-      "link": "http://arxiv.org/abs/2606.17028v1",
-      "authors": "Alper Yıldırım",
-      "published": "2026-06-15",
-      "summary": "Simple linear and frequency-domain models remain surprisingly competitive in long-horizon time-series forecasting, and recent mechanistic evidence suggests that standard forecasting benchmarks may not require the dense superposed representations that make transformers powerful in other domains. This raises a substrate-level question: if the core forecasting operator is often low-complexity and approximately linear, does it need to be implemented as learned digital temporal mixing? We introduce HAMON, a passive diffractive optical forecasting core in which historical values are encoded onto an optical aperture, future positions are left dark, and cascaded trainable phase masks with free-space diffraction shape the forecast directly in the output field. At inference, prediction is performed by a single passive optical propagation pass with no trainable digital sequence-mixing layer. Across standard benchmarks, HAMON outperforms the strongest digital baselines considered on ETTm2 at all horizons and on ETTh2 at all but the longest horizon, improving MSE by up to 14\\% and doing so consistently across horizons rather than at isolated points. It is competitive on Weather and trails the s",
+      "title": "C2FL: Clustered Continual Federated Learning under Spatial and Temporal Drift",
+      "link": "http://arxiv.org/abs/2606.18003v1",
+      "authors": "Davide Domini, Gianluca Aguzzi, Lorenzo Pellegrini, Mirko Viroli, Lukas Esterle",
+      "published": "2026-06-16",
+      "summary": "Collective Adaptive Systems (CAS) increasingly rely on machine learning to let each node learn from locally sensed data, aligning its behavior with the surrounding environment. Scaling this intelligence, however, raises fundamental challenges: sensed data is often privacy-sensitive, preventing centralized collection; nodes are mobile, traversing regions where nearby nodes perceive similar phenomena while distant ones observe radically different conditions, creating natural spatial clusters; and these distributions evolve over time due to mobility, introducing temporal drift that makes local models progressively stale. These dynamics arise across domains - vehicular sensing, drone-based monitoring, smartphone crowdsensing - yet the interplay of privacy, spatial heterogeneity, and temporal drift severely undermines conventional learning strategies. Therefore, we propose C2FL, a fully distributed Federated Learning (FL) approach where nodes self-organize into learning groups through spatial clustering, reflecting the geographic structure of the environment. To counteract temporal drift, each node combines experience replay with a dwell-time-aware adaptive averaging step, progressively",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models",
-      "link": "http://arxiv.org/abs/2606.17020v1",
-      "authors": "Jiaju Han, Ben Zhang, Xuemeng Sun, Qike Zhang, Yuxian Dong, Chengyin Hu, Fengyu Zhang, Yiwei Wei, Jiujiang Guo",
-      "published": "2026-06-15",
-      "summary": "Remote sensing vision-language models have advanced Earth observation understanding, but most existing work remains centered on RGB imagery, leaving the complementary information in infrared data underexplored. Infrared images provide distinctive cues, including thermal intensity structures, object boundaries, and illumination-invariant scene features, which can enrich visual-language learning beyond conventional RGB observations. However, a large-scale RGB-infrared-text dataset for remote sensing vision-language modeling is still absent. To address this gap, we introduce FusionRS, the first large-scale RGB-infrared-text dataset designed for dual-modal vision-language learning in remote sensing. FusionRS is constructed by translating diverse public RGB remote sensing images into infrared-style counterparts, forming aligned RGB-IR image pairs. Each pair is associated with conventional scene captions and IR-aware captions that explicitly describe infrared-specific visual properties while preserving semantic content. Based on FusionRS, we train dual-modal vision-language foundation models for RGB-IR joint understanding. We first train CLIP-style models for RGB-IR-text alignment, and t",
+      "title": "A T-API-Compliant ReAct Agentic Loop for Optical Networks: Generic vs. Domain-Specific Tool Abstractions",
+      "link": "http://arxiv.org/abs/2606.18000v1",
+      "authors": "Seyed Morteza Ahmadian, Paolo Monti, Carlos Natalino",
+      "published": "2026-06-16",
+      "summary": "Optical networks need intent-driven, closed-loop agentic management, a key enabler for higher autonomy levels. We present the first T-API-compliant reasoning and act (ReAct) loop. We show that domain-specific composite tools achieve 90% oracle-validated correctness with threefold token savings compared to generic tools.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
-      "link": "http://arxiv.org/abs/2606.17016v1",
-      "authors": "Buqiang Xu, Zirui Xue, Dianmou Chen, Chenyang Fu, Chiyu Wu, Caiying Huang, Chen Jiang, Jizhan Fang, Xinle Deng, Yijun Chen, Yunzhi Yao, Xuehai Wang, Jin Shang, Gong Yu, Ningyu Zhang",
-      "published": "2026-06-15",
-      "summary": "As LLM agents are deployed in long-horizon sessions, context accumulation drives up inference costs. Existing approaches utilize text pruning or dynamic memory eviction to minimize token footprints; however, their unconstrained sequence mutations alter layouts, introducing prefix mismatches and cache invalidation. This reveals a critical trade-off between text sparsity and prompt cache continuity. To address this, we present TokenPilot, a dual-granularity context management framework. Globally, Ingestion-Aware Compaction acts as a framework harness to stabilize prompt prefixes and eliminate open-world environmental noise at the ingestion gate. Locally, Lifecycle-Aware Eviction monitors the ongoing residual utility of context segments, enforcing a conservative batch-turn schedule to offload content segments only when task relevance expires. Experiments on PinchBench and Claw-Eval under both isolated and continuous modes demonstrate that TokenPilot reduces costs by 61% and 56% in isolated mode, and 61% and 87% in continuous mode, while maintaining competitive performance compared to prior systems. TokenPilot has been integrated into LightMem2 at https://github.com/zjunlp/LightMem2.",
+      "title": "Multiple cyclicity and Wavelet Decomposition with Channel Correlation for Long-term Time Series Forecasting",
+      "link": "http://arxiv.org/abs/2606.17996v1",
+      "authors": "Bin Wang, Heming Yang, Jinfang Sheng",
+      "published": "2026-06-16",
+      "summary": "Cyclicity and trend are important components of time series data and many studies based on cyclicity and trend have achieved good results in long-term time series forecasting. However, we believe that current work neglects the influence of real-world inter-channel correlations in time series data which leads to suboptimal predictions. Furthermore, these models rely on complex designs to capture diverse information so that resulting in low computational efficiency. To address this challenge, we propose McWC, a long-term time series forecasting model that separately models the cyclicity, trend, and inter-channel correlations. Specifically, McWC first decouples cyclical information from data using a multi-layer cyclicity construction module. Then, it extracts inter-channel correlations using multi-layer perceptron. Next, it models and fuses the multi-layer high-frequency and low-frequency information from data using a multi-level wavelet decomposition module. Finally, it aggregates the results of different components to obtain the output. Simultaneously, we decouple intra-channel autocorrelations by calculating a loss function in the frequency domain. Experiments on six real-world dat",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "TuneJury: An Open Metric for Improving Music Generation Preference Alignment",
-      "link": "http://arxiv.org/abs/2606.17006v1",
-      "authors": "Yonghyun Kim, Junwon Lee, Haiwen Xia, Yinghao Ma, Junghyun Koo, Koichi Saito, Yuki Mitsufuji, Chris Donahue",
-      "published": "2026-06-15",
-      "summary": "We introduce TuneJury, an open, instance-level pairwise reward model for text-to-music that predicts a music preference score from a text prompt and an audio clip. The released checkpoint is trained on publicly available human-preference labels covering arena-style (A vs. B) votes, metric-alignment preference pairs, crowdsourced pairwise comparisons, and expert aesthetic ratings. The predicted score margin between two clips is well calibrated on our held-out test split, supporting data filtering via a simple score threshold. TuneJury generalizes to both held-out test pairs and out-of-distribution benchmarks, remaining competitive with prior baselines on the latter. For generators released after training, we introduce anchor calibration, a post-hoc, per-system Bradley-Terry calibration that recovers agreement at substantially better data efficiency than from-scratch retraining. The same frozen reward drives consistent reward-axis gains across three downstream applications: inference-time best-of-N selection, DITTO-style latent optimization, and expert-iteration post-training. TuneJury is available at https://github.com/yonghyunk1m/TuneJury.",
+      "title": "Recover Semantics First, Generate Better: Improved Latent Modeling for 3D MRI Reconstruction and Cross-Contrast Synthesis",
+      "link": "http://arxiv.org/abs/2606.17989v1",
+      "authors": "Yonghao Chen, Sicheng Yang, Rui Tang, Lei Zhu",
+      "published": "2026-06-16",
+      "summary": "Multi-contrast magnetic resonance imaging (MRI) provides complementary information for clinical diagnosis. However, acquiring all MRI sequences is often time-consuming and costly. Recent generative models perform cross-contrast synthesis to address this issue by inferring absent contrasts from the available ones. Nevertheless, synthesizing 3D MRI presents significant challenges. Due to the massive volume sizes, operating directly in the pixel space is computationally prohibitive; therefore, a common approach is to first compress the 3D volumes into a latent space and subsequently train generative models in that space. We observe that existing compression architectures face several critical issues: they under-preserve long-range anatomical coherence, discard clinically meaningful semantics, and rely on optimization objectives that lead to over-smoothed reconstructions. Ultimately, these shortcomings compromise the performance of subsequent generative models. In this work, we propose a semantics-first latent modeling framework for 3D MRI reconstruction and cross-contrast synthesis. Specifically, we introduce a Latent Harmonization Encoder (LHE) to capture global anatomical dependenci",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Bayesian Inference and Decision Audits for Public Archives of Frontier AI Evaluations",
-      "link": "http://arxiv.org/abs/2606.17005v1",
-      "authors": "Yanan Long",
-      "published": "2026-06-15",
-      "summary": "Public AI evaluations are often read as terminal leaderboards, yet the underlying evidence is a selective time series shaped by reporting rules, benchmark revisions, and missingness. Repeated public archives for LiveBench and Open LLM Leaderboard v2 serve as the primary longitudinal record; LMArena provides a preference stress test; and GAIA and tau-bench contribute limited agentic pilots. Together, these archives instantiate a Bayesian inference problem: under a fixed reporting convention, one constructed terminal-only example over $1{,}000$ systems is compatible with two pre-terminal histories, yielding times of $23.03$ or $75.13$ to reach within $0.05$ of the ceiling under the same terminal-tail model. In synthetic posterior comparisons, action-facing diagnostics differ across observation regimes. The candidate selection-aware frontier model fails synthetic recovery, objective-archive prediction, preference transfer, and uncertainty calibration; correspondingly, fixed audit gates reject its stronger claims. An archive-and-adjudication protocol reconstructs public evaluation histories, isolates a verified timing boundary, and falsifies unsupported frontier claims.",
+      "title": "STAR: SpatioTemporal Adaptive Reward Allocation for Text-to-Image RL Post-Training",
+      "link": "http://arxiv.org/abs/2606.17979v1",
+      "authors": "Jinjie Shen, Wei Deng, Xian Hu, Daiguo Zhou, Jian Luan",
+      "published": "2026-06-16",
+      "summary": "Existing RL post-training methods for text-to-image generation usually convert the final-image reward into a single scalar advantage and apply it with the same strength to the entire generative trajectory. However, text-to-image generation naturally has temporal and spatial structure: different denoising steps are responsible for different generation stages, and the content that truly determines text alignment often appears only in part of the image. This granularity mismatch makes it difficult for policy updates to focus on the generative components that actually affect the reward. To address this issue, we propose \\textbf{SpatioTemporal Adaptive Reward (STAR) Allocation} for RL post-training of text-to-image diffusion and flow models. STAR uses text-image attention inside the generative model and starts from the core content that the user truly cares about in the prompt. It constructs spatial allocation maps that dynamically vary across denoising steps and rollouts, and allocates the same group-relative advantage to more relevant latent regions with almost no additional computational overhead. STAR then applies stronger policy updates to these regions through a spatially resolved",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation",
-      "link": "http://arxiv.org/abs/2606.16996v1",
-      "authors": "Tran Dinh Tien, Zhiqiang Shen",
-      "published": "2026-06-15",
-      "summary": "Segment Anything Model 3 (SAM 3) provides a strong frozen backbone for concept-prompted segmentation, but applying it directly to open-vocabulary semantic segmentation (OVSS) is inefficient: full-resolution decoding is typically run over the entire dataset vocabulary, whereas each image contains only a small active subset of classes. We introduce ActiveSAM, a training-free, zero-shot inference framework that turns SAM 3 into an active-vocabulary segmenter. ActiveSAM first canonicalizes and expands class prompts, then estimates an image-conditioned active set from a low-resolution presence preview. Only the retained classes are decoded at full resolution, using bucketed prompt multiplexing with the frozen SAM 3 decoder. The preview stage uses only class-presence evidence and skips unnecessary segmentation-head computation, while the final stage applies margin-aware background calibration to suppress low-confidence pixels. ActiveSAM requires no target-dataset training, no weight updates, and no oracle class-presence labels. Across eight OVSS benchmarks, ActiveSAM improves the speed-accuracy tradeoff of training-free open-vocabulary semantic segmentation, outperforming the current sta",
+      "title": "MoCo-AIS: A Contrastive Learning Framework for Similarity Computation of Vessel Trajectories",
+      "link": "http://arxiv.org/abs/2606.17978v1",
+      "authors": "Ruixin Song, Md Mahbub Alam, Zahra Sadeghi, Amilcar Soares, José F. Rodrigues-Jr, Gabriel Spadon",
+      "published": "2026-06-16",
+      "summary": "Trajectory similarity is a fundamental task in analyzing mobility patterns, essential for applications such as route pattern extraction, mobility prediction, and anomaly detection. Traditional distance-based measures for computing similarity incur high computational cost, driving the adoption of lightweight learning-based approaches. Supervised methods rely on extensive labels derived from traditional distance measures and often reproduce these metrics, which limits generalization. While self-supervised learning addresses this issue through contrastive learning, it lacks a unified framework, making it difficult to compare deep learning (DL) models for consistent trajectory representation. Accordingly, this paper presents MoCo-AIS, a unified framework for learning vessel trajectory embeddings based on the Momentum Contrast (MoCo) paradigm, which formulates similarity learning through positive and negative trajectory pairs. Within this framework, we evaluate a diverse set of leading DL models on large-scale, real-world vessel-tracking AIS datasets that capture diverse navigation behaviors and operating conditions. Results demonstrate that our framework significantly improves similari",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning",
-      "link": "http://arxiv.org/abs/2606.16995v1",
-      "authors": "Nathan Gavenski, Juarez Monteiro, Francisco Galuppo, Adriano Veloso, Odinaldo Rodrigues",
-      "published": "2026-06-15",
-      "summary": "Reinforcement Learning (RL) policies often degrade in unfamiliar environments because they lack explicit deliberation. We propose Plan, Align, Commit, Think (PACT), a hybrid architecture that combines a fast, reactive RL policy with a slow, deliberative Small Language Model (SLM) planner. PACT invokes the SLM asynchronously to generate and validate candidate action plans. Once a plan is verified through simulation as safe, feasible, and complete, it is executed directly, bypassing the RL policy without retraining or modifying it. Evaluated on three FrozenLake configurations of increasing difficulty, PACT outperforms all baselines while relying on a 2B-parameter SLM backbone, suggesting that deliberative planning and reactive execution are more powerful in concert than either is alone in these settings.",
+      "title": "SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation",
+      "link": "http://arxiv.org/abs/2606.17972v1",
+      "authors": "Sicheng Yang, Hongqiu Wang, Zhaohu Xing, Sixiang Chen, Qiuxia Yang, Yize Mao, Guang Yang, Lei Zhu",
+      "published": "2026-06-16",
+      "summary": "Self-supervised DINO models provide strong transferable visual representations, yet applying them directly to image segmentation remains challenging. Existing approaches commonly rely on heavy decoders with complex upsampling, introducing substantial parameter and computational overhead. We observe that introducing scale into DINO features is far more critical than increasing decoder capacity. In this work, we present SegDINO, an efficient segmentation framework that integrates a DINOv3 backbone with lightweight scale modeling. SegDINO introduces Token Pyramid Adaptation (TPA) to reorganize intermediate DINO features into a pseudo multi-scale hierarchy, and Scale-Aware Decoding (SAD) for efficient intra-scale refinement and top-down multi-scale propagation. We further curate PanCT, a new CT dataset containing 284 patients with expert-annotated pancreatic tumors, to assess SegDINO's ability to handle difficult small-lesion cases. Extensive experiments on PanCT and three public benchmarks demonstrate that SegDINO achieves state-of-the-art results with high efficiency. The code is available at https://github.com/script-Yang/segdino_v2.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Stable Menus of Public Goods: AI-Enabled Progress",
-      "link": "http://arxiv.org/abs/2606.16989v1",
-      "authors": "Sara Fish",
-      "published": "2026-06-15",
-      "summary": "Using an open problem from the EC 2025 paper \"Stable Menus of Public Goods\" as a testbed, we conduct experiments to understand the effectiveness of different AI-for-EconCS research workflows. Specifically, we study three questions: Does providing human intuition in the prompt help? Does automated multi-turn interaction help? And, does an LLM outperform a first-year PhD student? Regarding the first two questions, we provide evidence for the following workflow suggestions: (1) prompting with human intuition can encourage the LLM to have better \"taste\", (2) multi-turn workflows help when the pipeline encourages \"ambitious\" steps. Regarding the third question, using an unpublished manuscript written by the paper's senior authors prior to collaborating with the first-year PhD student, we compare the effectiveness of the LLM with that of the first-year PhD student, and find that the LLM is slightly less effective.",
+      "title": "A Neuro-Symbolic Approach to Strategy Synthesis for Strategic Logics",
+      "link": "http://arxiv.org/abs/2606.17962v1",
+      "authors": "Marco Aruta, Vadim Malvone, Aniello Murano, Domenico Parente, Luca Rizzuti",
+      "published": "2026-06-16",
+      "summary": "Reasoning about what agents can achieve through strategic interaction is a core challenge in Multi-Agent Systems (MAS). Logics for strategic ability, such as ATL, provide rigorous methods, but their adoption is often hindered by the computational cost of strategy synthesis. We introduce a neuro-symbolic framework that integrates large language models (LLMs) into the model-checking pipeline for MAS. The LLM acts as a strategy-generation oracle, proposing candidate strategies that are then formally validated by a standard MAS model checker. This generate-and-certify architecture uses LLM guidance to navigate large combinatorial strategy spaces while preserving formal soundness: generated strategies are accepted only when certified by the verifier. We instantiate the framework for bounded strategic reasoning in NatATL and introduce the first NatATL strategy-synthesis dataset, consisting of 4211 instances. Experiments with an open-weight Qwen3-32B model show that our certified pipeline achieves 92\\% accuracy on strategy-synthesis outcomes.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification",
-      "link": "http://arxiv.org/abs/2606.16987v1",
-      "authors": "Truong Thanh Hung Nguyen, Khanh Van Quynh Nguyen, Hoang-Loc Cao, Tri Duong, Phuc Ho, Van Pham, Loc Nguyen, Hung Cao",
-      "published": "2026-06-15",
-      "summary": "Accurate Harmonized Tariff Schedule (HTS) code classification is essential for customs clearance, duty assessment, trade statistics, and regulatory compliance in maritime logistics. However, exact HTS classification remains challenging because product descriptions are often short, incomplete, or ambiguous, while correct classification depends on hierarchical tariff structures, legal notes, and jurisdiction-specific rules. This paper proposes an agentic large language model (LLM) framework for Canadian 10-digit HTS code classification in smart-port and maritime logistics environments. The framework integrates multi-agent information retrieval, semantic retrieval over official tariff documents, evidence-grounded reasoning, consensus-based validation, element-wise voting across hierarchical code components, confidence estimation, and human-in-the-loop escalation. We evaluate the framework on a private dataset of 3,300 domain-expert-labeled product records collected from logistics and delivery contexts. Experimental results show that exact 10-digit classification remains difficult even for advanced LLMs, with performance decreasing from coarse chapter-level prediction to fine-grained t",
+      "title": "Robustness of Similarity-based Positional Encoding Under Rotations: Theoretical Analysis and Experimental Validation",
+      "link": "http://arxiv.org/abs/2606.17961v1",
+      "authors": "Andrea Santomauro, Luigi Portinale, Giorgio Leonardi",
+      "published": "2026-06-16",
+      "summary": "Positional encoding is a fundamental component of Transformer architectures, as it injects information about the spatial or sequential arrangement of inputs. Among recent alternatives to standard absolute and sinusoidal encodings, similarity-based positional encoding (simPE) has emerged as a flexible framework for representing positional structure through pairwise relations. simPE was originally designed for medical imaging applications, where geometric robustness is especially relevant: small rotations naturally arise during image acquisition, induced by imaging instruments, patient positioning, or slight acquisition misalignments. Despite its empirical promise, the theoretical behavior of simPE under geometric perturbations has not been fully characterized. In this paper, we study the robustness of simPE with respect to rotations, combining formal theoretical analysis with experimental validation. We first show that simPE is generally not rotation-invariant. We then prove that, under mild Lipschitz assumptions on the elementary components, simPE is stable under rotational perturbations and derive explicit perturbation bounds in Frobenius norm. We validate these findings experimen",
       "tags": [
         "cs.AI"
       ]
