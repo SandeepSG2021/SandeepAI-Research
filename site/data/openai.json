@@ -4,6 +4,16 @@
   "last_updated": "2026-06-17",
   "papers": [
     {
+      "title": "Introducing LifeSciBench",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 17 Ju",
+      "summary": "Introducing LifeSciBench OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Predicting model behavior before release by simulating deployment",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nX1dtRWRkRy15dFR5OEVqMWY0aHlwaDNWR1Zfb3g4c3huZkh4MDB2UHp3Ulg3OWJDLVM2NDQxaXVIbzgxd2pBcmVRaktNZ2thUFA0dWxrWUdRT0k?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 10 Ju",
       "summary": "How an astrophysicist uses Codex to help simulate black holes OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2QjliMWJCUGplNU1kRFdCMWlGb3o5UHpzUnVJMnd1U0dSUmQ0RGhnZ0M5eGxLVGlIM3V2LXhDb1k1M3VwWWRibEc2eUg3dDZkWGFXUXJJajFnOVRiTnY3VUtB?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 08 Ju",
-      "summary": "Introducing the OpenAI Economic Research Exchange OpenAI",
       "tags": [
         "OpenAI"
       ]
