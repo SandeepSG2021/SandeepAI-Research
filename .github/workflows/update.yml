@@ -101,7 +101,7 @@ jobs:
       # GitHub suppresses workflow triggers from GITHUB_TOKEN pushes, so we
       # must deploy here instead of relying on a separate pages-deploy run.
       - name: Configure Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Upload site/ as Pages artifact
         uses: actions/upload-pages-artifact@v3
