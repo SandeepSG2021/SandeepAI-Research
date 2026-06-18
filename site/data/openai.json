@@ -4,6 +4,26 @@
   "last_updated": "2026-06-18",
   "papers": [
     {
+      "title": "Improving health intelligence in ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vcjB4NGtoanAzaElMUVhXZEZydkl4M3F0Mk96ZWoyRHNGMG1xT0RMeHRwTVFNbG1NVzd1LVVMaWFmQ0NYRWtWYll2Skc3YU43TmlzbS0tRlJVTFB2RDNfV3dSQmgwMkhsZEhaUTMwVXFaZGpi?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 17 Ju",
+      "summary": "Improving health intelligence in ChatGPT OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5POTdmdEl1dGVqVHZ5d05NV2VqaUIyQ3ExVjgyUkVMaWtOSm5ZZ0RJdGJxNzVRdEZCWG14bnZDSEc3bkhwbXNhZjZBaHNaUXVndDE2YV9SNl85LWh2dEFvVVJRQ1pJdTBWRGc?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 18 Ju",
+      "summary": "Using AI to help physicians diagnose rare genetic diseases affecting children OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing LifeSciBench",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
       "authors": "OpenAI",
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 08 Ju",
       "summary": "Introducing the OpenAI Economic Research Exchange OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing GPT-5.5",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 23 Ap",
-      "summary": "Introducing GPT-5.5 OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JQUtaelJMMzg0dXJSckhtN3I0c3c5WnlHZjNVall4OGhDTlJ3V0xDTnNiRmNzUnNaUFB3RGkxSVJJa19QaGpPVQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 30 No",
-      "summary": "Introducing ChatGPT OpenAI",
       "tags": [
         "OpenAI"
       ]
