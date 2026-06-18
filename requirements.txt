@@ -1,7 +1,7 @@
 # Pinned for reproducible, supply-chain-safe builds.
 # Bump deliberately; do not use unbounded `>=`.
 requests==2.32.5
-feedparser==6.0.11
+feedparser==6.0.12
 beautifulsoup4==4.13.5
 lxml==6.0.2
 openai==2.6.1
