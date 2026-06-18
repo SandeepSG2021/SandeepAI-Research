@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-06-17",
+  "last_updated": "2026-06-18",
   "papers": [
     {
       "title": "A foundation model of vision, audition, and language for in-silico neuroscience | Research - AI at Meta",
@@ -39,16 +39,6 @@
       "authors": "Meta AI",
       "published": "Tue, 23 Ju",
       "summary": "Introducing Llama 3.1: Our most capable models to date AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "AI Research: Introducing Muse Spark - New Foundation Model | AI at Meta - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1ejNyS2o0RlZaazlqcUFsS1FCTWpsanZ3MFc0cExGY3ljWHBvWE5aR1VOVVhVMUM1S1kyR1ljVTdmVkU?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 12 Ju",
-      "summary": "AI Research: Introducing Muse Spark - New Foundation Model | AI at Meta AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -99,6 +89,16 @@
       "authors": "Meta AI",
       "published": "Sat, 05 Ap",
       "summary": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mQWxBRkJZVUptTTA0eF9rcnVUbTltSkxKSE5LM0F6SlA1RF9iaXJFWUp3SGpCZnhrZlk0dHRHOGREQWRoSTlTRC1tREdJbDNXY3NDTXluOWxSNVBoT0lB?oc=5",
+      "authors": "Meta AI",
+      "published": "Fri, 27 Ma",
+      "summary": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning AI at Meta",
       "tags": [
         "Meta AI"
       ]

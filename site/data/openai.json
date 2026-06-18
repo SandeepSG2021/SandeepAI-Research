@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-06-17",
+  "last_updated": "2026-06-18",
   "papers": [
     {
       "title": "Introducing LifeSciBench",
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lSUJJNnJSc0RZbFhLMG1heEd5R05PVDBsOUhRNjQ4TWRiWTV1dlFZVlZzN3FCcmFNQnhJUVA5UlFfcWVSeEd3WjBFcDhFckdmQVJESmZsXzdVa2VzOUFTZjVRVjZDcHdfN0dRY3ZR?oc=5",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2QjliMWJCUGplNU1kRFdCMWlGb3o5UHpzUnVJMnd1U0dSUmQ0RGhnZ0M5eGxLVGlIM3V2LXhDb1k1M3VwWWRibEc2eUg3dDZkWGFXUXJJajFnOVRiTnY3VUtB?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 10 Ju",
-      "summary": "How an astrophysicist uses Codex to help simulate black holes OpenAI",
+      "published": "Mon, 08 Ju",
+      "summary": "Introducing the OpenAI Economic Research Exchange OpenAI",
       "tags": [
         "OpenAI"
       ]
