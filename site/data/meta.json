@@ -24,16 +24,6 @@
       ]
     },
     {
-      "title": "Introducing Llama 3.1: Our most capable models to date - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
-      "authors": "Meta AI",
-      "published": "Tue, 23 Ju",
-      "summary": "Introducing Llama 3.1: Our most capable models to date AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
       "authors": "Meta AI",
@@ -74,6 +64,16 @@
       ]
     },
     {
+      "title": "SAM Audio - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPbzlfT1hGOWRRNnVCZGRrMVRaSkVLT0ZjbzlVMTkyTjd3eVFaR1ljOHBFMURxWTN4dnBZWUtfNUloV1hRdlZuc1pGN2tkVjQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Sat, 31 Ja",
+      "summary": "SAM Audio AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
       "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
       "authors": "Meta AI",
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mQWxBRkJZVUptTTA0eF9rcnVUbTltSkxKSE5LM0F6SlA1RF9iaXJFWUp3SGpCZnhrZlk0dHRHOGREQWRoSTlTRC1tREdJbDNXY3NDTXluOWxSNVBoT0lB?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 27 Ma",
-      "summary": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "DINOv3 - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ka1lOS3E4N29NQ1hCREJKc1FQbkNTZEVQSTJ0THIxVHVTbVZQdmZ6dHZPNEZFRnc2Z1RmZ2o4RUdva3hBVDludUJXRlA?oc=5",
       "authors": "Meta AI",
       "published": "Fri, 30 Ja",
       "summary": "DINOv3 AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mQWxBRkJZVUptTTA0eF9rcnVUbTltSkxKSE5LM0F6SlA1RF9iaXJFWUp3SGpCZnhrZlk0dHRHOGREQWRoSTlTRC1tREdJbDNXY3NDTXluOWxSNVBoT0lB?oc=5",
+      "authors": "Meta AI",
+      "published": "Fri, 27 Ma",
+      "summary": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning AI at Meta",
       "tags": [
         "Meta AI"
       ]
