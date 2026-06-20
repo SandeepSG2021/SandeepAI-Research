@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-06-19",
+  "last_updated": "2026-06-20",
   "papers": [
     {
       "title": "Project Fetch: Phase two",
@@ -29,16 +29,6 @@
       "authors": "Anthropic",
       "published": "Tue, 16 Ju",
       "summary": "Agentic coding and persistent returns to expertise Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Measuring LLMs’ impact on N-day exploits",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94eFdUbjJvSXlTVEFCZWVaeVN0SG5nNGRlbW80UFBOR3lBNFExX3J3SVZsVHNwLWpNR2NwR2NYYjdsNy16a0kxZzFpeWJhQzFTcHdz?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 08 Ju",
-      "summary": "Measuring LLMs’ impact on N-day exploits Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Mon, 08 Ju",
       "summary": "Paving the way for agents in biology Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Measuring LLMs’ impact on N-day exploits",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94eFdUbjJvSXlTVEFCZWVaeVN0SG5nNGRlbW80UFBOR3lBNFExX3J3SVZsVHNwLWpNR2NwR2NYYjdsNy16a0kxZzFpeWJhQzFTcHdz?oc=5",
+      "authors": "Anthropic",
+      "published": "Mon, 08 Ju",
+      "summary": "Measuring LLMs’ impact on N-day exploits Anthropic",
       "tags": [
         "Anthropic"
       ]

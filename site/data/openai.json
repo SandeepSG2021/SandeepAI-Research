@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-06-19",
+  "last_updated": "2026-06-20",
   "papers": [
     {
       "title": "Improving health intelligence in ChatGPT",
@@ -74,6 +74,16 @@
       ]
     },
     {
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hbGEzYUxQMlNOVzFaanBFUmo0b09XUlhmV2txb19Vd0o5cXF6Wmx6cFJoVWtYRzZqaEJWSDU0eUF0Y3VfemVoRTdOcGJSMHFSWGtYSUhmZHFVTDlseS1GUDZpWkIwanlJSXlDU0s4aERjTnl1Q2o0?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 10 Ju",
+      "summary": "PRC-linked influence operations are targeting AI debates in the US OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Built to benefit everyone: our plan",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acHQzdUtIMzJkVmlHbkJ1Z294Y3p1d0JIR0FieFFQOHZwaENrUkFQNWFhNmctWVU0ODlSZDdFN0NZQUFpUHBqeEVxTWhNTlRNV3Z2NVRHMHlVcVBEckt4VXhScnhDaU9OcEd3cw?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 08 Ju",
       "summary": "Introducing the OpenAI Economic Research Exchange OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Codex for every role, tool, and workflow",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6RzVPbFNDZEpQQWYwa3MyOTJ1ZTFMemc2MFJXUl9MZXNiTmVIMjZaSVN6VkwxNkFGekF3UEVHc3d4SS13SEFsbURCMGgtcVFzZ0xZWlRYQmx4b0Qwdnk1cFEwNklFc3dKbzhlUQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 02 Ju",
-      "summary": "Codex for every role, tool, and workflow OpenAI",
       "tags": [
         "OpenAI"
       ]
