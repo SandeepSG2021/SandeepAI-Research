@@ -24,21 +24,21 @@
       ]
     },
     {
-      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 11 Ma",
-      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 11 Ja",
       "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 11 Ma",
+      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -74,16 +74,6 @@
       ]
     },
     {
-      "title": "SAM Audio - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPbzlfT1hGOWRRNnVCZGRrMVRaSkVLT0ZjbzlVMTkyTjd3eVFaR1ljOHBFMURxWTN4dnBZWUtfNUloV1hRdlZuc1pGN2tkVjQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Sat, 31 Ja",
-      "summary": "SAM Audio AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
       "authors": "Meta AI",
@@ -99,6 +89,16 @@
       "authors": "Meta AI",
       "published": "Fri, 27 Ma",
       "summary": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Three things everyone should know about Vision Transformers - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2NHYjhMX3FKcHdnak5BZG5kNUVUQ2dGaUQ0SVR5R2lWTV9uclNTbm9YNFVGQV9DbUJaaHhLUU5Hei1iOGVWb25pSXhPSXcyT0xuNXVlQmFGRXd2enFsQlRTVHk4Y0pVSm51emJpVWtqQVpwdlhseENWOXBwc3BoMG5YWi16WkIyLUg1ZW05RkhGR0JtYXJHeHlCSGxEX2JKdzFEdw?oc=5",
+      "authors": "Meta AI",
+      "published": "Sat, 22 Oc",
+      "summary": "Three things everyone should know about Vision Transformers AI at Meta",
       "tags": [
         "Meta AI"
       ]
