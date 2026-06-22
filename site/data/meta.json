@@ -4,21 +4,21 @@
   "last_updated": "2026-06-22",
   "papers": [
     {
-      "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 25 Se",
-      "summary": "Connect 2024: The responsible approach we’re taking to generative AI AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "A foundation model of vision, audition, and language for in-silico neuroscience | Research - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3VCY2NMc1daVUowUER4eE1uRGRtTWtEU3IzdGlFRi10bTJUdkZwYktoYXJxT2dGblVOcGVwR0VpS0hETm5MSm9aWjFTNUtuRlZ0ZDhFcERJYmlSWnJDd3p5NW41bDJ1VE5nSG5PMUhCYVR0ZWlRREUxamVPOF9YZE53a2swMUtrRFhBSGxOaHZJbkpVQ2FORVV1di12NGdWenR2Sm9Ib2x2U2x0eWNkd2ZJZU42YjY1ektWVQ?oc=5",
       "authors": "Meta AI",
       "published": "Thu, 26 Ma",
       "summary": "A foundation model of vision, audition, and language for in-silico neuroscience | Research AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 25 Se",
+      "summary": "Connect 2024: The responsible approach we’re taking to generative AI AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -39,16 +39,6 @@
       "authors": "Meta AI",
       "published": "Fri, 30 Ja",
       "summary": "SAM 3D AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "SAM 3 - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zc0VQak1ZR1pYSDdEbXVGa2lCbmZkWTRaUmU3bFhLTFFqOVB6UVJIMkFFSjZQQ1F5STczbkJqWGMxRGw2bFdHb293?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 30 Ja",
-      "summary": "SAM 3 AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -84,21 +74,31 @@
       ]
     },
     {
-      "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mQWxBRkJZVUptTTA0eF9rcnVUbTltSkxKSE5LM0F6SlA1RF9iaXJFWUp3SGpCZnhrZlk0dHRHOGREQWRoSTlTRC1tREdJbDNXY3NDTXluOWxSNVBoT0lB?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 27 Ma",
-      "summary": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Introducing Meta Segment Anything Model 2 (SAM 2) - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHU3V0em0xUE9xRWplcHZfVUpNTUtPNjVJcWVJcU91cW14LUstc213eVJlSmZHaTNPVnAzei1iVVVpUG9WMVFoenNR?oc=5",
       "authors": "Meta AI",
       "published": "Sat, 31 Ja",
       "summary": "Introducing Meta Segment Anything Model 2 (SAM 2) AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Three things everyone should know about Vision Transformers - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2NHYjhMX3FKcHdnak5BZG5kNUVUQ2dGaUQ0SVR5R2lWTV9uclNTbm9YNFVGQV9DbUJaaHhLUU5Hei1iOGVWb25pSXhPSXcyT0xuNXVlQmFGRXd2enFsQlRTVHk4Y0pVSm51emJpVWtqQVpwdlhseENWOXBwc3BoMG5YWi16WkIyLUg1ZW05RkhGR0JtYXJHeHlCSGxEX2JKdzFEdw?oc=5",
+      "authors": "Meta AI",
+      "published": "Sat, 22 Oc",
+      "summary": "Three things everyone should know about Vision Transformers AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Brain-to-Text Decoding: A Non-invasive Approach via Typing - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzFPSmpHZTBYUlY0NjhNQ0VPLURXZTlSYjFwNndhemV0X04tVzlaWlByMjN4VkVBaGRKQkt5elJQNU9aRHpBZS14bUNrN05zSldwUTlNemxMME9aTjhHaDVzUWRLLWtfdnJiczE3SjJhOWpmUFQ5Nm5KY1VpLVlHcjhuTk1Yd2NtbUc4NWhBeEhLUUJpOUw3bEFEd1pFM19QVFE?oc=5",
+      "authors": "Meta AI",
+      "published": "Thu, 06 Fe",
+      "summary": "Brain-to-Text Decoding: A Non-invasive Approach via Typing AI at Meta",
       "tags": [
         "Meta AI"
       ]
