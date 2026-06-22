@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-06-21",
+  "last_updated": "2026-06-22",
   "papers": [
     {
       "title": "Project Fetch: Phase two",
@@ -64,21 +64,21 @@
       ]
     },
     {
-      "title": "Claude Fable 5 and Claude Mythos 5",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 09 Ju",
-      "summary": "Claude Fable 5 and Claude Mythos 5 Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Measuring LLMs’ ability to develop exploits",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HWDItUmhDOFdrWlBWTkNRSXBfOGhCNFBvWTNodGZvekZFa1dISFJ4dmhuR0s4VUZjaFJqYm0zSUVQU0hVUkRXaUVENk1waDR0aDZLd21HRS1zWnBK?oc=5",
       "authors": "Anthropic",
       "published": "Fri, 22 Ma",
       "summary": "Measuring LLMs’ ability to develop exploits Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 09 Ju",
+      "summary": "Claude Fable 5 and Claude Mythos 5 Anthropic",
       "tags": [
         "Anthropic"
       ]
