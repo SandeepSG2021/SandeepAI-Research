@@ -4,6 +4,16 @@
   "last_updated": "2026-06-23",
   "papers": [
     {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FcEMyYTNYeHRuOFIwTmdUcW1DdUZVTmkzUlM5MmgxUU45QkhrcnBkTUFTcHhDcV9jclp0TGppay1rZUhKT09fSUtvQUs3cmYyUHNoLWJDVk14dThwR3dB?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 23 Ju",
+      "summary": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Codex-maxxing for long-running work",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wRGpfZ2M4RElzMzNMVXBnRGVYMlRRQ0xYZEJyYnBFbTJNdmtJNHlSdFRwSTNqbW9hTXNNVlNXZHdtcGoyenZBOFNUdlh2d1R4UTdsc2RXeEhNdXdlTUU3Tm5ZZWczTXA2?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 16 Ju",
       "summary": "Predicting model behavior before release by simulating deployment OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing the OpenAI Partner Network",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uMkJtTlNBalBxNWxuLVlzbHlsaTFGdXdmUks2Z1pqZ0IyZkNyYmZUU1JkYlc4emNMclpXUWo1aEpyRVJRX3VKQnlScl93bkdrN1pBeWlaVVNSeWk2cmh5dlpWRF9ZTkY2LW9qMw?oc=5",
-      "authors": "OpenAI",
-      "published": "Sun, 14 Ju",
-      "summary": "Introducing the OpenAI Partner Network OpenAI",
       "tags": [
         "OpenAI"
       ]
