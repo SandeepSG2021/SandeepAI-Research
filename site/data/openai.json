@@ -4,21 +4,21 @@
   "last_updated": "2026-06-23",
   "papers": [
     {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tVlVnSldkUzdBazNDRTJxbnpxdzJSdzhHVGJMcWNYQUt6WDVkMUQ5NDk5ajZzZWpXWGxlNllybW84MFFOVFZHYjl6RDRkMXRkLVlGcTcwQ1A5M2l0MGlQOUtndw?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 22 Ju",
-      "summary": "Daybreak: Tools for securing every organization in the world OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Codex-maxxing for long-running work",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wRGpfZ2M4RElzMzNMVXBnRGVYMlRRQ0xYZEJyYnBFbTJNdmtJNHlSdFRwSTNqbW9hTXNNVlNXZHdtcGoyenZBOFNUdlh2d1R4UTdsc2RXeEhNdXdlTUU3Tm5ZZWczTXA2?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 22 Ju",
       "summary": "Codex-maxxing for long-running work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tVlVnSldkUzdBazNDRTJxbnpxdzJSdzhHVGJMcWNYQUt6WDVkMUQ5NDk5ajZzZWpXWGxlNllybW84MFFOVFZHYjl6RDRkMXRkLVlGcTcwQ1A5M2l0MGlQOUtndw?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 22 Ju",
+      "summary": "Daybreak: Tools for securing every organization in the world OpenAI",
       "tags": [
         "OpenAI"
       ]

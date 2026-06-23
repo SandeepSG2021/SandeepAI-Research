@@ -24,6 +24,16 @@
       ]
     },
     {
+      "title": "SAM 3: Segment Anything with Concepts - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOczdPdVlOX0pwTXVzcnlVZWd0bmdWUVIzaE1IZlhkMGZpZllYaktLWENkVEdxdElWeGk4bnRTWXlqOW1Xa0h4UjYzajdHN1pQQ2VXQk5EX3FhVjNRNE84N1dmNUVCODVZV2FEOHZJOXdPZ3A4dTNJMlJsd2xCeHZCOEZCaWoxUQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 19 No",
+      "summary": "SAM 3: Segment Anything with Concepts AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
       "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
       "authors": "Meta AI",
@@ -39,6 +49,16 @@
       "authors": "Meta AI",
       "published": "Tue, 23 Ju",
       "summary": "Introducing Llama 3.1: Our most capable models to date AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "AI Research: Introducing Muse Spark - New Foundation Model | AI at Meta - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1ejNyS2o0RlZaazlqcUFsS1FCTWpsanZ3MFc0cExGY3ljWHBvWE5aR1VOVVhVMUM1S1kyR1ljVTdmVkU?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 12 Ju",
+      "summary": "AI Research: Introducing Muse Spark - New Foundation Model | AI at Meta AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -64,16 +84,6 @@
       ]
     },
     {
-      "title": "SAM 3: Segment Anything with Concepts - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOczdPdVlOX0pwTXVzcnlVZWd0bmdWUVIzaE1IZlhkMGZpZllYaktLWENkVEdxdElWeGk4bnRTWXlqOW1Xa0h4UjYzajdHN1pQQ2VXQk5EX3FhVjNRNE84N1dmNUVCODVZV2FEOHZJOXdPZ3A4dTNJMlJsd2xCeHZCOEZCaWoxUQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 19 No",
-      "summary": "SAM 3: Segment Anything with Concepts AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
       "authors": "Meta AI",
@@ -84,21 +94,11 @@
       ]
     },
     {
-      "title": "Introducing Meta Segment Anything Model 2 (SAM 2) - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHU3V0em0xUE9xRWplcHZfVUpNTUtPNjVJcWVJcU91cW14LUstc213eVJlSmZHaTNPVnAzei1iVVVpUG9WMVFoenNR?oc=5",
+      "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
       "authors": "Meta AI",
-      "published": "Sat, 31 Ja",
-      "summary": "Introducing Meta Segment Anything Model 2 (SAM 2) AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Three things everyone should know about Vision Transformers - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2NHYjhMX3FKcHdnak5BZG5kNUVUQ2dGaUQ0SVR5R2lWTV9uclNTbm9YNFVGQV9DbUJaaHhLUU5Hei1iOGVWb25pSXhPSXcyT0xuNXVlQmFGRXd2enFsQlRTVHk4Y0pVSm51emJpVWtqQVpwdlhseENWOXBwc3BoMG5YWi16WkIyLUg1ZW05RkhGR0JtYXJHeHlCSGxEX2JKdzFEdw?oc=5",
-      "authors": "Meta AI",
-      "published": "Sat, 22 Oc",
-      "summary": "Three things everyone should know about Vision Transformers AI at Meta",
+      "published": "Thu, 18 Ap",
+      "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date AI at Meta",
       "tags": [
         "Meta AI"
       ]
