@@ -1,104 +1,104 @@
 {
   "source": "ARXIV-AI",
   "source_url": "https://arxiv.org/list/cs.AI/recent",
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-23",
   "papers": [
     {
-      "title": "How Transparent is DiffusionGemma?",
-      "link": "http://arxiv.org/abs/2606.20560v1",
-      "authors": "Joshua Engels, Callum McDougall, Bilal Chughtai, Janos Kramar, Senthoran Rajamanoharan, Cindy Wu, Arthur Conmy, Asic Q Chen, Jean Tarbouriech, Min Ma, Brendan O'Donoghue, João Gabriel Lopes de Oliveira, Rohin Shah, Neel Nanda",
-      "published": "2026-06-18",
-      "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning less transparent? We study this question by decomposing transparency into two components: variable transparency, whether we understand intermediate snapshots of a model's computational state; and algorithmic transparency, whether we can use these snapshots to reconstruct the process by which the model arrived at its outputs. Naively, DiffusionGemma has poor variable transparency: its opaque serial depth, the amount of serial computation that occurs in between interpretable model states, seems at first 28.6X higher than the corresponding autoregressive Gemma 4 model. However, we show that we can map the information flowing between denoising steps through an interpretable token bottleneck with no decrease in downstream performance. Treating these intermediate states as interpretable reduces the opaque serial depth to just 1.1X that of Gemma 4. Algorithmic transparency is harder for diffusion mod",
+      "title": "PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement",
+      "link": "http://arxiv.org/abs/2606.22610v1",
+      "authors": "Weiwei Ye, Hangchen Liu, Dongyuan Li, Renhe Jiang",
+      "published": "2026-06-21",
+      "summary": "Large language models have become capable reasoners and tool users that write and run code and search the literature, which makes automating the research process itself a realistic goal. We present PAPERCLAW, a harnessed multi-agent system that carries a project autonomously, from a field of study to a finished paper. PAPERCLAW curates a domain from a field's live literature, datasets, and code; brainstorms it into an idea with a pre-registered main-result contract; and drives a stoppable hypothesis map through an iterative propose, test, reflect loop that grows only from measured verdicts and halts once the evidence supports the idea, at which point it writes a venue-compliant paper. A full-lifecycle memory keeps each stage in a single living record, so a long run can be paused, inspected, and resumed without losing context. At the centre is an in-cycle research assistant with research tools and skills: it can drive the whole pipeline on its own, while the same interface lets a person step in at any stage, turning a first autonomous draft into a stronger paper through human-in-the-loop refinement. Throughout, PAPERCLAW keeps its output grounded and checkable, citing only reference",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
-      "link": "http://arxiv.org/abs/2606.20554v1",
-      "authors": "Ruizhong Qiu, Yinglong Xia, Dongqi Fu, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong",
-      "published": "2026-06-18",
-      "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core of generative recommendation lies item tokenization, which bridges item semantics and recommendation models. However, existing methods often struggle to effectively organize and inject complex user-behavioral and item-semantic contexts into recommendation models simultaneously. On the one hand, existing graph-based integration methods, such as graph serialization and graph neural networks, either suffer from scalability issues or exploit only local graph information. On the other hand, existing semantic tokenization methods typically rely on heuristics and lack explicit supervision signals, which may lead to inaccurate or suboptimal semantic representations. To address these limitations in user interest context modeling, we propose G2Rec, a scalable framework that unifies holistic graph-based user co-engagement modeling with semantic tokenization for industrial-scale generative recommendation. Overall, G2Rec enables recommendation models to capture holistic and semantically grounded use",
+      "title": "On the Position Bias of On-Policy Distillation",
+      "link": "http://arxiv.org/abs/2606.22600v1",
+      "authors": "Yan Xie, Sijie Zhu, Tiansheng Wen, Bo Chen, Yifei Wang",
+      "published": "2026-06-21",
+      "summary": "On-Policy Distillation (OPD) improves the learning efficiency of standard reinforcement learning through dense, token-level supervision from teachers. In the standard KL objective of OPD, token-level losses are uniformly averaged, implying equal weights for all tokens. However, we discover that not all tokens are created equal: as student rollouts grow longer, they deviate further from the teacher's distribution, leading to degraded supervision quality at later positions. As a result, OPD using only the first 30% of tokens can perform comparably to using all tokens, whereas OPD using only the last 30% of tokens barely learns anything. In this work, we provide a principled understanding of this issue through the lens of constrained optimization. Based on these insights, we derive Importance-Weighted On-Policy Distillation (IW-OPD), in which the weight assigned to each token depends on the accumulated discrepancy between the student's and teacher's distributions, naturally upweighting earlier tokens and downweighting later ones with larger deviations. We show that IW-OPD converges significantly faster than OPD, with better learning efficiency, and achieves better final performance th",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
-      "link": "http://arxiv.org/abs/2606.20544v1",
-      "authors": "Gina Wong, Drew Prinster, Suchi Saria, Rama Chellappa, Anqi Liu",
-      "published": "2026-06-18",
-      "summary": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforcing calibration at the level of individual predictors can improve ensemble accuracy and calibration, with mixture-of-experts (MoE) models showing strong empirical improvements in particular; however, the conditions under which calibration helps MoE are not well understood. In this work, we study how MoE models behave under distribution shift, focusing on how routing mechanisms interact with expert-level calibration. We show that expert calibration is sufficient to ensure calibration of the overall model under a broad class of distribution shifts in hard-routed models, but is insufficient for calibrating soft-routed models. To address this, we propose an adversarial reweighting that penalizes calibration errors of the routed aggregate under distribution shift, and we demonstrate that it improves the accuracy-calibration tradeoff both on average and on difficult subsets of the data, across model classes, prediction tasks, and distribution shifts.",
+      "title": "Text2DSL: LLM-Based Code Generation for Domain-Specific Languages",
+      "link": "http://arxiv.org/abs/2606.22586v1",
+      "authors": "Alexander V. Kozachok, Alexander M. Nazimov, Shamil G. Magomedov",
+      "published": "2026-06-21",
+      "summary": "Domain-specific languages (DSLs) are widely used for managing operating system security policies, yet manually authoring rules in such languages demands high expertise and is error-prone. This paper formalises the task of automatic DSL code generation from natural language descriptions - Text2DSL - as a distinct problem class, separate from Text-to-SQL and general-purpose code generation. We introduce the PolkitBench dataset comprising 4,204 verified natural-language-to-Polkit-rule pairs, each validated through a three-level AST-based pipeline. Controlled prompt experiments on two MoE models of different scale and provenance - GigaChat-10B-A1.8B (1.8B active parameters) and Nemotron-3-Nano-30B-A3B (3B active) - demonstrate the critical role of structured context (BNF grammar, API specification, permitted identifier vocabulary) for LLM-based DSL code generation. Across both models, supplying context raises syntactic validity to 98.6-99.4%, structural validity by +9.7 to +35.5 pp, and the CodeBLEU score by +60% to +95%. The consistency of the effect across models of different scale and provenance indicates that, for the Text2DSL class of problems, injecting a formal target-language s",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
-      "link": "http://arxiv.org/abs/2606.20532v1",
-      "authors": "Nityanand Mathur, Hamees Sayed, Wasim Madha, Apoorv Singh, Sameer Khurana, Akshat Mandloi, Sudarshan Kamath",
-      "published": "2026-06-18",
-      "summary": "Style-captioned text-to-speech systems use natural language to control voice characteristics, but how individual words influence acoustic output remains unclear. Understanding this is critical for diagnosing failure modes and improving controllability in expressive TTS. We propose cross-attention attribution for speech diffusion models, adapting the DAAM framework to the speech domain for the first time, and apply it to CapSpeech-TTS. Our method extracts per-token heatmaps across 25 layers and 24 ODE steps. We analyze 3,600 (style caption, text transcript) combinations comprising 120 style captions conditioning the generation of 30 text transcripts each, revealing how caption tokens shape waveforms. Results show: (1) style tokens have lower temporal variance than content/function tokens, confirming global conditioning; (2) style attention correlates with F0 and energy; (3) style conditioning peaks in early steps and deep layers; (4) attention entropy reaches its minimum at layer 17, co-occurring with the style importance peak, indicating maximal network selectivity at the most style-critical stage. This is the first study of how natural language influences cross-attention in speech",
+      "title": "From CVE to CWE: Syscall-Based HIDS Generalisation",
+      "link": "http://arxiv.org/abs/2606.22581v1",
+      "authors": "Alexander V. Kozachok, Stanislav G. Vyugov, Shamil G. Magomedov",
+      "published": "2026-06-21",
+      "summary": "Host intrusion detection systems (HIDS) based on system-call traces are typically trained and evaluated against individual Common Vulnerabilities and Exposures (CVE) instances. In operational settings, however, defenders need to recognise new exploits of an already known type of weakness. We empirically examine whether a one-class anomaly detector trained on the normal behaviour of a set of CVEs that share a Common Weakness Enumeration (CWE) class generalises to a different, unseen CVE inside the same class. Using six scenarios drawn from LID-DS-2021 and grouped into three CWE families (CWE-307 broken authentication, CWE-89 SQL injection, CWE-434 unrestricted file upload), we extract a 66-dimensional Peng-Guo-style feature vector per sliding window and train Isolation Forest and SGD One-Class SVM detectors with normal-only thresholds calibrated to fixed target false positive rates. We define and answer four research questions covering self-detection, asymmetric cross-CVE transfer, the value of a combined CWE-level normal profile, and the effect of feature filtering on transferability. The combined CWE-307 detector reaches F1 = 0.6976 at calibration target FPR = 0.05 (precision = 0.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
-      "link": "http://arxiv.org/abs/2606.20529v1",
-      "authors": "Md Nayem Uddin, Amir Saeidi, Eduardo Blanco, Chitta Baral",
-      "published": "2026-06-18",
-      "summary": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifiers, constraints, and conditions observed through user interaction and tool calls. In standard agents, task states are not represented separately. Observations, tool returns, and policy instructions are placed in the prompt, leaving agents to reconstruct the relevant states from the prompt each time they decide what to do next. This design makes state management implicit, creating two common failure modes. An agent may retrieve the right facts but later ground its decision in stale, missing, or incorrect information; and a syntactically valid tool call may still violate a domain policy that depends on the current task state. We introduce \\textsc{LedgerAgent}, an inference-time method for tool-calling agents that maintains observed task states in a separate ledger and renders the states into the prompt. The ledger is also used to check state-dependent policy constraints before environment-changing tool calls are executed, blocking policy violations. Across four customer-service domains a",
+      "title": "Context-Aware Distillation and Ablation for Text2DSL",
+      "link": "http://arxiv.org/abs/2606.22578v1",
+      "authors": "Alexander V. Kozachok, Alexander M. Nazimov, Shamil G. Magomedov",
+      "published": "2026-06-21",
+      "summary": "We extend our prior work on Text2DSL automatic generation of domain-specific language (DSL) code from natural language descriptions along two complementary axes. First, we replace prompt-only synthetic generation with context-aware distillation, in which a teacher large language model (DeepSeek-V4-Flash) operates under an explicitly defined structured context comprising a BNF grammar, an API specification, and a closed identifier vocabulary; the resulting corpus is verified by a two-tier pipeline combining AST validation through esprima and runtime acceptance through the production polkitd daemon and the pkcheck client. This scales the verified PolkitBench corpus from 4,204 to 10,073 natural-language-to-Polkit-rule pairs at 100.0% AST validity and 99.7% runtime pass rate. Second, we conduct the per-component factorial ablation of structured context that was identified as future work in the precursor study: eight conditions C0-C7 are evaluated on GigaChat-10B-A1.8B with the new corpus. Three findings emerge. (i) The new harder corpus collapses the baseline mode (Syntax Valid 97.6% -> 58.5%, Combined Score 0.482 -> 0.252), whereas the context-enhanced mode degrades only marginally (S",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs",
-      "link": "http://arxiv.org/abs/2606.20526v1",
-      "authors": "Saimun Habib, Vaishak Belle, Fengxiang He",
-      "published": "2026-06-18",
-      "summary": "Neurosymbolic systems such as DeepProbLog combine neural perception with probabilistic logic, but standard inference is associational. Counterfactual reasoning additionally requires a causal semantics for interventions and evidence. We introduce DeepSWIP, a single-world counterfactual semantics for DeepProbLog programs. Using neural materialization, we reduce fixed-context neural predicates to ordinary ProbLog choices, apply Single World Intervention Programs (SWIPs), and compute counterfactuals by weighted model counting (WMC) over a single transformed program. Under finite grounding and unique-supported-model assumptions, DeepSWIP is exact relative to the learned materialized FCM. The standard quotient-WMC form of ProbLog conditionals identifies active neural probabilities and explains intervention cleaning, calibration sensitivity, and rare-evidence instability. Experiments on MPI3D confirm the transformation against a DeepTwin construction against 12,000 queries, as predicted and a 2.14$\\times$ inference speedup from avoiding the Twin's endogenous duplication. A SUMO HOV experiment shows that neural calibration degradation biases plug-in estimates, while a correctly scoped rand",
+      "title": "The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination",
+      "link": "http://arxiv.org/abs/2606.22574v1",
+      "authors": "Hooman Tavakoli Ghinani, Tatjana Legler, Martin Ruskowski",
+      "published": "2026-06-21",
+      "summary": "While synthetic data generation resolves the manual labeling bottleneck in computer vision, minimizing the syn-to-real domain gap requires optimizing rendering variables. This paper presents a systematic study analyzing the impact of lighting configurations and background complexity on object detection performance. We introduce SmartSDG, an automated, reproducible pipeline built on NVIDIA Isaac Sim using Physically-Based Shading (PBS), alongside ILLUM\\_INTRUCK, a new multi-object industrial benchmark dataset. Through 18 controlled experiments utilizing a state-of-the-art YOLOv12 framework, we demonstrate that complex, indirect lighting configurations paired with domain-relevant background variability significantly increase visual cue richness. Our quantitative findings show that avoiding direct specular peaks preserves crucial surface textures, mitigates the domain gap, reduces false positives, and accelerates model convergence compared to using conventional direct-light synthetic data. Ultimately, we provide actionable virtual scene design guidelines to maximize object detection robustness in industrial automation.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm",
-      "link": "http://arxiv.org/abs/2606.20523v1",
-      "authors": "Solène Debuysère, Nicolas Trouvé, Nathan Letheule, Elise Colin, Georgia Channing",
-      "published": "2026-06-18",
-      "summary": "Multimodal foundation models have advanced rapidly thanks to large optical benchmarks, but comparable resources for synthetic aperture radar (SAR) remain limited. Existing SAR--optical datasets largely rely on low-resolution, intensity-only Ground Range Detected~(GRD) products and do not preserve complex-valued SAR measurements or native acquisition geometry, which restricts physically grounded multimodal learning. In particular, large-scale public datasets combining very-high-resolution (VHR) SAR SLC, aligned optical imagery, and natural-language descriptions are still lacking. We present a VHR SAR--optical--text dataset built from open-access Umbra spotlight acquisitions distributed as Sensor Independent Complex Data (SICD). From around 2,500 worldwide scenes (VV/HH, 20cm--2m native resolution), we standardize all SAR data to an 80cm slant-range grid via band-limited FFT resampling and tile the imagery into 1024 by 1024 patches. For each SAR patch, we retrieve a high-resolution optical tile and warp it into the SAR grid using local coordinate correspondences for local pixel-level alignment. We further generate three caption variants (SHORT/MID/LONG) per sample to support vision--",
+      "title": "Concept-Constrained Prompt Learning for Few-Shot CLIP Adaptation",
+      "link": "http://arxiv.org/abs/2606.22567v1",
+      "authors": "Na Sang, Ding Ma, Rui Sang, Yuxuan Liu",
+      "published": "2026-06-21",
+      "summary": "Few-shot prompt learning is an effective strategy for adapting CLIP to downstream tasks, but class-only prompt optimization can overfit base-class supervision and weaken transfer to unseen classes. We propose Concept-Constrained Prompt Learning (CCPL), a lightweight regularization framework that anchors learnable class prompts to frozen concept-level text prototypes without updating CLIP encoders. CCPL learns a set of shared context tokens, instantiates class prompts by appending class names, and constructs frozen concept prototypes from a class-level concept bank. During training, a text-space cosine consistency objective aligns learnable class-prompt embeddings with frozen concept prototypes; concept dropout provides additional regularization against over-reliance on fixed concept lists. At inference, CCPL optionally fuses class-prompt logits with concept-prototype logits using a controllable ensemble weight alpha. Our default configuration uses text-space concept regularization lambda = 0.5, concept dropout p = 0.3 and weak concept-guided fusion (alpha = 0.1), with no KL-based prediction consistency term. Experiments under identical automatically-generated fallback splits show t",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes",
-      "link": "http://arxiv.org/abs/2606.20520v1",
-      "authors": "Jun He, Deying Yu",
-      "published": "2026-06-18",
-      "summary": "Autonomous agents are increasingly connected to cloud, deployment, and data-control workflows, but production mutation authority should not reside inside non-deterministic reasoning processes. Existing access-control mechanisms authorize identities, while assurance layers certify proposed actions; neither alone provides a mandatory enforcement point for certified authority at the moment of mutation. This paper introduces the Sovereign Execution Broker (SEB), a runtime enforcement boundary for certificate-bound agentic infrastructure. SEB consumes certificates issued by the Sovereign Assurance Boundary (SAB), verifies that the requested mutation matches the certified execution contract, checks validity windows, policy epochs, revocation epochs, and live-state drift, mints scoped execution identity, invokes infrastructure APIs, and records signed decision and outcome records. By separating proposal, admission, and execution, SEB turns certified authority into a short-lived, revocable, auditable runtime capability, provided that production mutation APIs reject non-broker identities. We present the SEB execution model, certificate and replay-verification predicates, scoped identity sem",
+      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
+      "link": "http://arxiv.org/abs/2606.22565v1",
+      "authors": "Zhuoran Jin, Kejian Zhu, Hongbang Yuan, Yupu Hao, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao",
+      "published": "2026-06-21",
+      "summary": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks remains unclear. In this paper, we aim to systematically investigate the key question: What can multimodal Chain-of-Thought reasoning do, and where and why does it fall short? To this end, we evaluate 12 multimodal tasks across perception and reasoning categories using both 14 non-reasoning models and 8 reasoning models. Our analysis reveals several important findings: (1) CoT is not a free lunch and should be used selectively depending on the specific requirements of each task. For perception tasks, CoT can lead to undesirable side effects, such as reduced performance in visual grounding and object counting. In contrast, it proves effective for reasoning tasks involving mathematical, scientific, and multi-image reasoning; (2) Compared to original models, existing open-source multimodal reasoning models often yield only marginal overall improvements, possibly due to an overemphasis on mathematical reasoning at the expense of broader capabilities; (3) Visual reasoning remains a key bottl",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS",
-      "link": "http://arxiv.org/abs/2606.20518v1",
-      "authors": "Harshit Singh, Ayush Pratap Singh, Nityanand Mathur",
-      "published": "2026-06-18",
-      "summary": "Flow-matching text-to-speech systems achieve remarkable zero-shot quality but remain static after deployment: pronunciation errors on out-of-vocabulary proper nouns persist unless the model is retrained. We introduce FlowEdit, a life-long adaptation framework for frozen flow-matching TTS that learns pronunciation corrections as latent conditioning edits rather than weight updates. When corrective feedback is provided, FlowEdit optimizes a token-level perturbation in the text embedding space, then stores the correction in a Modern Hopfield Network serving as content-addressable episodic memory. At inference, corrections are retrieved via soft attention with a similarity gate, enabling fuzzy morphological matching. On our curated benchmark of 312 multilingual proper nouns across 18 language families, FlowEdit reduces target-word Phoneme Error Rate by 92.7% relative to the zero-shot baseline while maintaining identical general-speech quality. Corrections complete in approximately 15 seconds on a single GPU.",
+      "title": "MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop",
+      "link": "http://arxiv.org/abs/2606.22557v1",
+      "authors": "Yikun Fu, Bowen Fu, Zhenyu Wu, Shuang Cheng, Xiaowei Sun, Bowen Yang, Zehao Li, Yibo Zhao, Zichen Ding, Zhoumianze Liu, Shijie Wang, Biqing Qi, Bowen Zhou",
+      "published": "2026-06-21",
+      "summary": "Computer use agents (CUAs) have advanced rapidly in desktop automation, and a growing number of users deploy CUAs such as OpenClaw on Mac Mini for always-on automation. However, existing benchmarks, including those for macOS, evaluate agents without framework augmentation and rely on binary evaluation. As a result, they fail to capture both the framework capabilities leveraged by modern CUAs and the partial progress on long-horizon, multi-application tasks. We present MacAgentBench, a comprehensive macOS agent benchmark comprising 676 tasks across 25 applications, with nearly 60% involving both GUI and CLI interaction. The benchmark adopts deterministic rule-based evaluation and introduces fine-grained multi-checkpoint scoring with capability annotations for multi-application tasks. Experiments across three frameworks and 16 models show that the best configuration, Claude Opus 4.6 on OpenClaw, attains 73.7% Pass@1, while this advantage is primarily driven by the skill library rather than by framework design. Fine-grained metrics further reveal that models with similar Pass@1 can differ substantially in sub-goal completion. Our code and data are publicly available at https://github.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
-      "link": "http://arxiv.org/abs/2606.20517v1",
-      "authors": "Maria Ivanova, Pavel Zadorozhny, Rodion Levichev, Ivan Petrov, Adamenko Pavel, Ivan Lopatin, Alexey Kutalev, Dmitrii Babaev",
-      "published": "2026-06-18",
-      "summary": "LiveCodeBench (LCB) has recently become a widely adopted benchmark for evaluating large language models (LLMs) on code-generation tasks. By curating competitive programming problems, constantly adding fresh problems to the set, and filtering them by release dates, LCB provides contamination-aware evaluation and offers a holistic view of coding capability. However, LCB remains restricted to Python, leaving open the question of whether LLMs can generalize across the diverse programming languages required in real-world software engineering. We introduce Multi-LCB, a benchmark for evaluating LLMs across twelve programming languages, including Python. Multi-LCB transforms Python tasks from the LCB dataset into equivalent tasks in other languages while preserving LCB's contamination controls and evaluation protocol. Because it is fully compatible with the original LCB format, Multi-LCB will automatically track future LCB updates, enabling systematic assessment of cross-language code generation competence and requiring models to sustain performance well beyond Python. We evaluated 24 LLMs for instruction and reasoning on Multi-LCB, uncovering evidence of Python overfitting, language-speci",
+      "title": "Training-Free Semantic Correction for Autoregressive Visual Models",
+      "link": "http://arxiv.org/abs/2606.22550v1",
+      "authors": "Junhao Chen, Chanyu Zhu, Zheqi Lv, Keting Yin, Shengyu Zhang",
+      "published": "2026-06-21",
+      "summary": "Autoregressive visual models (AVMs) based on next-scale prediction have emerged as a prominent paradigm for image and video synthesis. However, decomposing the generation process into discrete scales with varying granularities in AVM makes semantic errors difficult to identify and correct, thereby undermining the quality of the final output. Prior efforts to enhance AVM can be categorized into training-based and training-free approaches. Although training-based efforts to enhance AVM generation quality come at substantial computational cost, existing training-free methods neglect intermediate generation states, leaving semantic errors undiagnosed and allowing them to accumulate into the final output. In this paper, we focus on training-free paradigms and propose Gazer, a framework that integrates multimodal large language model feedback into the AVM sampling loop for in-generation semantic correction. Concretely, Gazer operates via two cooperating stages: the Reflective Diagnosis stage diagnoses semantic errors from intermediate states, while the Semantic Correction stage rewinds and rectifies the generation trajectory to realign with the target prompt. Experiments on compositional",
       "tags": [
         "cs.AI"
       ]

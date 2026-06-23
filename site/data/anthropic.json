@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-23",
   "papers": [
     {
       "title": "Project Fetch: Phase two",
@@ -44,21 +44,21 @@
       ]
     },
     {
-      "title": "Introducing Claude Corps",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 11 Ju",
-      "summary": "Introducing Claude Corps Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "TCS and Anthropic partner to bring Claude to regulated industries",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS004dFB2RHhmSy0zVWJXN0ZXbXFsdzBQTjNxNm5uOEh0cC1tVm4xdk11alFNS01lS0l4N0VVRjJHSjFUNjNfc3lHZllXRFB5Zks0X3U2VExuQ3N5aVRmV2xvd3BwNHc?oc=5",
       "authors": "Anthropic",
       "published": "Fri, 12 Ju",
       "summary": "TCS and Anthropic partner to bring Claude to regulated industries Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Introducing Claude Corps",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 11 Ju",
+      "summary": "Introducing Claude Corps Anthropic",
       "tags": [
         "Anthropic"
       ]

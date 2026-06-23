@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-23",
   "papers": [
     {
       "title": "Daybreak: Tools for securing every organization in the world",
@@ -9,6 +9,16 @@
       "authors": "OpenAI",
       "published": "Mon, 22 Ju",
       "summary": "Daybreak: Tools for securing every organization in the world OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wRGpfZ2M4RElzMzNMVXBnRGVYMlRRQ0xYZEJyYnBFbTJNdmtJNHlSdFRwSTNqbW9hTXNNVlNXZHdtcGoyenZBOFNUdlh2d1R4UTdsc2RXeEhNdXdlTUU3Tm5ZZWczTXA2?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 22 Ju",
+      "summary": "Codex-maxxing for long-running work OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -34,16 +44,6 @@
       ]
     },
     {
-      "title": "Codex-maxxing for long-running work",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wRGpfZ2M4RElzMzNMVXBnRGVYMlRRQ0xYZEJyYnBFbTJNdmtJNHlSdFRwSTNqbW9hTXNNVlNXZHdtcGoyenZBOFNUdlh2d1R4UTdsc2RXeEhNdXdlTUU3Tm5ZZWczTXA2?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 22 Ju",
-      "summary": "Codex-maxxing for long-running work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Improving health intelligence in ChatGPT",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vcjB4NGtoanAzaElMUVhXZEZydkl4M3F0Mk96ZWoyRHNGMG1xT0RMeHRwTVFNbG1NVzd1LVVMaWFmQ0NYRWtWYll2Skc3YU43TmlzbS0tRlJVTFB2RDNfV3dSQmgwMkhsZEhaUTMwVXFaZGpi?oc=5",
       "authors": "OpenAI",
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWWYwb3Vnc09FSlZocUpXaUtnUVg3SjRyWWNVOEd2ZWhZUTdBVmpadTZCRkxjUFViVTJtSzZpSl9wLVowSnBYTEg4Z3VUMnBmcmE5Tjd5Q1VZRlNZb19wRzhKTGwxSUlYVmlv?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 18 Ju",
-      "summary": "New usage analytics and updated spend controls for enterprises OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5POTdmdEl1dGVqVHZ5d05NV2VqaUIyQ3ExVjgyUkVMaWtOSm5ZZ0RJdGJxNzVRdEZCWG14bnZDSEc3bkhwbXNhZjZBaHNaUXVndDE2YV9SNl85LWh2dEFvVVJRQ1pJdTBWRGc?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 18 Ju",
       "summary": "Using AI to help physicians diagnose rare genetic diseases affecting children OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWWYwb3Vnc09FSlZocUpXaUtnUVg3SjRyWWNVOEd2ZWhZUTdBVmpadTZCRkxjUFViVTJtSzZpSl9wLVowSnBYTEg4Z3VUMnBmcmE5Tjd5Q1VZRlNZb19wRzhKTGwxSUlYVmlv?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 18 Ju",
+      "summary": "New usage analytics and updated spend controls for enterprises OpenAI",
       "tags": [
         "OpenAI"
       ]

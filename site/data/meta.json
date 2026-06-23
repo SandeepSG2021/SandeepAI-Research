@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-23",
   "papers": [
     {
       "title": "A foundation model of vision, audition, and language for in-silico neuroscience | Research - AI at Meta",
@@ -29,6 +29,16 @@
       "authors": "Meta AI",
       "published": "Wed, 11 Ja",
       "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing Llama 3.1: Our most capable models to date - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
+      "authors": "Meta AI",
+      "published": "Tue, 23 Ju",
+      "summary": "Introducing Llama 3.1: Our most capable models to date AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -89,16 +99,6 @@
       "authors": "Meta AI",
       "published": "Sat, 22 Oc",
       "summary": "Three things everyone should know about Vision Transformers AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Brain-to-Text Decoding: A Non-invasive Approach via Typing - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzFPSmpHZTBYUlY0NjhNQ0VPLURXZTlSYjFwNndhemV0X04tVzlaWlByMjN4VkVBaGRKQkt5elJQNU9aRHpBZS14bUNrN05zSldwUTlNemxMME9aTjhHaDVzUWRLLWtfdnJiczE3SjJhOWpmUFQ5Nm5KY1VpLVlHcjhuTk1Yd2NtbUc4NWhBeEhLUUJpOUw3bEFEd1pFM19QVFE?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 06 Fe",
-      "summary": "Brain-to-Text Decoding: A Non-invasive Approach via Typing AI at Meta",
       "tags": [
         "Meta AI"
       ]
