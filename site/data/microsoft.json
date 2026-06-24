@@ -4,6 +4,16 @@
   "last_updated": "2026-06-24",
   "papers": [
     {
+      "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+      "link": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+      "authors": "Jeremiah (Miah) Wander, Cas Simons",
+      "published": "Wed, 24 Ju",
+      "summary": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review. The post Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
       "title": "Ire identifies another LOTUSLITE specimen",
       "link": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
       "authors": "Brian Caswell, Bob Fleck, Mike Walker, Sarah Smith",
@@ -89,16 +99,6 @@
       "authors": "Andrew Fowler, Claudio Zeni, Daniel Zügner, Fabian Thiemann, Robert Pinsler, Shoko Ueda, Kenji Takeda",
       "published": "Tue, 12 Ma",
       "summary": "MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces alone. The post Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models appeared first on Microsoft Research .",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests",
-      "link": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
-      "authors": "Tyler Payne, Will Epperson, Safoora Yousefi, Zachary Huang, Gagan Bansal, Wenyue Hua, Maya Murad, Asli Celikyilmaz, Saleema Amershi",
-      "published": "Mon, 11 Ma",
-      "summary": "Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s position, even with explicit instructions to optimize for user interest. The post SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
