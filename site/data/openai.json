@@ -4,6 +4,16 @@
   "last_updated": "2026-06-24",
   "papers": [
     {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 24 Ju",
+      "summary": "OpenAI and Broadcom unveil LLM-optimized inference chip OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FcEMyYTNYeHRuOFIwTmdUcW1DdUZVTmkzUlM5MmgxUU45QkhrcnBkTUFTcHhDcV9jclp0TGppay1rZUhKT09fSUtvQUs3cmYyUHNoLWJDVk14dThwR3dB?oc=5",
       "authors": "OpenAI",
@@ -54,6 +64,16 @@
       ]
     },
     {
+      "title": "Helping build shared standards for advanced AI",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zSVBMT0ZiRm1qNy04ZTJZSm1XZFA5ZGdnYnhLX1EyVVhsQlZCWkZlQk9zNjNmdFdKVzZIdTVUUkJUdGVsYTJITzFfaUQ3YXoyVll2eUNVbmdPdjRvZEVlYV9EZzltQ0IyMmh6N2RPUVRGUFgtQmNPNTZ4Mmc?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 23 Ju",
+      "summary": "Helping build shared standards for advanced AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Improving health intelligence in ChatGPT",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vcjB4NGtoanAzaElMUVhXZEZydkl4M3F0Mk96ZWoyRHNGMG1xT0RMeHRwTVFNbG1NVzd1LVVMaWFmQ0NYRWtWYll2Skc3YU43TmlzbS0tRlJVTFB2RDNfV3dSQmgwMkhsZEhaUTMwVXFaZGpi?oc=5",
       "authors": "OpenAI",
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 18 Ju",
       "summary": "New usage analytics and updated spend controls for enterprises OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing LifeSciBench",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 17 Ju",
-      "summary": "Introducing LifeSciBench OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nX1dtRWRkRy15dFR5OEVqMWY0aHlwaDNWR1Zfb3g4c3huZkh4MDB2UHp3Ulg3OWJDLVM2NDQxaXVIbzgxd2pBcmVRaktNZ2thUFA0dWxrWUdRT0k?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 16 Ju",
-      "summary": "Predicting model behavior before release by simulating deployment OpenAI",
       "tags": [
         "OpenAI"
       ]
