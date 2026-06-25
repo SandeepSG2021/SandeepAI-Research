@@ -4,6 +4,16 @@
   "last_updated": "2026-06-25",
   "papers": [
     {
+      "title": "How agents are transforming work",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMHNYTEZhLU5SOXBrb1BCR1ZyUFdoVmhCVVZkdDdLd1ppekRnZkE5M1otaGxUVTZqSjlwZTk3WmJCYzE3ekctSW9MNEFZSXM1RmR1Wmlya3VXdkZjZGtJRkZIaXFFbk8wUEE?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 25 Ju",
+      "summary": "How agents are transforming work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 17 Ju",
       "summary": "Improving health intelligence in ChatGPT OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5POTdmdEl1dGVqVHZ5d05NV2VqaUIyQ3ExVjgyUkVMaWtOSm5ZZ0RJdGJxNzVRdEZCWG14bnZDSEc3bkhwbXNhZjZBaHNaUXVndDE2YV9SNl85LWh2dEFvVVJRQ1pJdTBWRGc?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 18 Ju",
-      "summary": "Using AI to help physicians diagnose rare genetic diseases affecting children OpenAI",
       "tags": [
         "OpenAI"
       ]
