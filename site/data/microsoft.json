@@ -4,6 +4,16 @@
   "last_updated": "2026-06-25",
   "papers": [
     {
+      "title": "Understanding the brain with AI-driven explanations and experiments",
+      "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+      "authors": "Chandan Singh, Jianfeng Gao",
+      "published": "Thu, 25 Ju",
+      "summary": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language. The post Understanding the brain with AI-driven explanations and experiments appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
       "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
       "link": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
       "authors": "Jeremiah (Miah) Wander, Cas Simons",
@@ -89,16 +99,6 @@
       "authors": "Weiwei Yang, Andrea Britto Mattos Lima, Thiago Vallin Spina, Spencer Fowers, Baosen Zhang",
       "published": "Wed, 13 Ma",
       "summary": "Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health. The post GridSFM: A new, small foundation model for the electric grid appeared first on Microsoft Research .",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
-      "link": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
-      "authors": "Andrew Fowler, Claudio Zeni, Daniel Zügner, Fabian Thiemann, Robert Pinsler, Shoko Ueda, Kenji Takeda",
-      "published": "Tue, 12 Ma",
-      "summary": "MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces alone. The post Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]

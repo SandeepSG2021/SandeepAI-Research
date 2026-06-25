@@ -4,6 +4,17 @@
   "last_updated": "2026-06-25",
   "papers": [
     {
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "authors": "Barine Tee",
+      "published": "Thu, 25 Ju",
+      "summary": "The Google Finance logo, surrounded by elements of the user interface",
+      "tags": [
+        "Search",
+        "AI"
+      ]
+    },
+    {
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "authors": "Mike Schaekermann",
@@ -111,20 +122,6 @@
       "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
       "tags": [
         "Learning & Education",
-        "AI"
-      ]
-    },
-    {
-      "title": "Catch up on 12 major I/O 2026 moments",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "authors": "Zahra Thompson",
-      "published": "Thu, 28 Ma",
-      "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
-      "tags": [
-        "Search",
-        "Android",
-        "Google Labs",
-        "Shopping",
         "AI"
       ]
     }
