@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-06-24",
+  "last_updated": "2026-06-25",
   "papers": [
     {
       "title": "Introducing Claude Tag",
@@ -39,6 +39,16 @@
       "authors": "Anthropic",
       "published": "Tue, 16 Ju",
       "summary": "Agentic coding and persistent returns to expertise Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHh0bjBqVXNvaGk0ZVVsQkJZd2RhMUpQYU00SkxDUS1VQXdORkg5cjdaOHZQNlExR2R3Y1I0Mnpwbm1vR2lLU1doa1BmQ0NYbEY2YXJ4SC1BTGdWVWhnZGJ5dUhKSWFIRlNaVWpFa011RHFkUWdBNzgzRVUzU3Nnc1lB?oc=5",
+      "authors": "Anthropic",
+      "published": "Wed, 17 Ju",
+      "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Mon, 08 Ju",
       "summary": "Paving the way for agents in biology Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZSm4zdVRrRDZFWW1MZHpRd05fcWp6R2VyMHE0SlVPR3JGZVd3ei1XNnF4Vi1rNXd3c3c2SXBSVHBzQ0ZZOU1sNWhJTkZkUkY2anNoNVM3d3V5T25CS0MzY3Bhb2Y4cVE?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 01 Ju",
-      "summary": "Anthropic confidentially submits draft S-1 to the SEC Anthropic",
       "tags": [
         "Anthropic"
       ]
