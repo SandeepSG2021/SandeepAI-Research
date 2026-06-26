@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-06-25",
+  "last_updated": "2026-06-26",
   "papers": [
     {
       "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - AI at Meta",
@@ -64,21 +64,21 @@
       ]
     },
     {
-      "title": "SAM 3D - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ENnVFVkY3akhxR0xuRkFwWTVHM3kxeFNCR3dEUHhSd25mcEFRMTJrTDk5eWhKRURyQVphdVllb184ZWdoYWhsM2ZpWQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 30 Ja",
-      "summary": "SAM 3D AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "SAM 3 - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zc0VQak1ZR1pYSDdEbXVGa2lCbmZkWTRaUmU3bFhLTFFqOVB6UVJIMkFFSjZQQ1F5STczbkJqWGMxRGw2bFdHb293?oc=5",
       "authors": "Meta AI",
       "published": "Fri, 30 Ja",
       "summary": "SAM 3 AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "SAM 3D - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ENnVFVkY3akhxR0xuRkFwWTVHM3kxeFNCR3dEUHhSd25mcEFRMTJrTDk5eWhKRURyQVphdVllb184ZWdoYWhsM2ZpWQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Fri, 30 Ja",
+      "summary": "SAM 3D AI at Meta",
       "tags": [
         "Meta AI"
       ]
