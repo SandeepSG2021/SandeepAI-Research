@@ -4,6 +4,16 @@
   "last_updated": "2026-06-26",
   "papers": [
     {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 26 Ju",
+      "summary": "Previewing GPT-5.6 Sol: a next-generation model OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How agents are transforming work",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMHNYTEZhLU5SOXBrb1BCR1ZyUFdoVmhCVVZkdDdLd1ppekRnZkE5M1otaGxUVTZqSjlwZTk3WmJCYzE3ekctSW9MNEFZSXM1RmR1Wmlya3VXdkZjZGtJRkZIaXFFbk8wUEE?oc=5",
       "authors": "OpenAI",
@@ -54,6 +64,16 @@
       ]
     },
     {
+      "title": "How Omio is building the future of conversational travel",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8wRnluRHJybWFjVVBEMXp0ZHZSZzNXUFlnUXhRVEpUSlozWEpzcHFRZTJxNTBBUlIyaDZmdURxRW84b0Zj?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 23 Ju",
+      "summary": "How Omio is building the future of conversational travel OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90VVluclVyOVNEY3I2a2hVMzg0Ylp1VFhXa1pIdHlCd19wRUI4Z1pZZUktTUxZZnlPMjJ3YXZiRWswRzdBZENMRW02WFRYYTRRV1NxLUtwZjl0djc2dFhOZm5QdTJERUl6Q2N2eTFsQ1BfLTNXWlNwR3ZR?oc=5",
       "authors": "OpenAI",
@@ -74,31 +94,11 @@
       ]
     },
     {
-      "title": "Introducing LifeSciBench",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 17 Ju",
-      "summary": "Introducing LifeSciBench OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Built to benefit everyone: our plan",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acHQzdUtIMzJkVmlHbkJ1Z294Y3p1d0JIR0FieFFQOHZwaENrUkFQNWFhNmctWVU0ODlSZDdFN0NZQUFpUHBqeEVxTWhNTlRNV3Z2NVRHMHlVcVBEckt4VXhScnhDaU9OcEd3cw?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 08 Ju",
       "summary": "Built to benefit everyone: our plan OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Codex for every role, tool, and workflow",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6RzVPbFNDZEpQQWYwa3MyOTJ1ZTFMemc2MFJXUl9MZXNiTmVIMjZaSVN6VkwxNkFGekF3UEVHc3d4SS13SEFsbURCMGgtcVFzZ0xZWlRYQmx4b0Qwdnk1cFEwNklFc3dKbzhlUQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 02 Ju",
-      "summary": "Codex for every role, tool, and workflow OpenAI",
       "tags": [
         "OpenAI"
       ]
