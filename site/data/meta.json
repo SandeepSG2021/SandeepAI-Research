@@ -4,21 +4,21 @@
   "last_updated": "2026-06-27",
   "papers": [
     {
-      "title": "A foundation model of vision, audition, and language for in-silico neuroscience | Research - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3VCY2NMc1daVUowUER4eE1uRGRtTWtEU3IzdGlFRi10bTJUdkZwYktoYXJxT2dGblVOcGVwR0VpS0hETm5MSm9aWjFTNUtuRlZ0ZDhFcERJYmlSWnJDd3p5NW41bDJ1VE5nSG5PMUhCYVR0ZWlRREUxamVPOF9YZE53a2swMUtrRFhBSGxOaHZJbkpVQ2FORVV1di12NGdWenR2Sm9Ib2x2U2x0eWNkd2ZJZU42YjY1ektWVQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 26 Ma",
-      "summary": "A foundation model of vision, audition, and language for in-silico neuroscience | Research AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 25 Se",
       "summary": "Connect 2024: The responsible approach we’re taking to generative AI AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "A foundation model of vision, audition, and language for in-silico neuroscience | Research - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3VCY2NMc1daVUowUER4eE1uRGRtTWtEU3IzdGlFRi10bTJUdkZwYktoYXJxT2dGblVOcGVwR0VpS0hETm5MSm9aWjFTNUtuRlZ0ZDhFcERJYmlSWnJDd3p5NW41bDJ1VE5nSG5PMUhCYVR0ZWlRREUxamVPOF9YZE53a2swMUtrRFhBSGxOaHZJbkpVQ2FORVV1di12NGdWenR2Sm9Ib2x2U2x0eWNkd2ZJZU42YjY1ektWVQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Thu, 26 Ma",
+      "summary": "A foundation model of vision, audition, and language for in-silico neuroscience | Research AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "Brain-to-Text Decoding: A Non-invasive Approach via Typing - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzFPSmpHZTBYUlY0NjhNQ0VPLURXZTlSYjFwNndhemV0X04tVzlaWlByMjN4VkVBaGRKQkt5elJQNU9aRHpBZS14bUNrN05zSldwUTlNemxMME9aTjhHaDVzUWRLLWtfdnJiczE3SjJhOWpmUFQ5Nm5KY1VpLVlHcjhuTk1Yd2NtbUc4NWhBeEhLUUJpOUw3bEFEd1pFM19QVFE?oc=5",
+      "title": "Three things everyone should know about Vision Transformers - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2NHYjhMX3FKcHdnak5BZG5kNUVUQ2dGaUQ0SVR5R2lWTV9uclNTbm9YNFVGQV9DbUJaaHhLUU5Hei1iOGVWb25pSXhPSXcyT0xuNXVlQmFGRXd2enFsQlRTVHk4Y0pVSm51emJpVWtqQVpwdlhseENWOXBwc3BoMG5YWi16WkIyLUg1ZW05RkhGR0JtYXJHeHlCSGxEX2JKdzFEdw?oc=5",
       "authors": "Meta AI",
-      "published": "Thu, 06 Fe",
-      "summary": "Brain-to-Text Decoding: A Non-invasive Approach via Typing AI at Meta",
+      "published": "Sat, 22 Oc",
+      "summary": "Three things everyone should know about Vision Transformers AI at Meta",
       "tags": [
         "Meta AI"
       ]
     },
     {
-      "title": "AIRA₂: Overcoming Bottlenecks in AI Research Agents - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGpmaklESXlJNGszTk0wMWxkdkFXeFVCYlBnWnVHY0dXM3B4X3gwODlZZjFpM3lzYkZ5M2FEM3hmbjBCOUpPZFpmTDZkazJBaktDdHM1QUhQRm5yN2d3WGh6MkRKYmE4bU8zZGd0OFNxQ0dydWVrQlBDdEctOHpJYk5HUF9iTF8wX1BfUDFhVVV1TjV1a1dj?oc=5",
+      "title": "Brain-to-Text Decoding: A Non-invasive Approach via Typing - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzFPSmpHZTBYUlY0NjhNQ0VPLURXZTlSYjFwNndhemV0X04tVzlaWlByMjN4VkVBaGRKQkt5elJQNU9aRHpBZS14bUNrN05zSldwUTlNemxMME9aTjhHaDVzUWRLLWtfdnJiczE3SjJhOWpmUFQ5Nm5KY1VpLVlHcjhuTk1Yd2NtbUc4NWhBeEhLUUJpOUw3bEFEd1pFM19QVFE?oc=5",
       "authors": "Meta AI",
-      "published": "Thu, 16 Ap",
-      "summary": "AIRA₂: Overcoming Bottlenecks in AI Research Agents AI at Meta",
+      "published": "Thu, 06 Fe",
+      "summary": "Brain-to-Text Decoding: A Non-invasive Approach via Typing AI at Meta",
       "tags": [
         "Meta AI"
       ]

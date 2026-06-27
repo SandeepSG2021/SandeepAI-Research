@@ -24,16 +24,6 @@
       ]
     },
     {
-      "title": "Project Fetch: Phase two",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TLWJxbE9YblE2Wk13TmJ2N0ZxekNHM2R1M01JUnQ0emxWWTBHczk0MzdCajhRSWd2N3l5NEFtQ2pyd1RPM29ncFdfWEdWbWFaOFk4cW13dTVkQWMzY2xYOXl6d3dJaUdlV0E?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 18 Ju",
-      "summary": "Project Fetch: Phase two Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kWmpSbFNVd24wTzBTNXVPdlFMQ3hBVjFoUUtzODR2RjhncUtDc2F3aU1uYTdtSTFNb1hhdmNRZ3ZxT3ZUSjliRzQ0aUQ3cjMzQzlYVkY4OTE0UjRKQWNVZQ?oc=5",
       "authors": "Anthropic",
@@ -94,11 +84,21 @@
       ]
     },
     {
-      "title": "Paving the way for AI agents in biology",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDc0poWWVRZXlzMldPQXVoMWdSeWZSSFBSeG96QjdWWUNJc1g2ZXE5V253SWhOWmpfWlUwVDhubGdTY1dYYXljektTaFp1NHhuSVFGczBEM3NmWGNVWGVsSHFB?oc=5",
+      "title": "Introducing Claude Opus 4.8",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5",
       "authors": "Anthropic",
-      "published": "Mon, 08 Ju",
-      "summary": "Paving the way for AI agents in biology Anthropic",
+      "published": "Thu, 28 Ma",
+      "summary": "Introducing Claude Opus 4.8 Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Building Effective AI Agents",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IRXpkYTNtNXEtN2Z5SjMxeDlrVldySjBjSnl1MDBJZzVwSGRyLWxHUUlIOEE3Vjl3X3JjQ1JvYkYwdEVuVkEyN1QxeDJkaHB4M3JMLXg5aEVaRUNlOUpRQkRjYlJ0VEFLbU9pNg?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 19 De",
+      "summary": "Building Effective AI Agents Anthropic",
       "tags": [
         "Anthropic"
       ]
