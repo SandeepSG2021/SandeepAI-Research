@@ -34,6 +34,26 @@
       ]
     },
     {
+      "title": "SAM 3: Segment Anything with Concepts - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOczdPdVlOX0pwTXVzcnlVZWd0bmdWUVIzaE1IZlhkMGZpZllYaktLWENkVEdxdElWeGk4bnRTWXlqOW1Xa0h4UjYzajdHN1pQQ2VXQk5EX3FhVjNRNE84N1dmNUVCODVZV2FEOHZJOXdPZ3A4dTNJMlJsd2xCeHZCOEZCaWoxUQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 19 No",
+      "summary": "SAM 3: Segment Anything with Concepts AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 11 Ja",
+      "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
       "title": "Introducing Llama 3.1: Our most capable models to date - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
       "authors": "Meta AI",
@@ -74,31 +94,11 @@
       ]
     },
     {
-      "title": "Bringing the world closer together with a foundational multimodal model for speech translation - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNlJicUU0RTJWZ2VjNF96VlFNcnp0TTJnUk5KQWR3VFVxNWNkYjU0clozVG03eG1Ha0FwZkhzaTUwbE5TNUJieWx0OS1xVjQ?oc=5",
+      "title": "AIRA₂: Overcoming Bottlenecks in AI Research Agents - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGpmaklESXlJNGszTk0wMWxkdkFXeFVCYlBnWnVHY0dXM3B4X3gwODlZZjFpM3lzYkZ5M2FEM3hmbjBCOUpPZFpmTDZkazJBaktDdHM1QUhQRm5yN2d3WGh6MkRKYmE4bU8zZGd0OFNxQ0dydWVrQlBDdEctOHpJYk5HUF9iTF8wX1BfUDFhVVV1TjV1a1dj?oc=5",
       "authors": "Meta AI",
-      "published": "Tue, 22 Au",
-      "summary": "Bringing the world closer together with a foundational multimodal model for speech translation AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Introducing CM3leon, a more efficient, state-of-the-art generative model for text and images - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JZGxuNGtxWjgwdFFCcGd4bjJ2d1dENHhQUG5YaEMwblFHWTVOaTVMbThuVDlEbXVzejhFcTNKLW9qbnRCeWxEeGJ1X2hKSGlnVHpBWGRlUHpJRXlPcGVCRlVtWWRCQ0JGR2s0?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 14 Ju",
-      "summary": "Introducing CM3leon, a more efficient, state-of-the-art generative model for text and images AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Introducing Segment Anything: Working toward the first foundation model for image segmentation - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2FhdVBMY0tXNDRsXy1XNjIwN3phVTdZcmMzRHBkQ1o0QmZKWVpIbmFTQThZQ3pCZHdwdjYxZzhCRGc3Y253X2xrSGVSMmY0WlpHcDE5VWRSdHJHSTZZTzV2aklsWTZoNHZBTkszUFNWNW5Jdm4wNlZXTFhnWEpZOXFfX1Q?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 05 Ap",
-      "summary": "Introducing Segment Anything: Working toward the first foundation model for image segmentation AI at Meta",
+      "published": "Thu, 16 Ap",
+      "summary": "AIRA₂: Overcoming Bottlenecks in AI Research Agents AI at Meta",
       "tags": [
         "Meta AI"
       ]
