@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-06-27",
+  "last_updated": "2026-06-28",
   "papers": [
     {
       "title": "Anthropic Economic Index report: Cadences",
@@ -54,16 +54,6 @@
       ]
     },
     {
-      "title": "Results from the first Anthropic Public Record",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sUXRvWW91TTJBazFqVWdITGR6VmdQWGp3UnJ5MG5INEZPZHhlajVpdzFLSUtoeEdkMFdZX3hZSlRLNE9IbTFUMDRYLTBJZWJkMUtPYjBxVlNXOGRDSmxmWk1sV1U?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 12 Ju",
-      "summary": "Results from the first Anthropic Public Record Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Introducing Claude Corps",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
       "authors": "Anthropic",
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Wed, 08 Ma",
       "summary": "Core views on AI safety: When, why, what, and how Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Introducing Claude Opus 4.8",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 28 Ma",
+      "summary": "Introducing Claude Opus 4.8 Anthropic",
       "tags": [
         "Anthropic"
       ]
