@@ -4,6 +4,17 @@
   "last_updated": "2026-06-29",
   "papers": [
     {
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "authors": "Molly McHugh-Johnson",
+      "published": "Mon, 29 Ju",
+      "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+      "tags": [
+        "Developer tools",
+        "AI"
+      ]
+    },
+    {
       "title": "Our latest Google Finance upgrades, including a new app",
       "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
       "authors": "Barine Tee",
@@ -111,17 +122,6 @@
       "tags": [
         "Gemini models",
         "Google DeepMind",
-        "AI"
-      ]
-    },
-    {
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-      "authors": "Google AI Blog",
-      "published": "Fri, 29 Ma",
-      "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
-      "tags": [
-        "Learning & Education",
         "AI"
       ]
     }
