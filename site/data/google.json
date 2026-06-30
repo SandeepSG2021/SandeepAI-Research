@@ -4,6 +4,17 @@
   "last_updated": "2026-06-30",
   "papers": [
     {
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "authors": "Kate Alessi",
+      "published": "Tue, 30 Ju",
+      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
+      "tags": [
+        "UK",
+        "AI"
+      ]
+    },
+    {
       "title": "Ask an AI expert: What exactly is the full stack?",
       "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
       "authors": "Molly McHugh-Johnson",
@@ -110,18 +121,6 @@
       "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
       "tags": [
         "Developer tools",
-        "AI"
-      ]
-    },
-    {
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "authors": "Zahra Thompson",
-      "published": "Fri, 29 Ma",
-      "summary": "Gemini Omni & Gemini 3.5 hero",
-      "tags": [
-        "Gemini models",
-        "Google DeepMind",
         "AI"
       ]
     }
