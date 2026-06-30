@@ -4,6 +4,26 @@
   "last_updated": "2026-06-30",
   "papers": [
     {
+      "title": "Introducing GeneBench-Pro",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pT20yVzBDMlA4SmhaYW9xX2piZUlYY2hZRk14bFU4bzJ5VGVmWWlhd0ZMNnpwRkVwaGpEMzFnZVZpOVlveUR3NHpBa2R1aFZCbDlfNGFNVlpOam44d1pVOA?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 30 Ju",
+      "summary": "Introducing GeneBench-Pro OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oZ1NSVGhDY0pBQklXR3p1SDNSamt3NFVQWlc0a200ZEJuLTkxRUJ2bWx4Snc4MHpMR1JlVEJpTnlrNkNHcVF2LXVNUkpyeXB0STU0RV96eUlRamp6UXdSdU85bGticENZOUJwRGlwZzNWeUVLRURvay1hNzc?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 30 Ju",
+      "summary": "Core dump epidemiology: fixing an 18-year-old bug OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aVXNYOXFWbVI0MWVHamVMTmpjeWlHcVZQX29ITlZpWEFuazdQeDdvVk1oZWx0eHpRTTNubUhfc0VCb0t4aVo5QTdnUTRuenVhSEdWUDVLNUF5UzBrU0NMdm52MFhzdw?oc=5",
       "authors": "OpenAI",
@@ -74,31 +94,11 @@
       ]
     },
     {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90VVluclVyOVNEY3I2a2hVMzg0Ylp1VFhXa1pIdHlCd19wRUI4Z1pZZUktTUxZZnlPMjJ3YXZiRWswRzdBZENMRW02WFRYYTRRV1NxLUtwZjl0djc2dFhOZm5QdTJERUl6Q2N2eTFsQ1BfLTNXWlNwR3ZR?oc=5",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xMWh0bGFScjlsT3JCLTNRWWFBaXQwWUNKNUtodXhJQ3A1SFBYTkozNUh4UVdCWWRvSzMzNFpzZlh5dDQzYjFKOTRlckpPc0JsWFVfVg?oc=5",
       "authors": "OpenAI",
-      "published": "Sun, 21 Ju",
-      "summary": "Samsung Electronics brings ChatGPT and Codex to employees OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How Omio is building the future of conversational travel",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8wRnluRHJybWFjVVBEMXp0ZHZSZzNXUFlnUXhRVEpUSlozWEpzcHFRZTJxNTBBUlIyaDZmdURxRW84b0Zj?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 23 Ju",
-      "summary": "How Omio is building the future of conversational travel OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "New OpenAI Academy courses for the next era of work",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04c214STNfR3hUQi10QnRUUXNDSzZidVp4VTl1dWJKVDJGT3Naem1URGkxUEk5Y0o1MTVZOERYMjU2ejlHcDBhWjJpZUppTVFCSVFnUU44UUlCTDQzd2VkdlN0d2psVy1rX3lZb29B?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 12 Ju",
-      "summary": "New OpenAI Academy courses for the next era of work OpenAI",
+      "published": "Mon, 22 Ju",
+      "summary": "Patch the Planet: a Daybreak initiative to support open source maintainers OpenAI",
       "tags": [
         "OpenAI"
       ]
