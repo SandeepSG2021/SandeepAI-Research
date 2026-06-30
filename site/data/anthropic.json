@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-06-30",
   "papers": [
     {
       "title": "Anthropic Economic Index report: Cadences",
@@ -29,16 +29,6 @@
       "authors": "Anthropic",
       "published": "Thu, 18 Ju",
       "summary": "Project Fetch: Phase two Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kWmpSbFNVd24wTzBTNXVPdlFMQ3hBVjFoUUtzODR2RjhncUtDc2F3aU1uYTdtSTFNb1hhdmNRZ3ZxT3ZUSjliRzQ0aUQ3cjMzQzlYVkY4OTE0UjRKQWNVZQ?oc=5",
-      "authors": "Anthropic",
-      "published": "Wed, 03 Ju",
-      "summary": "Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Thu, 19 De",
       "summary": "Building Effective AI Agents Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Agents for financial services",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IS1R3ZVd5NUxtWGJjRlFBQXZfOXJPS2xlY0wtaWZhSmx0M2RNaFUwN3FCU1Y3bTh5dkhqOEtIUE94UXFtT2l1MEk0WFZyUVRYV1Fsc1JrMEU?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 05 Ma",
+      "summary": "Agents for financial services Anthropic",
       "tags": [
         "Anthropic"
       ]

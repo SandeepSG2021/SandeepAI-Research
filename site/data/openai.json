@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-06-30",
   "papers": [
     {
       "title": "Mapping Europe’s AI Workforce Opportunity",
@@ -74,16 +74,6 @@
       ]
     },
     {
-      "title": "Codex-maxxing for long-running work",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wRGpfZ2M4RElzMzNMVXBnRGVYMlRRQ0xYZEJyYnBFbTJNdmtJNHlSdFRwSTNqbW9hTXNNVlNXZHdtcGoyenZBOFNUdlh2d1R4UTdsc2RXeEhNdXdlTUU3Tm5ZZWczTXA2?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 22 Ju",
-      "summary": "Codex-maxxing for long-running work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "How Omio is building the future of conversational travel",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8wRnluRHJybWFjVVBEMXp0ZHZSZzNXUFlnUXhRVEpUSlozWEpzcHFRZTJxNTBBUlIyaDZmdURxRW84b0Zj?oc=5",
       "authors": "OpenAI",
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Sun, 21 Ju",
       "summary": "Samsung Electronics brings ChatGPT and Codex to employees OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2QjliMWJCUGplNU1kRFdCMWlGb3o5UHpzUnVJMnd1U0dSUmQ0RGhnZ0M5eGxLVGlIM3V2LXhDb1k1M3VwWWRibEc2eUg3dDZkWGFXUXJJajFnOVRiTnY3VUtB?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 08 Ju",
+      "summary": "Introducing the OpenAI Economic Research Exchange OpenAI",
       "tags": [
         "OpenAI"
       ]

@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-06-30",
   "papers": [
     {
       "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery - AI at Meta",
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 11 Ja",
-      "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Introducing Llama 3.1: Our most capable models to date - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
       "authors": "Meta AI",
       "published": "Tue, 23 Ju",
       "summary": "Introducing Llama 3.1: Our most capable models to date AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 11 Ja",
+      "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
       "tags": [
         "Meta AI"
       ]

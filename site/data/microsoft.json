@@ -1,12 +1,12 @@
 {
   "source": "Microsoft-AI",
   "source_url": "https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/",
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-06-30",
   "papers": [
     {
       "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
       "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
-      "authors": "Xuchao Zhang, Molly Xia, Mayukh Das, Anson Bastos, Chetan Bansal, Saravan Rajmohan",
+      "authors": "Xuchao Zhang, Molly Xia, Mayukh Das, Anson Bastos, Rujia Wang, Chetan Bansal, Saravan Rajmohan",
       "published": "Mon, 29 Ju",
       "summary": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved. The post Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity appeared first on Microsoft Research .",
       "tags": [
