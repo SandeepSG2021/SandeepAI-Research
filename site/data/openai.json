@@ -44,16 +44,6 @@
       ]
     },
     {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YdVhXOXlwOW4zZ1djUXRwNFE1aktMeDZKMDZqYXFLRzkxd080UmJUUXdvY21QYTZuSE12S0tnYWdaUXBraXo5OEoyNVNfYTZMb1ZWLXNSZEJLTGlBX2c?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 29 Ju",
-      "summary": "HP Inc. launches Frontier strategic partnership with OpenAI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
       "authors": "OpenAI",
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Mon, 22 Ju",
       "summary": "Patch the Planet: a Daybreak initiative to support open source maintainers OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YdVhXOXlwOW4zZ1djUXRwNFE1aktMeDZKMDZqYXFLRzkxd080UmJUUXdvY21QYTZuSE12S0tnYWdaUXBraXo5OEoyNVNfYTZMb1ZWLXNSZEJLTGlBX2c?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 29 Ju",
+      "summary": "HP Inc. launches Frontier strategic partnership with OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
