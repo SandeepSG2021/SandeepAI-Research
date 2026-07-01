@@ -4,6 +4,20 @@
   "last_updated": "2026-07-01",
   "papers": [
     {
+      "title": "The latest AI news we announced in June 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "authors": "Keyword Team",
+      "published": "Wed, 01 Ju",
+      "summary": "June Pixel Drop hero",
+      "tags": [
+        "Search",
+        "NotebookLM",
+        "Android",
+        "Arts & Culture",
+        "Google DeepMind"
+      ]
+    },
+    {
       "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
       "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "authors": "Google AI Blog",
@@ -108,19 +122,6 @@
       "tags": [
         "Search",
         "Shopping",
-        "AI"
-      ]
-    },
-    {
-      "title": "How we used Gemini to build Google I/O 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "authors": "Marvin Chow",
-      "published": "Mon, 01 Ju",
-      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
-      "tags": [
-        "Gemini models",
-        "Google Labs",
-        "Developer tools",
         "AI"
       ]
     }
