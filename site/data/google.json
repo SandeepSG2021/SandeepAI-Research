@@ -4,6 +4,17 @@
   "last_updated": "2026-07-01",
   "papers": [
     {
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "authors": "Google AI Blog",
+      "published": "Wed, 01 Ju",
+      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "tags": [
+        "Learning & Education",
+        "AI"
+      ]
+    },
+    {
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "authors": "Kate Alessi",
@@ -109,17 +120,6 @@
       "tags": [
         "Gemini models",
         "Google Labs",
-        "Developer tools",
-        "AI"
-      ]
-    },
-    {
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "authors": "Zahra Thompson",
-      "published": "Fri, 29 Ma",
-      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-      "tags": [
         "Developer tools",
         "AI"
       ]
