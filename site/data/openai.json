@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-01",
+  "last_updated": "2026-07-02",
   "papers": [
     {
       "title": "Introducing GeneBench-Pro",
@@ -24,21 +24,21 @@
       ]
     },
     {
-      "title": "How ChatGPT adoption has expanded",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MOEZJSk1Sa1JXZjYyQjJHdUU5N09uTmRvczNuX2RZcmdvbGgwRXdLSnBzaW9hNEcxbjhuTmpSb3VPVDRzZkhERnk3T04tY2V3X2I0RVRXNkZycTd4SHlHTF9UX0U3QlQzZG5n?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 30 Ju",
-      "summary": "How ChatGPT adoption has expanded OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aVXNYOXFWbVI0MWVHamVMTmpjeWlHcVZQX29ITlZpWEFuazdQeDdvVk1oZWx0eHpRTTNubUhfc0VCb0t4aVo5QTdnUTRuenVhSEdWUDVLNUF5UzBrU0NMdm52MFhzdw?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 29 Ju",
       "summary": "Mapping Europe’s AI Workforce Opportunity OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How ChatGPT adoption has expanded",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MOEZJSk1Sa1JXZjYyQjJHdUU5N09uTmRvczNuX2RZcmdvbGgwRXdLSnBzaW9hNEcxbjhuTmpSb3VPVDRzZkhERnk3T04tY2V3X2I0RVRXNkZycTd4SHlHTF9UX0U3QlQzZG5n?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 30 Ju",
+      "summary": "How ChatGPT adoption has expanded OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YdVhXOXlwOW4zZ1djUXRwNFE1aktMeDZKMDZqYXFLRzkxd080UmJUUXdvY21QYTZuSE12S0tnYWdaUXBraXo5OEoyNVNfYTZMb1ZWLXNSZEJLTGlBX2c?oc=5",
+      "title": "Introducing LifeSciBench",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 29 Ju",
-      "summary": "HP Inc. launches Frontier strategic partnership with OpenAI OpenAI",
+      "published": "Wed, 17 Ju",
+      "summary": "Introducing LifeSciBench OpenAI",
       "tags": [
         "OpenAI"
       ]
