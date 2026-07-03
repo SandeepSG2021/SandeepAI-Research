@@ -24,16 +24,6 @@
       ]
     },
     {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aVXNYOXFWbVI0MWVHamVMTmpjeWlHcVZQX29ITlZpWEFuazdQeDdvVk1oZWx0eHpRTTNubUhfc0VCb0t4aVo5QTdnUTRuenVhSEdWUDVLNUF5UzBrU0NMdm52MFhzdw?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 29 Ju",
-      "summary": "Mapping Europe’s AI Workforce Opportunity OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
       "authors": "OpenAI",
@@ -74,6 +64,16 @@
       ]
     },
     {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xMWh0bGFScjlsT3JCLTNRWWFBaXQwWUNKNUtodXhJQ3A1SFBYTkozNUh4UVdCWWRvSzMzNFpzZlh5dDQzYjFKOTRlckpPc0JsWFVfVg?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 22 Ju",
+      "summary": "Patch the Planet: a Daybreak initiative to support open source maintainers OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How ChatGPT adoption has expanded",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MOEZJSk1Sa1JXZjYyQjJHdUU5N09uTmRvczNuX2RZcmdvbGgwRXdLSnBzaW9hNEcxbjhuTmpSb3VPVDRzZkhERnk3T04tY2V3X2I0RVRXNkZycTd4SHlHTF9UX0U3QlQzZG5n?oc=5",
       "authors": "OpenAI",
@@ -84,11 +84,11 @@
       ]
     },
     {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xMWh0bGFScjlsT3JCLTNRWWFBaXQwWUNKNUtodXhJQ3A1SFBYTkozNUh4UVdCWWRvSzMzNFpzZlh5dDQzYjFKOTRlckpPc0JsWFVfVg?oc=5",
+      "title": "Introducing LifeSciBench",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 22 Ju",
-      "summary": "Patch the Planet: a Daybreak initiative to support open source maintainers OpenAI",
+      "published": "Wed, 17 Ju",
+      "summary": "Introducing LifeSciBench OpenAI",
       "tags": [
         "OpenAI"
       ]
