@@ -1,8 +1,18 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-07-02",
+  "last_updated": "2026-07-03",
   "papers": [
+    {
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 03 Ju",
+      "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
     {
       "title": "Redeploying Claude Fable 5",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ESzFvR1hURE9ERWlNc0pNaFg3UEtxbGJza2FfQXItRWpGckpVTUpiU0lVN1VvZXBSVzZ3LVBobEJNQUhFOHBlcWVOSkFndkZfckF1T3l1eDI3N3NGYVFJ?oc=5",
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Tue, 09 Ju",
       "summary": "Claude Fable 5 and Claude Mythos 5 Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Making Claude a chemist",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMkgxR3JCakJ0S2pJLUEzQ2gzZjVHdjNjUjBaV2hVTHE4UFYtTVdpdmdUcUtzeldxWXpEXzJRX2dTTzJjSGlpbm1CME9mZkJZa2FWVnpCdU1UeDhYbEprQjVSeVdQakUzMGc?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 05 Ju",
-      "summary": "Making Claude a chemist Anthropic",
       "tags": [
         "Anthropic"
       ]
