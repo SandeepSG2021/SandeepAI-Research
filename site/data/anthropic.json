@@ -44,6 +44,16 @@
       ]
     },
     {
+      "title": "Introducing Claude Tag",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 23 Ju",
+      "summary": "Introducing Claude Tag Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "How Claude Code is used in practice",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5",
       "authors": "Anthropic",
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Thu, 19 De",
       "summary": "Building Effective AI Agents Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Agents for financial services",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IS1R3ZVd5NUxtWGJjRlFBQXZfOXJPS2xlY0wtaWZhSmx0M2RNaFUwN3FCU1Y3bTh5dkhqOEtIUE94UXFtT2l1MEk0WFZyUVRYV1Fsc1JrMEU?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 05 Ma",
-      "summary": "Agents for financial services Anthropic",
       "tags": [
         "Anthropic"
       ]
