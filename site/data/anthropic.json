@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "papers": [
     {
       "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",

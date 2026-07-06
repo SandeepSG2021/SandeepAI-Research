@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "papers": [
     {
       "title": "Introducing GeneBench-Pro",
@@ -64,21 +64,21 @@
       ]
     },
     {
-      "title": "Introducing LifeSciBench",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 17 Ju",
-      "summary": "Introducing LifeSciBench OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "OpenAI to acquire Ona",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XcTZvT3p2REQyLVZOc1ZYdHEyLTZ3b1hDal93VkdkMVdudlU3VHk2TnlWV1BtTUxkS1NkVld4Zmp6cGpRVFRhYlpETlV0LVFrSWJkRDlvcHhKNG8?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 11 Ju",
       "summary": "OpenAI to acquire Ona OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing LifeSciBench",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 17 Ju",
+      "summary": "Introducing LifeSciBench OpenAI",
       "tags": [
         "OpenAI"
       ]
