@@ -26,7 +26,7 @@
     {
       "title": "Understanding the brain with AI-driven explanations and experiments",
       "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
-      "authors": "Chandan Singh, Jianfeng Gao",
+      "authors": "Jianfeng Gao",
       "published": "Thu, 25 Ju",
       "summary": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language. The post Understanding the brain with AI-driven explanations and experiments appeared first on Microsoft Research .",
       "tags": [
