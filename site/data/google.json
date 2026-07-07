@@ -4,6 +4,17 @@
   "last_updated": "2026-07-07",
   "papers": [
     {
+      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "authors": "Mariano Cocirio",
+      "published": "Tue, 07 Ju",
+      "summary": "Managed agents feature bundle launch",
+      "tags": [
+        "Developer tools",
+        "AI"
+      ]
+    },
+    {
       "title": "The latest AI news we announced in June 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
       "authors": "Keyword Team",
@@ -111,18 +122,6 @@
         "Google DeepMind",
         "Google Labs",
         "Quantum computing"
-      ]
-    },
-    {
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "authors": "Megan Stoner",
-      "published": "Wed, 03 Ju",
-      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
-      "tags": [
-        "Search",
-        "Shopping",
-        "AI"
       ]
     }
   ]
