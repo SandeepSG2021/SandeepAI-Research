@@ -4,125 +4,103 @@
   "last_updated": "2026-07-07",
   "papers": [
     {
-      "title": "The latest AI news we announced in June 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "authors": "Keyword Team",
-      "published": "Wed, 01 Ju",
-      "summary": "June Pixel Drop hero",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "authors": "Google DeepMind",
+      "published": "Fri, 03 Ju",
+      "summary": "",
       "tags": [
-        "Search",
-        "NotebookLM",
-        "Android",
-        "Arts & Culture",
         "Google DeepMind"
       ]
     },
     {
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "authors": "Google AI Blog",
-      "published": "Wed, 01 Ju",
-      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "tags": [
-        "Learning & Education",
-        "AI"
-      ]
-    },
-    {
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "authors": "Kate Alessi",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "authors": "Google DeepMind",
       "published": "Tue, 30 Ju",
-      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
+      "summary": "",
       "tags": [
-        "UK",
-        "AI"
+        "Google DeepMind"
       ]
     },
     {
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "authors": "Molly McHugh-Johnson",
-      "published": "Mon, 29 Ju",
-      "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "authors": "Google DeepMind",
+      "published": "Wed, 24 Ju",
+      "summary": "",
       "tags": [
-        "Developer tools",
-        "AI"
+        "Google DeepMind"
       ]
     },
     {
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "authors": "Barine Tee",
-      "published": "Thu, 25 Ju",
-      "summary": "The Google Finance logo, surrounded by elements of the user interface",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "authors": "Google DeepMind",
+      "published": "Tue, 16 Ju",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
       "tags": [
-        "Search",
-        "AI"
+        "Google DeepMind"
       ]
     },
     {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "authors": "Mike Schaekermann",
-      "published": "Wed, 17 Ju",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "title": "Securing the future of AI agents",
+      "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "authors": "Google DeepMind",
+      "published": "Tue, 16 Ju",
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
       "tags": [
-        "Google Research",
-        "Google DeepMind",
-        "Health",
-        "AI"
+        "Google DeepMind"
       ]
     },
     {
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "authors": "Google AI Blog",
-      "published": "Mon, 15 Ju",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "authors": "Google DeepMind",
+      "published": "Wed, 10 Ju",
+      "summary": "",
       "tags": [
-        "Global Network",
-        "Creating opportunity",
-        "AI"
+        "Google DeepMind"
       ]
     },
     {
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "authors": "Google AI Blog",
-      "published": "Thu, 11 Ju",
-      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "title": "Investing in multi-agent AI safety research",
+      "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "authors": "Google DeepMind",
+      "published": "Wed, 10 Ju",
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
       "tags": [
-        "Google.org",
-        "Global Network",
-        "Creating opportunity",
-        "AI"
+        "Google DeepMind"
       ]
     },
     {
-      "title": "The latest AI news we announced in May 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "authors": "Blog Team",
-      "published": "Fri, 05 Ju",
-      "summary": "May AI recap",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "authors": "Google DeepMind",
+      "published": "Tue, 09 Ju",
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
       "tags": [
-        "Search",
-        "Android",
-        "Google DeepMind",
-        "Google Labs",
-        "Quantum computing"
+        "Google DeepMind"
       ]
     },
     {
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "authors": "Megan Stoner",
-      "published": "Wed, 03 Ju",
-      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "authors": "Google DeepMind",
+      "published": "Tue, 09 Ju",
+      "summary": "",
       "tags": [
-        "Search",
-        "Shopping",
-        "AI"
+        "Google DeepMind"
+      ]
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "authors": "Google DeepMind",
+      "published": "Tue, 09 Ju",
+      "summary": "",
+      "tags": [
+        "Google DeepMind"
       ]
     }
   ]
