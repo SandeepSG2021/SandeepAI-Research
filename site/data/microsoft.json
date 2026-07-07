@@ -1,7 +1,7 @@
 {
   "source": "Microsoft-AI",
   "source_url": "https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/",
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-07-07",
   "papers": [
     {
       "title": "SkillOpt: Agent skills as trainable parameters",
