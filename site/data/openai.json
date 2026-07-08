@@ -4,6 +4,16 @@
   "last_updated": "2026-07-08",
   "papers": [
     {
+      "title": "Introducing GPT-Live",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DVXI2NXkzejZWS2piS0F6aTh4YWlHMVRCT3lkTWdsb2NjYkpnOFpSR0hlNWxBd2swaklLak5JanFpY3dSU3lyUnlyalMwbUVJQXE2MHVSZmQ2dw?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 08 Ju",
+      "summary": "Introducing GPT-Live OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JOHRUWm40a2RBeFhtVlVoZkJnXy1iNWdvLV96YVpuUi10QlVFMzljRC04a0J1QWFMTTFzVkYxRzJST2dXSWVNRlVMNTJiQ2xxTU5qaUpSUnlMeDZ6SWxz?oc=5",
       "authors": "OpenAI",
@@ -54,21 +64,21 @@
       ]
     },
     {
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FcEMyYTNYeHRuOFIwTmdUcW1DdUZVTmkzUlM5MmgxUU45QkhrcnBkTUFTcHhDcV9jclp0TGppay1rZUhKT09fSUtvQUs3cmYyUHNoLWJDVk14dThwR3dB?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 23 Ju",
-      "summary": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xMWh0bGFScjlsT3JCLTNRWWFBaXQwWUNKNUtodXhJQ3A1SFBYTkozNUh4UVdCWWRvSzMzNFpzZlh5dDQzYjFKOTRlckpPc0JsWFVfVg?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 22 Ju",
       "summary": "Patch the Planet: a Daybreak initiative to support open source maintainers OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FcEMyYTNYeHRuOFIwTmdUcW1DdUZVTmkzUlM5MmgxUU45QkhrcnBkTUFTcHhDcV9jclp0TGppay1rZUhKT09fSUtvQUs3cmYyUHNoLWJDVk14dThwR3dB?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 23 Ju",
+      "summary": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 10 Ju",
       "summary": "PRC-linked influence operations are targeting AI debates in the US OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jMVZYNmlKRzNCcndxTHE2N2tEa21NRnpZLVd4OG91TGpCeDJaWTlqa0EzajdBdWVwZGlvMkctWmd3U0xxQ3N3MFR4bkNRVEJtYlZOeEFaUXdvYV8wT0pz?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 15 Ma",
-      "summary": "A new personal finance experience in ChatGPT OpenAI",
       "tags": [
         "OpenAI"
       ]
