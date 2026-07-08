@@ -4,6 +4,16 @@
   "last_updated": "2026-07-08",
   "papers": [
     {
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JOHRUWm40a2RBeFhtVlVoZkJnXy1iNWdvLV96YVpuUi10QlVFMzljRC04a0J1QWFMTTFzVkYxRzJST2dXSWVNRlVMNTJiQ2xxTU5qaUpSUnlMeDZ6SWxz?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 07 Ju",
+      "summary": "Australian Payments Plus moves faster with ChatGPT and Codex OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing GeneBench-Pro",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pT20yVzBDMlA4SmhaYW9xX2piZUlYY2hZRk14bFU4bzJ5VGVmWWlhd0ZMNnpwRkVwaGpEMzFnZVZpOVlveUR3NHpBa2R1aFZCbDlfNGFNVlpOam44d1pVOA?oc=5",
       "authors": "OpenAI",
@@ -74,16 +84,6 @@
       ]
     },
     {
-      "title": "Introducing LifeSciBench",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 17 Ju",
-      "summary": "Introducing LifeSciBench OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "PRC-linked influence operations are targeting AI debates in the US",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hbGEzYUxQMlNOVzFaanBFUmo0b09XUlhmV2txb19Vd0o5cXF6Wmx6cFJoVWtYRzZqaEJWSDU0eUF0Y3VfemVoRTdOcGJSMHFSWGtYSUhmZHFVTDlseS1GUDZpWkIwanlJSXlDU0s4aERjTnl1Q2o0?oc=5",
       "authors": "OpenAI",
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "A new personal finance experience in ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jMVZYNmlKRzNCcndxTHE2N2tEa21NRnpZLVd4OG91TGpCeDJaWTlqa0EzajdBdWVwZGlvMkctWmd3U0xxQ3N3MFR4bkNRVEJtYlZOeEFaUXdvYV8wT0pz?oc=5",
+      "title": "Introducing LifeSciBench",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
       "authors": "OpenAI",
-      "published": "Fri, 15 Ma",
-      "summary": "A new personal finance experience in ChatGPT OpenAI",
+      "published": "Wed, 17 Ju",
+      "summary": "Introducing LifeSciBench OpenAI",
       "tags": [
         "OpenAI"
       ]
