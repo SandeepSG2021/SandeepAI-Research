@@ -6,7 +6,7 @@
     {
       "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
       "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
-      "authors": "Kenji Takeda, Jonathan Weyn, Amit Misra, Matt Corey, Kevin White, Shannon Monroe, Juan M. Lavista Ferres, Ashley Llorens, Bonnie Kruft",
+      "authors": "Kenji Takeda, Haiyu Dong, Jonathan Weyn, Amit Misra, Matt Corey, Kevin White, Shannon Monroe, Juan M. Lavista Ferres, Ashley Llorens, Bonnie Kruft",
       "published": "Thu, 09 Ju",
       "summary": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications. The post Aurora 1.5: Extending open foundation models for weather and Earth-system applications appeared first on Microsoft Research .",
       "tags": [
