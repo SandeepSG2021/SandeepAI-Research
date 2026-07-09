@@ -4,6 +4,16 @@
   "last_updated": "2026-07-09",
   "papers": [
     {
+      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+      "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+      "authors": "Kenji Takeda, Jonathan Weyn, Amit Misra, Matt Corey, Kevin White, Shannon Monroe, Juan M. Lavista Ferres, Ashley Llorens, Bonnie Kruft",
+      "published": "Thu, 09 Ju",
+      "summary": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications. The post Aurora 1.5: Extending open foundation models for weather and Earth-system applications appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
       "title": "Flint: A visualization language for the AI era",
       "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
       "authors": "Chenglong Wang, Alper Sarikaya, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
@@ -89,16 +99,6 @@
       "authors": "Microsoft Research AI Frontiers",
       "published": "Thu, 21 Ma",
       "summary": "MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks. The post MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models appeared first on Microsoft Research .",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
-      "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
-      "authors": "Srinath Setty",
-      "published": "Thu, 21 Ma",
-      "summary": "Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. The post Vega: Zero-knowledge proofs for digital identity in the age of AI appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]

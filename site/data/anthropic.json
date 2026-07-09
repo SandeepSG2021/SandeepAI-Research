@@ -4,11 +4,21 @@
   "last_updated": "2026-07-09",
   "papers": [
     {
-      "title": "An off switch for dual use knowledge in AI models",
+      "title": "A new way to reflect on how you use Claude",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 09 Ju",
+      "summary": "A new way to reflect on how you use Claude Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "An off switch for dual-use knowledge in AI models",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SRVlydDkxV0drdmxXSE9rZmVBQXVraGdEd3d5S2ZCTFFRMk5VVXBPTml4Y3RId1NSLUpJWHY2RHNOcjF1VU9wUWN5cGZKVFNsWWR0Q3hPWnpDRHQtaTNnYVh3WkQ?oc=5",
       "authors": "Anthropic",
       "published": "Wed, 08 Ju",
-      "summary": "An off switch for dual use knowledge in AI models Anthropic",
+      "summary": "An off switch for dual-use knowledge in AI models Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Thu, 11 Ju",
       "summary": "Introducing Claude Corps Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Results from the first Anthropic Public Record",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sUXRvWW91TTJBazFqVWdITGR6VmdQWGp3UnJ5MG5INEZPZHhlajVpdzFLSUtoeEdkMFdZX3hZSlRLNE9IbTFUMDRYLTBJZWJkMUtPYjBxVlNXOGRDSmxmWk1sV1U?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 12 Ju",
-      "summary": "Results from the first Anthropic Public Record Anthropic",
       "tags": [
         "Anthropic"
       ]
