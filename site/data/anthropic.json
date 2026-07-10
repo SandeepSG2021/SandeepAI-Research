@@ -4,21 +4,21 @@
   "last_updated": "2026-07-10",
   "papers": [
     {
-      "title": "Inviting hard questions",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 09 Ju",
-      "summary": "Inviting hard questions Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "UST is bringing Claude to physical AI",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj?oc=5",
       "authors": "Anthropic",
       "published": "Fri, 10 Ju",
       "summary": "UST is bringing Claude to physical AI Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Inviting hard questions",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 09 Ju",
+      "summary": "Inviting hard questions Anthropic",
       "tags": [
         "Anthropic"
       ]
