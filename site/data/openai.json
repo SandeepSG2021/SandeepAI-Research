@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-09",
+  "last_updated": "2026-07-10",
   "papers": [
     {
       "title": "ChatGPT is now a partner for your most ambitious work",
@@ -14,21 +14,21 @@
       ]
     },
     {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 09 Ju",
-      "summary": "GPT-5.6: Frontier intelligence that scales with your ambition OpenAI",
+      "summary": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot OpenAI",
       "tags": [
         "OpenAI"
       ]
     },
     {
-      "title": "OpenAI Bio Bug Bounty",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sTmg5dlpQSnZ0MEdYWnBlS0xXbzBHVlZLbHliSURyX09WdGpucFllS0ZzR1RnRnhaRXo2LUdSanc0bjZseTJvZl92d053X2szTHc?oc=5",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 09 Ju",
-      "summary": "OpenAI Bio Bug Bounty OpenAI",
+      "summary": "GPT-5.6: Frontier intelligence that scales with your ambition OpenAI",
       "tags": [
         "OpenAI"
       ]
