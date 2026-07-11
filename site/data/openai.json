@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-07-11",
   "papers": [
     {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "title": "Our approach to government and national security partnerships",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45RzBJcm9pMTJaYS05MkJnVkh6NmRvamJYUkY4NFlqa3U5SnVYekFSc2ZJWWJrdVhpSXZtRE5ka0RYZ2RiYVNMVzlMSnZ4Mm4tMFJuZUY2V0FfLS14S1JHeWNRTFBabTNycTdkLVJmdHBJTU5RekE?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 08 Ju",
-      "summary": "Our approach to government and national security partnerships OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing GeneBench-Pro",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pT20yVzBDMlA4SmhaYW9xX2piZUlYY2hZRk14bFU4bzJ5VGVmWWlhd0ZMNnpwRkVwaGpEMzFnZVZpOVlveUR3NHpBa2R1aFZCbDlfNGFNVlpOam44d1pVOA?oc=5",
       "authors": "OpenAI",
       "published": "Tue, 30 Ju",
       "summary": "Introducing GeneBench-Pro OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45RzBJcm9pMTJaYS05MkJnVkh6NmRvamJYUkY4NFlqa3U5SnVYekFSc2ZJWWJrdVhpSXZtRE5ka0RYZ2RiYVNMVzlMSnZ4Mm4tMFJuZUY2V0FfLS14S1JHeWNRTFBabTNycTdkLVJmdHBJTU5RekE?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 08 Ju",
+      "summary": "Our approach to government and national security partnerships OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FcEMyYTNYeHRuOFIwTmdUcW1DdUZVTmkzUlM5MmgxUU45QkhrcnBkTUFTcHhDcV9jclp0TGppay1rZUhKT09fSUtvQUs3cmYyUHNoLWJDVk14dThwR3dB?oc=5",
+      "title": "A new personal finance experience in ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jMVZYNmlKRzNCcndxTHE2N2tEa21NRnpZLVd4OG91TGpCeDJaWTlqa0EzajdBdWVwZGlvMkctWmd3U0xxQ3N3MFR4bkNRVEJtYlZOeEFaUXdvYV8wT0pz?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 23 Ju",
-      "summary": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery OpenAI",
+      "published": "Fri, 15 Ma",
+      "summary": "A new personal finance experience in ChatGPT OpenAI",
       "tags": [
         "OpenAI"
       ]
