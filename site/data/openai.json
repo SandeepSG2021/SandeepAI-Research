@@ -74,16 +74,6 @@
       ]
     },
     {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Cc2Y5b01rdnZSWVI4aW9oUm5oY2hvYUo4NElQZG5MRnBiWDVHY0FKVEdXSG9CU2xpbGpPbUg0LWx5bFJBZGg3TFdNVmpkRlNyaF9EWg?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 10 Ju",
-      "summary": "How Deutsche Telekom is rewiring telecommunications with AI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "A new personal finance experience in ChatGPT",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jMVZYNmlKRzNCcndxTHE2N2tEa21NRnpZLVd4OG91TGpCeDJaWTlqa0EzajdBdWVwZGlvMkctWmd3U0xxQ3N3MFR4bkNRVEJtYlZOeEFaUXdvYV8wT0pz?oc=5",
       "authors": "OpenAI",
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Wed, 30 No",
       "summary": "Introducing ChatGPT OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RVzNoUThNYkhfTXVTUGVoT3lLXzNfSFV5Y0IzLWR6YVhEaGhLeEllQ3lXbDVCYnlXSDMwYzBnLXBpWXZoVW1DMmpCQ085UUFFYWkzOG83NDc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 11 Fe",
+      "summary": "Harness engineering: leveraging Codex in an agent-first world OpenAI",
       "tags": [
         "OpenAI"
       ]
