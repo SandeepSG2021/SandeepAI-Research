@@ -1,7 +1,7 @@
 {
   "source": "Google-AI",
   "source_url": "https://ai.google/research/",
-  "last_updated": "2026-07-12",
+  "last_updated": "2026-07-13",
   "papers": [
     {
       "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",

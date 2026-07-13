@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-12",
+  "last_updated": "2026-07-13",
   "papers": [
     {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
@@ -54,16 +54,6 @@
       ]
     },
     {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Cc2Y5b01rdnZSWVI4aW9oUm5oY2hvYUo4NElQZG5MRnBiWDVHY0FKVEdXSG9CU2xpbGpPbUg0LWx5bFJBZGg3TFdNVmpkRlNyaF9EWg?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 10 Ju",
-      "summary": "How Deutsche Telekom is rewiring telecommunications with AI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing GeneBench-Pro",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pT20yVzBDMlA4SmhaYW9xX2piZUlYY2hZRk14bFU4bzJ5VGVmWWlhd0ZMNnpwRkVwaGpEMzFnZVZpOVlveUR3NHpBa2R1aFZCbDlfNGFNVlpOam44d1pVOA?oc=5",
       "authors": "OpenAI",
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Fri, 15 Ma",
       "summary": "A new personal finance experience in ChatGPT OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JQUtaelJMMzg0dXJSckhtN3I0c3c5WnlHZjNVall4OGhDTlJ3V0xDTnNiRmNzUnNaUFB3RGkxSVJJa19QaGpPVQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 30 No",
+      "summary": "Introducing ChatGPT OpenAI",
       "tags": [
         "OpenAI"
       ]
