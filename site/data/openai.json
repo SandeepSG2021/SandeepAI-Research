@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-13",
+  "last_updated": "2026-07-14",
   "papers": [
     {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "title": "Introducing GeneBench-Pro",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pT20yVzBDMlA4SmhaYW9xX2piZUlYY2hZRk14bFU4bzJ5VGVmWWlhd0ZMNnpwRkVwaGpEMzFnZVZpOVlveUR3NHpBa2R1aFZCbDlfNGFNVlpOam44d1pVOA?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 30 Ju",
-      "summary": "Introducing GeneBench-Pro OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 09 Ju",
       "summary": "Previewing GPT-5.6 Sol: a next-generation model OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing GeneBench-Pro",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pT20yVzBDMlA4SmhaYW9xX2piZUlYY2hZRk14bFU4bzJ5VGVmWWlhd0ZMNnpwRkVwaGpEMzFnZVZpOVlveUR3NHpBa2R1aFZCbDlfNGFNVlpOam44d1pVOA?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 30 Ju",
+      "summary": "Introducing GeneBench-Pro OpenAI",
       "tags": [
         "OpenAI"
       ]
