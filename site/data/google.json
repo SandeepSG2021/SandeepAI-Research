@@ -4,6 +4,17 @@
   "last_updated": "2026-07-14",
   "papers": [
     {
+      "title": "Celebrating 25 years of visual search innovation",
+      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "authors": "Brad Kellett",
+      "published": "Tue, 14 Ju",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "tags": [
+        "Search",
+        "AI"
+      ]
+    },
+    {
       "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
       "authors": "Mariano Cocirio",
@@ -108,20 +119,6 @@
         "Global Network",
         "Creating opportunity",
         "AI"
-      ]
-    },
-    {
-      "title": "The latest AI news we announced in May 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "authors": "Blog Team",
-      "published": "Fri, 05 Ju",
-      "summary": "May AI recap",
-      "tags": [
-        "Search",
-        "Android",
-        "Google DeepMind",
-        "Google Labs",
-        "Quantum computing"
       ]
     }
   ]
