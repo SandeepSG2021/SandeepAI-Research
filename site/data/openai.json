@@ -4,6 +4,16 @@
   "last_updated": "2026-07-14",
   "papers": [
     {
+      "title": "How to manage AI investments in the agentic era",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ocjdrY0kxTTl6QW9lLVJaR0RjdVNaWXoybW53ZENBY0xHa3VJNFVpUWVxamlRV2dXX1BoT3ZfN1NwVFdmY2w2RDFwVlQtbVp0YzlFLWhKd05sMktZVzJ6M2xfUlVDc3BwaEJSOW5MUGpEQQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 14 Ju",
+      "summary": "How to manage AI investments in the agentic era OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
       "authors": "OpenAI",
@@ -34,21 +44,21 @@
       ]
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SMjlJYmwzTU5MRHRGR2EtRlBHeTh2c1ZYWExjZklWbXNXZ01XSjFxbmRPMUJOYnJmMFlRYU4wdnlwcDl0cUNIanotbGxaTHF0UEg0TlZLd1V3UVdRRkdMU1pjdkhBby0xTnlnZXkyWUt2SGVEOFUxUS1DQ2p4QQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 08 Ju",
-      "summary": "Separating signal from noise in coding evaluations OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing GPT-Live",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DVXI2NXkzejZWS2piS0F6aTh4YWlHMVRCT3lkTWdsb2NjYkpnOFpSR0hlNWxBd2swaklLak5JanFpY3dSU3lyUnlyalMwbUVJQXE2MHVSZmQ2dw?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 08 Ju",
       "summary": "Introducing GPT-Live OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SMjlJYmwzTU5MRHRGR2EtRlBHeTh2c1ZYWExjZklWbXNXZ01XSjFxbmRPMUJOYnJmMFlRYU4wdnlwcDl0cUNIanotbGxaTHF0UEg0TlZLd1V3UVdRRkdMU1pjdkhBby0xTnlnZXkyWUt2SGVEOFUxUS1DQ2p4QQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 08 Ju",
+      "summary": "Separating signal from noise in coding evaluations OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -69,16 +79,6 @@
       "authors": "OpenAI",
       "published": "Tue, 30 Ju",
       "summary": "Introducing GeneBench-Pro OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Cc2Y5b01rdnZSWVI4aW9oUm5oY2hvYUo4NElQZG5MRnBiWDVHY0FKVEdXSG9CU2xpbGpPbUg0LWx5bFJBZGg3TFdNVmpkRlNyaF9EWg?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 10 Ju",
-      "summary": "How Deutsche Telekom is rewiring telecommunications with AI OpenAI",
       "tags": [
         "OpenAI"
       ]
