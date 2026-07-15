@@ -4,6 +4,16 @@
   "last_updated": "2026-07-15",
   "papers": [
     {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YZEZJazE0TEktTWY0SkozVDBjUzRjVHB1RjZpNGpKRVZONV9mZnR1RmdHdHVuWUR1RWxmYjNRbVNHWFgyLTZSbzBuaHQ5ZTY2MFNoQTBrcmk2RUh4SF9VM21Od3RUVXluTHhTYQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 15 Ju",
+      "summary": "GPT-Red: Unlocking Self-Improvement for Robustness OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How to manage AI investments in the agentic era",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ocjdrY0kxTTl6QW9lLVJaR0RjdVNaWXoybW53ZENBY0xHa3VJNFVpUWVxamlRV2dXX1BoT3ZfN1NwVFdmY2w2RDFwVlQtbVp0YzlFLWhKd05sMktZVzJ6M2xfUlVDc3BwaEJSOW5MUGpEQQ?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Fri, 15 Ma",
       "summary": "A new personal finance experience in ChatGPT OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Harness engineering: leveraging Codex in an agent-first world",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RVzNoUThNYkhfTXVTUGVoT3lLXzNfSFV5Y0IzLWR6YVhEaGhLeEllQ3lXbDVCYnlXSDMwYzBnLXBpWXZoVW1DMmpCQ085UUFFYWkzOG83NDc?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 11 Fe",
-      "summary": "Harness engineering: leveraging Codex in an agent-first world OpenAI",
       "tags": [
         "OpenAI"
       ]
