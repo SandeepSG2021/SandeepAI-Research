@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-07-14",
+  "last_updated": "2026-07-15",
   "papers": [
     {
       "title": "Introducing Claude for Teachers",
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "How Canada uses Claude",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZOWRaVHFBbGJsWXB1WDBkVTFFRzFlY0FVRkJpUk1zTlZ1WWtic2ZaUGFENHFiVkMxZHJyZFZwdjFUZU9JYmVidUdiSUd2VERmUVhka05XTGEwQ3YzSnhJSTJ2bi1NMy1r?oc=5",
+      "title": "A global workspace in language models",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5",
       "authors": "Anthropic",
-      "published": "Tue, 14 Ju",
-      "summary": "How Canada uses Claude Anthropic",
+      "published": "Mon, 06 Ju",
+      "summary": "A global workspace in language models Anthropic",
       "tags": [
         "Anthropic"
       ]
