@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "papers": [
     {
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "Introducing GeneBench-Pro",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pT20yVzBDMlA4SmhaYW9xX2piZUlYY2hZRk14bFU4bzJ5VGVmWWlhd0ZMNnpwRkVwaGpEMzFnZVZpOVlveUR3NHpBa2R1aFZCbDlfNGFNVlpOam44d1pVOA?oc=5",
+      "title": "How agents are transforming work",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMHNYTEZhLU5SOXBrb1BCR1ZyUFdoVmhCVVZkdDdLd1ppekRnZkE5M1otaGxUVTZqSjlwZTk3WmJCYzE3ekctSW9MNEFZSXM1RmR1Wmlya3VXdkZjZGtJRkZIaXFFbk8wUEE?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 30 Ju",
-      "summary": "Introducing GeneBench-Pro OpenAI",
+      "published": "Thu, 25 Ju",
+      "summary": "How agents are transforming work OpenAI",
       "tags": [
         "OpenAI"
       ]
     },
     {
-      "title": "A new personal finance experience in ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jMVZYNmlKRzNCcndxTHE2N2tEa21NRnpZLVd4OG91TGpCeDJaWTlqa0EzajdBdWVwZGlvMkctWmd3U0xxQ3N3MFR4bkNRVEJtYlZOeEFaUXdvYV8wT0pz?oc=5",
+      "title": "Introducing GeneBench-Pro",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pT20yVzBDMlA4SmhaYW9xX2piZUlYY2hZRk14bFU4bzJ5VGVmWWlhd0ZMNnpwRkVwaGpEMzFnZVZpOVlveUR3NHpBa2R1aFZCbDlfNGFNVlpOam44d1pVOA?oc=5",
       "authors": "OpenAI",
-      "published": "Fri, 15 Ma",
-      "summary": "A new personal finance experience in ChatGPT OpenAI",
+      "published": "Tue, 30 Ju",
+      "summary": "Introducing GeneBench-Pro OpenAI",
       "tags": [
         "OpenAI"
       ]

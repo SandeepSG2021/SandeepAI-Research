@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "papers": [
     {
       "title": "Introducing Claude for Teachers",
@@ -39,16 +39,6 @@
       "authors": "Anthropic",
       "published": "Thu, 09 Ju",
       "summary": "Inviting hard questions Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaVloYTdBU1U4NHcwcm9wamZXOC14alFSVlBNM0pnc1pxanlMVGE2elZfbDlmdWY1cEpJODVTZ19rdDZkS1lSSmt1WmNtODV2Y215ODBB?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 09 Ju",
-      "summary": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Mon, 06 Ju",
       "summary": "A global workspace in language models Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10OWxIVTI4ckF3STdtUTIzSW9CdFRYZFRPUElzYW10ckxOZ3VPMWNGWjM4Vk9PMHllYjc1dkNuY1Y2OW5jSHI1eENJek9tcGk4UFhkR1NCSjU3X0lROXREZzhCVUVrTExkTmdCYnBRZHBpS044UXF5RUpn?oc=5",
+      "authors": "Anthropic",
+      "published": "Mon, 06 Ju",
+      "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems Anthropic",
       "tags": [
         "Anthropic"
       ]
