@@ -4,6 +4,29 @@
   "last_updated": "2026-07-16",
   "papers": [
     {
+      "title": "Connect more of your apps to Search",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "authors": "Biharck Araújo",
+      "published": "Thu, 16 Ju",
+      "summary": "Connected apps rendering",
+      "tags": [
+        "Search",
+        "AI"
+      ]
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "authors": "Justin Luk",
+      "published": "Thu, 16 Ju",
+      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "tags": [
+        "Google Workspace",
+        "Google One",
+        "AI"
+      ]
+    },
+    {
       "title": "Celebrating 25 years of visual search innovation",
       "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
       "authors": "Brad Kellett",
@@ -93,31 +116,6 @@
         "Google Research",
         "Google DeepMind",
         "Health",
-        "AI"
-      ]
-    },
-    {
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "authors": "Google AI Blog",
-      "published": "Mon, 15 Ju",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "tags": [
-        "Global Network",
-        "Creating opportunity",
-        "AI"
-      ]
-    },
-    {
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "authors": "Google AI Blog",
-      "published": "Thu, 11 Ju",
-      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-      "tags": [
-        "Google.org",
-        "Global Network",
-        "Creating opportunity",
         "AI"
       ]
     }
