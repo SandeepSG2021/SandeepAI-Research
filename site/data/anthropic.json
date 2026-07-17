@@ -44,16 +44,6 @@
       ]
     },
     {
-      "title": "Anthropic commits $10 million to Canadian AI research",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ejNuaWNhdVA1UlpENzRGMmdNVWJEM3JrbHhiOVd5QW95OXNWRHdyLW5DbmY4d2xtemp3UTNheDZoRzZUSEdnVy05SEJtd1J4MWtPeHlmdGFMUXh4UG9LRA?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 14 Ju",
-      "summary": "Anthropic commits $10 million to Canadian AI research Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Introducing a way to reflect on how you use Claude",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
       "authors": "Anthropic",
@@ -74,6 +64,16 @@
       ]
     },
     {
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ejNuaWNhdVA1UlpENzRGMmdNVWJEM3JrbHhiOVd5QW95OXNWRHdyLW5DbmY4d2xtemp3UTNheDZoRzZUSEdnVy05SEJtd1J4MWtPeHlmdGFMUXh4UG9LRA?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 14 Ju",
+      "summary": "Anthropic commits $10 million to Canadian AI research Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "A global workspace in language models",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5",
       "authors": "Anthropic",
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10OWxIVTI4ckF3STdtUTIzSW9CdFRYZFRPUElzYW10ckxOZ3VPMWNGWjM4Vk9PMHllYjc1dkNuY1Y2OW5jSHI1eENJek9tcGk4UFhkR1NCSjU3X0lROXREZzhCVUVrTExkTmdCYnBRZHBpS044UXF5RUpn?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 06 Ju",
-      "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Redeploying Claude Fable 5",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ESzFvR1hURE9ERWlNc0pNaFg3UEtxbGJza2FfQXItRWpGckpVTUpiU0lVN1VvZXBSVzZ3LVBobEJNQUhFOHBlcWVOSkFndkZfckF1T3l1eDI3N3NGYVFJ?oc=5",
       "authors": "Anthropic",
       "published": "Tue, 30 Ju",
       "summary": "Redeploying Claude Fable 5 Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81R0J0dXluYzJGcmxVb3dDY0Z2UjVYT2I5ZkYwSVRrWTBSUm5HZXpWRkFsQ2k5bm1jbVU5cENOY0xkX0tybV9FbnhRcFVac1dncWtqTF85OTZyd3o1dlRXenJkd1h3T1pTSGc?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 30 Ju",
+      "summary": "Claude Science, an AI workbench for scientists, is now available Anthropic",
       "tags": [
         "Anthropic"
       ]
