@@ -54,16 +54,6 @@
       ]
     },
     {
-      "title": "An off switch for dual-use knowledge in AI models",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SRVlydDkxV0drdmxXSE9rZmVBQXVraGdEd3d5S2ZCTFFRMk5VVXBPTml4Y3RId1NSLUpJWHY2RHNOcjF1VU9wUWN5cGZKVFNsWWR0Q3hPWnpDRHQtaTNnYVh3WkQ?oc=5",
-      "authors": "Anthropic",
-      "published": "Wed, 08 Ju",
-      "summary": "An off switch for dual-use knowledge in AI models Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Anthropic commits $10 million to Canadian AI research",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ejNuaWNhdVA1UlpENzRGMmdNVWJEM3JrbHhiOVd5QW95OXNWRHdyLW5DbmY4d2xtemp3UTNheDZoRzZUSEdnVy05SEJtd1J4MWtPeHlmdGFMUXh4UG9LRA?oc=5",
       "authors": "Anthropic",
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Tue, 30 Ju",
       "summary": "Claude Science, an AI workbench for scientists, is now available Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 30 Ju",
+      "summary": "Introducing Claude Sonnet 5 Anthropic",
       "tags": [
         "Anthropic"
       ]
