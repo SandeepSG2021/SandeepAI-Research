@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "papers": [
     {
       "title": "Why teens deserve access to safe AI",
@@ -19,16 +19,6 @@
       "authors": "OpenAI",
       "published": "Wed, 15 Ju",
       "summary": "GPT-Red: Unlocking Self-Improvement for Robustness OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ocjdrY0kxTTl6QW9lLVJaR0RjdVNaWXoybW53ZENBY0xHa3VJNFVpUWVxamlRV2dXX1BoT3ZfN1NwVFdmY2w2RDFwVlQtbVp0YzlFLWhKd05sMktZVzJ6M2xfUlVDc3BwaEJSOW5MUGpEQQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 14 Ju",
-      "summary": "How to manage AI investments in the agentic era OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -69,6 +59,16 @@
       "authors": "OpenAI",
       "published": "Thu, 09 Ju",
       "summary": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ocjdrY0kxTTl6QW9lLVJaR0RjdVNaWXoybW53ZENBY0xHa3VJNFVpUWVxamlRV2dXX1BoT3ZfN1NwVFdmY2w2RDFwVlQtbVp0YzlFLWhKd05sMktZVzJ6M2xfUlVDc3BwaEJSOW5MUGpEQQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 14 Ju",
+      "summary": "How to manage AI investments in the agentic era OpenAI",
       "tags": [
         "OpenAI"
       ]
