@@ -4,103 +4,103 @@
   "last_updated": "2026-07-18",
   "papers": [
     {
-      "title": "Scaling cryptographic verification to boost computer security - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3dzem5TT2d3b0hGQ0ZsaEwtSzFTOU1HWUxUVU5HbGNka21mNjFsbVQ2QXVCY3pWMmZ6M0dCbnZVM3V5cWFpdzlYLUFVZTVCQlV3N2tGVkVwUUlZcGM1ZHI0T0lnYTBkeEt5TEtNMGhtRVhCT3ltbG1BVUhHZVBvZFNUUWp0TE5BaktqdWlaeFZ1ZTJLaGNPN04tb0hvQVdXZ25QZGZhZVVaX01Xbnc?oc=5",
-      "authors": "Microsoft Research",
+      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+      "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+      "authors": "Son Ho, Cédric Fournet, Antoine Delignat-Lavaud, Samuel Lee, Jason Fisher, Jessica Krynitsky",
       "published": "Mon, 13 Ju",
-      "summary": "Scaling cryptographic verification to boost computer security Microsoft",
+      "summary": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves. The post Verifying Rust cryptography in SymCrypt, from standards to code appeared first on Microsoft Research .",
       "tags": [
-        "Microsoft Research"
+        "Research Blog"
       ]
     },
     {
-      "title": "AI can generate Charts. Flint helps generate better ones. - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSl9RSk1aYWNQbFdGSFJ0SGEzWjVwaFFmTE1vYjZEQm5nQ1ZraHZzaWpiN0hBMjNRX1dlU2JmV0lQTEZMMUNFd0prb1lVdW1NSkJ4VzJIR21JVXgxUS1SaFkxRUZTQ2NUTC1KMEtlSTZPRU90aEdQYUVYcGg0dUpGOXlCUXNoaEMtRkJVcWRod3U1OTh6dGpr?oc=5",
-      "authors": "Microsoft Research",
-      "published": "Wed, 08 Ju",
-      "summary": "AI can generate Charts. Flint helps generate better ones. Microsoft",
-      "tags": [
-        "Microsoft Research"
-      ]
-    },
-    {
-      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWVJZLXNUaV82NF9CdmJwdnRrekQza3d1QmFsRzlXNFFLclJ1aGNjX09YOUJXdVZDTnlLTlN4eGlTek56WE1aUmR6N2pjak9fSDhSVThpZC1GV1VRczFGTmdQUnNDT3U4S0tKN0ZOekFsTjF1bGpOMTRtYmxSOEJlYVBHX1ljNmZya1JfanE4Q1FYUTlyeHBhQURtbjB0czVjRDBGcEk2WGhqeTBfWmNvSzNvYXNmeklBZ19TcTFCNDZ3VmRQSVgzN2F1aFU?oc=5",
-      "authors": "Microsoft Research",
+      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+      "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+      "authors": "Kenji Takeda, Haiyu Dong, Jonathan Weyn, Amit Misra, Matt Corey, Kevin White, Shannon Monroe, Juan M. Lavista Ferres, Ashley Llorens, Bonnie Kruft",
       "published": "Thu, 09 Ju",
-      "summary": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications Microsoft",
+      "summary": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications. The post Aurora 1.5: Extending open foundation models for weather and Earth-system applications appeared first on Microsoft Research .",
       "tags": [
-        "Microsoft Research"
+        "Research Blog"
       ]
     },
     {
-      "title": "GraphRAG: A new approach for discovery using complex information - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZENrb21VRzd2bjZJOUVlbUZfaWk1R2VIdkN0eHM4M3ZvaXM3R3VhcXNfendJQ1JBeVN0NjREMS01bzRobmg0bEVXTUdOLWU3al9taGFaT3kzeDR4OHdfMVlOdXJ6bDVyVVdRVTJDRzBidnZKSHdwUm5ORmNIdGJRc3phMVEzYXhUdTJlaXVwRXY1Y1NPWkxMbC1PaFFFYnZwcFdWSzRYbUQ?oc=5",
-      "authors": "Microsoft Research",
-      "published": "Tue, 13 Fe",
-      "summary": "GraphRAG: A new approach for discovery using complex information Microsoft",
+      "title": "Flint: A visualization language for the AI era",
+      "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+      "authors": "Chenglong Wang, Alper Sarikaya, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
+      "published": "Wed, 08 Ju",
+      "summary": "Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifications. The post Flint: A visualization language for the AI era appeared first on Microsoft Research .",
       "tags": [
-        "Microsoft Research"
+        "Research Blog"
       ]
     },
     {
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Sur - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWswV0UySXRpX2lyY1l5NnpGNm9lbzFVaXV6b2V2MkN1RjZZMlJiam5uc3UwTjJNRUM4a3QzS3V1a04wUUw4d3BVaWh2bzlGckxjVFMybG1maldWanNwNkN6SnRIal9Zb0xZYmVFeTd3SmdBNzhGbGxNS2YwUmNoc1RQREVWVV9XSk5waUdtMTBUekNyRVRxVk52MGZfTllKRjhDajdVX0k5WVBq?oc=5",
-      "authors": "Microsoft Research",
-      "published": "Tue, 04 Ma",
-      "summary": "The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Sur Microsoft",
-      "tags": [
-        "Microsoft Research"
-      ]
-    },
-    {
-      "title": "Temporal Augmentations for Streamed Video Games: Supplementary Material - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOURPX2JIQnJEQjVFeGh6SDhEOG13czVYMDdsNHk4bmI1RndNQlFoUzkxc3pTY3V4LUliZHV6QlBlakg1N1hTUTAzSEh2dGxXOXpTa29EVktpQWhIYjdVbEtNaFFYMElrdHF6NTNjeGMtS0J1c3h2dzNyZFRDVGZXdlFJaGdyaGJWM2M1b01nLXYwRzJ2R1BIR21meGlVMXpjRVZ1LUlOUzVJYWxKRzN4aFZQeDZhdWlsbFZVcDZn?oc=5",
-      "authors": "Microsoft Research",
-      "published": "Fri, 10 Ju",
-      "summary": "Temporal Augmentations for Streamed Video Games: Supplementary Material Microsoft",
-      "tags": [
-        "Microsoft Research"
-      ]
-    },
-    {
-      "title": "SkillOpt turns AI agent skills into trainable assets - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnNvSVRPRlBOSkktb3ozS1BGeUU5ZmFJSGQzT04zQ0IzeDMtTGVxT1FXc1JQNm1LTTJ5NndZLXN1SE9tM3FBSkVsbWt2S3ZueWJSLXVTQmFRZTVaQ3A0aUE5anFPRWVfaXlLVHFFc0JOTW5VU3ZWUGUzb3lQZ1dkdzRNdEhwa3JkaEdIYnhEbWtmN1kwZ044?oc=5",
-      "authors": "Microsoft Research",
+      "title": "SkillOpt: Agent skills as trainable parameters",
+      "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "authors": "Yifan Yang, Xuemei Gao, Qi Dai, Bei Liu, Kai Qiu, Dongdong Chen, Chong Luo",
       "published": "Tue, 30 Ju",
-      "summary": "SkillOpt turns AI agent skills into trainable assets Microsoft",
+      "summary": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights. The post SkillOpt: Agent skills as trainable parameters appeared first on Microsoft Research .",
       "tags": [
-        "Microsoft Research"
+        "Research Blog"
       ]
     },
     {
-      "title": "Memora scales agent memory to boost long-horizon productivity - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalNwcmJDN0ljdE5iVXhrX3R1S3NvdDM1NEpLVHRwek84V2xIaEgyMmlheXBSR25jdlNaVXNhWTlVbGJseTVyU3MxenB0WTlrMWtjMm9yLXVSa0tFQzAtLTFfa09CRkhoZTJSeWFMcS1manJqSE1Kamhma0I4SkJ5UTBpV1c4UmcwY0FZcVJycERvWmEyLTFzb0QyY0k2TzJaNTY3dHVGY0Z5YTk2NHdDRzRXZGx5UV80bVNUVmVZbTdvQQ?oc=5",
-      "authors": "Microsoft Research",
+      "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+      "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+      "authors": "Xuchao Zhang, Molly Xia, Mayukh Das, Anson Bastos, Rujia Wang, Chetan Bansal, Saravan Rajmohan",
       "published": "Mon, 29 Ju",
-      "summary": "Memora scales agent memory to boost long-horizon productivity Microsoft",
+      "summary": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved. The post Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity appeared first on Microsoft Research .",
       "tags": [
-        "Microsoft Research"
+        "Research Blog"
       ]
     },
     {
-      "title": "Turning brain prediction models into testable explanations - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSkJ4NGJVWDlpVWhSbEZBMTJHLXhZVHM5LVg1S2hXdV9pTVFRYURNcDVvN0VzanlMYTUwWFZ2aERzVUVTZVpRN05MVkJpSWp6c2luMkREYi05VG1OcHRGUW52d2NOZC1XaEppRFJlclY5WHFNQnc2c0E4SEFBS1ZoUmNjNzRXR3AwNEZGZjlmM3lRd3RLRkNoMzUzNGxlZVZnWGZOUFlSNVVUY2dSSzVuRF85S1U?oc=5",
-      "authors": "Microsoft Research",
+      "title": "Understanding the brain with AI-driven explanations and experiments",
+      "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+      "authors": "Jianfeng Gao",
       "published": "Thu, 25 Ju",
-      "summary": "Turning brain prediction models into testable explanations Microsoft",
+      "summary": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language. The post Understanding the brain with AI-driven explanations and experiments appeared first on Microsoft Research .",
       "tags": [
-        "Microsoft Research"
+        "Research Blog"
       ]
     },
     {
-      "title": "Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSndWYXRZdEV6WmRMc1o4QnVGSG5PNHpZMDZjSjlIWXgwc3BlRXhKMzJpeXd2dlpJa0gtcTJmRDlKNDAydFRlVVdjd2prdWVtUVcwLUF0dVpFRzBoYzhFREhCaXRiYmlpcmh5cXpEUnM0M2NVS0hkT2gyUGdUbnBIVFNpRVMyQWdIOGxRa1JMck1JRm9PZlRDSEF2WjRJZmM1WkUxSmxsWkQ4MXdyMlhMT0h1N3YtQmZOamZXcTdn?oc=5",
-      "authors": "Microsoft Research",
-      "published": "Mon, 04 No",
-      "summary": "Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks Microsoft",
+      "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+      "link": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+      "authors": "Jeremiah (Miah) Wander, Cas Simons",
+      "published": "Wed, 24 Ju",
+      "summary": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review. The post Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis appeared first on Microsoft Research .",
       "tags": [
-        "Microsoft Research"
+        "Research Blog"
+      ]
+    },
+    {
+      "title": "Ire identifies another LOTUSLITE specimen",
+      "link": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+      "authors": "Brian Caswell, Bob Fleck, Mike Walker, Sarah Smith",
+      "published": "Fri, 12 Ju",
+      "summary": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it. The post Ire identifies another LOTUSLITE specimen appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
+      "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+      "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+      "authors": "Chenglong Wang, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
+      "published": "Thu, 28 Ma",
+      "summary": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights. The post Data Formulator 0.7: AI-powered data analytics for enterprise data appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
+      "title": "Extending Human Intelligence Through AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+      "authors": "Ken Archer, Harald Wiltsche",
+      "published": "Wed, 27 Ma",
+      "summary": "Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems. The post Extending Human Intelligence Through AI appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
       ]
     }
   ]
