@@ -24,16 +24,6 @@
       ]
     },
     {
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MU3NINEgzemctRjhic18xaXd1blBpOVlzVVdmMTh3Zms0Sm5WWFR1ZC1ja25NSFZkUnY3enpyREM1aHF1U0Zn?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 16 Ju",
-      "summary": "How Cars24 scales conversations and builds faster with OpenAI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
       "authors": "OpenAI",
@@ -69,6 +59,16 @@
       "authors": "OpenAI",
       "published": "Wed, 08 Ju",
       "summary": "Introducing GPT-Live OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MU3NINEgzemctRjhic18xaXd1blBpOVlzVVdmMTh3Zms0Sm5WWFR1ZC1ja25NSFZkUnY3enpyREM1aHF1U0Zn?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 16 Ju",
+      "summary": "How Cars24 scales conversations and builds faster with OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
