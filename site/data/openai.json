@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "papers": [
     {
       "title": "Why teens deserve access to safe AI",
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 26 Ju",
-      "summary": "Previewing GPT-5.6 Sol: a next-generation model OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "The US is advancing AI safety through state and federal action",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzRGWVJRZDZ4OU45TlJjQVBUNENyOVZWLUlBNnprS2t1Z2lZX3p5b3hwbUYtZXlORUg1SjMxdmx6OU1mc1hGekw2MWtydkt3SGpLUUVJYVJLeGlqbFV0SEt6bHU5N2Zsc3c4YTU2eXN0S2htN01FczA5cDJRam5OZlduVDA?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 15 Ju",
       "summary": "The US is advancing AI safety through state and federal action OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ocjdrY0kxTTl6QW9lLVJaR0RjdVNaWXoybW53ZENBY0xHa3VJNFVpUWVxamlRV2dXX1BoT3ZfN1NwVFdmY2w2RDFwVlQtbVp0YzlFLWhKd05sMktZVzJ6M2xfUlVDc3BwaEJSOW5MUGpEQQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 14 Ju",
+      "summary": "How to manage AI investments in the agentic era OpenAI",
       "tags": [
         "OpenAI"
       ]

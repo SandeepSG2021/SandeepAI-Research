@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "papers": [
     {
       "title": "Introducing Claude for Teachers",
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "How Canada uses Claude",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZOWRaVHFBbGJsWXB1WDBkVTFFRzFlY0FVRkJpUk1zTlZ1WWtic2ZaUGFENHFiVkMxZHJyZFZwdjFUZU9JYmVidUdiSUd2VERmUVhka05XTGEwQ3YzSnhJSTJ2bi1NMy1r?oc=5",
+      "title": "Introducing Claude Corps",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
       "authors": "Anthropic",
-      "published": "Tue, 14 Ju",
-      "summary": "How Canada uses Claude Anthropic",
+      "published": "Thu, 11 Ju",
+      "summary": "Introducing Claude Corps Anthropic",
       "tags": [
         "Anthropic"
       ]
