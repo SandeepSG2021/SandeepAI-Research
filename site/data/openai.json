@@ -74,16 +74,6 @@
       ]
     },
     {
-      "title": "How agents are transforming work",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMHNYTEZhLU5SOXBrb1BCR1ZyUFdoVmhCVVZkdDdLd1ppekRnZkE5M1otaGxUVTZqSjlwZTk3WmJCYzE3ekctSW9MNEFZSXM1RmR1Wmlya3VXdkZjZGtJRkZIaXFFbk8wUEE?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 25 Ju",
-      "summary": "How agents are transforming work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "The US is advancing AI safety through state and federal action",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzRGWVJRZDZ4OU45TlJjQVBUNENyOVZWLUlBNnprS2t1Z2lZX3p5b3hwbUYtZXlORUg1SjMxdmx6OU1mc1hGekw2MWtydkt3SGpLUUVJYVJLeGlqbFV0SEt6bHU5N2Zsc3c4YTU2eXN0S2htN01FczA5cDJRam5OZlduVDA?oc=5",
       "authors": "OpenAI",
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Fri, 15 Ma",
       "summary": "A new personal finance experience in ChatGPT OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RVzNoUThNYkhfTXVTUGVoT3lLXzNfSFV5Y0IzLWR6YVhEaGhLeEllQ3lXbDVCYnlXSDMwYzBnLXBpWXZoVW1DMmpCQ085UUFFYWkzOG83NDc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 11 Fe",
+      "summary": "Harness engineering: leveraging Codex in an agent-first world OpenAI",
       "tags": [
         "OpenAI"
       ]
