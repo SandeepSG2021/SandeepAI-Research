@@ -4,16 +4,6 @@
   "last_updated": "2026-07-20",
   "papers": [
     {
-      "title": "Why teens deserve access to safe AI",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQWV2Si04ekxFTXhlaExTV0lpT245S0stWE1rSkxvVzM4ZzhNaktzY1VMMFhGQnlfYkNOUnNIVHF2eVp4a2lYOGhqUk56SXk2Uy01eUl4b2FLMlZFc0FTT3Z0ZWZfbnFNTGc?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 15 Ju",
-      "summary": "Why teens deserve access to safe AI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YZEZJazE0TEktTWY0SkozVDBjUzRjVHB1RjZpNGpKRVZONV9mZnR1RmdHdHVuWUR1RWxmYjNRbVNHWFgyLTZSbzBuaHQ5ZTY2MFNoQTBrcmk2RUh4SF9VM21Od3RUVXluTHhTYQ?oc=5",
       "authors": "OpenAI",
@@ -64,6 +54,16 @@
       ]
     },
     {
+      "title": "Why teens deserve access to safe AI",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQWV2Si04ekxFTXhlaExTV0lpT245S0stWE1rSkxvVzM4ZzhNaktzY1VMMFhGQnlfYkNOUnNIVHF2eVp4a2lYOGhqUk56SXk2Uy01eUl4b2FLMlZFc0FTT3Z0ZWZfbnFNTGc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 15 Ju",
+      "summary": "Why teens deserve access to safe AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MU3NINEgzemctRjhic18xaXd1blBpOVlzVVdmMTh3Zms0Sm5WWFR1ZC1ja25NSFZkUnY3enpyREM1aHF1U0Zn?oc=5",
       "authors": "OpenAI",
@@ -74,21 +74,21 @@
       ]
     },
     {
-      "title": "A new personal finance experience in ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jMVZYNmlKRzNCcndxTHE2N2tEa21NRnpZLVd4OG91TGpCeDJaWTlqa0EzajdBdWVwZGlvMkctWmd3U0xxQ3N3MFR4bkNRVEJtYlZOeEFaUXdvYV8wT0pz?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 15 Ma",
-      "summary": "A new personal finance experience in ChatGPT OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Harness engineering: leveraging Codex in an agent-first world",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RVzNoUThNYkhfTXVTUGVoT3lLXzNfSFV5Y0IzLWR6YVhEaGhLeEllQ3lXbDVCYnlXSDMwYzBnLXBpWXZoVW1DMmpCQ085UUFFYWkzOG83NDc?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 11 Fe",
       "summary": "Harness engineering: leveraging Codex in an agent-first world OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jMVZYNmlKRzNCcndxTHE2N2tEa21NRnpZLVd4OG91TGpCeDJaWTlqa0EzajdBdWVwZGlvMkctWmd3U0xxQ3N3MFR4bkNRVEJtYlZOeEFaUXdvYV8wT0pz?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 15 Ma",
+      "summary": "A new personal finance experience in ChatGPT OpenAI",
       "tags": [
         "OpenAI"
       ]
