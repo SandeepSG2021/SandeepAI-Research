@@ -64,16 +64,6 @@
       ]
     },
     {
-      "title": "Why teens deserve access to safe AI",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQWV2Si04ekxFTXhlaExTV0lpT245S0stWE1rSkxvVzM4ZzhNaktzY1VMMFhGQnlfYkNOUnNIVHF2eVp4a2lYOGhqUk56SXk2Uy01eUl4b2FLMlZFc0FTT3Z0ZWZfbnFNTGc?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 15 Ju",
-      "summary": "Why teens deserve access to safe AI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Harness engineering: leveraging Codex in an agent-first world",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RVzNoUThNYkhfTXVTUGVoT3lLXzNfSFV5Y0IzLWR6YVhEaGhLeEllQ3lXbDVCYnlXSDMwYzBnLXBpWXZoVW1DMmpCQ085UUFFYWkzOG83NDc?oc=5",
       "authors": "OpenAI",
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Fri, 15 Ma",
       "summary": "A new personal finance experience in ChatGPT OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yX01zN3g1dUU2anpzWXA3d3RaQ3RaYWRPVkUtRzlyeElQN0lBZVFfNzQ1dTFleFB6aThGc0pweklXck9ZSXhMelJ0amRKaEY4ZDdoVkJqMEFXTkQ4OWp6OTlnNmZ2VUNlTVRDSHN5WVVUc0xndXU5T2t3?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 20 Ma",
+      "summary": "An OpenAI model has disproved a central conjecture in discrete geometry OpenAI",
       "tags": [
         "OpenAI"
       ]
