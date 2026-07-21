@@ -4,6 +4,16 @@
   "last_updated": "2026-07-21",
   "papers": [
     {
+      "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW9DTHJ3LS1CaUl2WkNOX0NkTmpKQzBtdElNT2FMN1QySGt0RkRnTlc0RTBHZVRjVnFxMHBKRFdoeWV2cEpobE5VVzVDVjk3SEUzR0ZydWVVRnRXaTByb3NIY09Fc29oYmFLWm9QRlpkUDl3MzNxWEV3eThEMlBMcE0yTVYxalpBSENhYVo4MTVMcEZCX2REOE9pejVralJvNEhr?oc=5",
+      "authors": "Meta AI",
+      "published": "Tue, 21 Ju",
+      "summary": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
       "title": "Introducing Muse Image and Muse Video - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
       "authors": "Meta AI",
@@ -74,31 +84,21 @@
       ]
     },
     {
+      "title": "SAM Audio - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPbzlfT1hGOWRRNnVCZGRrMVRaSkVLT0ZjbzlVMTkyTjd3eVFaR1ljOHBFMURxWTN4dnBZWUtfNUloV1hRdlZuc1pGN2tkVjQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Sat, 31 Ja",
+      "summary": "SAM Audio AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
       "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
       "authors": "Meta AI",
       "published": "Sat, 05 Ap",
       "summary": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Introducing Muse Spark 1.1 - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 09 Ju",
-      "summary": "Introducing Muse Spark 1.1 AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Interpreting Physics in Video World Models | Research - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0U4VWFzRmp0U3M4ZXk1bWZCYjZIalJ6RzcwRG9jNjByNWdkSmdMWDBpYURYcnI4V0FaYTRrNkhuTkpMQWJLNVdlZVJuel9MN2EzQTZZRGlTTWoycHNVS3JvcmlMNC1XbmpsR2FkTEZxa0dxdzlrTm9wbEZ6SldoQ0RyQ0ZjclN2T3NHUGt3?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 03 Ju",
-      "summary": "Interpreting Physics in Video World Models | Research AI at Meta",
       "tags": [
         "Meta AI"
       ]
