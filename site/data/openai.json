@@ -4,6 +4,16 @@
   "last_updated": "2026-07-21",
   "papers": [
     {
+      "title": "Introducing the ChatGPT for small business program",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wRGdxajhiVG1FbjR4eWZNV0VmMUhuZ0VtWi0zT28wMFd0VGZUZVhRZFpYSEM0Y2puWHFhWFc1bkhHcHE4V282NHZGRE9KTl9GTW50b1g0QWNJclJLcklKalh2LVhUcVEzT0NNTncxcXNuQmhIYlE4?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 21 Ju",
+      "summary": "Introducing the ChatGPT for small business program OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Safety and alignment in an era of long-horizon models",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XaXhxNTV2VUx4Mm9hcEpjUU9hSC1zcHZOc1R5VU91eDhlZkJxNkdvWlMzb0Q4WjlFbHA1NkZCUzAwUU41cTJqRGlnM3YzaE8zRTQwYTZMTG1QcHlGSExMTjVjRmhxVTlMQ0VPWXNnaw?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 11 Fe",
       "summary": "Harness engineering: leveraging Codex in an agent-first world OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JQUtaelJMMzg0dXJSckhtN3I0c3c5WnlHZjNVall4OGhDTlJ3V0xDTnNiRmNzUnNaUFB3RGkxSVJJa19QaGpPVQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 30 No",
-      "summary": "Introducing ChatGPT OpenAI",
       "tags": [
         "OpenAI"
       ]
