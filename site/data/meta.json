@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "papers": [
     {
       "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects - AI at Meta",
@@ -64,21 +64,21 @@
       ]
     },
     {
-      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 11 Ma",
-      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Meta Movie Gen - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XTmp6Tm00a2V2Yk9tenBnVVBkbGJRQnhvV1JWZjhGTlhzb19sdDN6bTY2bU9GdjhTUUZLOUFVeFNUSnBXMWsyX3VOQ295TTY4?oc=5",
       "authors": "Meta AI",
       "published": "Fri, 04 Oc",
       "summary": "Meta Movie Gen AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 11 Ma",
+      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
       "tags": [
         "Meta AI"
       ]
