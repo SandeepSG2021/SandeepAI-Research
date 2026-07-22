@@ -4,6 +4,19 @@
   "last_updated": "2026-07-22",
   "papers": [
     {
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "authors": "Menaka Shroff",
+      "published": "Wed, 22 Ju",
+      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
+      "tags": [
+        "Gemini App",
+        "Android",
+        "Gemini Notebook",
+        "AI"
+      ]
+    },
+    {
       "title": "Connect more of your apps to Search",
       "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
       "authors": "Biharck Araújo",
@@ -103,19 +116,6 @@
       "summary": "The Google Finance logo, surrounded by elements of the user interface",
       "tags": [
         "Search",
-        "AI"
-      ]
-    },
-    {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "authors": "Mike Schaekermann",
-      "published": "Wed, 17 Ju",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "tags": [
-        "Google Research",
-        "Google DeepMind",
-        "Health",
         "AI"
       ]
     }
