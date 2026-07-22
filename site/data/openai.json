@@ -54,16 +54,6 @@
       ]
     },
     {
-      "title": "Why teens deserve access to safe AI",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQWV2Si04ekxFTXhlaExTV0lpT245S0stWE1rSkxvVzM4ZzhNaktzY1VMMFhGQnlfYkNOUnNIVHF2eVp4a2lYOGhqUk56SXk2Uy01eUl4b2FLMlZFc0FTT3Z0ZWZfbnFNTGc?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 16 Ju",
-      "summary": "Why teens deserve access to safe AI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
       "authors": "OpenAI",
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Wed, 20 Ma",
       "summary": "An OpenAI model has disproved a central conjecture in discrete geometry OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RVzNoUThNYkhfTXVTUGVoT3lLXzNfSFV5Y0IzLWR6YVhEaGhLeEllQ3lXbDVCYnlXSDMwYzBnLXBpWXZoVW1DMmpCQ085UUFFYWkzOG83NDc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 11 Fe",
+      "summary": "Harness engineering: leveraging Codex in an agent-first world OpenAI",
       "tags": [
         "OpenAI"
       ]
