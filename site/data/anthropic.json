@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "papers": [
     {
       "title": "The Anthropic Economic Index connector",
@@ -64,16 +64,6 @@
       ]
     },
     {
-      "title": "How Claude Performs on Robotics Tasks",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91VmFtc1pJZHh6Nmk0MV9TQy1LWmRuTGxwdUlSSkljREEzYjRzSXRnX21tOWxfdFg5QlRDYWNkMUZyRVUtR0xmZXc0UEFPM2tVSU1JZ09OVWFYZ3ZucGdkVzR4TldYeGM?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 09 Ju",
-      "summary": "How Claude Performs on Robotics Tasks Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Introducing a way to reflect on how you use Claude",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
       "authors": "Anthropic",
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Mon, 06 Ju",
       "summary": "A global workspace in language models Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10OWxIVTI4ckF3STdtUTIzSW9CdFRYZFRPUElzYW10ckxOZ3VPMWNGWjM4Vk9PMHllYjc1dkNuY1Y2OW5jSHI1eENJek9tcGk4UFhkR1NCSjU3X0lROXREZzhCVUVrTExkTmdCYnBRZHBpS044UXF5RUpn?oc=5",
+      "authors": "Anthropic",
+      "published": "Mon, 06 Ju",
+      "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems Anthropic",
       "tags": [
         "Anthropic"
       ]

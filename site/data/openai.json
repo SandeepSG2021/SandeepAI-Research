@@ -1,8 +1,18 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "papers": [
+    {
+      "title": "Advancing the next era of national science",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52c1NtWHRDLTd1bDRkWHdQQ1I0SXcxOTQyRkFhU00ycjJBSDJTYllHekl2RVpkN0l4SWNTNV9JSEJEcWt3M1VvWm85d1U1aTVPQzJfMzliV3R5aUJBLWt2cHVyeVk5azVURlV6dzNjaGg0X3BpcjJN?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 22 Ju",
+      "summary": "Advancing the next era of national science OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Building AI infrastructure with the Effingham County community",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmNkUXk3TTVKaXRtOE1ubjFXcEtUMFM3SU5nQW5QY2hRRWxvYm0tbWVNVHVJSXZicTdEQi15RnpvSEh1dEVCT0tZZWtpZmdMdjk1bC1NNzNBY3JCWV8yTmJ4amZDNFBjX3hYVGRyanFXY0lyMkV4S29zTzIwWnlabFpyb3VGV1FJUDZ3MVdnTlQwUQ?oc=5",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 09 Ju",
       "summary": "GPT-5.6: Frontier intelligence that scales with your ambition OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRV1RrNVpYNC1zaXV0RjE5dS1ESDhLc0IyT2g2bzlZM2l0cTdUdkFHUXhfTm5VeHhOWUFCczkxRnIxaWp2S3NJbmhmSlZXZEdaVUJfTkthOXAzbTVnbnhtVkFtdktGMGhUbkxEdUw1WQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 09 Ju",
-      "summary": "ChatGPT is now a partner for your most ambitious work OpenAI",
       "tags": [
         "OpenAI"
       ]
