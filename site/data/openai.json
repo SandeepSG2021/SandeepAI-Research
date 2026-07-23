@@ -4,6 +4,16 @@
   "last_updated": "2026-07-23",
   "papers": [
     {
+      "title": "Launching Health in ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 23 Ju",
+      "summary": "Launching Health in ChatGPT OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How news organizations are using AI to advance their vital missions",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByalNhRGh2XzZzN0R4MVRINnk3UEg5WU9zX3NkUWNpTmMzYndKdmN6Z2UtbUtVS1FqQWpWUDVUOUpnWDMwQXlXTFdoU1c2R1o1c1VNSW4tUW5zRnNvUHNVTTQzU3d3QnFtSVI5RWVB?oc=5",
       "authors": "OpenAI",
@@ -64,16 +74,6 @@
       ]
     },
     {
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZV0UzQjlaVFpySG42LWNxeXdmVnhsX2FGcDhSdlRLdU1mZEwwckFHaU53RE1ucVZmWmNsaHdmVXYzeWI0ZWViS3p3?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 22 Ju",
-      "summary": "NTT DATA Group cuts incident analysis to 30 minutes with Codex OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Safety and alignment in an era of long-horizon models",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XaXhxNTV2VUx4Mm9hcEpjUU9hSC1zcHZOc1R5VU91eDhlZkJxNkdvWlMzb0Q4WjlFbHA1NkZCUzAwUU41cTJqRGlnM3YzaE8zRTQwYTZMTG1QcHlGSExMTjVjRmhxVTlMQ0VPWXNnaw?oc=5",
       "authors": "OpenAI",
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoeklNLU5rRmdhSnRjeU5rOE8ybTk1Y2M2ZllZNmVTNXVodjJ2MVFsbVlOOVFTNU5yc1R5ODlCSlN2WjhHS3FQQTIwOXZ6amZfSDQzcUloRDNIeF9IZ25RZGZGTml1enBHVFE0YUpUdy1vQlhncXhZ?oc=5",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZV0UzQjlaVFpySG42LWNxeXdmVnhsX2FGcDhSdlRLdU1mZEwwckFHaU53RE1ucVZmWmNsaHdmVXYzeWI0ZWViS3p3?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 21 Ju",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC OpenAI",
+      "published": "Wed, 22 Ju",
+      "summary": "NTT DATA Group cuts incident analysis to 30 minutes with Codex OpenAI",
       "tags": [
         "OpenAI"
       ]
     },
     {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YZEZJazE0TEktTWY0SkozVDBjUzRjVHB1RjZpNGpKRVZONV9mZnR1RmdHdHVuWUR1RWxmYjNRbVNHWFgyLTZSbzBuaHQ5ZTY2MFNoQTBrcmk2RUh4SF9VM21Od3RUVXluTHhTYQ?oc=5",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoeklNLU5rRmdhSnRjeU5rOE8ybTk1Y2M2ZllZNmVTNXVodjJ2MVFsbVlOOVFTNU5yc1R5ODlCSlN2WjhHS3FQQTIwOXZ6amZfSDQzcUloRDNIeF9IZ25RZGZGTml1enBHVFE0YUpUdy1vQlhncXhZ?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 15 Ju",
-      "summary": "GPT-Red: Unlocking Self-Improvement for Robustness OpenAI",
+      "published": "Tue, 21 Ju",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC OpenAI",
       "tags": [
         "OpenAI"
       ]
