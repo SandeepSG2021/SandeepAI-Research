@@ -54,16 +54,6 @@
       ]
     },
     {
-      "title": "How Claude's values vary by model and language",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 13 Ju",
-      "summary": "How Claude's values vary by model and language Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Introducing a way to reflect on how you use Claude",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
       "authors": "Anthropic",
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Tue, 30 Ju",
       "summary": "Redeploying Claude Fable 5 Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 30 Ju",
+      "summary": "Introducing Claude Sonnet 5 Anthropic",
       "tags": [
         "Anthropic"
       ]
