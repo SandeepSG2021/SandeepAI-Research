@@ -14,16 +14,6 @@
       ]
     },
     {
-      "title": "Project Pilot: Can AI models fly drones?",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tMGRJdGNvVFVLMllZZUF4NFluMlNrekRxVnA0Z0F5UmJCVU9oZ3g1YnAwdWZWLUVyWDEtWUNfa255WkY0WGVkbjk5ay1HTlVSanpLd2hDUEdvZERZ?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 24 Ju",
-      "summary": "Project Pilot: Can AI models fly drones? Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "The Anthropic Economic Index connector",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5",
       "authors": "Anthropic",
@@ -49,6 +39,16 @@
       "authors": "Anthropic",
       "published": "Wed, 22 Ju",
       "summary": "Donating another $20 million to Public First Action Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Project Pilot: Can AI models fly drones?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tMGRJdGNvVFVLMllZZUF4NFluMlNrekRxVnA0Z0F5UmJCVU9oZ3g1YnAwdWZWLUVyWDEtWUNfa255WkY0WGVkbjk5ay1HTlVSanpLd2hDUEdvZERZ?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 24 Ju",
+      "summary": "Project Pilot: Can AI models fly drones? Anthropic",
       "tags": [
         "Anthropic"
       ]
