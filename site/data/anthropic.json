@@ -74,16 +74,6 @@
       ]
     },
     {
-      "title": "Introducing a way to reflect on how you use Claude",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 09 Ju",
-      "summary": "Introducing a way to reflect on how you use Claude Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "A global workspace in language models",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5",
       "authors": "Anthropic",
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Tue, 30 Ju",
       "summary": "Redeploying Claude Fable 5 Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 30 Ju",
+      "summary": "Introducing Claude Sonnet 5 Anthropic",
       "tags": [
         "Anthropic"
       ]
