@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-25",
+  "last_updated": "2026-07-26",
   "papers": [
     {
       "title": "Launching Health in ChatGPT",
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "How Codex became a collaborator for OpenAI’s creative team",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZVU1TldWZFBhelphZldrMUwxTlV3c0Vna0docnIxYWJhLUprdzJGYmJiWlk5Rks3aGNRdENBVF8wZmdJUjl2TllHdWZFdGdyaGlJUUdtMTRJTlBWa1hxcXdqNE9zV2NFNEE?oc=5",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
       "authors": "OpenAI",
-      "published": "Thu, 16 Ju",
-      "summary": "How Codex became a collaborator for OpenAI’s creative team OpenAI",
+      "published": "Thu, 09 Ju",
+      "summary": "GPT-5.6: Frontier intelligence that scales with your ambition OpenAI",
       "tags": [
         "OpenAI"
       ]
