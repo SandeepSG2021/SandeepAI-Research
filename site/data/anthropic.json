@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-07-26",
+  "last_updated": "2026-07-27",
   "papers": [
     {
       "title": "Introducing Claude Opus 5",
@@ -9,6 +9,16 @@
       "authors": "Anthropic",
       "published": "Fri, 24 Ju",
       "summary": "Introducing Claude Opus 5 Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Project Pilot: Can AI models fly drones?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tMGRJdGNvVFVLMllZZUF4NFluMlNrekRxVnA0Z0F5UmJCVU9oZ3g1YnAwdWZWLUVyWDEtWUNfa255WkY0WGVkbjk5ay1HTlVSanpLd2hDUEdvZERZ?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 24 Ju",
+      "summary": "Project Pilot: Can AI models fly drones? Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -39,16 +49,6 @@
       "authors": "Anthropic",
       "published": "Mon, 20 Ju",
       "summary": "Apply for Anthropic’s AI for Science rare disease research grants Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Project Pilot: Can AI models fly drones?",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tMGRJdGNvVFVLMllZZUF4NFluMlNrekRxVnA0Z0F5UmJCVU9oZ3g1YnAwdWZWLUVyWDEtWUNfa255WkY0WGVkbjk5ay1HTlVSanpLd2hDUEdvZERZ?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 24 Ju",
-      "summary": "Project Pilot: Can AI models fly drones? Anthropic",
       "tags": [
         "Anthropic"
       ]
