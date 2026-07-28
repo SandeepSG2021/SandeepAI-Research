@@ -4,6 +4,17 @@
   "last_updated": "2026-07-28",
   "papers": [
     {
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "authors": "Mariano Cocirio",
+      "published": "Tue, 28 Ju",
+      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+      "tags": [
+        "Developer tools",
+        "AI"
+      ]
+    },
+    {
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
       "authors": "News from Google Team",
@@ -105,17 +116,6 @@
       "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
       "tags": [
         "Learning & Education",
-        "AI"
-      ]
-    },
-    {
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "authors": "Kate Alessi",
-      "published": "Tue, 30 Ju",
-      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
-      "tags": [
-        "UK",
         "AI"
       ]
     }
