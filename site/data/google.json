@@ -4,6 +4,28 @@
   "last_updated": "2026-07-28",
   "papers": [
     {
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "authors": "News from Google Team",
+      "published": "Tue, 28 Ju",
+      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+      "tags": [
+        "Search",
+        "AI"
+      ]
+    },
+    {
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "authors": "News from Google Team",
+      "published": "Tue, 28 Ju",
+      "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+      "tags": [
+        "Search",
+        "AI"
+      ]
+    },
+    {
       "title": "3 Google updates from Galaxy Unpacked 2026",
       "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "authors": "Menaka Shroff",
@@ -94,28 +116,6 @@
       "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
       "tags": [
         "UK",
-        "AI"
-      ]
-    },
-    {
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "authors": "Molly McHugh-Johnson",
-      "published": "Mon, 29 Ju",
-      "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
-      "tags": [
-        "Developer tools",
-        "AI"
-      ]
-    },
-    {
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "authors": "Barine Tee",
-      "published": "Thu, 25 Ju",
-      "summary": "The Google Finance logo, surrounded by elements of the user interface",
-      "tags": [
-        "Search",
         "AI"
       ]
     }
