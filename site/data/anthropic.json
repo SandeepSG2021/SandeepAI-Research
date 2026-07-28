@@ -4,6 +4,16 @@
   "last_updated": "2026-07-28",
   "papers": [
     {
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 28 Ju",
+      "summary": "Discovering cryptographic weaknesses with Claude Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Our position on open-weights models",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVU84Xy1NRFVUV1l6QjNvVTl0QncwbVM0bnRpbmNvUFBNSHNaR3lmTlk0cWRHQ3hKVEZkNGNOVVNaMWFfXzVqTVgxeENSdGV0THY2SUF5VjdPS0h5SUZmTzhfdUgyOExsOG5V?oc=5",
       "authors": "Anthropic",
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Thu, 09 Ju",
       "summary": "How Claude Performs on Robotics Tasks Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "An off switch for dual-use knowledge in AI models",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SRVlydDkxV0drdmxXSE9rZmVBQXVraGdEd3d5S2ZCTFFRMk5VVXBPTml4Y3RId1NSLUpJWHY2RHNOcjF1VU9wUWN5cGZKVFNsWWR0Q3hPWnpDRHQtaTNnYVh3WkQ?oc=5",
-      "authors": "Anthropic",
-      "published": "Wed, 08 Ju",
-      "summary": "An off switch for dual-use knowledge in AI models Anthropic",
       "tags": [
         "Anthropic"
       ]

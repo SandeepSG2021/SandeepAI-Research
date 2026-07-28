@@ -4,6 +4,16 @@
   "last_updated": "2026-07-28",
   "papers": [
     {
+      "title": "Scientific computing in the age of agentic AI",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cWVqX2lyeTRtY05TalE0a0JsSVRsUGF3R2dDN19GZENfSkVoaUhKRVJicFE4UjgwZTI1MWtVVHZOQVJvMXhQNUpfU0xqSjlFV2pyNEpzeF9DZG12UGVuUVhNcmVHcm80?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 28 Ju",
+      "summary": "Scientific computing in the age of agentic AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How AI is expanding what people do at work",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrVFBEa3pBZzFfd08wZThSMTQ3LVVMYjNDZ3kxU0tFTEU1SlJiZUt3TXIzVzhuWUlFc21INXY4dzlpbnRnNU91RGx1Y2RtYl9Ya0UzWU5GTXdXSWVaVV95UnZHdm0wTG5WMmVyWm1Ub0RnZ1BmdHlN?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 09 Ju",
       "summary": "GPT-5.6: Frontier intelligence that scales with your ambition OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MU3NINEgzemctRjhic18xaXd1blBpOVlzVVdmMTh3Zms0Sm5WWFR1ZC1ja25NSFZkUnY3enpyREM1aHF1U0Zn?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 16 Ju",
-      "summary": "How Cars24 scales conversations and builds faster with OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
