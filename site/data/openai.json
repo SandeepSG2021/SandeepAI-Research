@@ -4,6 +4,16 @@
   "last_updated": "2026-07-29",
   "papers": [
     {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdURTcDByN0NKcGZ6RzBEWmk1SjV5T1hEOG82MXp2cmRCc09ZLUxUV1JjX0dtYUlxTEVfLXVyUHI3dWIxMnNydzIxR0hwb1kxbU15dlQ1bThHYmc2M1lyeFM2eXpENWRKUlE?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 29 Ju",
+      "summary": "Accelerating scientific discovery with ChatGPT for Academic Researchers OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Scientific computing in the age of agentic AI",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cWVqX2lyeTRtY05TalE0a0JsSVRsUGF3R2dDN19GZENfSkVoaUhKRVJicFE4UjgwZTI1MWtVVHZOQVJvMXhQNUpfU0xqSjlFV2pyNEpzeF9DZG12UGVuUVhNcmVHcm80?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 09 Ju",
       "summary": "ChatGPT is now a partner for your most ambitious work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MU3NINEgzemctRjhic18xaXd1blBpOVlzVVdmMTh3Zms0Sm5WWFR1ZC1ja25NSFZkUnY3enpyREM1aHF1U0Zn?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 16 Ju",
-      "summary": "How Cars24 scales conversations and builds faster with OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
