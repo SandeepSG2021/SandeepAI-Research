@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-28",
+  "last_updated": "2026-07-29",
   "papers": [
     {
       "title": "Scientific computing in the age of agentic AI",
@@ -54,16 +54,6 @@
       ]
     },
     {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByalNhRGh2XzZzN0R4MVRINnk3UEg5WU9zX3NkUWNpTmMzYndKdmN6Z2UtbUtVS1FqQWpWUDVUOUpnWDMwQXlXTFdoU1c2R1o1c1VNSW4tUW5zRnNvUHNVTTQzU3d3QnFtSVI5RWVB?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 22 Ju",
-      "summary": "How news organizations are using AI to advance their vital missions OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing the ChatGPT for small business program",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wRGdxajhiVG1FbjR4eWZNV0VmMUhuZ0VtWi0zT28wMFd0VGZUZVhRZFpYSEM0Y2puWHFhWFc1bkhHcHE4V282NHZGRE9KTl9GTW50b1g0QWNJclJLcklKalh2LVhUcVEzT0NNTncxcXNuQmhIYlE4?oc=5",
       "authors": "OpenAI",
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Thu, 09 Ju",
       "summary": "GPT-5.6: Frontier intelligence that scales with your ambition OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRV1RrNVpYNC1zaXV0RjE5dS1ESDhLc0IyT2g2bzlZM2l0cTdUdkFHUXhfTm5VeHhOWUFCczkxRnIxaWp2S3NJbmhmSlZXZEdaVUJfTkthOXAzbTVnbnhtVkFtdktGMGhUbkxEdUw1WQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 09 Ju",
+      "summary": "ChatGPT is now a partner for your most ambitious work OpenAI",
       "tags": [
         "OpenAI"
       ]
