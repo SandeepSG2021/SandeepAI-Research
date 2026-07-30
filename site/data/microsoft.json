@@ -4,6 +4,16 @@
   "last_updated": "2026-07-30",
   "papers": [
     {
+      "title": "Echoverse: Deep, evolving environments for computer-use agents",
+      "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+      "authors": "Akshay Nambi, Yash Pandya, Sahil Gupta, Sarthak Harne, Archana Yadav, Kavyansh Chourasia, Yash Lara, Ahmed Awadallah, Ece Kamar",
+      "published": "Thu, 30 Ju",
+      "summary": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve. The post Echoverse: Deep, evolving environments for computer-use agents appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
       "title": "EvoLib: Turning experience into evolving knowledge",
       "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
       "authors": "Weijia Xu, Alessandro Sordoni, Zelalem Gero, Michel Galley, Eric Yuan, Jianfeng Gao",
@@ -89,16 +99,6 @@
       "authors": "Brian Caswell, Bob Fleck, Mike Walker, Sarah Smith",
       "published": "Fri, 12 Ju",
       "summary": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it. The post Ire identifies another LOTUSLITE specimen appeared first on Microsoft Research .",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
-      "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
-      "authors": "Chenglong Wang, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
-      "published": "Thu, 28 Ma",
-      "summary": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights. The post Data Formulator 0.7: AI-powered data analytics for enterprise data appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
