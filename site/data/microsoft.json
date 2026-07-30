@@ -4,6 +4,16 @@
   "last_updated": "2026-07-30",
   "papers": [
     {
+      "title": "EvoLib: Turning experience into evolving knowledge",
+      "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+      "authors": "Weijia Xu, Alessandro Sordoni, Zelalem Gero, Michel Galley, Eric Yuan, Jianfeng Gao",
+      "published": "Thu, 30 Ju",
+      "summary": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. The post EvoLib: Turning experience into evolving knowledge appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
       "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
       "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
       "authors": "Son Ho, Cédric Fournet, Antoine Delignat-Lavaud, Samuel Lee, Jason Fisher, Jessica Krynitsky",
@@ -89,16 +99,6 @@
       "authors": "Chenglong Wang, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
       "published": "Thu, 28 Ma",
       "summary": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights. The post Data Formulator 0.7: AI-powered data analytics for enterprise data appeared first on Microsoft Research .",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "Extending Human Intelligence Through AI",
-      "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
-      "authors": "Ken Archer, Harald Wiltsche",
-      "published": "Wed, 27 Ma",
-      "summary": "Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems. The post Extending Human Intelligence Through AI appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
