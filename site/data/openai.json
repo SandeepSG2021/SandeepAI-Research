@@ -1,14 +1,14 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-29",
+  "last_updated": "2026-07-30",
   "papers": [
     {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdURTcDByN0NKcGZ6RzBEWmk1SjV5T1hEOG82MXp2cmRCc09ZLUxUV1JjX0dtYUlxTEVfLXVyUHI3dWIxMnNydzIxR0hwb1kxbU15dlQ1bThHYmc2M1lyeFM2eXpENWRKUlE?oc=5",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwcE5jLW96SjBBYTNYYnFQcnM1OFFCYWR5N0R0LVBza3N5WE42YUNfV0NiQTVOZmc4Vl9ZMUdneWNoTVZfOGphbmJlS044Mmw3cWtzVDRKdnhyTWNIYVVoYXJSX3h6cnNVZ1QtUXQxOFBfYnRXcHN0ZExVaw?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 29 Ju",
-      "summary": "Accelerating scientific discovery with ChatGPT for Academic Researchers OpenAI",
+      "summary": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -19,6 +19,16 @@
       "authors": "OpenAI",
       "published": "Wed, 29 Ju",
       "summary": "How GPT-5.6 fuses frontier intelligence with frontier efficiency OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdURTcDByN0NKcGZ6RzBEWmk1SjV5T1hEOG82MXp2cmRCc09ZLUxUV1JjX0dtYUlxTEVfLXVyUHI3dWIxMnNydzIxR0hwb1kxbU15dlQ1bThHYmc2M1lyeFM2eXpENWRKUlE?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 29 Ju",
+      "summary": "Accelerating scientific discovery with ChatGPT for Academic Researchers OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 20 Ju",
       "summary": "Safety and alignment in an era of long-horizon models OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 09 Ju",
-      "summary": "GPT-5.6: Frontier intelligence that scales with your ambition OpenAI",
       "tags": [
         "OpenAI"
       ]
