@@ -4,21 +4,21 @@
   "last_updated": "2026-07-31",
   "papers": [
     {
-      "title": "Advancing responsible AI across Europe",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55UlFLV3cyX2JQVHFFMF9HUjhJcVFhSWFSXzNPdEJ1Y0NwTEs0QlBtN0VNQ3NJam43SzJrbG91T2xCR3hWaTZ0TkN1aUpTVmlGSzAyNmgxeFBlRFBlNTc3dzktNlpZNkNQeUFMZkZuVWlEQQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 31 Ju",
-      "summary": "Advancing responsible AI across Europe OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 30 Ju",
       "summary": "Advancing the price-performance frontier with GPT-5.6 OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Advancing responsible AI across Europe",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55UlFLV3cyX2JQVHFFMF9HUjhJcVFhSWFSXzNPdEJ1Y0NwTEs0QlBtN0VNQ3NJam43SzJrbG91T2xCR3hWaTZ0TkN1aUpTVmlGSzAyNmgxeFBlRFBlNTc3dzktNlpZNkNQeUFMZkZuVWlEQQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 31 Ju",
+      "summary": "Advancing responsible AI across Europe OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -39,6 +39,16 @@
       "authors": "OpenAI",
       "published": "Wed, 29 Ju",
       "summary": "How GPT-5.6 fuses frontier intelligence with frontier efficiency OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Building abundant intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBObjk4d1E4cU02NFZHNVhmdUI4ODJFVWJoUlNHSUQ5YXFYOUZNaHh3S3FjbG5Vb2FHbGgyNDVvd2h1Y1M4SzRtb0xDcVh3X05kVFgzWTRyZGJoRXZHeDhaMlR4Tnd1RE0?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 31 Ju",
+      "summary": "Building abundant intelligence OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 22 Ju",
       "summary": "Introducing OpenAI Presence OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 21 Ju",
-      "summary": "OpenAI and Hugging Face partner to address security incident during model evaluation OpenAI",
       "tags": [
         "OpenAI"
       ]
