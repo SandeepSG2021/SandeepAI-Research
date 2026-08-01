@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-08-01",
   "papers": [
     {
       "title": "Disrupting a Criminal Scam Operation",
@@ -24,21 +24,21 @@
       ]
     },
     {
-      "title": "Advancing responsible AI across Europe",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55UlFLV3cyX2JQVHFFMF9HUjhJcVFhSWFSXzNPdEJ1Y0NwTEs0QlBtN0VNQ3NJam43SzJrbG91T2xCR3hWaTZ0TkN1aUpTVmlGSzAyNmgxeFBlRFBlNTc3dzktNlpZNkNQeUFMZkZuVWlEQQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 31 Ju",
-      "summary": "Advancing responsible AI across Europe OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 30 Ju",
       "summary": "Advancing the price-performance frontier with GPT-5.6 OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Advancing responsible AI across Europe",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55UlFLV3cyX2JQVHFFMF9HUjhJcVFhSWFSXzNPdEJ1Y0NwTEs0QlBtN0VNQ3NJam43SzJrbG91T2xCR3hWaTZ0TkN1aUpTVmlGSzAyNmgxeFBlRFBlNTc3dzktNlpZNkNQeUFMZkZuVWlEQQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 31 Ju",
+      "summary": "Advancing responsible AI across Europe OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "Launching Health in ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsRlpyU0JIN0o4YXpoRkRkdFhoRjhYQVVNQzM2Mmd2dTdiNVp5NFRfbkRQVnR5cGMyNHpERUdiRU5CV0NpdG5XRUZn?oc=5",
       "authors": "OpenAI",
-      "published": "Thu, 23 Ju",
-      "summary": "Launching Health in ChatGPT OpenAI",
+      "published": "Fri, 31 Ju",
+      "summary": "How avatarin built a 24/7 retail agent with GPT-Realtime OpenAI",
       "tags": [
         "OpenAI"
       ]
