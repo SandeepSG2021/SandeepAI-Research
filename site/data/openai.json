@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-08-02",
   "papers": [
     {
       "title": "Ten advances in mathematics and theoretical computer science",
@@ -19,16 +19,6 @@
       "authors": "OpenAI",
       "published": "Fri, 31 Ju",
       "summary": "Building abundant intelligence OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Disrupting a Criminal Scam Operation",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLU9NWW1wblpVWjR1b2VYZXo4bXo3QmhjcWx0SE9lZUlFRm5nTnNzRERwb296UF85aVgwRWN2SHdmS25vMnhfTE1RRHpZMnNEWDZmQ3pNcC0zbld3Q1FsWFpReExfZWd1UXQyLTRvSU9qOUdPQV9mdFdkY1BKQkoxakp5dWlaZUtG?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 31 Ju",
-      "summary": "Disrupting a Criminal Scam Operation OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -79,6 +69,16 @@
       "authors": "OpenAI",
       "published": "Tue, 28 Ju",
       "summary": "Scientific computing in the age of agentic AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Disrupting a Criminal Scam Operation",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLU9NWW1wblpVWjR1b2VYZXo4bXo3QmhjcWx0SE9lZUlFRm5nTnNzRERwb296UF85aVgwRWN2SHdmS25vMnhfTE1RRHpZMnNEWDZmQ3pNcC0zbld3Q1FsWFpReExfZWd1UXQyLTRvSU9qOUdPQV9mdFdkY1BKQkoxakp5dWlaZUtG?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 31 Ju",
+      "summary": "Disrupting a Criminal Scam Operation OpenAI",
       "tags": [
         "OpenAI"
       ]

@@ -1,7 +1,7 @@
 {
   "source": "Google-AI",
   "source_url": "https://ai.google/research/",
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-08-02",
   "papers": [
     {
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
