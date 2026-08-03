@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-02",
+  "last_updated": "2026-08-03",
   "papers": [
     {
       "title": "Ten advances in mathematics and theoretical computer science",
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "Disrupting a Criminal Scam Operation",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLU9NWW1wblpVWjR1b2VYZXo4bXo3QmhjcWx0SE9lZUlFRm5nTnNzRERwb296UF85aVgwRWN2SHdmS25vMnhfTE1RRHpZMnNEWDZmQ3pNcC0zbld3Q1FsWFpReExfZWd1UXQyLTRvSU9qOUdPQV9mdFdkY1BKQkoxakp5dWlaZUtG?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 31 Ju",
-      "summary": "Disrupting a Criminal Scam Operation OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Launching Health in ChatGPT",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 23 Ju",
       "summary": "Launching Health in ChatGPT OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 21 Ju",
+      "summary": "OpenAI and Hugging Face partner to address security incident during model evaluation OpenAI",
       "tags": [
         "OpenAI"
       ]
