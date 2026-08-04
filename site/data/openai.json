@@ -4,6 +4,16 @@
   "last_updated": "2026-08-04",
   "papers": [
     {
+      "title": "Apple is getting this wrong",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZTy1JSjFBbTl4NWdhZUpqaTVzZF9lMUl4RHMyUGM2LUhLd1UxVEpMRk5kWkNwMHFrWU5Na0hLd3Z1X19zLW5tV3hvaE1NTG11Z1d3Zm0zRE5HRDlGbVhtTXF2RQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 04 Au",
+      "summary": "Apple is getting this wrong OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How we built a realtime system for responsive voice AI in six months",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 27 Ju",
       "summary": "How AI is expanding what people do at work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Launching Health in ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 23 Ju",
-      "summary": "Launching Health in ChatGPT OpenAI",
       "tags": [
         "OpenAI"
       ]
