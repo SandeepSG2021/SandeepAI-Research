@@ -4,6 +4,20 @@
   "last_updated": "2026-08-04",
   "papers": [
     {
+      "title": "The latest AI news we announced in July 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "authors": "News from Google Team",
+      "published": "Tue, 04 Au",
+      "summary": "July AI recap header",
+      "tags": [
+        "Search",
+        "Android",
+        "Google DeepMind",
+        "Google Workspace",
+        "Google Cloud"
+      ]
+    },
+    {
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "authors": "Mariano Cocirio",
@@ -106,17 +120,6 @@
         "Android",
         "Arts & Culture",
         "Google DeepMind"
-      ]
-    },
-    {
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "authors": "Google AI Blog",
-      "published": "Wed, 01 Ju",
-      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "tags": [
-        "Learning & Education",
-        "AI"
       ]
     }
   ]

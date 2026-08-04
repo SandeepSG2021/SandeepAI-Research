@@ -64,16 +64,6 @@
       ]
     },
     {
-      "title": "How Claude Performs on Robotics Tasks",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91VmFtc1pJZHh6Nmk0MV9TQy1LWmRuTGxwdUlSSkljREEzYjRzSXRnX21tOWxfdFg5QlRDYWNkMUZyRVUtR0xmZXc0UEFPM2tVSU1JZ09OVWFYZ3ZucGdkVzR4TldYeGM?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 09 Ju",
-      "summary": "How Claude Performs on Robotics Tasks Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "A global workspace in language models",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5",
       "authors": "Anthropic",
@@ -89,6 +79,16 @@
       "authors": "Anthropic",
       "published": "Tue, 30 Ju",
       "summary": "Claude Science, an AI workbench for scientists, is now available Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Emergent introspective awareness in large language models",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NdkxHVmExaHJQQnJWcW81NlpkUExfZGVhc2tybXNhV0FIejd3eHdHVHJLSERkaHlQRXk3UlRUSU13WV91MThxaW1peE1QWVk1REgxN09CSjUyaUV3?oc=5",
+      "authors": "Anthropic",
+      "published": "Wed, 29 Oc",
+      "summary": "Emergent introspective awareness in large language models Anthropic",
       "tags": [
         "Anthropic"
       ]
