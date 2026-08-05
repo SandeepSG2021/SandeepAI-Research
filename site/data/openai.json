@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-05",
   "papers": [
     {
       "title": "Third-party cyber evaluations involving OpenAI models",
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91RmtHZzZLVlVIZ3VyQ1JISENDdUw4MzAtQUJPalhZUWotYnVPWmdUV2N0cEZ1cmxYc0dCVWYtaGJnUGtRZ2NjdQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 04 Au",
-      "summary": "Circles powers telco personalization with OpenAI technology OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Building abundant intelligence",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBObjk4d1E4cU02NFZHNVhmdUI4ODJFVWJoUlNHSUQ5YXFYOUZNaHh3S3FjbG5Vb2FHbGgyNDVvd2h1Y1M4SzRtb0xDcVh3X05kVFgzWTRyZGJoRXZHeDhaMlR4Tnd1RE0?oc=5",
       "authors": "OpenAI",
       "published": "Fri, 31 Ju",
       "summary": "Building abundant intelligence OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91RmtHZzZLVlVIZ3VyQ1JISENDdUw4MzAtQUJPalhZUWotYnVPWmdUV2N0cEZ1cmxYc0dCVWYtaGJnUGtRZ2NjdQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 04 Au",
+      "summary": "Circles powers telco personalization with OpenAI technology OpenAI",
       "tags": [
         "OpenAI"
       ]
