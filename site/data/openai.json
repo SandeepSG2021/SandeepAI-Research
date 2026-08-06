@@ -4,6 +4,36 @@
   "last_updated": "2026-08-06",
   "papers": [
     {
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QRkNHS1dlTVRqY3d4bUp2bFNiaUVPTkp1NElvWXlMek0yM1d0UjJlVlpPYXFtbEpGa0x3cWYzemZuODZpYXFXNk1VcUI4X0cwR1ZCTW00bDNDMWI3dXNsLVdPdmRlaktxYlZEc2R3WjJaTnB4?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 06 Au",
+      "summary": "From asking to doing: How the world is putting ChatGPT to work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTk15ZjhTalBJMUpDa0FudE9faExCSHJoNzVmeG5XUUJleUg2ZlcwbEwwUnhCTXlZVVZJUXgwTXg0N092UnNCaERsZVZIYWNrMUo0QTJUc3BZSUJiLTRzN1hfSGxoN1lMZVE?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 06 Au",
+      "summary": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jYzVfQm12ZlNNaTNhSVlmT0xoNG92R1ktakVlMXJidjNhX3ZIYW0ycGtaNVMzYmsxeU9WU0dRQlZMeG04WFVhYmVod1NpcTczNGRma1VsYTd1VzdaMkJYdDIwZ2R6dVFUNkw3Qms0X2RzUkZpV3N5TVdvajc5bWM?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 06 Au",
+      "summary": "Working with the American Psychological Association on youth mental health and AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing the OpenAI Economic Research Exchange",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTTJ3a1Nsd2VKOGVyQUxvd2JubHlaTmxzSGJ5Z3AtcUxYY2JaZWhiWl9ndFUzTTVpNzcwaks2NzdGTFFJQjdGS1dIQjFkbmk1NkhZeU1ETS1Pa2lLUFdGWUpSeEdqY0RINjdrdjZhMmloRGJ6RnBLdmw2dlM1amhJbw?oc=5",
       "authors": "OpenAI",
@@ -69,36 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 30 Ju",
       "summary": "Advancing the price-performance frontier with GPT-5.6 OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwcE5jLW96SjBBYTNYYnFQcnM1OFFCYWR5N0R0LVBza3N5WE42YUNfV0NiQTVOZmc4Vl9ZMUdneWNoTVZfOGphbmJlS044Mmw3cWtzVDRKdnhyTWNIYVVoYXJSX3h6cnNVZ1QtUXQxOFBfYnRXcHN0ZExVaw?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 29 Ju",
-      "summary": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdURTcDByN0NKcGZ6RzBEWmk1SjV5T1hEOG82MXp2cmRCc09ZLUxUV1JjX0dtYUlxTEVfLXVyUHI3dWIxMnNydzIxR0hwb1kxbU15dlQ1bThHYmc2M1lyeFM2eXpENWRKUlE?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 29 Ju",
-      "summary": "Accelerating scientific discovery with ChatGPT for Academic Researchers OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How AI is expanding what people do at work",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrVFBEa3pBZzFfd08wZThSMTQ3LVVMYjNDZ3kxU0tFTEU1SlJiZUt3TXIzVzhuWUlFc21INXY4dzlpbnRnNU91RGx1Y2RtYl9Ya0UzWU5GTXdXSWVaVV95UnZHdm0wTG5WMmVyWm1Ub0RnZ1BmdHlN?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 27 Ju",
-      "summary": "How AI is expanding what people do at work OpenAI",
       "tags": [
         "OpenAI"
       ]
