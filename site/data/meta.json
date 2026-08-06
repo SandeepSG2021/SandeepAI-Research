@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "papers": [
     {
       "title": "Introducing Muse Image and Muse Video - AI at Meta",
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "Meta AI Research: Muse Spark, Muse Code and Muse Image - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1ejNyS2o0RlZaazlqcUFsS1FCTWpsanZ3MFc0cExGY3ljWHBvWE5aR1VOVVhVMUM1S1kyR1ljVTdmVkU?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 12 Ju",
-      "summary": "Meta AI Research: Muse Spark, Muse Code and Muse Image AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Meta Movie Gen - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XTmp6Tm00a2V2Yk9tenBnVVBkbGJRQnhvV1JWZjhGTlhzb19sdDN6bTY2bU9GdjhTUUZLOUFVeFNUSnBXMWsyX3VOQ295TTY4?oc=5",
       "authors": "Meta AI",
       "published": "Fri, 04 Oc",
       "summary": "Meta Movie Gen AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing V-JEPA 2 - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4X0ZETVA1cFhtQW5TbjFPUlJmM0FGMWtlY0xza0tGWjVocFdUX1d2LU11ZkI1OUxzbFFpMWNIUGRIRWF6T0V4ZDg1RQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Fri, 30 Ja",
+      "summary": "Introducing V-JEPA 2 AI at Meta",
       "tags": [
         "Meta AI"
       ]
