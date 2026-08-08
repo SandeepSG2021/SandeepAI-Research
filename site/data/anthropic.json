@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-08",
   "papers": [
     {
       "title": "Improving Fable 5's biology safeguards",
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "Agents for financial services",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IS1R3ZVd5NUxtWGJjRlFBQXZfOXJPS2xlY0wtaWZhSmx0M2RNaFUwN3FCU1Y3bTh5dkhqOEtIUE94UXFtT2l1MEk0WFZyUVRYV1Fsc1JrMEU?oc=5",
+      "title": "Core views on AI safety: When, why, what, and how",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSXEwQkhIekYzdnV4a3lqTW1TdEpMeTFNWDZmc0dzcGp6SjRicnJXZFFxSjNuT3VaSjB1Y2dWcXhHdnNncUNCdmhVck1iVUVYVF96dGpzWUN0dVVaLUlTTmdMWXI?oc=5",
       "authors": "Anthropic",
-      "published": "Tue, 05 Ma",
-      "summary": "Agents for financial services Anthropic",
+      "published": "Wed, 08 Ma",
+      "summary": "Core views on AI safety: When, why, what, and how Anthropic",
       "tags": [
         "Anthropic"
       ]
