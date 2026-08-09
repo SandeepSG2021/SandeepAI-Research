@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-08",
+  "last_updated": "2026-08-09",
   "papers": [
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -17,7 +17,7 @@
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTk15ZjhTalBJMUpDa0FudE9faExCSHJoNzVmeG5XUUJleUg2ZlcwbEwwUnhCTXlZVVZJUXgwTXg0N092UnNCaERsZVZIYWNrMUo0QTJUc3BZSUJiLTRzN1hfSGxoN1lMZVE?oc=5",
       "authors": "OpenAI",
-      "published": "Thu, 06 Au",
+      "published": "Wed, 05 Au",
       "summary": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users OpenAI",
       "tags": [
         "OpenAI"
@@ -49,16 +49,6 @@
       "authors": "OpenAI",
       "published": "Tue, 04 Au",
       "summary": "Third-party cyber evaluations involving OpenAI models OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GV1MyNmtiTnBOV2JLaWpxQWJad2doUFB3ZmRVLUlOdUVrSkE5bDNGblNWZklQNDBiOGo3NGpTNTZ1YVZJMHBPRU5YNExpbWNzeG9kazh5MFNydUY5UGdFOExQby03SEU?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 04 Au",
-      "summary": "New ways to learn and teach with ChatGPT Work and Codex OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Sat, 01 Au",
       "summary": "Ten advances in mathematics and theoretical computer science OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zRjlhT2ViYjRWTHlWaW5aMlJPbmNWOUY4UkZiN2RkV2RPc3FYQlU1LXFmSXJfYTBtQmxHdUlUMWg3TDFGZVZuV1pNVWU?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 07 Au",
+      "summary": "How HSP GRUPPE builds AI capabilities for tax advisory OpenAI",
       "tags": [
         "OpenAI"
       ]
