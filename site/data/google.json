@@ -4,6 +4,18 @@
   "last_updated": "2026-08-10",
   "papers": [
     {
+      "title": "Evolve your marketing with new AI tools",
+      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "authors": "Josh Moser",
+      "published": "Mon, 10 Au",
+      "summary": "Advisor UI in Google Ads and Google Analytics",
+      "tags": [
+        "Google Ads",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "title": "The latest AI news we announced in July 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "authors": "News from Google Team",
@@ -107,17 +119,6 @@
       "summary": "Google Images logo surrounded by illustrations of people searching for different images",
       "tags": [
         "Search",
-        "AI"
-      ]
-    },
-    {
-      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "authors": "Mariano Cocirio",
-      "published": "Tue, 07 Ju",
-      "summary": "Managed agents feature bundle launch",
-      "tags": [
-        "Developer tools",
         "AI"
       ]
     }

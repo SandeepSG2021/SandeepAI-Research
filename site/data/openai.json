@@ -4,6 +4,16 @@
   "last_updated": "2026-08-10",
   "papers": [
     {
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PbHdWX05rUm4wU0dZcHk2aDVZbzQ1dV9LbzI5VmJpV0RlbjhxUk43aUZ4S25LVHZuOXh3RThhRmZkR1dxOHRiS2ltNGx0YVRPdEd1dS10a0ZEUXhlSjB2M09qU1c0N0xsckE4WEdR?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 10 Au",
+      "summary": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Responding to the next frontier of critical cyber capabilities",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NXUG1KWUhSOVU2TE1wWWk5LUtwOHRBc2dGQWxlZTh2azJ2MHlnUHlTcWhaTWJKZ1g4WXUzS0VxcnRxbTByNjR6LUdJS3pYRUtKVmVwb3hQTVFqQXNSQjliUDRLSFVpR01uR3hjcTNreG1hR3FDc2ZpMW1qYXRUT25KdE8?oc=5",
       "authors": "OpenAI",
@@ -17,7 +27,7 @@
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTk15ZjhTalBJMUpDa0FudE9faExCSHJoNzVmeG5XUUJleUg2ZlcwbEwwUnhCTXlZVVZJUXgwTXg0N092UnNCaERsZVZIYWNrMUo0QTJUc3BZSUJiLTRzN1hfSGxoN1lMZVE?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 05 Au",
+      "published": "Thu, 06 Au",
       "summary": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users OpenAI",
       "tags": [
         "OpenAI"
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 29 Ju",
       "summary": "Accelerating scientific discovery with ChatGPT for Academic Researchers OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Scientific computing in the age of agentic AI",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cWVqX2lyeTRtY05TalE0a0JsSVRsUGF3R2dDN19GZENfSkVoaUhKRVJicFE4UjgwZTI1MWtVVHZOQVJvMXhQNUpfU0xqSjlFV2pyNEpzeF9DZG12UGVuUVhNcmVHcm80?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 28 Ju",
-      "summary": "Scientific computing in the age of agentic AI OpenAI",
       "tags": [
         "OpenAI"
       ]
