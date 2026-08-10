@@ -1,7 +1,7 @@
 {
   "source": "Microsoft-AI",
   "source_url": "https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/",
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-10",
   "papers": [
     {
       "title": "Orchard: An open framework for scalable agentic AI",
