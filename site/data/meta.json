@@ -4,21 +4,21 @@
   "last_updated": "2026-08-11",
   "papers": [
     {
-      "title": "Introducing Muse Image and Muse Video - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
-      "authors": "Meta AI",
-      "published": "Tue, 07 Ju",
-      "summary": "Introducing Muse Image and Muse Video AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNC1udEdYdEhzd29jVTV6YWhvUjZrRVIzSzR5WktVZzRudE5OUENGbTFFbU55QmZveHhqV1JjakhhWkF2b1poOXFJZVZKVFRaNWJrdGtKWHB0a21obGtuempn?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 08 Ap",
       "summary": "Introducing Muse Spark: Scaling Towards Personal Superintelligence AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing Muse Image and Muse Video - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
+      "authors": "Meta AI",
+      "published": "Tue, 07 Ju",
+      "summary": "Introducing Muse Image and Muse Video AI at Meta",
       "tags": [
         "Meta AI"
       ]
