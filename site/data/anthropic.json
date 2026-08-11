@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-08-10",
+  "last_updated": "2026-08-11",
   "papers": [
     {
       "title": "Learning more about Claude's mathematical capabilities",
@@ -74,6 +74,16 @@
       ]
     },
     {
+      "title": "Introducing Claude for Teachers",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 14 Ju",
+      "summary": "Introducing Claude for Teachers Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Introducing Claude Corps",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
       "authors": "Anthropic",
@@ -84,21 +94,11 @@
       ]
     },
     {
-      "title": "Claude Science, an AI workbench for scientists, is now available",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81R0J0dXluYzJGcmxVb3dDY0Z2UjVYT2I5ZkYwSVRrWTBSUm5HZXpWRkFsQ2k5bm1jbVU5cENOY0xkX0tybV9FbnhRcFVac1dncWtqTF85OTZyd3o1dlRXenJkd1h3T1pTSGc?oc=5",
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
       "authors": "Anthropic",
       "published": "Tue, 30 Ju",
-      "summary": "Claude Science, an AI workbench for scientists, is now available Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Introducing Claude 4",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zZDBFX0ZfQkVDWHAwbHR1X0k0YnRTSlc4QUxoTVNudzYyQUNjLWdaaFhmWGs1b2V5bnR0VWllWjhiV0szS3hoZW9yY1BZWjBW?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 22 Ma",
-      "summary": "Introducing Claude 4 Anthropic",
+      "summary": "Introducing Claude Sonnet 5 Anthropic",
       "tags": [
         "Anthropic"
       ]
