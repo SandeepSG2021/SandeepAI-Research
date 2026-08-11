@@ -4,16 +4,6 @@
   "last_updated": "2026-08-11",
   "papers": [
     {
-      "title": "Introducing Muse Image and Muse Video - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
-      "authors": "Meta AI",
-      "published": "Tue, 07 Ju",
-      "summary": "Introducing Muse Image and Muse Video AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNC1udEdYdEhzd29jVTV6YWhvUjZrRVIzSzR5WktVZzRudE5OUENGbTFFbU55QmZveHhqV1JjakhhWkF2b1poOXFJZVZKVFRaNWJrdGtKWHB0a21obGtuempn?oc=5",
       "authors": "Meta AI",
@@ -24,11 +14,41 @@
       ]
     },
     {
+      "title": "Introducing Muse Image and Muse Video - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
+      "authors": "Meta AI",
+      "published": "Tue, 07 Ju",
+      "summary": "Introducing Muse Image and Muse Video AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 25 Se",
       "summary": "Connect 2024: The responsible approach we’re taking to generative AI AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Scaling How We Build and Test Our Most Advanced AI - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yYXZmOGU3RDVLaFNxSXNZU2Z0X1FldDN4MlpLcTJwZkU1clFOMXp4NTVpN0pzMEVudUxnVElWWkdnMTdESlB0S0YxeVZCLVA4TkZVeUkxd2RQU2k5ampjcl94eFRvaTYwN0tFVW9oSUk?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 08 Ap",
+      "summary": "Scaling How We Build and Test Our Most Advanced AI AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing Muse Spark 1.1 - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
+      "authors": "Meta AI",
+      "published": "Thu, 09 Ju",
+      "summary": "Introducing Muse Spark 1.1 AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -79,26 +99,6 @@
       "authors": "Meta AI",
       "published": "Wed, 11 Ma",
       "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 18 Ap",
-      "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
-      "authors": "Meta AI",
-      "published": "Sat, 05 Ap",
-      "summary": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation AI at Meta",
       "tags": [
         "Meta AI"
       ]
