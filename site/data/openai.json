@@ -1,8 +1,18 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-12",
   "papers": [
+    {
+      "title": "Daybreak models are now available on AWS",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45SU9RVTVwLVo0ZVNlYVp6Mkd2TGM1dEc3eUtwRHJuQ3ZHeXZqbTd0SHZkZXZsRUhObWd0d2t2WlB3YWUyTVJfdTlNVlpUbkJONGc3N1NqR2hLQVc0N1NIZTlCQi1UOHlwSTJlTjU4TUFfSGxt?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 11 Au",
+      "summary": "Daybreak models are now available on AWS OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHhOZWxZTjFGeVhORk1uYkFLc2tpM2d1SmxadExqMU1KM1lrMmt3VVh2SXpFZ01GRGFBSWJYcG1NSU02a1ZLTFEzb3hwd1VJcUt6bk9oam9ZYXZLdFZBTEdveF9SQjl3Z1B5Z3JlOS1uN2pnd1JTclY4b21hREdzUmxSOFZ1alE?oc=5",
@@ -79,16 +89,6 @@
       "authors": "OpenAI",
       "published": "Thu, 06 Au",
       "summary": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtS1NVbUhVQ00xQWVOYXRlNTYtOWJabDBwUzMtTlFQWVBiZ2FpVnpqaFBpQ2xwUldlNWhDYkhZZVp2YVo0VjB3?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 10 Au",
-      "summary": "How Zapier transformed core marketing processes with ChatGPT Work OpenAI",
       "tags": [
         "OpenAI"
       ]
