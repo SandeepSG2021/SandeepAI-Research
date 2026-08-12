@@ -34,16 +34,6 @@
       ]
     },
     {
-      "title": "Introducing Muse Spark 1.1 - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 09 Ju",
-      "summary": "Introducing Muse Spark 1.1 AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Introducing Llama 3.1: Our most capable models to date - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
       "authors": "Meta AI",
@@ -99,6 +89,16 @@
       "authors": "Meta AI",
       "published": "Tue, 23 Ju",
       "summary": "Expanding our open source large language models responsibly AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
+      "authors": "Meta AI",
+      "published": "Thu, 18 Ap",
+      "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date AI at Meta",
       "tags": [
         "Meta AI"
       ]
