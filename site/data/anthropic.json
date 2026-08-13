@@ -1,8 +1,18 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-08-12",
+  "last_updated": "2026-08-13",
   "papers": [
+    {
+      "title": "How well do job retraining programs work?",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTI2azlxSHB1X1BGbWhCV3M4RDludDVVaUJwVTM1dXdlVjVkMGpud0p4UlM1VGlyeEFIQmM4REZDY01SODRfcXY4RmNwVzJ1YUh3YU50ZzM5NVM4dWUxR29TVnplT3FyZTQtMnY1Ym41eURsRVpULWR2ODg1UjNHcXhablA0eHJNdlVUTTFETW0?oc=5",
+      "authors": "Anthropic",
+      "published": "Wed, 12 Au",
+      "summary": "How well do job retraining programs work? Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
     {
       "title": "Learning more about Claude's mathematical capabilities",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hN2tYeFF6SEtkVVhzVURqcHVqZ0VPVExEUnlFX21BcmNLaFhqT1BEU25IVS15akdoYVZ3djRLc3B5OXIyRnNxZkcxQUd4TEhXaUlpZzNwZlhuUVk?oc=5",
@@ -69,16 +79,6 @@
       "authors": "Anthropic",
       "published": "Mon, 27 Ju",
       "summary": "Expanding our partnership with Cognizant Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Introducing Claude Sonnet 5",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 30 Ju",
-      "summary": "Introducing Claude Sonnet 5 Anthropic",
       "tags": [
         "Anthropic"
       ]
