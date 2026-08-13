@@ -4,6 +4,18 @@
   "last_updated": "2026-08-13",
   "papers": [
     {
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "authors": "Eric Birnbaum",
+      "published": "Thu, 13 Au",
+      "summary": "The video shows Sheets canvas in action.",
+      "tags": [
+        "Google Workspace",
+        "Google One",
+        "AI"
+      ]
+    },
+    {
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "authors": "Anil Palepu",
@@ -109,18 +121,6 @@
       "summary": "Connected apps rendering",
       "tags": [
         "Search",
-        "AI"
-      ]
-    },
-    {
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "authors": "Justin Luk",
-      "published": "Thu, 16 Ju",
-      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-      "tags": [
-        "Google Workspace",
-        "Google One",
         "AI"
       ]
     }
