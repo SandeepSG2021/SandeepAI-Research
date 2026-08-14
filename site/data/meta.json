@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-08-13",
+  "last_updated": "2026-08-14",
   "papers": [
     {
       "title": "Introducing Muse Image and Muse Video - AI at Meta",
@@ -64,26 +64,6 @@
       ]
     },
     {
-      "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 18 Ap",
-      "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
-      "authors": "Meta AI",
-      "published": "Sat, 05 Ap",
-      "summary": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Expanding our open source large language models responsibly - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9va2JsQnpWM0lBZGZQbUJVd2hjV2RINl9GbWM4ZDdpdlByRDFTVDl1SHpMZ0pwMHFuNC1JUHBPTkdfWnE4cnlVQ1JYVzFkZVJBcUpudE9qVGNlbGpUdUlaVzBuMVMyYUgxaGc?oc=5",
       "authors": "Meta AI",
@@ -94,11 +74,31 @@
       ]
     },
     {
+      "title": "SAM Audio - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPbzlfT1hGOWRRNnVCZGRrMVRaSkVLT0ZjbzlVMTkyTjd3eVFaR1ljOHBFMURxWTN4dnBZWUtfNUloV1hRdlZuc1pGN2tkVjQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Sat, 31 Ja",
+      "summary": "SAM Audio AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
       "title": "Introducing V-JEPA 2 - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4X0ZETVA1cFhtQW5TbjFPUlJmM0FGMWtlY0xza0tGWjVocFdUX1d2LU11ZkI1OUxzbFFpMWNIUGRIRWF6T0V4ZDg1RQ?oc=5",
       "authors": "Meta AI",
       "published": "Fri, 30 Ja",
       "summary": "Introducing V-JEPA 2 AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQREZqdkRabWx0ZnpoM2Z0dzdEWUItU0Fsd2QwSFQ2ZU05LURwMzRJWENUQUY5bFdlUmJCd1ZiOGFQUFpTY1FtRnlJUHZDZnpja1dESGtLTmMzVFB6Zm50UFFDUGF6WDByb2NndUgyejRkendFdlVidFE3bEFwbFBfaUs1QjY?oc=5",
+      "authors": "Meta AI",
+      "published": "Mon, 27 Ju",
+      "summary": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics AI at Meta",
       "tags": [
         "Meta AI"
       ]
