@@ -54,21 +54,21 @@
       ]
     },
     {
-      "title": "Discovering cryptographic weaknesses with Claude",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 28 Ju",
-      "summary": "Discovering cryptographic weaknesses with Claude Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Our position on open-weights models",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVU84Xy1NRFVUV1l6QjNvVTl0QncwbVM0bnRpbmNvUFBNSHNaR3lmTlk0cWRHQ3hKVEZkNGNOVVNaMWFfXzVqTVgxeENSdGV0THY2SUF5VjdPS0h5SUZmTzhfdUgyOExsOG5V?oc=5",
       "authors": "Anthropic",
       "published": "Mon, 27 Ju",
       "summary": "Our position on open-weights models Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 28 Ju",
+      "summary": "Discovering cryptographic weaknesses with Claude Anthropic",
       "tags": [
         "Anthropic"
       ]
