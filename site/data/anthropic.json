@@ -74,21 +74,21 @@
       ]
     },
     {
-      "title": "Introducing Claude Tag",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 23 Ju",
-      "summary": "Introducing Claude Tag Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Introducing Claude Sonnet 5",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
       "authors": "Anthropic",
       "published": "Tue, 30 Ju",
       "summary": "Introducing Claude Sonnet 5 Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Introducing Claude Tag",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 23 Ju",
+      "summary": "Introducing Claude Tag Anthropic",
       "tags": [
         "Anthropic"
       ]
