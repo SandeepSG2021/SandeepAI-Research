@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-08-15",
+  "last_updated": "2026-08-16",
   "papers": [
     {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
@@ -29,6 +29,16 @@
       "authors": "Meta AI",
       "published": "Wed, 19 No",
       "summary": "SAM 3: Segment Anything with Concepts AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 11 Ma",
+      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -89,16 +99,6 @@
       "authors": "Meta AI",
       "published": "Fri, 30 Ja",
       "summary": "Introducing V-JEPA 2 AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Expanding our open source large language models responsibly - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9va2JsQnpWM0lBZGZQbUJVd2hjV2RINl9GbWM4ZDdpdlByRDFTVDl1SHpMZ0pwMHFuNC1JUHBPTkdfWnE4cnlVQ1JYVzFkZVJBcUpudE9qVGNlbGpUdUlaVzBuMVMyYUgxaGc?oc=5",
-      "authors": "Meta AI",
-      "published": "Tue, 23 Ju",
-      "summary": "Expanding our open source large language models responsibly AI at Meta",
       "tags": [
         "Meta AI"
       ]

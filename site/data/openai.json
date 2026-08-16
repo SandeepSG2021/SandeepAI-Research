@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-15",
+  "last_updated": "2026-08-16",
   "papers": [
     {
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
@@ -74,16 +74,6 @@
       ]
     },
     {
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTTJ3a1Nsd2VKOGVyQUxvd2JubHlaTmxzSGJ5Z3AtcUxYY2JaZWhiWl9ndFUzTTVpNzcwaks2NzdGTFFJQjdGS1dIQjFkbmk1NkhZeU1ETS1Pa2lLUFdGWUpSeEdqY0RINjdrdjZhMmloRGJ6RnBLdmw2dlM1amhJbw?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 08 Ju",
-      "summary": "Introducing the OpenAI Economic Research Exchange OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "How we built a realtime system for responsive voice AI in six months",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
       "authors": "OpenAI",
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Sat, 01 Au",
       "summary": "Ten advances in mathematics and theoretical computer science OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdURTcDByN0NKcGZ6RzBEWmk1SjV5T1hEOG82MXp2cmRCc09ZLUxUV1JjX0dtYUlxTEVfLXVyUHI3dWIxMnNydzIxR0hwb1kxbU15dlQ1bThHYmc2M1lyeFM2eXpENWRKUlE?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 29 Ju",
+      "summary": "Accelerating scientific discovery with ChatGPT for Academic Researchers OpenAI",
       "tags": [
         "OpenAI"
       ]
