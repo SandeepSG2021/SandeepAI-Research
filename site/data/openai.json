@@ -4,6 +4,46 @@
   "last_updated": "2026-08-17",
   "papers": [
     {
+      "title": "OpenAI joins PORTS-Pike project",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lSDRzTDRmOXVNbmJMNmR5UUVvT1ozbmsweTU4aG9Da1RSc29vbHY5M05SblZFODNDeHFCYjJoMkJpUllJQk5oQmw3MU5LbnNqMjh3MkRqelMyQl9zRHBHSi14S1BxTkQ4?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 17 Au",
+      "summary": "OpenAI joins PORTS-Pike project OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The Defender’s Window",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLQlJTY0ZsRElpT2xCTXk5N0RXX1ptdmhadm4tM1NxZDQzZ3BIVi1fcm1EdnFsZFExZFVQZ3pRdGlJbWhONy1NM3ZFLXBvRDB1UG1IWHlkUmZldw?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 17 Au",
+      "summary": "The Defender’s Window OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50c2tWanNsR0xvM0w1d2hzSFJHS1FXenprdUZCQmNfZVQ2WlNNenprcEczaUcwMm9nYlAyQUwxQ05LY2UwMXpXM1ZRWHNieF91dVYtcklTRG8wQ28wc1VpRFNnSE91M0tDRTFPTHBzRWNiUHJVZVE?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 17 Au",
+      "summary": "New policy ideas for the Intelligence Age OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMWFtaDR2X0I2UjdDcjFYRkJTTXE2cnNqSk1sVnIwMzR5MHl1M3FTVEkxaGEyMjI2ekZ1d2VTNGx2VnVYMlhPU3lvamJBSS15YzlfY0lFaGVmRkV3b0N4ZA?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 13 Au",
+      "summary": "The builder’s guide to GPT‑5.6 OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
       "authors": "OpenAI",
@@ -59,46 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 06 Au",
       "summary": "From asking to doing: How the world is putting ChatGPT to work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Putting frontier cyber models in more trusted hands",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTMxN3pScDV4Ul81eXN1anAzOXJmVnV0Y09SZ0l2a1JGd2ZVSjY4eVkyUVprUU1WN25MdzViaEc3SmYyOGd5N0R1MUNKaU1aem9uakRjYmljMkNIbE9ib0RlMzZ3TVphRE51REFMSGlQQXpSOHlneW4ySWlzQW4xUXRBVQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 10 Au",
-      "summary": "Putting frontier cyber models in more trusted hands OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 03 Au",
-      "summary": "How we built a realtime system for responsive voice AI in six months OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMWFtaDR2X0I2UjdDcjFYRkJTTXE2cnNqSk1sVnIwMzR5MHl1M3FTVEkxaGEyMjI2ekZ1d2VTNGx2VnVYMlhPU3lvamJBSS15YzlfY0lFaGVmRkV3b0N4ZA?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 13 Au",
-      "summary": "The builder’s guide to GPT‑5.6 OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdURTcDByN0NKcGZ6RzBEWmk1SjV5T1hEOG82MXp2cmRCc09ZLUxUV1JjX0dtYUlxTEVfLXVyUHI3dWIxMnNydzIxR0hwb1kxbU15dlQ1bThHYmc2M1lyeFM2eXpENWRKUlE?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 29 Ju",
-      "summary": "Accelerating scientific discovery with ChatGPT for Academic Researchers OpenAI",
       "tags": [
         "OpenAI"
       ]
