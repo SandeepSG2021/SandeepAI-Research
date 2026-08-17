@@ -4,6 +4,19 @@
   "last_updated": "2026-08-17",
   "papers": [
     {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "authors": "Eileen Mannion",
+      "published": "Mon, 17 Au",
+      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+      "tags": [
+        "Gemini",
+        "AI",
+        "Google in Europe",
+        "Pixel"
+      ]
+    },
+    {
       "title": "Bring your spreadsheet data to life with Sheets canvas",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "authors": "Eric Birnbaum",
@@ -110,17 +123,6 @@
         "Gemini App",
         "Android",
         "Gemini Notebook",
-        "AI"
-      ]
-    },
-    {
-      "title": "Connect more of your apps to Search",
-      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "authors": "Biharck Araújo",
-      "published": "Thu, 16 Ju",
-      "summary": "Connected apps rendering",
-      "tags": [
-        "Search",
         "AI"
       ]
     }
