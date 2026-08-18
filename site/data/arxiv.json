@@ -1,104 +1,104 @@
 {
   "source": "ARXIV-AI",
   "source_url": "https://arxiv.org/list/cs.AI/recent",
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-18",
   "papers": [
     {
-      "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
-      "link": "http://arxiv.org/abs/2608.14539v1",
-      "authors": "Karel Becerra, Boris Mederos, Dean Snow, Ramón A. Mollineda",
-      "published": "2026-08-14",
-      "summary": "Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contemporary and prehistoric groups, and the uncertainty introduced by image degradation. Traditional morphometric methods suffer from high structural overlap across sexes, poor cross-population generalizability, and subjective feature engineering. This study presents an uncertainty-aware deep learning framework for sex attribution in prehistoric hand stencils that explicitly models, propagates, and aggregates uncertainty throughout the analytical pipeline. The methodology combines dual image processing, dual contour extraction, structured silhouette augmentation, model architectural diversity, and ensemble-based decision aggregation. The pipeline generates twelve plausible silhouette realizations per stencil to capture boundary uncertainties, which are processed by two ensembles of ten deep neural networks each (EfficientNet-B3 and MobileViT-S) trained on 14,036 contemporary hand samples. Furthermore, a triangulated validation scheme integrates ensemble predictions with unsupervised 2D latent-",
+      "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+      "link": "http://arxiv.org/abs/2608.16889v1",
+      "authors": "Bingxin Xu, Yuzhang Shang, Emilio Ferrara",
+      "published": "2026-08-17",
+      "summary": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe freezes the VLA and puts an LLM agent in charge: it plans in language, moves in free space with analytic primitives, invokes the VLA only for contact-rich segments, and writes adaptation into language memory. Applied to long horizons, it breaks twice. (1) Competence comes from whole-task exploration at test time, whose cost is multiplicative in stages: if one stage needs T episodes, a K-stage task needs about T^K, and a failure does not reveal which stage caused it. (2) It has no representation of transitions: the VLA primitive carries an exit but no entry condition, so a subtask can succeed in a form its successor cannot use. We present BATON. Against (1), BATON makes the subtask the unit of exploration: each is explored in the cheap short-horizon regime and its solution stored in memory; a long-horizon trajectory is then composed from these solutions rather than disco",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
-      "link": "http://arxiv.org/abs/2608.14530v1",
-      "authors": "Zian Meng, Zhen Li, Chuanhao Li, Qiang Li, Kaipeng Zhang",
-      "published": "2026-08-14",
-      "summary": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintained by the same generative sequence. Over long horizons, errors in these latent world properties accumulate, making consistency and controllability fragile. We explicitly model the evolving world state, delegate exact geometric computation to a fixed, zero-parameter renderer, and leave the neural model to synthesize appearance. We instantiate this idea as Marionette, a world model for interactive games with articulated characters. First, a two-stage autoregressive dynamics model predicts an explicit and interpretable 276-dimensional 3D world state comprising multi-entity articulated skeletons, metric root trajectories, and rotations. Second, a zero-parameter graphics bridge converts the predicted state into pose-control videos, computing world-space geometry and occlusion in closed form. Third, a control-conditioned video-diffusion observation model synthesizes photorealistic RGB observations from the resulting structured controls. Our experiments establish two properties of Marionette.",
+      "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+      "link": "http://arxiv.org/abs/2608.16884v1",
+      "authors": "Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii, Abbas Mehrabian, Francisco J. R. Ruiz, Abigail See, Renfei Zhou, Josh Alman, Virginia Vassilevska Williams, Matej Balog",
+      "published": "2026-08-17",
+      "summary": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alman et al., 2025). In this note, we address the optimization problem at the core of this approach and propose several improvements. First, we reformulate the optimization problem allowing us to solve it in a larger setting than was previously possible. Second, we leverage recent advances in machine learning to design a new optimization algorithm for this problem. Finally, we refine the resulting optimization algorithm with AlphaEvolve. Our combined approach yields an upper bound of $ω$ < 2.371177, improving the previous best bound of 2.371339.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Handover of In-Context Learning State Across Session Boundaries",
-      "link": "http://arxiv.org/abs/2608.14528v1",
-      "authors": "Masahiro Kato, Taka Kato",
-      "published": "2026-08-14",
-      "summary": "This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may continue in a new session when the context reaches the model's input limit, when the application restarts, or when another agent is asked to finish the task. The application must then decide which information from the earlier session to pass on. We formulate handover as the transfer of a task-relative in-context learning (ICL) state and distinguish exact recovery of earlier material from preservation of the target distribution. Under an exogeneity condition, predictive equivalence characterizes the coarsest deterministic sufficient handover and gives a fixed-length bit requirement. The analysis isolates the effects of the memory constraint, the writer, and the continuation procedure, and quantifies the cost of writing before the realized downstream query is known. We propose a three-part record that stores decisions and constraints exactly, uses task-justified statistics for repeated evidence, and retains original observations whose effect is not preserved by those statistics. Gaussian linear regression gives an exact finite-dimensiona",
+      "title": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+      "link": "http://arxiv.org/abs/2608.16876v1",
+      "authors": "Kejia Zhang, Youran Sun, Xinyu Ren, Chugang Yi, Haizhao Yang",
+      "published": "2026-08-17",
+      "summary": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolated equations. Finite, noisy data often yield numerically competitive expressions that imply very different behavior outside the observed regime, making numerical fit and syntactic complexity insufficient measures of scientific credibility. Existing approaches largely focus on improving expressions, yet the search typically retains little beyond the resulting formula and score, losing the scientific record, such as motivations and probes, that inform what to try next. AutoSR preserves this record in a \\textbf{Research State}, coupling each candidate equation with the reasoning, computational evidence, and independent review developed along its branch. Proposer--reviewer agents develop these states under progressive-widening Monte Carlo tree search (PW-MCTS), which allocates computation across competing investigations, while the accumulated research record is ultimately synthesized into a final report that explains the leading relation and the basis for its selection. Across nine selected",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers",
-      "link": "http://arxiv.org/abs/2608.14522v1",
-      "authors": "Taenyun Kim, Edyta Bogucka, Daniele Quercia",
-      "published": "2026-08-14",
-      "summary": "As AI systems make more morally loaded decisions across society, one response has been moral preference elicitation. In this approach, researchers poll participants on hypothetical dilemmas and use the aggregated votes to train a policy that an AI model then applies at scale. Before any vote is cast, developers make three key choices in the moral AI elicitation pipeline: feature scoping, voter sampling, and question framing. In other words, they decide which features go to a vote, which voters to include, and how to present the question. These choices are often opaque, undocumented, and treated as technical details rather than normative ones. We examine each of these choices within a common empirical study and show that each can shape the preferences produced by moral AI elicitation. Across two phases (N = 809) in three deployment contexts (i.e., AI kidney allocation, AI agents simulating absent workers, and generative AI depictions of the deceased), we examine the three main stages of the moral AI elicitation pipeline. First, morally relevant features shift across contexts. This suggests that feature schemas should not be assumed to transfer across deployment domains. Second, pref",
+      "title": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
+      "link": "http://arxiv.org/abs/2608.16868v1",
+      "authors": "Benjamin Belay",
+      "published": "2026-08-17",
+      "summary": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable evidence of which causally relevant internal state occurred. We test a bounded form of this idea in two controlled architectures: a modular feed-forward neural network and a transformer-based model. Both architectures are trained on the same arithmetic task with a mandatory pathway through two discrete intermediate states, allowing different internal paths to produce the same answer. We deliberately switch between these paths, authenticate the state actually used, and let that verified state determine a subtle statistical pattern in the generated text that can later be detected. The feed-forward and transformer systems each passed all 128 matched pairs in both their public and separately sealed protected end-to-end evaluations, with the detector recovering the signal associated with the authenticated internal state. The required causal computation also reproduced across five independently trained feed-forward models and three independently trained transformers. In a separate answer-on",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Learning-to-Transition for Large-scale and High-Order MIMO Detection",
-      "link": "http://arxiv.org/abs/2608.14511v1",
-      "authors": "Yubo Zhang, Yiyao Liu, Xiaodong Wang",
-      "published": "2026-08-14",
-      "summary": "High-order multiple-input multiple-output (MIMO) detection requires efficient search over a large discrete symbol space while producing reliable soft information for channel decoding. This paper develops a learning-to-transition (L2T) framework that formulates MIMO detection as a stochastic sequence of complete-vector transitions. At each transition, a channel-coupled Transformer updates both the instance embedding and the sampling policy, while a blockwise autoregressive factorization captures inter-stream dependence with moderate sequential complexity. For hard-output detection, a transition network is applied recursively and trained through a residual-to-BER curriculum, which first learns the MIMO search geometry from the exact residual metric and then aligns the policy with transmitted-bit accuracy. For soft-output reception, the well-trained hard policy is cloned at the parameter level into every layer of an untied soft-input soft-output iterative detection and decoding (IDD) receiver. This tied-to-untied transfer preserves the learned zero-prior search dynamics while enabling layer- and round-specific specialization under decoder feedback. Within each IDD round, decoder prior",
+      "title": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+      "link": "http://arxiv.org/abs/2608.16852v1",
+      "authors": "Saisab Sadhu, Aadit Sengupta, Vinay Kumar Sankarapu, Pratinav Seth",
+      "published": "2026-08-17",
+      "summary": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection, healthcare, financial regulation, and platform policy. Such monitoring is meaningful only if a detector's verdict depends on the stated rule rather than on surface features of the scenario. We show this condition fails across the current class of compliance detectors, a failure we call rule blindness. Deleting, permuting, or substituting the governing rule leaves detection accuracy unchanged for every guard and activation probe we test, including a policy-conditioned guard that correctly cites the governing clause yet barely changes its verdict when that clause is swapped for its permissive counterpart. A purpose-built benchmark crossing two rules with two scenarios, so that neither alone predicts the label, confirms the failure under a design no prior benchmark rules out, and shows that step by step reasoning, not any fast detector we test, is what escapes it. Auditing at scale requires a retraining-free detector, so we introduce the Internal Compliance Score (ICS): a training-free activation r",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Split the Labor: Separating Evidence Interpretation from Decision Aggregation",
-      "link": "http://arxiv.org/abs/2608.14509v1",
-      "authors": "Zhelun Wu",
-      "published": "2026-08-14",
-      "summary": "Systems that ask a language model to reach a conclusion from many sources usually concatenate them into one prompt. This conflates two operations with different requirements. Interpreting a source rewards capacity and context. Combining interpretations rewards fixed arithmetic, comparability across instances, and the option to return nothing. Once separated, the design problem becomes the interface between them. We propose a four-field evidence tuple (hypothesis, reliability bucket, rationale, provenance) and show that fixing it determines both halves. The separation also reveals a failure mode in how such systems combine, which we call count-scale drift. Thresholding a sum of unnormalized weights is exactly posterior thresholding, but at an operating point that slides with the number of sources consulted. The slide grows with reader reliability. When source reliabilities differ, the vote rule and the posterior order instances differently, and no threshold reconciles them. Pooling calibrated log-likelihood ratios addresses both problems. The fix is arithmetic rather than architectural, and applies to a class of rules beyond language models: score-summing triage engines, diagnostic ",
+      "title": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+      "link": "http://arxiv.org/abs/2608.16844v1",
+      "authors": "Reza Bayat, Ali Behrouz, Vahab Mirrokni, Aaron Courville",
+      "published": "2026-08-17",
+      "summary": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most existing memory models expose a static memory throughout the entire sequence. Because early tokens face no compression pressure, they occupy too many degrees of freedom and \"pollute\" the memory state, leaving little capacity for later context and increasing interference between what is stored and what arrives next. We study a new paradigm of incremental memory activation, where the effective capacity of memory is progressively expanded as the context grows. Imposing an early bottleneck forces the model to compress history more effectively, while unlocking fresh capacity over time reduces interference and improves retention of later context. We instantiate this paradigm in Proteus, a straightforward mechanism that can be incorporated into a broad class of neural memory architectures at no additional cost. We apply Proteus to state-of-the-art models, including SWLA, Comba, Titans, and Hope-Attention, and observe consistent improvements on standard language modeling and reasoning, as well a",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "RecipeNet: A Hierarchical Transformer for Recipe Data",
-      "link": "http://arxiv.org/abs/2608.14505v1",
-      "authors": "Pin-Yen Huang, Sachin Chhabra, Prasanth Sai Gouripeddi, Abhinav Kumar, Baoxin Li",
-      "published": "2026-08-14",
-      "summary": "Recipe data arises in domains such as materials synthesis, pharmaceutical formulation, and industrial manufacturing, where procedures are represented as ordered sequences of steps containing heterogeneous structured fields. Existing tabular learning methods typically flatten this structure into fixed-schema representations, limiting their ability to capture hierarchical field interactions and procedural dependencies. We propose RecipeNet, a hierarchical Transformer architecture that encodes field-level interactions within each step and sequential dependencies across steps through stacked Transformer encoders. Experiments on multiple recipe datasets and tasks demonstrate that RecipeNet consistently outperforms existing tabular models, highlighting the value of hierarchical and sequential modeling for recipe representation learning.",
+      "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
+      "link": "http://arxiv.org/abs/2608.16837v1",
+      "authors": "Langzhe Gu, Chengkai Hou, Meng Li, Xinhua Wang, Jiaming Liu, Xinyuan Lv, Bowei Zhang, Shuanghao Bai, Guangrun Li, Jingyang He, Gaole Dai, Ziluo Ding, Zhiyuan Xu, Kuan Cheng, Jian Tang, Zhengping Che, Shanghang Zhang",
+      "published": "2026-08-17",
+      "summary": "Humanoid robots hold great promise as general-purpose agents in human-centered environments, yet generalist vision-language-action (VLA) foundation models are not readily applicable to humanoid whole-body loco-manipulation. The high dimensionality and interdependence of humanoid motions make it challenging for conventional single-stage VLA architectures to coordinate locomotion, waist posture, and dual-arm manipulation effectively. Moreover, policies trained through offline behavior cloning can remain suboptimal during real-world deployment. Although online reinforcement learning can refine policies through real-world interaction, directly tuning large VLA backbones demands excessive computation and may introduce safety risks during real-robot exploration. To address these bottlenecks, we introduce HAF (Humanoid Adaptation Framework), a two-part framework consisting of HAF-VLA and HAF-Steer that transfers off-the-shelf generalist VLA foundation models to humanoid whole-body loco-manipulation. HAF-VLA is a hierarchical action-flow generator built on a pretrained flow-matching VLA. It splits full-body action denoising into three sequential stages with stage embeddings and cross-stage",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Universal Thermodynamic Interatomic Potentials for Crystalline Materials",
-      "link": "http://arxiv.org/abs/2608.14502v1",
-      "authors": "Juno Nam, Bowen Deng, Xiaochen Du, Luis Barroso-Luque, Benjamin Kurt Miller, Rafael Gómez-Bombarelli",
-      "published": "2026-08-14",
-      "summary": "Free energies govern solid-state phase stability, yet computational materials discovery still relies largely on ground-state energies because free energy calculations require ensemble averages. We introduce the thermodynamic interatomic potential (TIP), which extends an interatomic potential from its static energy to a thermodynamically consistent Gibbs free energy model, with thermodynamic responses following from temperature and pressure by automatic differentiation. We implement TIP[UMA] using the universal potential UMA, train it on free energies from quasi-harmonic to molecular dynamics fidelity, and calibrate it to higher-resolution calculations or experiment. From a single evaluation, it returns the equation of state of a crystal and locates phase transitions among competing branches, including dynamically stabilized phases. Fine-tuning extends the model to alloy solubility limits and miscibility gaps. TIP makes the free energy as accessible as the potential energy, opening finite-temperature phase stability to high-throughput discovery.",
+      "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+      "link": "http://arxiv.org/abs/2608.16834v1",
+      "authors": "Enric Boix-Adsera, Benedict Tessler",
+      "published": "2026-08-17",
+      "summary": "We demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined to strongly control model behavior. Model hypnosis occurs across model families and scales, including in frontier reasoning models, and hypnotic prompts can transfer between models. Because the model is controlled by inconspicuous textual choices, such as paraphrases and typos, model hypnosis presents new challenges and avenues for AI safety, and is a major hurdle for AI interpretability.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Generating Benchmark Health Data Using a Tabular Diffusion Transformer",
-      "link": "http://arxiv.org/abs/2608.14496v1",
-      "authors": "Hao Yan, Lisa Pilgram, Dan Liu, Linglong Kong, Fida Dankar, Khaled El Emam",
-      "published": "2026-08-14",
-      "summary": "Cross-Tabular Data Generation (CTDG) seeks to learn a generative model from multiple heterogeneous tables and produce new synthetic tabular datasets. However, existing synthetic tabular data generation methods are largely restricted to single-input-table scenarios and struggle to effectively handle multiple heterogeneous tables with diverse feature sets. To address this limitation, we propose a two-stage framework for cross-tabular data generation. In the first stage, each heterogeneous raw table is transformed into a standardized statistical table with the same set of columns across all tables. Each statistical table captures the marginal distributions of the original columns and the pairwise correlations among them. In the second stage, a diffusion transformer model is trained to capture structural patterns across these homogeneous statistical tables and to generate synthetic statistical tables. Synthetic raw tables are subsequently reconstructed from the generated statistical tables via multivariate Gaussian sampling followed by an inverse probability integral transform. This two-stage CTDG framework enables the learning of a unified generative model from multiple heterogeneous ",
+      "title": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+      "link": "http://arxiv.org/abs/2608.16831v1",
+      "authors": "Minh-Ha Nguyen, Cathy Shyr",
+      "published": "2026-08-17",
+      "summary": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instructions and demonstrations. Policy Iteration with Human Feedback (PIHF) builds on this development and the recurrent evaluate-and-improve structure of generalized policy iteration. PIHF uses a pretrained language model as its execution substrate and moves persistent revision to a versioned natural-language policy and tool set. A language-model critic and clinical expert review complete-panel reasoning and tool-use trajectories to localize recurrent failures and form candidate revisions; the expert may reinterpret the evidence and retains authority over admission and rollback, while Recall@1 and Recall@5 validate outcomes after candidate execution. Across cumulative ablations and ultra-rare-disease benchmarks, a PIHF-derived policy improved Recall@1 in one proprietary executor and three open-weight executors spanning 3 to 49 billion active parameters. Gains were 32.7 percentage points for GPT-5.4 and 31.1 points for Qwen3.6-35B, a difference of 1.7 points. These results support the feasib",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Optimal Scheduling of Road Maintenance Jobs Considering Impact on Traffic Flows",
-      "link": "http://arxiv.org/abs/2608.14491v1",
-      "authors": "Charitha Nandepu, Lohitha Kalepu, Gabriele Ciavarella, SangWoo Park",
-      "published": "2026-08-14",
-      "summary": "Network-level maintenance planning requires repeated evaluations of equilibrium traffic flows under road capacity reductions. While equilibrium traffic assignment models are well established, their repeated solution quickly becomes computationally prohibitive and challenging to embed within maintenance scheduling problems. This paper investigates data-driven surrogate models that approximate equilibrium arc flows directly from origin-destination demand, using optimization-based equilibrium solutions as ground truth. A real-world case study based on traffic data from the Newark, New Jersey area demonstrates the effectiveness of the proposed approach as a scalable building block for future maintenance scheduling frameworks.",
+      "title": "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?",
+      "link": "http://arxiv.org/abs/2608.16829v1",
+      "authors": "Jonathan Sadeghi, Jenny Seidenschwarz, Jesse Allardice, Sirish Srinivasan, Benjamin Graham, Jeffrey Hawke",
+      "published": "2026-08-17",
+      "summary": "Video world models approximate the stochastic distribution of physical outcomes through generative sampling, but existing benchmarks score individual generations or compare distributions coarsely over a whole dataset, leaving the fine-grained aleatoric uncertainty of specific phenomena untested. We introduce CaliBench, which scores outcomes in a physically interpretable discrete space - a bin index, a die face, a suit, a colour - rather than a learned feature space such as in FID, so the distance from a known reference distribution is measured directly. We curate outcome spaces whose reference is known in closed form (binomial Galton boards, Bernoulli forks, uniform dice/cards/lottery, a skewed European-roulette colour), enabling an exact calibration test. We decompose performance into two orthogonal axes that a single accuracy metric conflates: scorability, the fraction of generations yielding a scoreable outcome, and calibration, the total variation distance from the reference on that sample. A chi-squared test assesses significance; as calibration is its null hypothesis it can evidence only miscalibration, and at N=32 per cell detects only large deviations. We apply it to nine s",
       "tags": [
         "cs.AI"
       ]
