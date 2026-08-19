@@ -4,6 +4,16 @@
   "last_updated": "2026-08-19",
   "papers": [
     {
+      "title": "ChatGPT Ads expands across Europe",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GUVF4RURYUkduX3BKdnBlX3RNQzFVcEdwTzFUNENENjZueXpTNzY0eXlqcTBKdUtjQzIyN3k2d0MxcXllODRLN3JLOUVEcUJHMUgwNU96WW5EQTBDZ3c1LTNxeHAwRmNmbVEw?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 18 Au",
+      "summary": "ChatGPT Ads expands across Europe OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Pacing model development in an era of cyber-critical capabilities",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5",
       "authors": "OpenAI",
@@ -14,10 +24,20 @@
       ]
     },
     {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CdS1ONG1mYlJUTmFtNjhzdFBFVzFkT0VKcEt1MnEyUWI0eEY1VEtPRUFDR1ZCUDVTWGp3LWZpSGU4dElXQ0V3RHhQNDkzQkdQQ2ppV0x1VjRyNG9wbkh0V3YwSGJ3UQ?oc=5",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VRkpodGV2X0h5U0hRTWxfUUh1em1LdURWdWtHZHpHTko5TzdmM1o5R1VZeDFhREtTaU02M2RVYlVTSEs1RWc?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 17 Au",
+      "published": "Tue, 18 Au",
+      "summary": "Asana cleared 5 years of engineering work in 2 weeks with Codex OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0cUR0RW5xRGlscjVXNFNha1UtNnd1NVQ0dS12UFptZGd5OGVWSHBzZXpvRlM2LS1ja1dYZnR0X2ZFdjRVSXlHckhRRWQ3UnlZcGtrN1l3?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 18 Au",
       "summary": "Introducing ChatGPT for Teens: Built for learning, backed by protections OpenAI",
       "tags": [
         "OpenAI"
@@ -34,11 +54,21 @@
       ]
     },
     {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VRkpodGV2X0h5U0hRTWxfUUh1em1LdURWdWtHZHpHTko5TzdmM1o5R1VZeDFhREtTaU02M2RVYlVTSEs1RWc?oc=5",
+      "title": "Strengthening democratic oversight in national security",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeXc0Q01RTmNqbXBlNGFRLTJvRlZqX0tKa3hjZ1g3VmRxaWdhbWZVcDMxZkF2WkxTdTNkVm1DLUxiWk8zemNXLTBwc0wweGJabXp4MU42SzRwc29sVlltbG54NXRSd3VVdDF3TXo4OV9jbU1YWlRxSHhkaHp4RGR6aDNKbk9EMXlp?oc=5",
       "authors": "OpenAI",
       "published": "Tue, 18 Au",
-      "summary": "Asana cleared 5 years of engineering work in 2 weeks with Codex OpenAI",
+      "summary": "Strengthening democratic oversight in national security OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jUHJ4WlM1RVdtVUVLZ1RBYWl1OFRhc3pMcFEwMU1kd1FmNEs3eEJsOTJFejJzWjF5X1gyWUF4V21BLW1ERDM2VUFBcjB0YWtqRXI4UWhhVWw?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 18 Au",
+      "summary": "How NVIDIA scales expertise with ChatGPT Work OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -69,36 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 17 Au",
       "summary": "New policy ideas for the Intelligence Age OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMWFtaDR2X0I2UjdDcjFYRkJTTXE2cnNqSk1sVnIwMzR5MHl1M3FTVEkxaGEyMjI2ekZ1d2VTNGx2VnVYMlhPU3lvamJBSS15YzlfY0lFaGVmRkV3b0N4ZA?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 13 Au",
-      "summary": "The builder’s guide to GPT‑5.6 OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 13 Au",
-      "summary": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vZ014TTBMWjk5ZkxNRkhScXlJakpYU3FzYlpxdnpPMXhwQTJIbnhDYTVXcll3Y0xUTU9WYlM5Sm5Jbnp4MGlVTGd6dlY0MUdrRnVJODdqbEVuTEFadkdBMTRsdlVVLXRmc0E?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 13 Au",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer OpenAI",
       "tags": [
         "OpenAI"
       ]
