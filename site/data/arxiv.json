@@ -1,7 +1,7 @@
 {
   "source": "ARXIV-AI",
   "source_url": "https://arxiv.org/list/cs.AI/recent",
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "papers": [
     {
       "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",

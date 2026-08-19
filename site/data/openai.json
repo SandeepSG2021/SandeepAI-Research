@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "papers": [
     {
       "title": "Pacing model development in an era of cyber-critical capabilities",
@@ -29,6 +29,16 @@
       "authors": "OpenAI",
       "published": "Tue, 18 Au",
       "summary": "Partnering with CodeAI to prepare the first AI generation OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VRkpodGV2X0h5U0hRTWxfUUh1em1LdURWdWtHZHpHTko5TzdmM1o5R1VZeDFhREtTaU02M2RVYlVTSEs1RWc?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 18 Au",
+      "summary": "Asana cleared 5 years of engineering work in 2 weeks with Codex OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 13 Au",
       "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tWU9Wam51YVk5a1BYMlpjSFVMSy1UWDUwcHdFM2o1aUJRTUVzVHhPZVg3MzB4Q3l5UVVtemJzRnFyRU84YTNNeE1fUEt1Y3NXU25Db09pUFZuSXpLby1rZ2FzbDJPb3c?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 12 Au",
-      "summary": "From assistance to execution: How enterprises put AI to work OpenAI",
       "tags": [
         "OpenAI"
       ]
