@@ -4,6 +4,16 @@
   "last_updated": "2026-08-19",
   "papers": [
     {
+      "title": "How Claude is accelerating protein design and analytical chemistry",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 18 Au",
+      "summary": "How Claude is accelerating protein design and analytical chemistry Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "How Claude's text watermarking works",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
       "authors": "Anthropic",
@@ -14,11 +24,11 @@
       ]
     },
     {
-      "title": "Patterns and problems in emerging multiagent systems",
+      "title": "Patterns and problems in multiagent systems",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVFQ4NnRrVGF2dXBQMmhjNzhmQUVZQVF6ckVvWlpkMVdHMnpFOVpodWhoUEw4bWdacG1JRE9kUUZpUWN2WnJiZ3NHaFY0LWJHMF9zOGFGR0tlZmhta180N2Nkaw?oc=5",
       "authors": "Anthropic",
       "published": "Thu, 13 Au",
-      "summary": "Patterns and problems in emerging multiagent systems Anthropic",
+      "summary": "Patterns and problems in multiagent systems Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Mon, 06 Ju",
       "summary": "A global workspace in language models Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Agents for financial services",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IS1R3ZVd5NUxtWGJjRlFBQXZfOXJPS2xlY0wtaWZhSmx0M2RNaFUwN3FCU1Y3bTh5dkhqOEtIUE94UXFtT2l1MEk0WFZyUVRYV1Fsc1JrMEU?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 05 Ma",
-      "summary": "Agents for financial services Anthropic",
       "tags": [
         "Anthropic"
       ]
