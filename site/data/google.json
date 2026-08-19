@@ -4,6 +4,18 @@
   "last_updated": "2026-08-19",
   "papers": [
     {
+      "title": "5 new ways to level up your learning with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "authors": "Awaneesh Verma",
+      "published": "Wed, 19 Au",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "tags": [
+        "Learning & Education",
+        "Search",
+        "AI"
+      ]
+    },
+    {
       "title": "Get closer to the game with Gemini and Pixel",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "authors": "Eileen Mannion",
@@ -110,19 +122,6 @@
       "summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
       "tags": [
         "Search",
-        "AI"
-      ]
-    },
-    {
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "authors": "Menaka Shroff",
-      "published": "Wed, 22 Ju",
-      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-      "tags": [
-        "Gemini App",
-        "Android",
-        "Gemini Notebook",
         "AI"
       ]
     }
