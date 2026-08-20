@@ -4,6 +4,16 @@
   "last_updated": "2026-08-20",
   "papers": [
     {
+      "title": "Introducing AI Futures",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pZlh4LWwzcDRQZW1LZHFOeDdkZ0h2aFFVbmF1U3VnRzN3NzR6d1VBZjZBODBfWVlId1BQOFR2anNwVWxCd2huNDBTdUNFaVBBSzA5Rm9FYnhIY0NI?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 20 Au",
+      "summary": "Introducing AI Futures OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Offering Zero Data Retention for frontier models",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5",
       "authors": "OpenAI",
@@ -17,7 +27,7 @@
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tTnlKVTRteHl6cGNyYmg4OHpjQUw3WW1rNXdQNTNPY2JtZTFhWEJ6RW0xekd5bVdlaTU3TGs1Q0ZqM1ptREtN?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 19 Au",
+      "published": "Tue, 18 Au",
       "summary": "Replit expands access to software creation with GPT-5.6 Luna OpenAI",
       "tags": [
         "OpenAI"
@@ -27,7 +37,7 @@
       "title": "ChatGPT Ads expands across Europe",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GUVF4RURYUkduX3BKdnBlX3RNQzFVcEdwTzFUNENENjZueXpTNzY0eXlqcTBKdUtjQzIyN3k2d0MxcXllODRLN3JLOUVEcUJHMUgwNU96WW5EQTBDZ3c1LTNxeHAwRmNmbVEw?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 19 Au",
+      "published": "Tue, 18 Au",
       "summary": "ChatGPT Ads expands across Europe OpenAI",
       "tags": [
         "OpenAI"
@@ -57,7 +67,7 @@
       "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0cUR0RW5xRGlscjVXNFNha1UtNnd1NVQ0dS12UFptZGd5OGVWSHBzZXpvRlM2LS1ja1dYZnR0X2ZFdjRVSXlHckhRRWQ3UnlZcGtrN1l3?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 18 Au",
+      "published": "Mon, 17 Au",
       "summary": "Introducing ChatGPT for Teens: Built for learning, backed by protections OpenAI",
       "tags": [
         "OpenAI"
@@ -84,21 +94,11 @@
       ]
     },
     {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxUXRfSV9kTlJXUk02dl9WR0Q2MWtkSTVSb1FBcnN4Y2NmZEFOS2U1UGlCYnBlUTlEM0Z0Wk45c2MwQTZHYnFBWmI0UDRseVdlV2UyRkJoa19OaEFw?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 18 Au",
-      "summary": "Partnering with CodeAI to prepare the first AI generation OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50c2tWanNsR0xvM0w1d2hzSFJHS1FXenprdUZCQmNfZVQ2WlNNenprcEczaUcwMm9nYlAyQUwxQ05LY2UwMXpXM1ZRWHNieF91dVYtcklTRG8wQ28wc1VpRFNnSE91M0tDRTFPTHBzRWNiUHJVZVE?oc=5",
+      "title": "OpenAI joins PORTS-Pike project",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lSDRzTDRmOXVNbmJMNmR5UUVvT1ozbmsweTU4aG9Da1RSc29vbHY5M05SblZFODNDeHFCYjJoMkJpUllJQk5oQmw3MU5LbnNqMjh3MkRqelMyQl9zRHBHSi14S1BxTkQ4?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 17 Au",
-      "summary": "New policy ideas for the Intelligence Age OpenAI",
+      "summary": "OpenAI joins PORTS-Pike project OpenAI",
       "tags": [
         "OpenAI"
       ]
