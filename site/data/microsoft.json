@@ -4,6 +4,16 @@
   "last_updated": "2026-08-20",
   "papers": [
     {
+      "title": "Broadening access to Skala creates a faster path to predictive DFT",
+      "link": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+      "authors": "Sebastian Ehlert, Stefano Battaglia, Thijs Vogels, Jan Hermann, Jens Wehner, Giulia Luise, Klaas Giesbertz, Chin-Wei Huang, Aaron Kaplan, Kate Milton, Stephanie Marisa Lanius, Derk Kooi, P. Bern&aacute;t Szab&oacute;, Gregor Simm, Rianne van den Berg, Paola Gori Giorgi",
+      "published": "Thu, 20 Au",
+      "summary": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. The post Broadening access to Skala creates a faster path to predictive DFT appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
       "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
       "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
       "authors": "Yunfei Ge, Anbang Liu, Qineng Wang, Johnalbert Garnica, Zihan Wang, Reuben Tan, Jianfeng Gao, Ruohan Zhang, Yining Hong, Jiajun Wu, Manling Li",
@@ -89,16 +99,6 @@
       "authors": "Yifan Yang, Xuemei Gao, Qi Dai, Bei Liu, Kai Qiu, Dongdong Chen, Chong Luo",
       "published": "Tue, 30 Ju",
       "summary": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights. The post SkillOpt: Agent skills as trainable parameters appeared first on Microsoft Research .",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
-      "link": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
-      "authors": "Xuchao Zhang, Molly Xia, Mayukh Das, Anson Bastos, Rujia Wang, Chetan Bansal, Saravan Rajmohan",
-      "published": "Mon, 29 Ju",
-      "summary": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved. The post Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
