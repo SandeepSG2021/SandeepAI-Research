@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-20",
   "papers": [
     {
       "title": "Offering Zero Data Retention for frontier models",
@@ -17,7 +17,7 @@
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tTnlKVTRteHl6cGNyYmg4OHpjQUw3WW1rNXdQNTNPY2JtZTFhWEJ6RW0xekd5bVdlaTU3TGs1Q0ZqM1ptREtN?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 19 Au",
+      "published": "Tue, 18 Au",
       "summary": "Replit expands access to software creation with GPT-5.6 Luna OpenAI",
       "tags": [
         "OpenAI"
@@ -27,7 +27,7 @@
       "title": "ChatGPT Ads expands across Europe",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GUVF4RURYUkduX3BKdnBlX3RNQzFVcEdwTzFUNENENjZueXpTNzY0eXlqcTBKdUtjQzIyN3k2d0MxcXllODRLN3JLOUVEcUJHMUgwNU96WW5EQTBDZ3c1LTNxeHAwRmNmbVEw?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 18 Au",
+      "published": "Wed, 19 Au",
       "summary": "ChatGPT Ads expands across Europe OpenAI",
       "tags": [
         "OpenAI"
