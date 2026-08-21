@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "papers": [
     {
       "title": "How Claude is accelerating protein design and analytical chemistry",
@@ -24,11 +24,11 @@
       ]
     },
     {
-      "title": "Patterns and problems in multiagent systems",
+      "title": "Patterns and problems in emerging multiagent systems",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVFQ4NnRrVGF2dXBQMmhjNzhmQUVZQVF6ckVvWlpkMVdHMnpFOVpodWhoUEw4bWdacG1JRE9kUUZpUWN2WnJiZ3NHaFY0LWJHMF9zOGFGR0tlZmhta180N2Nkaw?oc=5",
       "authors": "Anthropic",
       "published": "Thu, 13 Au",
-      "summary": "Patterns and problems in multiagent systems Anthropic",
+      "summary": "Patterns and problems in emerging multiagent systems Anthropic",
       "tags": [
         "Anthropic"
       ]

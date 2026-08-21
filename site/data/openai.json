@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "papers": [
     {
       "title": "Introducing AI Futures",
@@ -9,6 +9,16 @@
       "authors": "OpenAI",
       "published": "Thu, 20 Au",
       "summary": "Introducing AI Futures OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XYTJZcnp3a2JjdXJmcjFvdFRQQTJKV2hKOE9KR0ZBQ19qV09WYjVENXpKdzdQTkNPQ0VoSXdzc1lNZlFFWjI2dg?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 19 Au",
+      "summary": "Stampli cuts launch hours by 68% using ChatGPT Work OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 17 Au",
       "summary": "The Defender’s Window OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI joins PORTS-Pike project",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lSDRzTDRmOXVNbmJMNmR5UUVvT1ozbmsweTU4aG9Da1RSc29vbHY5M05SblZFODNDeHFCYjJoMkJpUllJQk5oQmw3MU5LbnNqMjh3MkRqelMyQl9zRHBHSi14S1BxTkQ4?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 17 Au",
-      "summary": "OpenAI joins PORTS-Pike project OpenAI",
       "tags": [
         "OpenAI"
       ]
