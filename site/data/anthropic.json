@@ -24,11 +24,11 @@
       ]
     },
     {
-      "title": "Patterns and problems in emerging multiagent systems",
+      "title": "Patterns and problems in multiagent systems",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVFQ4NnRrVGF2dXBQMmhjNzhmQUVZQVF6ckVvWlpkMVdHMnpFOVpodWhoUEw4bWdacG1JRE9kUUZpUWN2WnJiZ3NHaFY0LWJHMF9zOGFGR0tlZmhta180N2Nkaw?oc=5",
       "authors": "Anthropic",
       "published": "Thu, 13 Au",
-      "summary": "Patterns and problems in emerging multiagent systems Anthropic",
+      "summary": "Patterns and problems in multiagent systems Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -39,6 +39,16 @@
       "authors": "Anthropic",
       "published": "Mon, 10 Au",
       "summary": "Learning more about Claude's mathematical capabilities Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 28 Ju",
+      "summary": "Discovering cryptographic weaknesses with Claude Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Tue, 05 Ma",
       "summary": "Agents for financial services Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "India Country Brief: The Anthropic Economic Index",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdDhtRFhYSWlybFlhV282TkZiM1VaNVV4eGQ2SEttZE9nVTJ4X0xFMFpkYmFneDAxYXl5QnU4eVlXcVE1ZnVJUno1X2stMHIwcnViVzM4aFZ4b0JBazJVbHVTdE5ubVBQSWxRTmh3?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 16 Fe",
-      "summary": "India Country Brief: The Anthropic Economic Index Anthropic",
       "tags": [
         "Anthropic"
       ]
