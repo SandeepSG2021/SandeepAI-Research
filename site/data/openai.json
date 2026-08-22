@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "papers": [
     {
       "title": "Introducing AI Futures",
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "OpenAI joins PORTS-Pike project",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lSDRzTDRmOXVNbmJMNmR5UUVvT1ozbmsweTU4aG9Da1RSc29vbHY5M05SblZFODNDeHFCYjJoMkJpUllJQk5oQmw3MU5LbnNqMjh3MkRqelMyQl9zRHBHSi14S1BxTkQ4?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 17 Au",
-      "summary": "OpenAI joins PORTS-Pike project OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "New policy ideas for the Intelligence Age",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50c2tWanNsR0xvM0w1d2hzSFJHS1FXenprdUZCQmNfZVQ2WlNNenprcEczaUcwMm9nYlAyQUwxQ05LY2UwMXpXM1ZRWHNieF91dVYtcklTRG8wQ28wc1VpRFNnSE91M0tDRTFPTHBzRWNiUHJVZVE?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 17 Au",
       "summary": "New policy ideas for the Intelligence Age OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMWFtaDR2X0I2UjdDcjFYRkJTTXE2cnNqSk1sVnIwMzR5MHl1M3FTVEkxaGEyMjI2ekZ1d2VTNGx2VnVYMlhPU3lvamJBSS15YzlfY0lFaGVmRkV3b0N4ZA?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 13 Au",
+      "summary": "The builder’s guide to GPT‑5.6 OpenAI",
       "tags": [
         "OpenAI"
       ]
