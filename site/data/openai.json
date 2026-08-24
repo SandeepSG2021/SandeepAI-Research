@@ -4,6 +4,16 @@
   "last_updated": "2026-08-24",
   "papers": [
     {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KREpjX0wxZ2hweXkxbzN2cmFNT0VmZENCbUp1VS1NWTh2NXJCdEZuazlqYXlVallVVGp4RnY3RFBlQWdqWGU2a2FPWGZ1WXJUVEhz?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 24 Au",
+      "summary": "Advancing price-performance for developers with GPT‑5.6 in Kiro OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing AI Futures",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pZlh4LWwzcDRQZW1LZHFOeDdkZ0h2aFFVbmF1U3VnRzN3NzR6d1VBZjZBODBfWVlId1BQOFR2anNwVWxCd2huNDBTdUNFaVBBSzA5Rm9FYnhIY0NI?oc=5",
       "authors": "OpenAI",
@@ -27,7 +37,7 @@
       "title": "ChatGPT Ads expands across Europe",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GUVF4RURYUkduX3BKdnBlX3RNQzFVcEdwTzFUNENENjZueXpTNzY0eXlqcTBKdUtjQzIyN3k2d0MxcXllODRLN3JLOUVEcUJHMUgwNU96WW5EQTBDZ3c1LTNxeHAwRmNmbVEw?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 19 Au",
+      "published": "Tue, 18 Au",
       "summary": "ChatGPT Ads expands across Europe OpenAI",
       "tags": [
         "OpenAI"
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Sat, 01 Au",
       "summary": "Ten advances in mathematics and theoretical computer science OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdURTcDByN0NKcGZ6RzBEWmk1SjV5T1hEOG82MXp2cmRCc09ZLUxUV1JjX0dtYUlxTEVfLXVyUHI3dWIxMnNydzIxR0hwb1kxbU15dlQ1bThHYmc2M1lyeFM2eXpENWRKUlE?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 29 Ju",
-      "summary": "Accelerating scientific discovery with ChatGPT for Academic Researchers OpenAI",
       "tags": [
         "OpenAI"
       ]
