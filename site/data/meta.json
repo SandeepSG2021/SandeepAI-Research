@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-08-23",
+  "last_updated": "2026-08-24",
   "papers": [
     {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
@@ -9,16 +9,6 @@
       "authors": "Meta AI",
       "published": "Wed, 25 Se",
       "summary": "Connect 2024: The responsible approach we’re taking to generative AI AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "A foundation model of vision, audition, and language for in-silico neuroscience | Research - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3VCY2NMc1daVUowUER4eE1uRGRtTWtEU3IzdGlFRi10bTJUdkZwYktoYXJxT2dGblVOcGVwR0VpS0hETm5MSm9aWjFTNUtuRlZ0ZDhFcERJYmlSWnJDd3p5NW41bDJ1VE5nSG5PMUhCYVR0ZWlRREUxamVPOF9YZE53a2swMUtrRFhBSGxOaHZJbkpVQ2FORVV1di12NGdWenR2Sm9Ib2x2U2x0eWNkd2ZJZU42YjY1ektWVQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 26 Ma",
-      "summary": "A foundation model of vision, audition, and language for in-silico neuroscience | Research AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -39,6 +29,16 @@
       "authors": "Meta AI",
       "published": "Tue, 23 Ju",
       "summary": "Introducing Llama 3.1: Our most capable models to date AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "A foundation model of vision, audition, and language for in-silico neuroscience | Research - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3VCY2NMc1daVUowUER4eE1uRGRtTWtEU3IzdGlFRi10bTJUdkZwYktoYXJxT2dGblVOcGVwR0VpS0hETm5MSm9aWjFTNUtuRlZ0ZDhFcERJYmlSWnJDd3p5NW41bDJ1VE5nSG5PMUhCYVR0ZWlRREUxamVPOF9YZE53a2swMUtrRFhBSGxOaHZJbkpVQ2FORVV1di12NGdWenR2Sm9Ib2x2U2x0eWNkd2ZJZU42YjY1ektWVQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Thu, 26 Ma",
+      "summary": "A foundation model of vision, audition, and language for in-silico neuroscience | Research AI at Meta",
       "tags": [
         "Meta AI"
       ]

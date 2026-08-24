@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-08-23",
+  "last_updated": "2026-08-24",
   "papers": [
     {
       "title": "How Claude is accelerating protein design and analytical chemistry",
@@ -24,11 +24,11 @@
       ]
     },
     {
-      "title": "Patterns and problems in multiagent systems",
+      "title": "Patterns and problems in emerging multiagent systems",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVFQ4NnRrVGF2dXBQMmhjNzhmQUVZQVF6ckVvWlpkMVdHMnpFOVpodWhoUEw4bWdacG1JRE9kUUZpUWN2WnJiZ3NHaFY0LWJHMF9zOGFGR0tlZmhta180N2Nkaw?oc=5",
       "authors": "Anthropic",
       "published": "Thu, 13 Au",
-      "summary": "Patterns and problems in multiagent systems Anthropic",
+      "summary": "Patterns and problems in emerging multiagent systems Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "Core views on AI safety: When, why, what, and how",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSXEwQkhIekYzdnV4a3lqTW1TdEpMeTFNWDZmc0dzcGp6SjRicnJXZFFxSjNuT3VaSjB1Y2dWcXhHdnNncUNCdmhVck1iVUVYVF96dGpzWUN0dVVaLUlTTmdMWXI?oc=5",
-      "authors": "Anthropic",
-      "published": "Wed, 08 Ma",
-      "summary": "Core views on AI safety: When, why, what, and how Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "A research agenda for the Economic Futures Research Fund",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HMldWaTVQMzdleERTR0FWVGR2eHIwY3lqQ3VwM2c5MnVlSS14WWFzSTlSQmJ0RG5ER3VSemFVaUYxVjg4NVE5Q2hqcko5cFgyTGtod2J5MFl6RmNoaGdfdld4aUxrR29IY3QxTDZJUXpTcjlRWXdV?oc=5",
       "authors": "Anthropic",
       "published": "Wed, 22 Ju",
       "summary": "A research agenda for the Economic Futures Research Fund Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Agents for financial services",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IS1R3ZVd5NUxtWGJjRlFBQXZfOXJPS2xlY0wtaWZhSmx0M2RNaFUwN3FCU1Y3bTh5dkhqOEtIUE94UXFtT2l1MEk0WFZyUVRYV1Fsc1JrMEU?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 05 Ma",
+      "summary": "Agents for financial services Anthropic",
       "tags": [
         "Anthropic"
       ]
