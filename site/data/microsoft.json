@@ -1,7 +1,7 @@
 {
   "source": "Microsoft-AI",
   "source_url": "https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "papers": [
     {
       "title": "Broadening access to Skala creates a faster path to predictive DFT",
@@ -46,7 +46,7 @@
     {
       "title": "Echoverse: Deep, evolving environments for computer-use agents",
       "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
-      "authors": "Akshay Nambi, Yash Pandya, Sahil Gupta, Sarthak Harne, Kavyansh Chourasia, Yash Lara, Ahmed Awadallah, Ece Kamar",
+      "authors": "Akshay Nambi, Yash Pandya, Sahil Gupta, Sarthak Harne, Kavyansh Chourasia, Yash Lara, Ahmed Awadallah",
       "published": "Thu, 30 Ju",
       "summary": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve. The post Echoverse: Deep, evolving environments for computer-use agents appeared first on Microsoft Research .",
       "tags": [
