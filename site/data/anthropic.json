@@ -34,11 +34,11 @@
       ]
     },
     {
-      "title": "Patterns and problems in multiagent systems",
+      "title": "Patterns and problems in emerging multiagent systems",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVFQ4NnRrVGF2dXBQMmhjNzhmQUVZQVF6ckVvWlpkMVdHMnpFOVpodWhoUEw4bWdacG1JRE9kUUZpUWN2WnJiZ3NHaFY0LWJHMF9zOGFGR0tlZmhta180N2Nkaw?oc=5",
       "authors": "Anthropic",
       "published": "Thu, 13 Au",
-      "summary": "Patterns and problems in multiagent systems Anthropic",
+      "summary": "Patterns and problems in emerging multiagent systems Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -49,16 +49,6 @@
       "authors": "Anthropic",
       "published": "Mon, 10 Au",
       "summary": "Learning more about Claude's mathematical capabilities Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "A global workspace in language models",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 06 Ju",
-      "summary": "A global workspace in language models Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -79,6 +69,16 @@
       "authors": "Anthropic",
       "published": "Fri, 24 Ju",
       "summary": "Introducing Claude Opus 5 Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "A global workspace in language models",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5",
+      "authors": "Anthropic",
+      "published": "Mon, 06 Ju",
+      "summary": "A global workspace in language models Anthropic",
       "tags": [
         "Anthropic"
       ]
