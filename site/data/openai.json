@@ -4,10 +4,20 @@
   "last_updated": "2026-08-26",
   "papers": [
     {
+      "title": "The Hugging Face incident and the road ahead",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiQ05GZDBOS3A3RTBOcjlScG9LZ3paU1RuNEhEWTkySFBQV0VMUVhYZnhNUjAyYzdObjNOSk11YVpOOHduNW1DRjBfaEhiNW43ZjdmU3FGczUtejFJOWUtWXYwTW5KWnJfbHg0YURRMHlDSHVB?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 26 Au",
+      "summary": "The Hugging Face incident and the road ahead OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 25 Au",
+      "published": "Mon, 24 Au",
       "summary": "Introducing the Admin plugin for ChatGPT Work and Codex OpenAI",
       "tags": [
         "OpenAI"
@@ -39,6 +49,16 @@
       "authors": "OpenAI",
       "published": "Tue, 25 Au",
       "summary": "Disrupting a new covert influence campaign from Russia OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZQkZiOVVnWV9aNUZvRGFEQS1nRjEtbk9EY1hyOThqdHM2SXFpTENYM1l1NFFTYXZpMzJpS3ROblF5V1NLVFhXQzNiclhVa2c?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 26 Au",
+      "summary": "How loveholidays is making everyone a builder with Codex OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 18 Au",
       "summary": "ChatGPT Ads expands across Europe OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 18 Au",
-      "summary": "Pacing model development in an era of cyber-critical capabilities OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0cUR0RW5xRGlscjVXNFNha1UtNnd1NVQ0dS12UFptZGd5OGVWSHBzZXpvRlM2LS1ja1dYZnR0X2ZFdjRVSXlHckhRRWQ3UnlZcGtrN1l3?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 18 Au",
-      "summary": "Introducing ChatGPT for Teens: Built for learning, backed by protections OpenAI",
       "tags": [
         "OpenAI"
       ]
