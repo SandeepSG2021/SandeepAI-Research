@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-08-27",
   "papers": [
     {
       "title": "The Hugging Face incident and the road ahead",
@@ -14,10 +14,30 @@
       ]
     },
     {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTJMdTYyV1ZHdllkS0pjRjB3UG91b3ZZZ05EdnpHbGNEZGU4RXJxb19GSnByVmZCdmVEdGNiNUVNbzVvYV9HQk5fd0k2cTZFVWwyMERnQWlsMWo5dVZBTmdVV3NtTlVNSEFpSVZrOEQxbTVwX1BRNHhOZTVwMWVVT1BUSl9tU1dLUks4?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 26 Au",
+      "summary": "Bringing ChatGPT for Teachers to more U.S. school districts OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5lQTlLWkdOZGJTQnNkWHVUWWdYZXpjYUJmT0N2VXlEM04wdUhnbEw2cFZaaFYxdmtUQnlaT0xWRVhjRXplNk9acFF5Ql9WZXZGNGxyM2xmZw?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 26 Au",
+      "summary": "Learning never stops: How AI makes learning continuous OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 24 Au",
+      "published": "Tue, 25 Au",
       "summary": "Introducing the Admin plugin for ChatGPT Work and Codex OpenAI",
       "tags": [
         "OpenAI"
@@ -54,16 +74,6 @@
       ]
     },
     {
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZQkZiOVVnWV9aNUZvRGFEQS1nRjEtbk9EY1hyOThqdHM2SXFpTENYM1l1NFFTYXZpMzJpS3ROblF5V1NLVFhXQzNiclhVa2c?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 26 Au",
-      "summary": "How loveholidays is making everyone a builder with Codex OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KREpjX0wxZ2hweXkxbzN2cmFNT0VmZENCbUp1VS1NWTh2NXJCdEZuazlqYXlVallVVGp4RnY3RFBlQWdqWGU2a2FPWGZ1WXJUVEhz?oc=5",
       "authors": "OpenAI",
@@ -74,31 +84,21 @@
       ]
     },
     {
-      "title": "Introducing AI Futures",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZQkZiOVVnWV9aNUZvRGFEQS1nRjEtbk9EY1hyOThqdHM2SXFpTENYM1l1NFFTYXZpMzJpS3ROblF5V1NLVFhXQzNiclhVa2c?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 26 Au",
+      "summary": "How loveholidays is making everyone a builder with Codex OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing Intelligence Age",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pZlh4LWwzcDRQZW1LZHFOeDdkZ0h2aFFVbmF1U3VnRzN3NzR6d1VBZjZBODBfWVlId1BQOFR2anNwVWxCd2huNDBTdUNFaVBBSzA5Rm9FYnhIY0NI?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 20 Au",
-      "summary": "Introducing AI Futures OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 19 Au",
-      "summary": "Offering Zero Data Retention for frontier models OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads expands across Europe",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GUVF4RURYUkduX3BKdnBlX3RNQzFVcEdwTzFUNENENjZueXpTNzY0eXlqcTBKdUtjQzIyN3k2d0MxcXllODRLN3JLOUVEcUJHMUgwNU96WW5EQTBDZ3c1LTNxeHAwRmNmbVEw?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 18 Au",
-      "summary": "ChatGPT Ads expands across Europe OpenAI",
+      "summary": "Introducing Intelligence Age OpenAI",
       "tags": [
         "OpenAI"
       ]
