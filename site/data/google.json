@@ -4,6 +4,18 @@
   "last_updated": "2026-08-27",
   "papers": [
     {
+      "title": "3 new ways to plan and book travel in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "authors": "James Byers",
+      "published": "Thu, 27 Au",
+      "summary": "Graphic depicting new travel features for AI Mode in Search",
+      "tags": [
+        "Search",
+        "Travel",
+        "AI"
+      ]
+    },
+    {
       "title": "5 ways to upgrade your home decor with Google Search",
       "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
       "authors": "Megan Stoner",
@@ -111,17 +123,6 @@
       "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
       "tags": [
         "Developer tools",
-        "AI"
-      ]
-    },
-    {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "authors": "News from Google Team",
-      "published": "Tue, 28 Ju",
-      "summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-      "tags": [
-        "Search",
         "AI"
       ]
     }

@@ -4,6 +4,16 @@
   "last_updated": "2026-08-27",
   "papers": [
     {
+      "title": "Previewing the Model Hardware Standard",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 27 Au",
+      "summary": "Previewing the Model Hardware Standard Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Enabling independent research on how people use Claude",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CRjkzdEN0ME9DVFA2cHQzWkE1X1FfREdHaDF0UlhvY2xkbHBib3BIUlFyYzFtaE9hSVJ1MXNFMnR0UVJjSEprTEtCQUtmTVpMTng1eDNFY1lObDMwMl9KVVhCM3YyenVKdlNHTVlhLVZadw?oc=5",
       "authors": "Anthropic",
@@ -44,11 +54,11 @@
       ]
     },
     {
-      "title": "Patterns and problems in multiagent systems",
+      "title": "Patterns and problems in emerging multiagent systems",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVFQ4NnRrVGF2dXBQMmhjNzhmQUVZQVF6ckVvWlpkMVdHMnpFOVpodWhoUEw4bWdacG1JRE9kUUZpUWN2WnJiZ3NHaFY0LWJHMF9zOGFGR0tlZmhta180N2Nkaw?oc=5",
       "authors": "Anthropic",
       "published": "Thu, 13 Au",
-      "summary": "Patterns and problems in multiagent systems Anthropic",
+      "summary": "Patterns and problems in emerging multiagent systems Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -64,11 +74,11 @@
       ]
     },
     {
-      "title": "Economic Research",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxQm44bHpqVlFNUWZaZ3NPR3A2UXowZEppOEd1VnN3b2Y4YWcyaF9zT3ltTWJhcm1UbzYzSG9XT2c0Y2JaVG5aTi1XZ2ZfUmo2NlJXVUJ4ZTcwSmdWT3c?oc=5",
+      "title": "Introducing Claude Opus 5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
       "authors": "Anthropic",
-      "published": "Mon, 24 Au",
-      "summary": "Economic Research Anthropic",
+      "published": "Fri, 24 Ju",
+      "summary": "Introducing Claude Opus 5 Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -84,21 +94,11 @@
       ]
     },
     {
-      "title": "Introducing Claude Opus 5",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+      "title": "Introducing Claude for Teachers",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5",
       "authors": "Anthropic",
-      "published": "Fri, 24 Ju",
-      "summary": "Introducing Claude Opus 5 Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Core views on AI safety: When, why, what, and how",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSXEwQkhIekYzdnV4a3lqTW1TdEpMeTFNWDZmc0dzcGp6SjRicnJXZFFxSjNuT3VaSjB1Y2dWcXhHdnNncUNCdmhVck1iVUVYVF96dGpzWUN0dVVaLUlTTmdMWXI?oc=5",
-      "authors": "Anthropic",
-      "published": "Wed, 08 Ma",
-      "summary": "Core views on AI safety: When, why, what, and how Anthropic",
+      "published": "Tue, 14 Ju",
+      "summary": "Introducing Claude for Teachers Anthropic",
       "tags": [
         "Anthropic"
       ]
