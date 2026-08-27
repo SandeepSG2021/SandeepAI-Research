@@ -4,6 +4,16 @@
   "last_updated": "2026-08-27",
   "papers": [
     {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TRHQyTzhvUjBiV3NKUFFYczdEZUZRcnlodTd1U00tSEFTcFh1cjZ0ZjJVT3BHVmI3S0pQZEFWbUFXeVdYUG5EMTBZT0ZrTDZ2V2toWEVqRkp1NUg4M2M1V1lPdTFUS185VVE?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 27 Au",
+      "summary": "Expanding OpenAI’s presence in Brazil OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "The Hugging Face incident and the road ahead",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiQ05GZDBOS3A3RTBOcjlScG9LZ3paU1RuNEhEWTkySFBQV0VMUVhYZnhNUjAyYzdObjNOSk11YVpOOHduNW1DRjBfaEhiNW43ZjdmU3FGczUtejFJOWUtWXYwTW5KWnJfbHg0YURRMHlDSHVB?oc=5",
       "authors": "OpenAI",
@@ -17,7 +27,7 @@
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTJMdTYyV1ZHdllkS0pjRjB3UG91b3ZZZ05EdnpHbGNEZGU4RXJxb19GSnByVmZCdmVEdGNiNUVNbzVvYV9HQk5fd0k2cTZFVWwyMERnQWlsMWo5dVZBTmdVV3NtTlVNSEFpSVZrOEQxbTVwX1BRNHhOZTVwMWVVT1BUSl9tU1dLUks4?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 26 Au",
+      "published": "Tue, 25 Au",
       "summary": "Bringing ChatGPT for Teachers to more U.S. school districts OpenAI",
       "tags": [
         "OpenAI"
@@ -29,26 +39,6 @@
       "authors": "OpenAI",
       "published": "Wed, 26 Au",
       "summary": "Learning never stops: How AI makes learning continuous OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 25 Au",
-      "summary": "Introducing the Admin plugin for ChatGPT Work and Codex OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The full stack behind abundant intelligence",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kY2JkdWZHbUw1eXI2WkdPdXVPcWI4cENMZU5NZTRGQXN5em1WczBjTml5LWs5UXRCdXpBc1JyMEF0RXNjS0hlYkhIeWhDUzM4ZjNXRjZNQ09xN1FRX3czS3JRTUFOSFNyQ2lOU0FCaTNMcnl2Y2Z5OA?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 25 Au",
-      "summary": "The full stack behind abundant intelligence OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -74,11 +64,21 @@
       ]
     },
     {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KREpjX0wxZ2hweXkxbzN2cmFNT0VmZENCbUp1VS1NWTh2NXJCdEZuazlqYXlVallVVGp4RnY3RFBlQWdqWGU2a2FPWGZ1WXJUVEhz?oc=5",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 24 Au",
-      "summary": "Advancing price-performance for developers with GPT‑5.6 in Kiro OpenAI",
+      "published": "Tue, 25 Au",
+      "summary": "Introducing the Admin plugin for ChatGPT Work and Codex OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The full stack behind abundant intelligence",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kY2JkdWZHbUw1eXI2WkdPdXVPcWI4cENMZU5NZTRGQXN5em1WczBjTml5LWs5UXRCdXpBc1JyMEF0RXNjS0hlYkhIeWhDUzM4ZjNXRjZNQ09xN1FRX3czS3JRTUFOSFNyQ2lOU0FCaTNMcnl2Y2Z5OA?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 25 Au",
+      "summary": "The full stack behind abundant intelligence OpenAI",
       "tags": [
         "OpenAI"
       ]
