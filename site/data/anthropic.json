@@ -4,6 +4,16 @@
   "last_updated": "2026-08-28",
   "papers": [
     {
+      "title": "Automated researchers can reliably mitigate alignment failures",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm12QTFLek9sVlhENXNNaFlpUHlnbEl5dDRNZTBCbG1iSUtndjBhaUQ3UGl6N2VOWFppR19kbGhHWjlGaWRnby1BcHNlM0lNLUFaZXVrWV9MTFFOcjg0dmpFcWc0cHkyUTd1d2Z3bjNjaU9FeUQzUnpKbFloc1lRVDRPNjBHQ2JRVDh6cg?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 28 Au",
+      "summary": "Automated researchers can reliably mitigate alignment failures Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Expanding our support for scientists",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
       "authors": "Anthropic",
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Fri, 24 Ju",
       "summary": "Introducing Claude Opus 5 Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Introducing Claude for Teachers",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 14 Ju",
-      "summary": "Introducing Claude for Teachers Anthropic",
       "tags": [
         "Anthropic"
       ]
