@@ -4,6 +4,16 @@
   "last_updated": "2026-08-28",
   "papers": [
     {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tRm9iT0h5ZzlndHdoZGxMSGNhX2RtanVQd3ZVS045V19fQ3d6NThoNzNxdGt1d3VqYU40VmtCTktiU3FTMnJ5TWN3NHVhRnczcW0tSGQ2cUNIVlpSN0QwQVd0Q1JpNUUtTE9hZVVqVE9XUjlOdzVjT3FMYkF2dw?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 28 Au",
+      "summary": "Supporting Thailand’s next generation of AI startups OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0VG9NZGFZU1hUZERtcUk0N2Z4TXJnYm04a2ltSE5wRUV5VGNQaHR3bDdtZVVka3VuNTR2dWlqNkNkcEQtNUxBOGNHTDBSNG5sdkVnVEVQLURPZWJqdTFIOTJud3I4RjZ1Z25oWVJtXzFvU3cwNHdnWTNST0lMczMwclpSSlVZcHc4bw?oc=5",
       "authors": "OpenAI",
@@ -14,31 +24,11 @@
       ]
     },
     {
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TRHQyTzhvUjBiV3NKUFFYczdEZUZRcnlodTd1U00tSEFTcFh1cjZ0ZjJVT3BHVmI3S0pQZEFWbUFXeVdYUG5EMTBZT0ZrTDZ2V2toWEVqRkp1NUg4M2M1V1lPdTFUS185VVE?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 27 Au",
-      "summary": "Expanding OpenAI’s presence in Brazil OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "The Hugging Face incident and the road ahead",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiQ05GZDBOS3A3RTBOcjlScG9LZ3paU1RuNEhEWTkySFBQV0VMUVhYZnhNUjAyYzdObjNOSk11YVpOOHduNW1DRjBfaEhiNW43ZjdmU3FGczUtejFJOWUtWXYwTW5KWnJfbHg0YURRMHlDSHVB?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 26 Au",
       "summary": "The Hugging Face incident and the road ahead OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTJMdTYyV1ZHdllkS0pjRjB3UG91b3ZZZ05EdnpHbGNEZGU4RXJxb19GSnByVmZCdmVEdGNiNUVNbzVvYV9HQk5fd0k2cTZFVWwyMERnQWlsMWo5dVZBTmdVV3NtTlVNSEFpSVZrOEQxbTVwX1BRNHhOZTVwMWVVT1BUSl9tU1dLUks4?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 26 Au",
-      "summary": "Bringing ChatGPT for Teachers to more U.S. school districts OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -67,8 +57,38 @@
       "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 25 Au",
+      "published": "Mon, 24 Au",
       "summary": "Introducing the Admin plugin for ChatGPT Work and Codex OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TRHQyTzhvUjBiV3NKUFFYczdEZUZRcnlodTd1U00tSEFTcFh1cjZ0ZjJVT3BHVmI3S0pQZEFWbUFXeVdYUG5EMTBZT0ZrTDZ2V2toWEVqRkp1NUg4M2M1V1lPdTFUS185VVE?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 27 Au",
+      "summary": "Expanding OpenAI’s presence in Brazil OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing Intelligence Age",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3d2JBd21aRGpZcnkybHVyMk5UaV9KV3FleklMSUdfck9fNThTS0JLbU9PSzdlTV9jOEFTZFVhMjZOUlZINlg5OFRoY0xGZUQ4YnFRWG95ZlFLckwyMkhjUjQwTXQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 20 Au",
+      "summary": "Introducing Intelligence Age OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTJMdTYyV1ZHdllkS0pjRjB3UG91b3ZZZ05EdnpHbGNEZGU4RXJxb19GSnByVmZCdmVEdGNiNUVNbzVvYV9HQk5fd0k2cTZFVWwyMERnQWlsMWo5dVZBTmdVV3NtTlVNSEFpSVZrOEQxbTVwX1BRNHhOZTVwMWVVT1BUSl9tU1dLUks4?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 25 Au",
+      "summary": "Bringing ChatGPT for Teachers to more U.S. school districts OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 26 Au",
       "summary": "Learning never stops: How AI makes learning continuous OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZQkZiOVVnWV9aNUZvRGFEQS1nRjEtbk9EY1hyOThqdHM2SXFpTENYM1l1NFFTYXZpMzJpS3ROblF5V1NLVFhXQzNiclhVa2c?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 26 Au",
-      "summary": "How loveholidays is making everyone a builder with Codex OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing Intelligence Age",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pZlh4LWwzcDRQZW1LZHFOeDdkZ0h2aFFVbmF1U3VnRzN3NzR6d1VBZjZBODBfWVlId1BQOFR2anNwVWxCd2huNDBTdUNFaVBBSzA5Rm9FYnhIY0NI?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 20 Au",
-      "summary": "Introducing Intelligence Age OpenAI",
       "tags": [
         "OpenAI"
       ]
