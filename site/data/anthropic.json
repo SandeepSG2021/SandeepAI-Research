@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-08-27",
+  "last_updated": "2026-08-28",
   "papers": [
     {
       "title": "Previewing the Model Hardware Standard",
@@ -9,6 +9,16 @@
       "authors": "Anthropic",
       "published": "Thu, 27 Au",
       "summary": "Previewing the Model Hardware Standard Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Expanding our support for scientists",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 27 Au",
+      "summary": "Expanding our support for scientists Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -59,16 +69,6 @@
       "authors": "Anthropic",
       "published": "Thu, 13 Au",
       "summary": "Patterns and problems in emerging multiagent systems Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Learning more about Claude's mathematical capabilities",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hN2tYeFF6SEtkVVhzVURqcHVqZ0VPVExEUnlFX21BcmNLaFhqT1BEU25IVS15akdoYVZ3djRLc3B5OXIyRnNxZkcxQUd4TEhXaUlpZzNwZlhuUVk?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 10 Au",
-      "summary": "Learning more about Claude's mathematical capabilities Anthropic",
       "tags": [
         "Anthropic"
       ]
