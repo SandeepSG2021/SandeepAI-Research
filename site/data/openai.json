@@ -1,8 +1,18 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-28",
+  "last_updated": "2026-08-29",
   "papers": [
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
+      "authors": "OpenAI",
+      "published": "Sat, 29 Au",
+      "summary": "Our decision on Cursor following its acquisition by SpaceX OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Supporting Thailand’s next generation of AI startups",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tRm9iT0h5ZzlndHdoZGxMSGNhX2RtanVQd3ZVS045V19fQ3d6NThoNzNxdGt1d3VqYU40VmtCTktiU3FTMnJ5TWN3NHVhRnczcW0tSGQ2cUNIVlpSN0QwQVd0Q1JpNUUtTE9hZVVqVE9XUjlOdzVjT3FMYkF2dw?oc=5",
@@ -47,7 +57,7 @@
       "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 25 Au",
+      "published": "Mon, 24 Au",
       "summary": "Introducing the Admin plugin for ChatGPT Work and Codex OpenAI",
       "tags": [
         "OpenAI"
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 26 Au",
       "summary": "Learning never stops: How AI makes learning continuous OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 18 Au",
-      "summary": "Pacing model development in an era of cyber-critical capabilities OpenAI",
       "tags": [
         "OpenAI"
       ]
