@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-29",
+  "last_updated": "2026-08-30",
   "papers": [
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -14,21 +14,21 @@
       ]
     },
     {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0VG9NZGFZU1hUZERtcUk0N2Z4TXJnYm04a2ltSE5wRUV5VGNQaHR3bDdtZVVka3VuNTR2dWlqNkNkcEQtNUxBOGNHTDBSNG5sdkVnVEVQLURPZWJqdTFIOTJud3I4RjZ1Z25oWVJtXzFvU3cwNHdnWTNST0lMczMwclpSSlVZcHc4bw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 27 Au",
-      "summary": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Supporting Thailand’s next generation of AI startups",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tRm9iT0h5ZzlndHdoZGxMSGNhX2RtanVQd3ZVS045V19fQ3d6NThoNzNxdGt1d3VqYU40VmtCTktiU3FTMnJ5TWN3NHVhRnczcW0tSGQ2cUNIVlpSN0QwQVd0Q1JpNUUtTE9hZVVqVE9XUjlOdzVjT3FMYkF2dw?oc=5",
       "authors": "OpenAI",
       "published": "Fri, 28 Au",
       "summary": "Supporting Thailand’s next generation of AI startups OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0VG9NZGFZU1hUZERtcUk0N2Z4TXJnYm04a2ltSE5wRUV5VGNQaHR3bDdtZVVka3VuNTR2dWlqNkNkcEQtNUxBOGNHTDBSNG5sdkVnVEVQLURPZWJqdTFIOTJud3I4RjZ1Z25oWVJtXzFvU3cwNHdnWTNST0lMczMwclpSSlVZcHc4bw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 27 Au",
+      "summary": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5lQTlLWkdOZGJTQnNkWHVUWWdYZXpjYUJmT0N2VXlEM04wdUhnbEw2cFZaaFYxdmtUQnlaT0xWRVhjRXplNk9acFF5Ql9WZXZGNGxyM2xmZw?oc=5",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NXUG1KWUhSOVU2TE1wWWk5LUtwOHRBc2dGQWxlZTh2azJ2MHlnUHlTcWhaTWJKZ1g4WXUzS0VxcnRxbTByNjR6LUdJS3pYRUtKVmVwb3hQTVFqQXNSQjliUDRLSFVpR01uR3hjcTNreG1hR3FDc2ZpMW1qYXRUT25KdE8?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 26 Au",
-      "summary": "Learning never stops: How AI makes learning continuous OpenAI",
+      "published": "Fri, 07 Au",
+      "summary": "Responding to the next frontier of critical cyber capabilities OpenAI",
       "tags": [
         "OpenAI"
       ]

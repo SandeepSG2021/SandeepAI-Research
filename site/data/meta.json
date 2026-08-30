@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-08-29",
+  "last_updated": "2026-08-30",
   "papers": [
     {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
@@ -29,6 +29,16 @@
       "authors": "Meta AI",
       "published": "Tue, 07 Ju",
       "summary": "Introducing Muse Image and Muse Video AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 11 Ja",
+      "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -89,16 +99,6 @@
       "authors": "Meta AI",
       "published": "Thu, 06 Fe",
       "summary": "Brain-to-Text Decoding: A Non-invasive Approach via Typing AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "AIRA₂: Overcoming Bottlenecks in AI Research Agents - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGpmaklESXlJNGszTk0wMWxkdkFXeFVCYlBnWnVHY0dXM3B4X3gwODlZZjFpM3lzYkZ5M2FEM3hmbjBCOUpPZFpmTDZkazJBaktDdHM1QUhQRm5yN2d3WGh6MkRKYmE4bU8zZGd0OFNxQ0dydWVrQlBDdEctOHpJYk5HUF9iTF8wX1BfUDFhVVV1TjV1a1dj?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 16 Ap",
-      "summary": "AIRA₂: Overcoming Bottlenecks in AI Research Agents AI at Meta",
       "tags": [
         "Meta AI"
       ]
