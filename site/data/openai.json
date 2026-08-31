@@ -4,6 +4,16 @@
   "last_updated": "2026-08-31",
   "papers": [
     {
+      "title": "A milestone in expanding access to AI",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQXl3UDE5ODU3V19fY3huVmVDMHZDZkFsR3UzZTRwdkJFcmpUZXNFRmZxM1JndE1iVWZIbmloeEZXLTZkcERlU0JrOVNWZTdpbFVhUy1wVTdibkV0eDhLaDBMRFdTczV1UkVYTDRRRjFObzA?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 31 Au",
+      "summary": "A milestone in expanding access to AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Fri, 07 Au",
       "summary": "Responding to the next frontier of critical cyber capabilities OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 03 Au",
-      "summary": "How we built a realtime system for responsive voice AI in six months OpenAI",
       "tags": [
         "OpenAI"
       ]
