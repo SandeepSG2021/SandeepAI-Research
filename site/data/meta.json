@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-08-30",
+  "last_updated": "2026-08-31",
   "papers": [
     {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
@@ -44,21 +44,21 @@
       ]
     },
     {
-      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 11 Ma",
-      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Meta AI Research: Muse Spark, Muse Glimmer and Muse Image - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1ejNyS2o0RlZaazlqcUFsS1FCTWpsanZ3MFc0cExGY3ljWHBvWE5aR1VOVVhVMUM1S1kyR1ljVTdmVkU?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 12 Ju",
       "summary": "Meta AI Research: Muse Spark, Muse Glimmer and Muse Image AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 11 Ma",
+      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -74,21 +74,21 @@
       ]
     },
     {
-      "title": "DINOv3 - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ka1lOS3E4N29NQ1hCREJKc1FQbkNTZEVQSTJ0THIxVHVTbVZQdmZ6dHZPNEZFRnc2Z1RmZ2o4RUdva3hBVDludUJXRlA?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 30 Ja",
-      "summary": "DINOv3 AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Introducing V-JEPA 2 - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4X0ZETVA1cFhtQW5TbjFPUlJmM0FGMWtlY0xza0tGWjVocFdUX1d2LU11ZkI1OUxzbFFpMWNIUGRIRWF6T0V4ZDg1RQ?oc=5",
       "authors": "Meta AI",
       "published": "Fri, 30 Ja",
       "summary": "Introducing V-JEPA 2 AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "DINOv3 - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ka1lOS3E4N29NQ1hCREJKc1FQbkNTZEVQSTJ0THIxVHVTbVZQdmZ6dHZPNEZFRnc2Z1RmZ2o4RUdva3hBVDludUJXRlA?oc=5",
+      "authors": "Meta AI",
+      "published": "Fri, 30 Ja",
+      "summary": "DINOv3 AI at Meta",
       "tags": [
         "Meta AI"
       ]

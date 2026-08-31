@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-08-30",
+  "last_updated": "2026-08-31",
   "papers": [
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -14,21 +14,21 @@
       ]
     },
     {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0VG9NZGFZU1hUZERtcUk0N2Z4TXJnYm04a2ltSE5wRUV5VGNQaHR3bDdtZVVka3VuNTR2dWlqNkNkcEQtNUxBOGNHTDBSNG5sdkVnVEVQLURPZWJqdTFIOTJud3I4RjZ1Z25oWVJtXzFvU3cwNHdnWTNST0lMczMwclpSSlVZcHc4bw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 27 Au",
-      "summary": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Supporting Thailand’s next generation of AI startups",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tRm9iT0h5ZzlndHdoZGxMSGNhX2RtanVQd3ZVS045V19fQ3d6NThoNzNxdGt1d3VqYU40VmtCTktiU3FTMnJ5TWN3NHVhRnczcW0tSGQ2cUNIVlpSN0QwQVd0Q1JpNUUtTE9hZVVqVE9XUjlOdzVjT3FMYkF2dw?oc=5",
       "authors": "OpenAI",
       "published": "Fri, 28 Au",
       "summary": "Supporting Thailand’s next generation of AI startups OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0VG9NZGFZU1hUZERtcUk0N2Z4TXJnYm04a2ltSE5wRUV5VGNQaHR3bDdtZVVka3VuNTR2dWlqNkNkcEQtNUxBOGNHTDBSNG5sdkVnVEVQLURPZWJqdTFIOTJud3I4RjZ1Z25oWVJtXzFvU3cwNHdnWTNST0lMczMwclpSSlVZcHc4bw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 27 Au",
+      "summary": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training OpenAI",
       "tags": [
         "OpenAI"
       ]
