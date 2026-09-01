@@ -4,6 +4,20 @@
   "last_updated": "2026-09-01",
   "papers": [
     {
+      "title": "The latest AI news we announced in August 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "authors": "News from Google Team",
+      "published": "Tue, 01 Se",
+      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
+      "tags": [
+        "Google DeepMind",
+        "Developer tools",
+        "AI",
+        "Gemini App",
+        "Gemini models"
+      ]
+    },
+    {
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "authors": "Meg Whittenberger",
@@ -112,19 +126,6 @@
         "Google DeepMind",
         "Google Workspace",
         "Google Cloud"
-      ]
-    },
-    {
-      "title": "Inside our 353,000-person vibe coding course",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "authors": "Brenda Flynn",
-      "published": "Mon, 03 Au",
-      "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
-      "tags": [
-        "Gemini models",
-        "Google Cloud",
-        "Developer tools",
-        "AI"
       ]
     }
   ]

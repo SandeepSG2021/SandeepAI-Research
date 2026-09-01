@@ -4,6 +4,36 @@
   "last_updated": "2026-09-01",
   "papers": [
     {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 01 Se",
+      "summary": "Path to Astra: critical capabilities and frontier safeguards OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFZLUDY4VnlYRGpwSVJOUk9LNVI5T29GeE1hdzBNLUxXZTBVbmNXYjRPWWlNWERvSDFwMC1pc2dNaXhXcGtFZ3IyVFlYNy1CLXpWQ3d1cXBDczI2Zm5iajQ5X0JLOUFlbVNqdFRHajN6MUFzYnF2S1lnUEhtbndaVXpuU2d0UVU?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 01 Se",
+      "summary": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoZWotQ254bkhxSmt3YU5NLWJNNmhtNDU0a1BDSGZxU2RMTk4zNWNKUkhhajVtMlNYVm9RSzJFUUpFSmxFQTQzdzkzTkhxNW5PZEs3eE5YY1ZvVnAwU0k4UlRxMA?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 01 Se",
+      "summary": "How AI-native companies turn workflows into operating capability OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "OpenAI supports California’s bill to advance youth AI safety",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0puazl3MjhZNm1TdmpZZnRleXRud0NLMEFETVJVeE96d29BcmIwRmRRbmVOdE5GaGZTOUJidkk1c0xOSG9XSm5NR3lnbURta2NJN0JwSnduMUJBaDVPNWNPTkVXaHc3TFpUY3NUMEhKNXlFaHROMXRfUmFxbEFhQkV3?oc=5",
       "authors": "OpenAI",
@@ -24,21 +54,21 @@
       ]
     },
     {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43ZGx5RzMxX3VfOXAxaThOT0xjUGo5cDlmRDFKQkcwUjJrNEh6US16a3VMZEpIT1U2cHBLbVdoRHl0LWNkbVVUQmN3?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 31 Au",
-      "summary": "Polimill builds Japan's next-generation public AI infrastructure OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
       "authors": "OpenAI",
       "published": "Sat, 29 Au",
       "summary": "Our decision on Cursor following its acquisition by SpaceX OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43ZGx5RzMxX3VfOXAxaThOT0xjUGo5cDlmRDFKQkcwUjJrNEh6US16a3VMZEpIT1U2cHBLbVdoRHl0LWNkbVVUQmN3?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 31 Au",
+      "summary": "Polimill builds Japan's next-generation public AI infrastructure OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -69,36 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 27 Au",
       "summary": "Expanding OpenAI’s presence in Brazil OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 25 Au",
-      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 24 Au",
-      "summary": "Introducing the Admin plugin for ChatGPT Work and Codex OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZTy1JSjFBbTl4NWdhZUpqaTVzZF9lMUl4RHMyUGM2LUhLd1UxVEpMRk5kWkNwMHFrWU5Na0hLd3Z1X19zLW5tV3hvaE1NTG11Z1d3Zm0zRE5HRDlGbVhtTXF2RQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 03 Au",
-      "summary": "Apple is getting this wrong OpenAI",
       "tags": [
         "OpenAI"
       ]
