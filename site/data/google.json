@@ -4,6 +4,18 @@
   "last_updated": "2026-09-01",
   "papers": [
     {
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "authors": "Meg Whittenberger",
+      "published": "Tue, 01 Se",
+      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
+      "tags": [
+        "Google Workspace",
+        "Google One",
+        "AI"
+      ]
+    },
+    {
       "title": "3 new ways to plan and book travel in Search",
       "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "authors": "James Byers",
@@ -111,17 +123,6 @@
       "tags": [
         "Gemini models",
         "Google Cloud",
-        "Developer tools",
-        "AI"
-      ]
-    },
-    {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "authors": "Mariano Cocirio",
-      "published": "Tue, 28 Ju",
-      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
-      "tags": [
         "Developer tools",
         "AI"
       ]
