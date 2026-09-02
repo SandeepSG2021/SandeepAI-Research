@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "papers": [
     {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
@@ -19,6 +19,16 @@
       "authors": "Meta AI",
       "published": "Wed, 11 Ja",
       "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 11 Ma",
+      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -54,21 +64,21 @@
       ]
     },
     {
-      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 11 Ma",
-      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
       "authors": "Meta AI",
       "published": "Sat, 05 Ap",
       "summary": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing LLaMA: A foundational, 65-billion-parameter large language model - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUUpfR2xEZ0VCdndnUGRPVnVNUE5WWXZvWG5qdlBqTGx5dEJsSzlvNkVTeUY3YUd0VS1pak5NVlJhRUIzVVNzaTdmREJtV1BKRkVHdW95NF9Xd0N5Q3ktcEZKMkRCRTRDeDI4Yw?oc=5",
+      "authors": "Meta AI",
+      "published": "Fri, 24 Fe",
+      "summary": "Introducing LLaMA: A foundational, 65-billion-parameter large language model AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -89,16 +99,6 @@
       "authors": "Meta AI",
       "published": "Sat, 22 Oc",
       "summary": "Three things everyone should know about Vision Transformers AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Brain-to-Text Decoding: A Non-invasive Approach via Typing - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzFPSmpHZTBYUlY0NjhNQ0VPLURXZTlSYjFwNndhemV0X04tVzlaWlByMjN4VkVBaGRKQkt5elJQNU9aRHpBZS14bUNrN05zSldwUTlNemxMME9aTjhHaDVzUWRLLWtfdnJiczE3SjJhOWpmUFQ5Nm5KY1VpLVlHcjhuTk1Yd2NtbUc4NWhBeEhLUUJpOUw3bEFEd1pFM19QVFE?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 06 Fe",
-      "summary": "Brain-to-Text Decoding: A Non-invasive Approach via Typing AI at Meta",
       "tags": [
         "Meta AI"
       ]

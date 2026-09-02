@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "papers": [
     {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
@@ -34,21 +34,21 @@
       ]
     },
     {
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0puazl3MjhZNm1TdmpZZnRleXRud0NLMEFETVJVeE96d29BcmIwRmRRbmVOdE5GaGZTOUJidkk1c0xOSG9XSm5NR3lnbURta2NJN0JwSnduMUJBaDVPNWNPTkVXaHc3TFpUY3NUMEhKNXlFaHROMXRfUmFxbEFhQkV3?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 01 Se",
-      "summary": "OpenAI supports California’s bill to advance youth AI safety OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "A milestone in expanding access to AI",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQXl3UDE5ODU3V19fY3huVmVDMHZDZkFsR3UzZTRwdkJFcmpUZXNFRmZxM1JndE1iVWZIbmloeEZXLTZkcERlU0JrOVNWZTdpbFVhUy1wVTdibkV0eDhLaDBMRFdTczV1UkVYTDRRRjFObzA?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 31 Au",
       "summary": "A milestone in expanding access to AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0puazl3MjhZNm1TdmpZZnRleXRud0NLMEFETVJVeE96d29BcmIwRmRRbmVOdE5GaGZTOUJidkk1c0xOSG9XSm5NR3lnbURta2NJN0JwSnduMUJBaDVPNWNPTkVXaHc3TFpUY3NUMEhKNXlFaHROMXRfUmFxbEFhQkV3?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 01 Se",
+      "summary": "OpenAI supports California’s bill to advance youth AI safety OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TRHQyTzhvUjBiV3NKUFFYczdEZUZRcnlodTd1U00tSEFTcFh1cjZ0ZjJVT3BHVmI3S0pQZEFWbUFXeVdYUG5EMTBZT0ZrTDZ2V2toWEVqRkp1NUg4M2M1V1lPdTFUS185VVE?oc=5",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTJMdTYyV1ZHdllkS0pjRjB3UG91b3ZZZ05EdnpHbGNEZGU4RXJxb19GSnByVmZCdmVEdGNiNUVNbzVvYV9HQk5fd0k2cTZFVWwyMERnQWlsMWo5dVZBTmdVV3NtTlVNSEFpSVZrOEQxbTVwX1BRNHhOZTVwMWVVT1BUSl9tU1dLUks4?oc=5",
       "authors": "OpenAI",
-      "published": "Thu, 27 Au",
-      "summary": "Expanding OpenAI’s presence in Brazil OpenAI",
+      "published": "Tue, 25 Au",
+      "summary": "Bringing ChatGPT for Teachers to more U.S. school districts OpenAI",
       "tags": [
         "OpenAI"
       ]
