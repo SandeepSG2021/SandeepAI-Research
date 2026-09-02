@@ -4,6 +4,18 @@
   "last_updated": "2026-09-02",
   "papers": [
     {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "authors": "Four Flynn",
+      "published": "Wed, 02 Se",
+      "summary": "Introducing Fairwind Program",
+      "tags": [
+        "Gemini models",
+        "Safety & Security",
+        "AI"
+      ]
+    },
+    {
       "title": "The latest AI news we announced in August 2026",
       "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
       "authors": "News from Google Team",
@@ -112,20 +124,6 @@
         "Google Ads",
         "Analytics",
         "AI"
-      ]
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "authors": "News from Google Team",
-      "published": "Tue, 04 Au",
-      "summary": "July AI recap header",
-      "tags": [
-        "Search",
-        "Android",
-        "Google DeepMind",
-        "Google Workspace",
-        "Google Cloud"
       ]
     }
   ]
