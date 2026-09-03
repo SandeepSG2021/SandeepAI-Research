@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "papers": [
     {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
@@ -44,21 +44,21 @@
       ]
     },
     {
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pZWxjVkRYX3g4LTFYbEJ1Y01wNVZpSUZKc3V1NnBJV1E4Vks5WEFUaXJzS2Q4bl9zSTk0azRqSDc1ZndMdFVfS3ozbF9aN1BR?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 02 Se",
-      "summary": "How law firm Gilbert + Tobin governs and scales AI with OpenAI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
       "authors": "OpenAI",
       "published": "Sat, 29 Au",
       "summary": "Our decision on Cursor following its acquisition by SpaceX OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pZWxjVkRYX3g4LTFYbEJ1Y01wNVZpSUZKc3V1NnBJV1E4Vks5WEFUaXJzS2Q4bl9zSTk0azRqSDc1ZndMdFVfS3ozbF9aN1BR?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 02 Se",
+      "summary": "How law firm Gilbert + Tobin governs and scales AI with OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -87,7 +87,7 @@
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTJMdTYyV1ZHdllkS0pjRjB3UG91b3ZZZ05EdnpHbGNEZGU4RXJxb19GSnByVmZCdmVEdGNiNUVNbzVvYV9HQk5fd0k2cTZFVWwyMERnQWlsMWo5dVZBTmdVV3NtTlVNSEFpSVZrOEQxbTVwX1BRNHhOZTVwMWVVT1BUSl9tU1dLUks4?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 26 Au",
+      "published": "Tue, 25 Au",
       "summary": "Bringing ChatGPT for Teachers to more U.S. school districts OpenAI",
       "tags": [
         "OpenAI"
