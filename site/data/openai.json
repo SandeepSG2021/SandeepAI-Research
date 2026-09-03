@@ -4,6 +4,46 @@
   "last_updated": "2026-09-03",
   "papers": [
     {
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 03 Se",
+      "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50NWRBNVBBdWQwaldNTmRJUTVJN0FqNUVRM0ZqVzZKT21ocjlaOUFmUENRRG1PWFIyV003aEdtYW04WUx6VDQ0TzZKMGMzT0RvWFIxSlYtZWhJVkVRdGxrdkc5aVZMcHBsX0E?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 03 Se",
+      "summary": "Daybreak for Frontline Defenders: $1B to protect essential services OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEcnZWaUdQVEx0Z2xKWlRKeTNhclFEYTdxS3V1NGdpRVpndU93SER6dGJYVGZQWVlKRHNhRW5QeTB0RXlXeWxRTWdnRi11c2hlY2pZam1hSmJJc3NNcXNLaUwwb3kySzExRTlnLWR4UTJQTThwTmxtUGdB?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 02 Se",
+      "summary": "Legora reviewed 41 documents in minutes with GPT-6 Astra OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNWlBRZ25WV1BDbkN6TDlWUW96M0tIMXpfZlZBbTF5V2RMeUxoRy11c2NCeTdfbkVtTjVHc2dzOXJCcE1wanExMVZVLVR0SHR2MmZrczNfci0zUHQwZzBrTERScmRtbnJVcUpzdA?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 02 Se",
+      "summary": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
       "authors": "OpenAI",
@@ -59,46 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 26 Au",
       "summary": "The Hugging Face incident and the road ahead OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TRHQyTzhvUjBiV3NKUFFYczdEZUZRcnlodTd1U00tSEFTcFh1cjZ0ZjJVT3BHVmI3S0pQZEFWbUFXeVdYUG5EMTBZT0ZrTDZ2V2toWEVqRkp1NUg4M2M1V1lPdTFUS185VVE?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 27 Au",
-      "summary": "Expanding OpenAI’s presence in Brazil OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 25 Au",
-      "summary": "Introducing the Admin plugin for ChatGPT Work and Codex OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0VG9NZGFZU1hUZERtcUk0N2Z4TXJnYm04a2ltSE5wRUV5VGNQaHR3bDdtZVVka3VuNTR2dWlqNkNkcEQtNUxBOGNHTDBSNG5sdkVnVEVQLURPZWJqdTFIOTJud3I4RjZ1Z25oWVJtXzFvU3cwNHdnWTNST0lMczMwclpSSlVZcHc4bw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 27 Au",
-      "summary": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0puazl3MjhZNm1TdmpZZnRleXRud0NLMEFETVJVeE96d29BcmIwRmRRbmVOdE5GaGZTOUJidkk1c0xOSG9XSm5NR3lnbURta2NJN0JwSnduMUJBaDVPNWNPTkVXaHc3TFpUY3NUMEhKNXlFaHROMXRfUmFxbEFhQkV3?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 01 Se",
-      "summary": "OpenAI supports California’s bill to advance youth AI safety OpenAI",
       "tags": [
         "OpenAI"
       ]
