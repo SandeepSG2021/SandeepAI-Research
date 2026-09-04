@@ -1,18 +1,8 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-03",
+  "last_updated": "2026-09-04",
   "papers": [
-    {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 03 Se",
-      "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
     {
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50NWRBNVBBdWQwaldNTmRJUTVJN0FqNUVRM0ZqVzZKT21ocjlaOUFmUENRRG1PWFIyV003aEdtYW04WUx6VDQ0TzZKMGMzT0RvWFIxSlYtZWhJVkVRdGxrdkc5aVZMcHBsX0E?oc=5",
@@ -24,10 +14,30 @@
       ]
     },
     {
+      "title": "Safety overview: GPT-6 Astra",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96LWRUcTNTOGszRVdVcDMxel8yNUFJajFqLUxxWklNZDZ1a0FKcW9pMXo5X29iS0ZQcFVGLW5KaTVGczUxRi1iUzZYcm1XcDVBZGlUZ0Jfc2xrSGhNN29QbXVRcw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 03 Se",
+      "summary": "Safety overview: GPT-6 Astra OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 04 Se",
+      "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEcnZWaUdQVEx0Z2xKWlRKeTNhclFEYTdxS3V1NGdpRVpndU93SER6dGJYVGZQWVlKRHNhRW5QeTB0RXlXeWxRTWdnRi11c2hlY2pZam1hSmJJc3NNcXNLaUwwb3kySzExRTlnLWR4UTJQTThwTmxtUGdB?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 02 Se",
+      "published": "Thu, 03 Se",
       "summary": "Legora reviewed 41 documents in minutes with GPT-6 Astra OpenAI",
       "tags": [
         "OpenAI"
@@ -37,7 +47,7 @@
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNWlBRZ25WV1BDbkN6TDlWUW96M0tIMXpfZlZBbTF5V2RMeUxoRy11c2NCeTdfbkVtTjVHc2dzOXJCcE1wanExMVZVLVR0SHR2MmZrczNfci0zUHQwZzBrTERScmRtbnJVcUpzdA?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 02 Se",
+      "published": "Thu, 03 Se",
       "summary": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra OpenAI",
       "tags": [
         "OpenAI"
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Sat, 29 Au",
       "summary": "Our decision on Cursor following its acquisition by SpaceX OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The Hugging Face incident and the road ahead",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiQ05GZDBOS3A3RTBOcjlScG9LZ3paU1RuNEhEWTkySFBQV0VMUVhYZnhNUjAyYzdObjNOSk11YVpOOHduNW1DRjBfaEhiNW43ZjdmU3FGczUtejFJOWUtWXYwTW5KWnJfbHg0YURRMHlDSHVB?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 26 Au",
-      "summary": "The Hugging Face incident and the road ahead OpenAI",
       "tags": [
         "OpenAI"
       ]
