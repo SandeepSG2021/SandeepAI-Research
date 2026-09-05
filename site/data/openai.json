@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-04",
+  "last_updated": "2026-09-05",
   "papers": [
     {
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -34,21 +34,21 @@
       ]
     },
     {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEcnZWaUdQVEx0Z2xKWlRKeTNhclFEYTdxS3V1NGdpRVpndU93SER6dGJYVGZQWVlKRHNhRW5QeTB0RXlXeWxRTWdnRi11c2hlY2pZam1hSmJJc3NNcXNLaUwwb3kySzExRTlnLWR4UTJQTThwTmxtUGdB?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 02 Se",
-      "summary": "Legora reviewed 41 documents in minutes with GPT-6 Astra OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNWlBRZ25WV1BDbkN6TDlWUW96M0tIMXpfZlZBbTF5V2RMeUxoRy11c2NCeTdfbkVtTjVHc2dzOXJCcE1wanExMVZVLVR0SHR2MmZrczNfci0zUHQwZzBrTERScmRtbnJVcUpzdA?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 02 Se",
       "summary": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEcnZWaUdQVEx0Z2xKWlRKeTNhclFEYTdxS3V1NGdpRVpndU93SER6dGJYVGZQWVlKRHNhRW5QeTB0RXlXeWxRTWdnRi11c2hlY2pZam1hSmJJc3NNcXNLaUwwb3kySzExRTlnLWR4UTJQTThwTmxtUGdB?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 02 Se",
+      "summary": "Legora reviewed 41 documents in minutes with GPT-6 Astra OpenAI",
       "tags": [
         "OpenAI"
       ]

@@ -1,7 +1,7 @@
 {
   "source": "Microsoft-AI",
   "source_url": "https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/",
-  "last_updated": "2026-09-04",
+  "last_updated": "2026-09-05",
   "papers": [
     {
       "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",

@@ -1,8 +1,18 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-09-04",
+  "last_updated": "2026-09-05",
   "papers": [
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 04 Se",
+      "summary": "Formalizing Fermat's Last Theorem Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
     {
       "title": "Developing Enterprise Frontier Safeguards with our customers",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5",
@@ -19,16 +29,6 @@
       "authors": "Anthropic",
       "published": "Mon, 31 Au",
       "summary": "Improving our alignment and security practices Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Automated researchers can reliably mitigate alignment failures",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm12QTFLek9sVlhENXNNaFlpUHlnbEl5dDRNZTBCbG1iSUtndjBhaUQ3UGl6N2VOWFppR19kbGhHWjlGaWRnby1BcHNlM0lNLUFaZXVrWV9MTFFOcjg0dmpFcWc0cHkyUTd1d2Z3bjNjaU9FeUQzUnpKbFloc1lRVDRPNjBHQ2JRVDh6cg?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 28 Au",
-      "summary": "Automated researchers can reliably mitigate alignment failures Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -54,31 +54,21 @@
       ]
     },
     {
-      "title": "Enabling independent research on how people use Claude",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CRjkzdEN0ME9DVFA2cHQzWkE1X1FfREdHaDF0UlhvY2xkbHBib3BIUlFyYzFtaE9hSVJ1MXNFMnR0UVJjSEprTEtCQUtmTVpMTng1eDNFY1lObDMwMl9KVVhCM3YyenVKdlNHTVlhLVZadw?oc=5",
-      "authors": "Anthropic",
-      "published": "Wed, 26 Au",
-      "summary": "Enabling independent research on how people use Claude Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 25 Au",
-      "summary": "Funding better evaluations of AI’s impact on wellbeing Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "How Claude's text watermarking works",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
       "authors": "Anthropic",
       "published": "Fri, 14 Au",
       "summary": "How Claude's text watermarking works Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Learning more about Claude's mathematical capabilities",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hN2tYeFF6SEtkVVhzVURqcHVqZ0VPVExEUnlFX21BcmNLaFhqT1BEU25IVS15akdoYVZ3djRLc3B5OXIyRnNxZkcxQUd4TEhXaUlpZzNwZlhuUVk?oc=5",
+      "authors": "Anthropic",
+      "published": "Mon, 10 Au",
+      "summary": "Learning more about Claude's mathematical capabilities Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Mon, 05 Ma",
       "summary": "Introducing Anthropic's AI for Science Program Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81R0J0dXluYzJGcmxVb3dDY0Z2UjVYT2I5ZkYwSVRrWTBSUm5HZXpWRkFsQ2k5bm1jbVU5cENOY0xkX0tybV9FbnhRcFVac1dncWtqTF85OTZyd3o1dlRXenJkd1h3T1pTSGc?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 30 Ju",
+      "summary": "Claude Science, an AI workbench for scientists, is now available Anthropic",
       "tags": [
         "Anthropic"
       ]
