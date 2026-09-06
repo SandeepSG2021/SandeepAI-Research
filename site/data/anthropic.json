@@ -5,7 +5,7 @@
   "papers": [
     {
       "title": "Formalizing Fermat's Last Theorem",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fSnRJTFR6WlMzenR4b3oyTGVqTW14XzRmRnVBckxURm90WWV4QXg5ekFwcW5vYS0wZWk3emV2b2toU2RDWE83eEVuV1lNYlRwblpqRGhrSmo1cDNtN1VGc21LWWlTR0lxWnV2SkZ5c3o?oc=5",
       "authors": "Anthropic",
       "published": "Fri, 04 Se",
       "summary": "Formalizing Fermat's Last Theorem Anthropic",
@@ -64,6 +64,16 @@
       ]
     },
     {
+      "title": "Labor market impacts of AI: A new measure and early evidence",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KTkM5U1RQMnVZS29QR3BLTzQyOHJYSHFZY253LXd2RTNyZlNOZjdxMFB5ZkV4SVNJcGtaSkJIQkdma21jS0tvWWdGQ3BDZ1ZMQjFIU09Xb2FaUl9JSlcxY1lVazhUQQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 05 Ma",
+      "summary": "Labor market impacts of AI: A new measure and early evidence Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Introducing Anthropic's AI for Science Program",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00ZDdFMFBwQWdCY3JUQWNZUlZOODFlbmxMNzcwWjZCRzdCcDF5eE02UjlvLThJOVowUU5iZG5oSW1FOTl0VFVzMlU5dkpLenAyOTJmNUZxMVRvYThyX3FBc0Fzbw?oc=5",
       "authors": "Anthropic",
@@ -74,11 +84,11 @@
       ]
     },
     {
-      "title": "Introducing Claude Opus 5",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+      "title": "India Country Brief: The Anthropic Economic Index",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdDhtRFhYSWlybFlhV282TkZiM1VaNVV4eGQ2SEttZE9nVTJ4X0xFMFpkYmFneDAxYXl5QnU4eVlXcVE1ZnVJUno1X2stMHIwcnViVzM4aFZ4b0JBazJVbHVTdE5ubVBQSWxRTmh3?oc=5",
       "authors": "Anthropic",
-      "published": "Fri, 24 Ju",
-      "summary": "Introducing Claude Opus 5 Anthropic",
+      "published": "Mon, 16 Fe",
+      "summary": "India Country Brief: The Anthropic Economic Index Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Wed, 08 Ma",
       "summary": "Core views on AI safety: When, why, what, and how Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Tracing the thoughts of a large language model",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DbGdmdnU0VXFrakJMNWtaaGp5bWV0amFGNHpVUGhsMzRITmRYeDZEeEFYQ0tmYXJ2SWxRX1Q1RUNENmVLTTdxNEhsMTFIbGZxMDhFbDByTElSNEszcXlWNHNsb0dMd0trREkxajZhQ3VZT2Fm?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 27 Ma",
-      "summary": "Tracing the thoughts of a large language model Anthropic",
       "tags": [
         "Anthropic"
       ]

@@ -4,6 +4,26 @@
   "last_updated": "2026-09-06",
   "papers": [
     {
+      "title": "An Alien Mind",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5",
+      "authors": "OpenAI",
+      "published": "Sun, 06 Se",
+      "summary": "An Alien Mind OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PaU1kVmVkamQtbXI0aE5aU2plRHlhT0dsbi1VTDlJTFBsNEZOQUVpdENyWVB3ZTZ6TFFSakp3RGFmbXprVl94QnZVMVR6OUEzY1c1ZG1YdF9naWZEb0ZqbHQ0Y1c2dnljWjhZeDVmbC1TTEdQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Sun, 06 Se",
+      "summary": "Research acceleration: The view inside OpenAI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Safety overview: GPT-6 Astra",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96LWRUcTNTOGszRVdVcDMxel8yNUFJajFqLUxxWklNZDZ1a0FKcW9pMXo5X29iS0ZQcFVGLW5KaTVGczUxRi1iUzZYcm1XcDVBZGlUZ0Jfc2xrSGhNN29QbXVRcw?oc=5",
       "authors": "OpenAI",
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 01 Se",
       "summary": "How AI-native companies turn workflows into operating capability OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 28 Au",
-      "summary": "Our decision on Cursor following its acquisition by SpaceX OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The Hugging Face incident and the road ahead",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiQ05GZDBOS3A3RTBOcjlScG9LZ3paU1RuNEhEWTkySFBQV0VMUVhYZnhNUjAyYzdObjNOSk11YVpOOHduNW1DRjBfaEhiNW43ZjdmU3FGczUtejFJOWUtWXYwTW5KWnJfbHg0YURRMHlDSHVB?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 26 Au",
-      "summary": "The Hugging Face incident and the road ahead OpenAI",
       "tags": [
         "OpenAI"
       ]
