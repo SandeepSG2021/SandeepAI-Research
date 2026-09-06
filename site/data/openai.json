@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-05",
+  "last_updated": "2026-09-06",
   "papers": [
     {
       "title": "Safety overview: GPT-6 Astra",
@@ -64,21 +64,21 @@
       ]
     },
     {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoZWotQ254bkhxSmt3YU5NLWJNNmhtNDU0a1BDSGZxU2RMTk4zNWNKUkhhajVtMlNYVm9RSzJFUUpFSmxFQTQzdzkzTkhxNW5PZEs3eE5YY1ZvVnAwU0k4UlRxMA?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 01 Se",
-      "summary": "How AI-native companies turn workflows into operating capability OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "A milestone in expanding access to AI",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQXl3UDE5ODU3V19fY3huVmVDMHZDZkFsR3UzZTRwdkJFcmpUZXNFRmZxM1JndE1iVWZIbmloeEZXLTZkcERlU0JrOVNWZTdpbFVhUy1wVTdibkV0eDhLaDBMRFdTczV1UkVYTDRRRjFObzA?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 31 Au",
       "summary": "A milestone in expanding access to AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoZWotQ254bkhxSmt3YU5NLWJNNmhtNDU0a1BDSGZxU2RMTk4zNWNKUkhhajVtMlNYVm9RSzJFUUpFSmxFQTQzdzkzTkhxNW5PZEs3eE5YY1ZvVnAwU0k4UlRxMA?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 01 Se",
+      "summary": "How AI-native companies turn workflows into operating capability OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEcnZWaUdQVEx0Z2xKWlRKeTNhclFEYTdxS3V1NGdpRVpndU93SER6dGJYVGZQWVlKRHNhRW5QeTB0RXlXeWxRTWdnRi11c2hlY2pZam1hSmJJc3NNcXNLaUwwb3kySzExRTlnLWR4UTJQTThwTmxtUGdB?oc=5",
+      "title": "The Hugging Face incident and the road ahead",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiQ05GZDBOS3A3RTBOcjlScG9LZ3paU1RuNEhEWTkySFBQV0VMUVhYZnhNUjAyYzdObjNOSk11YVpOOHduNW1DRjBfaEhiNW43ZjdmU3FGczUtejFJOWUtWXYwTW5KWnJfbHg0YURRMHlDSHVB?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 02 Se",
-      "summary": "Legora reviewed 41 documents in minutes with GPT-6 Astra OpenAI",
+      "published": "Wed, 26 Au",
+      "summary": "The Hugging Face incident and the road ahead OpenAI",
       "tags": [
         "OpenAI"
       ]
