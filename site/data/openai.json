@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-06",
+  "last_updated": "2026-09-07",
   "papers": [
     {
       "title": "An Alien Mind",
@@ -47,7 +47,7 @@
       "title": "GPT-6 Astra: A new generation of intelligence",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "authors": "OpenAI",
-      "published": "Sun, 06 Se",
+      "published": "Mon, 07 Se",
       "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
       "tags": [
         "OpenAI"
