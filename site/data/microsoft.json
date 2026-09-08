@@ -66,7 +66,7 @@
     {
       "title": "EvoLib: Turning experience into evolving knowledge",
       "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
-      "authors": "Weijia Xu, Alessandro Sordoni, Zelalem Gero, Michel Galley, Eric Yuan, Jianfeng Gao",
+      "authors": "Weijia Xu, Zelalem Gero, Michel Galley, Eric Yuan, Jianfeng Gao",
       "published": "Thu, 30 Ju",
       "summary": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. The post EvoLib: Turning experience into evolving knowledge appeared first on Microsoft Research .",
       "tags": [

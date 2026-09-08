@@ -4,11 +4,31 @@
   "last_updated": "2026-09-08",
   "papers": [
     {
+      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 11 Ma",
+      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 25 Se",
       "summary": "Connect 2024: The responsible approach we’re taking to generative AI AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNC1udEdYdEhzd29jVTV6YWhvUjZrRVIzSzR5WktVZzRudE5OUENGbTFFbU55QmZveHhqV1JjakhhWkF2b1poOXFJZVZKVFRaNWJrdGtKWHB0a21obGtuempn?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 08 Ap",
+      "summary": "Introducing Muse Spark: Scaling Towards Personal Superintelligence AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -24,11 +44,11 @@
       ]
     },
     {
-      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
+      "title": "SAM 3 - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zc0VQak1ZR1pYSDdEbXVGa2lCbmZkWTRaUmU3bFhLTFFqOVB6UVJIMkFFSjZQQ1F5STczbkJqWGMxRGw2bFdHb293?oc=5",
       "authors": "Meta AI",
-      "published": "Wed, 11 Ma",
-      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions AI at Meta",
+      "published": "Fri, 30 Ja",
+      "summary": "SAM 3 AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -74,31 +94,11 @@
       ]
     },
     {
-      "title": "DINOv3 | Research - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XZnU0d3NfMHZJRnFJbzVBNm11bDJEWm9GRk9xck5YQ3JUS3NMZG5wcVdmOG9xa3pKakNBS3E3cXJBZUNrU0Y4UE1oM05TNnVnem1lOFZTVlk1Tzl6OGc?oc=5",
+      "title": "AI at Meta Blog - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE04ZDBzNjRjOWd2VENjOG1ud3hfWUpSNU5yU3pZcnhhRldOcEU5VXFwR0U4dVBfUUZmQ2JITWhB?oc=5",
       "authors": "Meta AI",
-      "published": "Thu, 14 Au",
-      "summary": "DINOv3 | Research AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Introducing V-JEPA 2 - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4X0ZETVA1cFhtQW5TbjFPUlJmM0FGMWtlY0xza0tGWjVocFdUX1d2LU11ZkI1OUxzbFFpMWNIUGRIRWF6T0V4ZDg1RQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 30 Ja",
-      "summary": "Introducing V-JEPA 2 AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Introducing LLaMA: A foundational, 65-billion-parameter large language model - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUUpfR2xEZ0VCdndnUGRPVnVNUE5WWXZvWG5qdlBqTGx5dEJsSzlvNkVTeUY3YUd0VS1pak5NVlJhRUIzVVNzaTdmREJtV1BKRkVHdW95NF9Xd0N5Q3ktcEZKMkRCRTRDeDI4Yw?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 24 Fe",
-      "summary": "Introducing LLaMA: A foundational, 65-billion-parameter large language model AI at Meta",
+      "published": "Wed, 12 Ju",
+      "summary": "AI at Meta Blog AI at Meta",
       "tags": [
         "Meta AI"
       ]
