@@ -4,6 +4,16 @@
   "last_updated": "2026-09-09",
   "papers": [
     {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Gd1lFYm5WdVZrVGJfNFFqd1Z5ekNCNnExZzdTR1otTkxJbllnUnZSVFcyM011dV9OeUtKLXBadVZDb21sOWRneVVxSnhnRG1FLWMwNGVCOHZqZk5TODN1RGkta2czb3hDajU3c1p3?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 08 Se",
+      "summary": "How GPT-5.6 Sol helps run quantum computing experiments OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing ChatGPT Images 2.5",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
       "authors": "OpenAI",
@@ -17,18 +27,8 @@
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 08 Se",
+      "published": "Wed, 09 Se",
       "summary": "On the Navier–Stokes Millennium Prize Problem OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Gd1lFYm5WdVZrVGJfNFFqd1Z5ekNCNnExZzdTR1otTkxJbllnUnZSVFcyM011dV9OeUtKLXBadVZDb21sOWRneVVxSnhnRG1FLWMwNGVCOHZqZk5TODN1RGkta2czb3hDajU3c1p3?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "How GPT-5.6 Sol helps run quantum computing experiments OpenAI",
       "tags": [
         "OpenAI"
       ]
