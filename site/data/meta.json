@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-09-08",
+  "last_updated": "2026-09-09",
   "papers": [
     {
       "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
@@ -29,6 +29,16 @@
       "authors": "Meta AI",
       "published": "Wed, 11 Ja",
       "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Meta AI Research: Muse Spark, Muse Glimmer and Muse Image - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1ejNyS2o0RlZaazlqcUFsS1FCTWpsanZ3MFc0cExGY3ljWHBvWE5aR1VOVVhVMUM1S1kyR1ljVTdmVkU?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 12 Ju",
+      "summary": "Meta AI Research: Muse Spark, Muse Glimmer and Muse Image AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -89,16 +99,6 @@
       "authors": "Meta AI",
       "published": "Wed, 12 Ju",
       "summary": "AI at Meta Blog AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "DINOv3 | Research - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XZnU0d3NfMHZJRnFJbzVBNm11bDJEWm9GRk9xck5YQ3JUS3NMZG5wcVdmOG9xa3pKakNBS3E3cXJBZUNrU0Y4UE1oM05TNnVnem1lOFZTVlk1Tzl6OGc?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 14 Au",
-      "summary": "DINOv3 | Research AI at Meta",
       "tags": [
         "Meta AI"
       ]

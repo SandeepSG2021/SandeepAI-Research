@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-08",
+  "last_updated": "2026-09-09",
   "papers": [
     {
       "title": "Introducing ChatGPT Images 2.5",
@@ -24,21 +24,21 @@
       ]
     },
     {
-      "title": "Funding grants for new research into AI and teen development",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb0ZUX3hIM2JQZGx0T0xoTVdER2JqcHBRSGktMF9IUkJfQklIdzU5NmxsMVpKYmk5cG40NHZES1RwLUNybmRsaXBETVNrbzNBbk5zbDRrVGVaVjVLM1dENm5QcGJodTNkOFE?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "Funding grants for new research into AI and teen development OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Gd1lFYm5WdVZrVGJfNFFqd1Z5ekNCNnExZzdTR1otTkxJbllnUnZSVFcyM011dV9OeUtKLXBadVZDb21sOWRneVVxSnhnRG1FLWMwNGVCOHZqZk5TODN1RGkta2czb3hDajU3c1p3?oc=5",
       "authors": "OpenAI",
       "published": "Tue, 08 Se",
       "summary": "How GPT-5.6 Sol helps run quantum computing experiments OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Funding grants for new research into AI and teen development",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb0ZUX3hIM2JQZGx0T0xoTVdER2JqcHBRSGktMF9IUkJfQklIdzU5NmxsMVpKYmk5cG40NHZES1RwLUNybmRsaXBETVNrbzNBbk5zbDRrVGVaVjVLM1dENm5QcGJodTNkOFE?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 08 Se",
+      "summary": "Funding grants for new research into AI and teen development OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -97,7 +97,7 @@
       "title": "GPT-6 Astra: A new generation of intelligence",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 08 Se",
+      "published": "Wed, 09 Se",
       "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
       "tags": [
         "OpenAI"
