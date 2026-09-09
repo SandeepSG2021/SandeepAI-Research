@@ -4,6 +4,28 @@
   "last_updated": "2026-09-09",
   "papers": [
     {
+      "title": "Get ready for the game with new football features in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "authors": "Denise Ho",
+      "published": "Wed, 09 Se",
+      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
+      "tags": [
+        "Search",
+        "AI"
+      ]
+    },
+    {
+      "title": "Recreating a 70-year love story frame by frame",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "authors": "Michael Chang",
+      "published": "Wed, 09 Se",
+      "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+      "tags": [
+        "Google DeepMind",
+        "AI"
+      ]
+    },
+    {
       "title": "Proactive cyber defense for governments and enterprises",
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "authors": "Four Flynn",
@@ -98,31 +120,6 @@
       "tags": [
         "Google Workspace",
         "Google One",
-        "AI"
-      ]
-    },
-    {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "authors": "Anil Palepu",
-      "published": "Tue, 11 Au",
-      "summary": "AMIE promotional video",
-      "tags": [
-        "Google Health",
-        "Google Research",
-        "Google DeepMind",
-        "AI"
-      ]
-    },
-    {
-      "title": "Evolve your marketing with new AI tools",
-      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "authors": "Josh Moser",
-      "published": "Mon, 10 Au",
-      "summary": "Advisor UI in Google Ads and Google Analytics",
-      "tags": [
-        "Google Ads",
-        "Analytics",
         "AI"
       ]
     }
