@@ -4,6 +4,16 @@
   "last_updated": "2026-09-09",
   "papers": [
     {
+      "title": "An alignment assessment of recent cybersecurity incidents",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFZuQXh2LWp1d0NoNDQ2cHdrTktoZ0dIdDUyeEVrSGVyWDBzT3dsV3lhelR6RXhtYy03MTNSYVlya2hSZm1MMHVkZVFMeEt4RDFJM0Z2TW9SRlFDYTM5eGhxU2YzTWNJOU8yWWktWjU5Y0FUeDdLV0lfdnJ2SW9uZE0zOFFXZw?oc=5",
+      "authors": "Anthropic",
+      "published": "Wed, 09 Se",
+      "summary": "An alignment assessment of recent cybersecurity incidents Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Formalizing Fermat's Last Theorem",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fSnRJTFR6WlMzenR4b3oyTGVqTW14XzRmRnVBckxURm90WWV4QXg5ekFwcW5vYS0wZWk3emV2b2toU2RDWE83eEVuV1lNYlRwblpqRGhrSmo1cDNtN1VGc21LWWlTR0lxWnV2SkZ5c3o?oc=5",
       "authors": "Anthropic",
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Thu, 12 Fe",
       "summary": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Claude's progress on the Riemann hypothesis",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hN2tYeFF6SEtkVVhzVURqcHVqZ0VPVExEUnlFX21BcmNLaFhqT1BEU25IVS15akdoYVZ3djRLc3B5OXIyRnNxZkcxQUd4TEhXaUlpZzNwZlhuUVk?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 10 Au",
-      "summary": "Claude's progress on the Riemann hypothesis Anthropic",
       "tags": [
         "Anthropic"
       ]
