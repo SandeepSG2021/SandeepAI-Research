@@ -4,6 +4,18 @@
   "last_updated": "2026-09-10",
   "papers": [
     {
+      "title": "3 ways to prep for your next big race with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "authors": "Peter Schottenfels",
+      "published": "Thu, 10 Se",
+      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "tags": [
+        "Search",
+        "Shopping",
+        "AI"
+      ]
+    },
+    {
       "title": "Get ready for the game with new football features in Search",
       "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
       "authors": "Denise Ho",
@@ -109,18 +121,6 @@
         "AI",
         "Google in Europe",
         "Pixel"
-      ]
-    },
-    {
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "authors": "Eric Birnbaum",
-      "published": "Thu, 13 Au",
-      "summary": "The video shows Sheets canvas in action.",
-      "tags": [
-        "Google Workspace",
-        "Google One",
-        "AI"
       ]
     }
   ]

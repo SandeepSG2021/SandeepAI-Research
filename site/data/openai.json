@@ -4,6 +4,66 @@
   "last_updated": "2026-09-10",
   "papers": [
     {
+      "title": "Introducing ChatGPT for Financial Services",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55RjB3U1pjRUtMSUlGaGhvX0ptWFVkYlg5Rk1Fd3AtYVBEZm5UQmpVQmc1Yi1WRkFqbEVrOVFrQ2FpMVNCTDRDZDNsY1k5VHhBS1FQSjhaM2Y1aVliOC1XSW1HLW8wY1RfZWJFMDE3N3Zmdw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 10 Se",
+      "summary": "Introducing ChatGPT for Financial Services OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing the Agents API",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoM3lZaDNuLUc5aXZtdTRfY1l3d0VKcGxYaGxkZXlzVmZpR3VRSUoyaWotQ1hxTlZMbGt3SWNOUkwtY3RZNDg5dktGdFlBczhhUFp0V1RnUU83ekwtSm00Wk1n?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 10 Se",
+      "summary": "Introducing the Agents API OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 10 Se",
+      "summary": "Build more natural voice experiences with GPT‑Live‑1 in the API OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkSzF3UlMxcWo0MVFPSDM0WHJwSGkzdkgyWmdJOE91Wks1cjNQNFZMS2JEUUNYYmUwcDR5cW5xdVlvMjVhcTM4YWhQNTJqOVhzR3ZOaA?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 10 Se",
+      "summary": "Now everyone can put data to work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WNlR3Xy0yVTE3YUNxeW9FRGFnME56emVBalV4SUREQnI4Nmx3WmhwZHVUZ0ltSDRycldFdVJlM1VzNkhwN3lSMkdvTi1OVzFFZHNVMXNpaHJaR3I1UTNPYXU0WHNub2VxRnVv?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 10 Se",
+      "summary": "Expanding AI access and cyber defense for federal, state, local, and tribal governments OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTdqTTV0dThRS2NqV05rTGZfby1mV3daN1gwS3JUazR6a2xfNzNld2FNSU1IaVZJWmNtVG9ZXzNGTWExSS1tUFQxSmdUZHpRczhtU213ZHIzR2h3V3NsQUJUVHY2cldTTWhmZ3FjRldMdE1mbzJWZy1QMG8tOEZraDd6UGs?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 10 Se",
+      "summary": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "The AI policy window is open. We need to act.",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Nk92bjU2QkFrUWR3enpvc2JRd2RDR2JMRDJpb0RvbFdpOEVDTEtfbVBvbm5NTllaOUNmR1ZDTmtoYXFLalVMSlBtZEpqckZaaTJfMw?oc=5",
       "authors": "OpenAI",
@@ -39,66 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 08 Se",
       "summary": "How GPT-5.6 Sol helps run quantum computing experiments OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "Introducing ChatGPT Images 2.5 OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 09 Se",
-      "summary": "On the Navier–Stokes Millennium Prize Problem OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Funding grants for new research into AI and teen development",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb0ZUX3hIM2JQZGx0T0xoTVdER2JqcHBRSGktMF9IUkJfQklIdzU5NmxsMVpKYmk5cG40NHZES1RwLUNybmRsaXBETVNrbzNBbk5zbDRrVGVaVjVLM1dENm5QcGJodTNkOFE?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "Funding grants for new research into AI and teen development OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYzBIa2I3M3czOFJ2RkhEeVBONnBXakdVbWt5aTNuMGthekhwRi13UVo2ZTU5aVB0Tl8zWWgzUnVyZlBBR0FRVVVGRHN1T1B0YkliTW1Zc0dZbzFtZzVkTW56dHUwbUdVNE15ZUxsMmNYOXc0a240X2E1SFZtczlDQlVn?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "OpenAI expands initiatives to support journalism from classrooms to newsrooms OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The Work Now Within Reach",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2TWthVXRxQ1FlaXFIMV9lWldBRXR2SWlBUXYxRGJ4RVloVUxxazVfdUtzRE5GRkhOSHFCZTZ2YzZ3ZGgxZkEyMHBnbjZVOUhFdk4ycVBGOUlaMG84TUpIQg?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "The Work Now Within Reach OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "An Alien Mind",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5",
-      "authors": "OpenAI",
-      "published": "Sun, 06 Se",
-      "summary": "An Alien Mind OpenAI",
       "tags": [
         "OpenAI"
       ]
