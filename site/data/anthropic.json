@@ -5,10 +5,20 @@
   "papers": [
     {
       "title": "An alignment assessment of recent cybersecurity incidents",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFZuQXh2LWp1d0NoNDQ2cHdrTktoZ0dIdDUyeEVrSGVyWDBzT3dsV3lhelR6RXhtYy03MTNSYVlya2hSZm1MMHVkZVFMeEt4RDFJM0Z2TW9SRlFDYTM5eGhxU2YzTWNJOU8yWWktWjU5Y0FUeDdLV0lfdnJ2SW9uZE0zOFFXZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVVuc004cms0OWlHYm9ZanBnaXJVWDgtWHNRWGhROEtCSVg3aDVxcFBoVU94UnpJVTV4cmhYVjRhUzFkMTFwNjljMVRiT0ZYR1Q2SW5VN2RET1hTbzJkdDB5aFJkV3kxVG1YYkZ3cVV4Z1VWak1lakQtMXJQOFhYXw?oc=5",
       "authors": "Anthropic",
       "published": "Wed, 09 Se",
       "summary": "An alignment assessment of recent cybersecurity incidents Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Measuring AI capabilities in intelligence targeting and conventional weapons",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTY0c01YMl93bHRWWDNiU0VMYnQwM1VHdDlkZ0VYdlRnOTFoM3RKYTczWVNQZlhtdVkwdkFmbGFWLU9qWmFDOWZfUlJMWl9nUnBoODhCb2ZRWGo0ZnQ5emtNbkstZXpScUlaXzNQd3FKWUcxZXJYV2VmZmIwZDFhcWRfdUpkTGpkNXpfcmhIaFhKaWZldGc?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 10 Se",
+      "summary": "Measuring AI capabilities in intelligence targeting and conventional weapons Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Wed, 08 Ma",
       "summary": "Core views on AI safety: When, why, what, and how Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 30 Ju",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations Anthropic",
       "tags": [
         "Anthropic"
       ]

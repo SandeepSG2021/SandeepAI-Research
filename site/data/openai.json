@@ -4,16 +4,6 @@
   "last_updated": "2026-09-10",
   "papers": [
     {
-      "title": "Introducing ChatGPT for Financial Services",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55RjB3U1pjRUtMSUlGaGhvX0ptWFVkYlg5Rk1Fd3AtYVBEZm5UQmpVQmc1Yi1WRkFqbEVrOVFrQ2FpMVNCTDRDZDNsY1k5VHhBS1FQSjhaM2Y1aVliOC1XSW1HLW8wY1RfZWJFMDE3N3Zmdw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 10 Se",
-      "summary": "Introducing ChatGPT for Financial Services OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing the Agents API",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoM3lZaDNuLUc5aXZtdTRfY1l3d0VKcGxYaGxkZXlzVmZpR3VRSUoyaWotQ1hxTlZMbGt3SWNOUkwtY3RZNDg5dktGdFlBczhhUFp0V1RnUU83ekwtSm00Wk1n?oc=5",
       "authors": "OpenAI",
@@ -24,10 +14,20 @@
       ]
     },
     {
+      "title": "Introducing ChatGPT for Financial Services",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55RjB3U1pjRUtMSUlGaGhvX0ptWFVkYlg5Rk1Fd3AtYVBEZm5UQmpVQmc1Yi1WRkFqbEVrOVFrQ2FpMVNCTDRDZDNsY1k5VHhBS1FQSjhaM2Y1aVliOC1XSW1HLW8wY1RfZWJFMDE3N3Zmdw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 10 Se",
+      "summary": "Introducing ChatGPT for Financial Services OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
       "authors": "OpenAI",
-      "published": "Thu, 10 Se",
+      "published": "Wed, 09 Se",
       "summary": "Build more natural voice experiences with GPT‑Live‑1 in the API OpenAI",
       "tags": [
         "OpenAI"
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTdqTTV0dThRS2NqV05rTGZfby1mV3daN1gwS3JUazR6a2xfNzNld2FNSU1IaVZJWmNtVG9ZXzNGTWExSS1tUFQxSmdUZHpRczhtU213ZHIzR2h3V3NsQUJUVHY2cldTTWhmZ3FjRldMdE1mbzJWZy1QMG8tOEZraDd6UGs?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 10 Se",
-      "summary": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "The AI policy window is open. We need to act.",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Nk92bjU2QkFrUWR3enpvc2JRd2RDR2JMRDJpb0RvbFdpOEVDTEtfbVBvbm5NTllaOUNmR1ZDTmtoYXFLalVMSlBtZEpqckZaaTJfMw?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 09 Se",
       "summary": "The AI policy window is open. We need to act. OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTdqTTV0dThRS2NqV05rTGZfby1mV3daN1gwS3JUazR6a2xfNzNld2FNSU1IaVZJWmNtVG9ZXzNGTWExSS1tUFQxSmdUZHpRczhtU213ZHIzR2h3V3NsQUJUVHY2cldTTWhmZ3FjRldMdE1mbzJWZy1QMG8tOEZraDd6UGs?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 10 Se",
+      "summary": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules OpenAI",
       "tags": [
         "OpenAI"
       ]
