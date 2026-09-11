@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-10",
+  "last_updated": "2026-09-11",
   "papers": [
     {
       "title": "Introducing the Agents API",
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "title": "The AI policy window is open. We need to act.",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Nk92bjU2QkFrUWR3enpvc2JRd2RDR2JMRDJpb0RvbFdpOEVDTEtfbVBvbm5NTllaOUNmR1ZDTmtoYXFLalVMSlBtZEpqckZaaTJfMw?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 09 Se",
-      "summary": "The AI policy window is open. We need to act. OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTdqTTV0dThRS2NqV05rTGZfby1mV3daN1gwS3JUazR6a2xfNzNld2FNSU1IaVZJWmNtVG9ZXzNGTWExSS1tUFQxSmdUZHpRczhtU213ZHIzR2h3V3NsQUJUVHY2cldTTWhmZ3FjRldMdE1mbzJWZy1QMG8tOEZraDd6UGs?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 10 Se",
       "summary": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Nk92bjU2QkFrUWR3enpvc2JRd2RDR2JMRDJpb0RvbFdpOEVDTEtfbVBvbm5NTllaOUNmR1ZDTmtoYXFLalVMSlBtZEpqckZaaTJfMw?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 09 Se",
+      "summary": "The AI policy window is open. We need to act. OpenAI",
       "tags": [
         "OpenAI"
       ]
