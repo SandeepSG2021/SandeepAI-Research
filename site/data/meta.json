@@ -24,21 +24,21 @@
       ]
     },
     {
-      "title": "Introducing Llama 3.1: Our most capable models to date - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
-      "authors": "Meta AI",
-      "published": "Tue, 23 Ju",
-      "summary": "Introducing Llama 3.1: Our most capable models to date AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 11 Ja",
       "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing Llama 3.1: Our most capable models to date - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
+      "authors": "Meta AI",
+      "published": "Tue, 23 Ju",
+      "summary": "Introducing Llama 3.1: Our most capable models to date AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -74,6 +74,16 @@
       ]
     },
     {
+      "title": "SAM Audio - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPbzlfT1hGOWRRNnVCZGRrMVRaSkVLT0ZjbzlVMTkyTjd3eVFaR1ljOHBFMURxWTN4dnBZWUtfNUloV1hRdlZuc1pGN2tkVjQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Sat, 31 Ja",
+      "summary": "SAM Audio AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
       "title": "Introducing V-JEPA 2 - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4X0ZETVA1cFhtQW5TbjFPUlJmM0FGMWtlY0xza0tGWjVocFdUX1d2LU11ZkI1OUxzbFFpMWNIUGRIRWF6T0V4ZDg1RQ?oc=5",
       "authors": "Meta AI",
@@ -89,16 +99,6 @@
       "authors": "Meta AI",
       "published": "Thu, 14 Au",
       "summary": "DINOv3 | Research AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWGtVTFc4RWVaZE1VS01CcnBfaWtlbEdRcmdmT2pjbVVlQWh0OVVaTzhqNWI1YlF5bl9mYm8ySUI5Yklab3FpbDhGRHN5blFiVWJELWlHLUtBSnNKWndBQTl2WUhETndzbk13LVFkc3RFRlpBM3NjSFd1T29xN1FnTjBkblF6bGRNeTBiQUh0cS1ENmhCNGtETl82a1hZeTM3SHBKbk12ZGlpSGpvZEpuQUs5Qkwxd3BDQU9xWm9nU3RYUQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Sun, 06 Se",
-      "summary": "Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis AI at Meta",
       "tags": [
         "Meta AI"
       ]
