@@ -4,16 +4,6 @@
   "last_updated": "2026-09-12",
   "papers": [
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jY1dXTUcwbGFoeDJyQkJFbWlnT0F4akVwaE5FcTUtMzZMZWR2RUtVR3owa0d0cGY3RXhlVDNZV2xxVGV5cThyWUU0VjVSaUEwZjdlbG5Fbzl4eGR2ajhjN3dVSU1EOVhCdkY3azcxdjlFZ0Z4?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 11 Se",
-      "summary": "Perplexity trusts GPT-6 Astra with end-to-end systems OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XMnIxNjBrMVh1OXY0VlNzWGlBTFZBU1dVMDdmLTVkVWo5TlJnTkFObzFzN1NOUEExUWl6ejl0Q0x1LV9fQmFoRVNUb2x3bW1DTVJZMjRBU3AyMy16ZlVkZWcxYlBnMFVfbWRBNTNjSUNmSEJWZ0NN?oc=5",
       "authors": "OpenAI",
@@ -24,11 +14,11 @@
       ]
     },
     {
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0waWVja3lQelpnUUM0UkJXM0FvZXB5U3I5QWtKUl9rbmNQM3ZNMXdLbG16VjM5SWllZGNYOHZZZ2tXVk1rSzdOQ2hSYTNBQjk2d0E5YnEyX3J0YktueFk4TmhUYUZoREZqbDBncQ?oc=5",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jY1dXTUcwbGFoeDJyQkJFbWlnT0F4akVwaE5FcTUtMzZMZWR2RUtVR3owa0d0cGY3RXhlVDNZV2xxVGV5cThyWUU0VjVSaUEwZjdlbG5Fbzl4eGR2ajhjN3dVSU1EOVhCdkY3azcxdjlFZ0Z4?oc=5",
       "authors": "OpenAI",
-      "published": "Fri, 11 Se",
-      "summary": "Cognition helps Devin test its own work with GPT‑6 Astra OpenAI",
+      "published": "Sat, 12 Se",
+      "summary": "Perplexity trusts GPT-6 Astra with end-to-end systems OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -69,6 +59,16 @@
       "authors": "OpenAI",
       "published": "Thu, 10 Se",
       "summary": "Now everyone can put data to work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0waWVja3lQelpnUUM0UkJXM0FvZXB5U3I5QWtKUl9rbmNQM3ZNMXdLbG16VjM5SWllZGNYOHZZZ2tXVk1rSzdOQ2hSYTNBQjk2d0E5YnEyX3J0YktueFk4TmhUYUZoREZqbDBncQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 11 Se",
+      "summary": "Cognition helps Devin test its own work with GPT‑6 Astra OpenAI",
       "tags": [
         "OpenAI"
       ]
