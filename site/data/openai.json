@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-11",
+  "last_updated": "2026-09-12",
   "papers": [
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
@@ -77,7 +77,7 @@
       "title": "GPT-6 Astra: The next generation in intelligence for work",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
       "authors": "OpenAI",
-      "published": "Fri, 11 Se",
+      "published": "Sat, 12 Se",
       "summary": "GPT-6 Astra: The next generation in intelligence for work OpenAI",
       "tags": [
         "OpenAI"

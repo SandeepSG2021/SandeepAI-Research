@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-09-11",
+  "last_updated": "2026-09-12",
   "papers": [
     {
       "title": "An alignment assessment of recent cybersecurity incidents",
@@ -29,16 +29,6 @@
       "authors": "Anthropic",
       "published": "Fri, 04 Se",
       "summary": "Formalizing Fermat's Last Theorem Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 01 Se",
-      "summary": "Developing Enterprise Frontier Safeguards with our customers Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Thu, 30 Ju",
       "summary": "Investigating three real-world incidents in our cybersecurity evaluations Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Claude's progress on the Riemann hypothesis",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hN2tYeFF6SEtkVVhzVURqcHVqZ0VPVExEUnlFX21BcmNLaFhqT1BEU25IVS15akdoYVZ3djRLc3B5OXIyRnNxZkcxQUd4TEhXaUlpZzNwZlhuUVk?oc=5",
+      "authors": "Anthropic",
+      "published": "Mon, 10 Au",
+      "summary": "Claude's progress on the Riemann hypothesis Anthropic",
       "tags": [
         "Anthropic"
       ]
