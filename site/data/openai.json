@@ -4,11 +4,31 @@
   "last_updated": "2026-09-12",
   "papers": [
     {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jY1dXTUcwbGFoeDJyQkJFbWlnT0F4akVwaE5FcTUtMzZMZWR2RUtVR3owa0d0cGY3RXhlVDNZV2xxVGV5cThyWUU0VjVSaUEwZjdlbG5Fbzl4eGR2ajhjN3dVSU1EOVhCdkY3azcxdjlFZ0Z4?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 11 Se",
+      "summary": "Perplexity trusts GPT-6 Astra with end-to-end systems OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XMnIxNjBrMVh1OXY0VlNzWGlBTFZBU1dVMDdmLTVkVWo5TlJnTkFObzFzN1NOUEExUWl6ejl0Q0x1LV9fQmFoRVNUb2x3bW1DTVJZMjRBU3AyMy16ZlVkZWcxYlBnMFVfbWRBNTNjSUNmSEJWZ0NN?oc=5",
       "authors": "OpenAI",
       "published": "Fri, 11 Se",
       "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0waWVja3lQelpnUUM0UkJXM0FvZXB5U3I5QWtKUl9rbmNQM3ZNMXdLbG16VjM5SWllZGNYOHZZZ2tXVk1rSzdOQ2hSYTNBQjk2d0E5YnEyX3J0YktueFk4TmhUYUZoREZqbDBncQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 11 Se",
+      "summary": "Cognition helps Devin test its own work with GPT‑6 Astra OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -54,16 +74,6 @@
       ]
     },
     {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WNlR3Xy0yVTE3YUNxeW9FRGFnME56emVBalV4SUREQnI4Nmx3WmhwZHVUZ0ltSDRycldFdVJlM1VzNkhwN3lSMkdvTi1OVzFFZHNVMXNpaHJaR3I1UTNPYXU0WHNub2VxRnVv?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 10 Se",
-      "summary": "Expanding AI access and cyber defense for federal, state, local, and tribal governments OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "The AI policy window is open. We need to act.",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Nk92bjU2QkFrUWR3enpvc2JRd2RDR2JMRDJpb0RvbFdpOEVDTEtfbVBvbm5NTllaOUNmR1ZDTmtoYXFLalVMSlBtZEpqckZaaTJfMw?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 09 Se",
       "summary": "Paul Christiano joins OpenAI Foundation Board OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Gd1lFYm5WdVZrVGJfNFFqd1Z5ekNCNnExZzdTR1otTkxJbllnUnZSVFcyM011dV9OeUtKLXBadVZDb21sOWRneVVxSnhnRG1FLWMwNGVCOHZqZk5TODN1RGkta2czb3hDajU3c1p3?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "How GPT-5.6 Sol helps run quantum computing experiments OpenAI",
       "tags": [
         "OpenAI"
       ]
