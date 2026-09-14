@@ -4,6 +4,16 @@
   "last_updated": "2026-09-14",
   "papers": [
     {
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "authors": "Google AI Blog",
+      "published": "Mon, 14 Se",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "title": "DevFest is back",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
       "authors": "Natalie McHugh",
@@ -107,18 +117,6 @@
       "published": "Tue, 25 Au",
       "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
       "tags": [
-        "Search",
-        "AI"
-      ]
-    },
-    {
-      "title": "5 new ways to level up your learning with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "authors": "Awaneesh Verma",
-      "published": "Wed, 19 Au",
-      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
-      "tags": [
-        "Learning & Education",
         "Search",
         "AI"
       ]
