@@ -4,6 +4,19 @@
   "last_updated": "2026-09-14",
   "papers": [
     {
+      "title": "DevFest is back",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "authors": "Natalie McHugh",
+      "published": "Mon, 14 Se",
+      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon",
+      "tags": [
+        "Gemini",
+        "Google Cloud",
+        "Developer tools",
+        "AI"
+      ]
+    },
+    {
       "title": "3 ways to prep for your next big race with Search",
       "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
       "authors": "Peter Schottenfels",
@@ -108,19 +121,6 @@
         "Learning & Education",
         "Search",
         "AI"
-      ]
-    },
-    {
-      "title": "Get closer to the game with Gemini and Pixel",
-      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "authors": "Eileen Mannion",
-      "published": "Mon, 17 Au",
-      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-      "tags": [
-        "Gemini",
-        "AI",
-        "Google in Europe",
-        "Pixel"
       ]
     }
   ]

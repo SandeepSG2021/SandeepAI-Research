@@ -14,21 +14,21 @@
       ]
     },
     {
-      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNC1udEdYdEhzd29jVTV6YWhvUjZrRVIzSzR5WktVZzRudE5OUENGbTFFbU55QmZveHhqV1JjakhhWkF2b1poOXFJZVZKVFRaNWJrdGtKWHB0a21obGtuempn?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 08 Ap",
-      "summary": "Introducing Muse Spark: Scaling Towards Personal Superintelligence AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Introducing Muse Image and Muse Video - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
       "authors": "Meta AI",
       "published": "Tue, 07 Ju",
       "summary": "Introducing Muse Image and Muse Video AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNC1udEdYdEhzd29jVTV6YWhvUjZrRVIzSzR5WktVZzRudE5OUENGbTFFbU55QmZveHhqV1JjakhhWkF2b1poOXFJZVZKVFRaNWJrdGtKWHB0a21obGtuempn?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 08 Ap",
+      "summary": "Introducing Muse Spark: Scaling Towards Personal Superintelligence AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -74,16 +74,6 @@
       ]
     },
     {
-      "title": "Repeat-After-Me: Black-Box Adaptive Visual Prompt Injection - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1dYQ1RZOHRITEtoY1ZlanhVcTBrRGxOcVlSb2Z4UEZKa09JVVJneUxfcnltTlVLVzJRUm80MEpFRm1rZ2NhRS1OM2s0SzR1em1qbThLSGw1Q0FzU2RLUnlzQ3BnTkxPc3RzZ3BTWnVSaUlTclR4Z3V1WllENl9BSzhDU2RYRFFmbmxSS2hiNTlNSmZ3Mm9qR1lkOXI1UHFwdnFV?oc=5",
-      "authors": "Meta AI",
-      "published": "Mon, 07 Se",
-      "summary": "Repeat-After-Me: Black-Box Adaptive Visual Prompt Injection AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Three things everyone should know about Vision Transformers - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2NHYjhMX3FKcHdnak5BZG5kNUVUQ2dGaUQ0SVR5R2lWTV9uclNTbm9YNFVGQV9DbUJaaHhLUU5Hei1iOGVWb25pSXhPSXcyT0xuNXVlQmFGRXd2enFsQlRTVHk4Y0pVSm51emJpVWtqQVpwdlhseENWOXBwc3BoMG5YWi16WkIyLUg1ZW05RkhGR0JtYXJHeHlCSGxEX2JKdzFEdw?oc=5",
       "authors": "Meta AI",
@@ -99,6 +89,16 @@
       "authors": "Meta AI",
       "published": "Thu, 06 Fe",
       "summary": "Brain-to-Text Decoding: A Non-invasive Approach via Typing AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "AIRA₂: Overcoming Bottlenecks in AI Research Agents - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGpmaklESXlJNGszTk0wMWxkdkFXeFVCYlBnWnVHY0dXM3B4X3gwODlZZjFpM3lzYkZ5M2FEM3hmbjBCOUpPZFpmTDZkazJBaktDdHM1QUhQRm5yN2d3WGh6MkRKYmE4bU8zZGd0OFNxQ0dydWVrQlBDdEctOHpJYk5HUF9iTF8wX1BfUDFhVVV1TjV1a1dj?oc=5",
+      "authors": "Meta AI",
+      "published": "Thu, 16 Ap",
+      "summary": "AIRA₂: Overcoming Bottlenecks in AI Research Agents AI at Meta",
       "tags": [
         "Meta AI"
       ]
