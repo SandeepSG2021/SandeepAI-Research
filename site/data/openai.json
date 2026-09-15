@@ -14,16 +14,6 @@
       ]
     },
     {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DeHNTbDBFckpQRlFGUXhvaElvemtMaFJSUW9CMS1GQ0FTMWNaSmhmZVAwNjV1VTBFdUxRclZFcmlSam8xUWc?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 14 Se",
-      "summary": "How Fyxer built an AI executive assistant people trust OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing the Agents API",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoM3lZaDNuLUc5aXZtdTRfY1l3d0VKcGxYaGxkZXlzVmZpR3VRSUoyaWotQ1hxTlZMbGt3SWNOUkwtY3RZNDg5dktGdFlBczhhUFp0V1RnUU83ekwtSm00Wk1n?oc=5",
       "authors": "OpenAI",
@@ -39,6 +29,16 @@
       "authors": "OpenAI",
       "published": "Thu, 10 Se",
       "summary": "Introducing ChatGPT for Financial Services OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DeHNTbDBFckpQRlFGUXhvaElvemtMaFJSUW9CMS1GQ0FTMWNaSmhmZVAwNjV1VTBFdUxRclZFcmlSam8xUWc?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 14 Se",
+      "summary": "How Fyxer built an AI executive assistant people trust OpenAI",
       "tags": [
         "OpenAI"
       ]

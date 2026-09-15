@@ -4,6 +4,16 @@
   "last_updated": "2026-09-15",
   "papers": [
     {
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "authors": "Scott Strand",
+      "published": "Tue, 15 Se",
+      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
       "authors": "Google AI Blog",
@@ -107,17 +117,6 @@
       "tags": [
         "Search",
         "Travel",
-        "AI"
-      ]
-    },
-    {
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "authors": "Megan Stoner",
-      "published": "Tue, 25 Au",
-      "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
-      "tags": [
-        "Search",
         "AI"
       ]
     }
