@@ -1,8 +1,18 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-15",
   "papers": [
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DeHNTbDBFckpQRlFGUXhvaElvemtMaFJSUW9CMS1GQ0FTMWNaSmhmZVAwNjV1VTBFdUxRclZFcmlSam8xUWc?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 14 Se",
+      "summary": "How Fyxer built an AI executive assistant people trust OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XMnIxNjBrMVh1OXY0VlNzWGlBTFZBU1dVMDdmLTVkVWo5TlJnTkFObzFzN1NOUEExUWl6ejl0Q0x1LV9fQmFoRVNUb2x3bW1DTVJZMjRBU3AyMy16ZlVkZWcxYlBnMFVfbWRBNTNjSUNmSEJWZ0NN?oc=5",
@@ -67,7 +77,7 @@
       "title": "GPT-6 Astra: The next generation in intelligence for work",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 14 Se",
+      "published": "Tue, 15 Se",
       "summary": "GPT-6 Astra: The next generation in intelligence for work OpenAI",
       "tags": [
         "OpenAI"
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 08 Se",
       "summary": "On the Navier–Stokes Millennium Prize Problem OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The Work Now Within Reach",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2TWthVXRxQ1FlaXFIMV9lWldBRXR2SWlBUXYxRGJ4RVloVUxxazVfdUtzRE5GRkhOSHFCZTZ2YzZ3ZGgxZkEyMHBnbjZVOUhFdk4ycVBGOUlaMG84TUpIQg?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "The Work Now Within Reach OpenAI",
       "tags": [
         "OpenAI"
       ]
