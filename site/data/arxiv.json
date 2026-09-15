@@ -1,104 +1,104 @@
 {
   "source": "ARXIV-AI",
   "source_url": "https://arxiv.org/list/cs.AI/recent",
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-15",
   "papers": [
     {
-      "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
-      "link": "http://arxiv.org/abs/2609.13134v1",
-      "authors": "Arya Tschand, Yaosheng Fu, Vikram Sharma Mailthody, Nicolai Oswald, Po-An Tsai, Ritchie Zhao, Oreste Villa, Vijay Janapa Reddi, Karu Sankaralingam",
-      "published": "2026-09-11",
-      "summary": "Frontier language models are more aggressively using subquadratic attention to reduce the memory footprint and compute requirements during inference while still delivering frontier accuracy. While existing systems make dense attention-centric disaggregated serving decisions, we show that disaggregating inference around the unique arithmetic intensity and memory footprint of subquadratic attention LLMs can achieve significant throughput and energy efficiency gains on emerging DRAM-based and SRAM-only heterogeneous systems. We introduce SQD (SubQuadratic Disaggregation), a fine-grained heterogeneous disaggregation scheme that splits decode by quadratic and subquadratic attention rather than by operator type, and that applies across subquadratic attention variants. For sparse attention LLMs, we disaggregate decode into top-k selection, which must index through the full KV, and top-k attention plus FFN, which have static memory footprints. For linear and sliding-window attention LLMs, we disaggregate decode into dense attention layers and subquadratic attention layers plus FFN. In an adjusted 8xB200 heterogeneous system proxy, we observe average tokens/J improvements of 53% on GLM 5.2,",
+      "title": "Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection",
+      "link": "http://arxiv.org/abs/2609.15989v1",
+      "authors": "Keertana Chidambaram, Andrew Ilyas, Vasilis Syrgkanis",
+      "published": "2026-09-14",
+      "summary": "Chain-of-thought (CoT) monitoring is a safety strategy where the reasoning of a large language model \"actor\" is inspected by a \"monitor\" (often another language model) for signs of unsafe planning, deception, or misalignment. We find that planting harmful but benign-sounding reasoning in the actor's context can steer it to perform adversarial actions while evading monitors, an attack we term \"plan injection\". We initially discover this attack in the multiple-choice question-answering monitorability setting proposed by Lanham et al. (2023), using the investigator-agent elicitation framework of Li et al. (2025). We generalize the attack and show that the discovered behavior scales to harder tasks (achieving 25-33% monitor evasion rates across different monitorability benchmarks) and larger models such as DeepSeek-R1. Across the settings we study, actor models not only follow injected plans but also paraphrase them as their own reasoning, without explicit attribution to the injections. Finally, we find cases where extra monitor resources cause harm - giving the monitor access to the injected plan drops detection by as much as 50% in the Bio-Math task and in a case study on monitor rea",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios",
-      "link": "http://arxiv.org/abs/2609.13125v1",
-      "authors": "Seif ElDein Mostafa, Yahia Ahmed, Farah Datwish, Marwa Solayman",
-      "published": "2026-09-11",
-      "summary": "Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper proposes a hybrid two-stage architecture that combines a long short-term memory (LSTM) network with an XGBoost gradient-boosted regressor for multi-horizon stock return prediction across a diversified panel of 14 U.S. equities spanning six industry sectors. The LSTM component, comprising two stacked layers with 64 hidden units, processes 60-day sliding windows of five sequential market features to produce 64-dimensional temporal embeddings that encode learned sequential market dynamics. These embeddings are concatenated with 14 hand-crafted technical indicators to form a 78-dimensional hybrid feature vector, which is subsequently passed to an XGBoost regressor tuned via 3-fold cross-validation grid search. The framework is trained on a multi-stock pooled corpus using strict chronological splits and per-stock MinMaxScaling to prevent look-ahead bias, and evaluated across four prediction horizons of 30, 90, 252, and 365 trading days. Experimental results demonstrate that the hybrid mode",
+      "title": "Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science",
+      "link": "http://arxiv.org/abs/2609.15983v1",
+      "authors": "Honghao Lin, David P. Woodruff, Yuan Deng, Jieming Mao, Song Zuo, Vahab Mirrokni",
+      "published": "2026-09-14",
+      "summary": "Language models can produce plausible short proofs, but may still be unreliable on long-horizon research problems, where progress depends on a sequence of uncertain and interdependent decisions. We introduce Stellar Colosseum, a model-agnostic harness for allocating inference across research in mathematics and theoretical computer science. Colosseum explores alternative strategies before proof construction, uses a readiness gate to decide when a route is mature enough to decompose, represents the proof plan as interdependent section-level subproblems, and routes verifier findings back to the affected part of the argument. Across these stages, it generates candidates in parallel, attacks them with targeted falsification, and combines candidates and their critiques into a single research artifact through overlapping random-sample tree aggregation. The Colosseum workflow has also been integrated into Google Antigravity's Teamwork framework as the Long Proof pattern. We demonstrate the capabilities of Colosseum through open-ended research and evaluations on theorem-proving and competitive programming benchmarks. Using Colosseum with Gemini 3.1 Pro, we obtain several new results that ad",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation",
-      "link": "http://arxiv.org/abs/2609.13118v1",
-      "authors": "Jinting Wang, Chenxing Li, Dong Yu, Li Liu",
-      "published": "2026-09-11",
-      "summary": "Dance-to-music (D2M) generation aims to synthesize music that is rhythmically and stylistically aligned with dance videos. A key challenge arises from the semantic mismatch between sparse dance cues, such as rhythm and style, and the dense information required for music composition, including structure, instrumentation, and expressive dynamics. Existing methods typically rely on these sparse cues and supervise only the final audio output, resulting in poorly learned music representations and generated music with limited musicality and structural coherence. To address these issues, we propose Curriculum-guided Multi-scale representation Alignment with scale-aware Optimal Transport (CMA-OT), a novel paradigm that leverages an external music expert to provide hierarchical supervision for the generator's latent features, bridging the semantic gap and enhancing representation learning. To effectively incorporate hierarchical supervision, we introduce a curriculum-guided multi-scale learning strategy that progressively transfers musical knowledge from the expert to the music generator, enabling stable and effective representation learning. Moreover, to accommodate the semantic and struct",
+      "title": "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
+      "link": "http://arxiv.org/abs/2609.15982v1",
+      "authors": "Ruishuo Chen, Xun Wang, Yu Chen, Zhuoran Li, Longbo Huang",
+      "published": "2026-09-14",
+      "summary": "Skills extend an LLM agent beyond its parametric knowledge, and the gain they promise rests on picking the right one. Deployed harnesses route by preloading every skill's metadata into the context, which disperses the agent's attention and caps the library size. Retrieval pipelines move the selection out of the context, but also out of the agent's capability. We show that the frozen agent LLM already carries the routing signal in its own forward passes, and that two linear maps suffice to read it out with no skill text in the context. Gavel (Glance And Verdict from a frozen LLM) reads it in two steps. A glance projects the task's and each skill's mid-layer states through the two maps, the only parameters trained, and scores the full library against compact per-skill banks that one forward pass builds at installation. A verdict then resumes the shortlisted skills' forward passes and reads the model's own likelihood and yes/no judgment, fused with the glance as a product of experts. Trained once, Gavel transfers zero-shot to three public benchmarks and SkillTraj, our new benchmark of 372 simulated agent trajectories. On Qwen3-32B it outperforms progressive disclosure and retrieve-and",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC",
-      "link": "http://arxiv.org/abs/2609.13083v1",
-      "authors": "Zhenfeng Gan, Yanbo Chen, Lirong Che, Junbo Tan, Xueqian Wang",
-      "published": "2026-09-11",
-      "summary": "In urban search and rescue, articulated tracked robots (ATRs) must traverse structured but contact-rich environments such as stairwells and cluttered building interiors. Reliable autonomy remains challenging because robot-terrain interaction (RTI) is hybrid and discontinuous, and effective flipper-track coordination is difficult to model analytically. We present ASTRIL-MPC, a language-guided neural kinematics model predictive control (MPC) framework for autonomous traversal. A learned kinematics model predicts short-horizon task-state increments from a height sequence and recent trajectories; NMPC plans with multi-objective costs and strict feasibility constraints; and a large language model (LLM) proposes bounded updates to selected weights and bounds through a safety-checked interface with range clipping, rate limiting, and consistency checks. The compiled predictor enables a full control cycle within 100 ms. Across three traversal tasks and a multi-height generalization setting, ASTRIL-MPC improves an aggregate traversal-quality score by up to 71% over a non-adaptive NMPC and by 67% over a PPO baseline, while eliminating measurable collision impacts during descent. These results",
+      "title": "Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale",
+      "link": "http://arxiv.org/abs/2609.15939v1",
+      "authors": "Aman Priyanshu, Supriti Vijay, Kimia Majd, Xuhong He, Fraser Burch, Takahiro Matsumoto, Jianliang He, Baturay Saglam, Arthur Goldblatt, Zhuoran Yang, Amin Karbasi",
+      "published": "2026-09-14",
+      "summary": "Language-model agents increasingly operate over complete software repositories, yet cybersecurity evaluations primarily measure whether they can detect, reproduce, or repair vulnerabilities rather than whether they can locate the relevant code. We study vulnerability localization: given a weakness class and an unfamiliar repository, identify the implementation files associated with that weakness. We introduce the Vulnerability Localization Benchmark (VLoc Bench), comprising 500 real world vulnerabilities from 290 repositories across six package ecosystems and 147 CWE categories. Each task pairs repository snapshots immediately before and after a security fix. On the vulnerable snapshot, an agent receives only the CWE description and read-only terminal access and must return the affected files; on the patched snapshot, it must determine that the recorded vulnerability is no longer present. We evaluate 27 language models and four static-analysis tools under a common agent interface. Repository-scale vulnerability localization remains difficult: the strongest system achieves 0.229 File F1, and 38.4% of tasks receive no correct localization from any evaluated model. We further find tha",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction",
-      "link": "http://arxiv.org/abs/2609.13082v1",
-      "authors": "Baoyang Jiang, Fengchun Zhang, Leyuan Wang, Haotian Li, Yida Wang, Zhe Ji, Jinshan Lai, Xi Ren, Danyang Li, Zheng Yang, Jianwei Hu, Qiang Ma",
-      "published": "2026-09-11",
-      "summary": "Agentic systems offer a promising way to automate embodied benchmark construction, but existing approaches typically cover isolated stages or remain specialized to predefined environments and task families. More importantly, multi-step construction produces dependent intermediate artifacts that are often passed downstream without artifact-specific verification, allowing local defects to propagate into the final benchmark. We present Embodied-BenchForge, an agentic framework that transforms user-specified evaluation intents into complete embodied benchmark artifacts. It formulates construction as Closed-Loop Benchmark Synthesis, integrating forward artifact synthesis with backward verification and repair. Skill-Orchestrated Artifact Synthesis composes typed and reusable skills into executable workflows, while an artifact dependency graph records intermediate outputs and their dependencies. Requirement-Guided Verification and Repair applies artifact-specific contracts throughout construction and uses provenance to trigger local re-execution or upstream rollback when verification fails. Embodied-BenchForge constructs six benchmarks covering diverse embodied scenarios in the Offline EQ",
+      "title": "Recurrent GraphNeural NetworkswithSet-BasedAggregation",
+      "link": "http://arxiv.org/abs/2609.15932v1",
+      "authors": "Blai Bonet",
+      "published": "2026-09-14",
+      "summary": "Recurrent GNNs iterate message passing to convergence, and their logical characterizations to date rely on multi-set aggregation, graded (counting) logics, and halting or acceptance conditions that cannot be verified from the network's parameters. We study recurrent GNNs with set-based aggregation and identify sufficient conditions checkable from the weights for networks to compile into formulas and formulas into networks. The main result is an effective, two-directional equivalence between a class of networks and the Boolean closure of reachability and safety properties, the fragment B$Σ^{\\circ}_1$ of the modal $μ$-calculus. The fragment is not an artifact: it is the exact expressive level of stabilization over finite vocabulary, which supports fixed points of a single polarity and Boolean combinations thereof, but not the composition of fixed points of opposite polarities. The correspondence needs no counting logic, no external halting signal, and no non-effective acceptance condition, yielding a verifiable path from weights to symbolic explanations for networks meeting the conditions.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant",
-      "link": "http://arxiv.org/abs/2609.13076v1",
-      "authors": "Yi-Jen Shih, Shih-Yun Shan Kuan, Guan-Ting Lin, Kai-Wei Chang, Siddhant Arora, Shu-wen Yang, Abdelrahman Mohamed, Shinji Watanabe, Hung-yi Lee, David Harwath",
-      "published": "2026-09-11",
-      "summary": "Conversational voice agents have advanced significantly, offering increasingly natural human-machine interactions through both cascaded and end-to-end architectures. However, while recent benchmarks extensively evaluate dyadic interactions and passive audio comprehension, they largely overlook a prevalent real-world scenario: multi-party conversations. Evaluating agents in these settings is fundamentally more challenging than in dyadic interactions due to the exponentially greater conversational complexity. For voice agents to integrate seamlessly into human group dynamics, they must not only generate contextually appropriate responses but also demonstrate a nuanced understanding of open turn-taking. To address this gap, we introduce Multiparty Bench (MP-Bench), the first benchmark specifically designed to objectively evaluate conversational speech systems as active participants within multi-party contexts. MP-Bench assesses agent behavior along two primary dimensions: turn-taking awareness and response appropriateness. Additionally, we incorporate comprehension-based question-answering tasks as a complementary evaluation. By benchmarking 12 voice agents, we find that real-time voi",
+      "title": "Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress",
+      "link": "http://arxiv.org/abs/2609.15919v1",
+      "authors": "Gaurav Tewari",
+      "published": "2026-09-14",
+      "summary": "Artificial intelligence presents firms with an unusual timing problem. The technology frontier is improving rapidly, implementation is partly irreversible, and organization-specific capabilities are accumulated through action. This paper develops a two-period decision model of AI deployment under uncertainty in which a firm chooses among immediate deployment, a limited pilot, and waiting. Deployment earns current operating value but exposes the firm to architectural obsolescence; waiting preserves the option to adopt after the frontier is observed; a pilot sacrifices current operating value to build organization-specific learning without full commitment. The model yields five central timing results and a sixth comparative result on where learning occurs. First, a mean-preserving increase in frontier uncertainty raises the value of waiting and piloting but leaves immediate deployment unchanged when its payoff is affine in the frontier. Second, faster expected frontier progress can reduce the relative attractiveness of immediate deployment when deployed architecture captures only a limited share of future improvement. Third, a pilot dominates waiting exactly when the expected value o",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval",
-      "link": "http://arxiv.org/abs/2609.13073v1",
-      "authors": "Junghyun Min, Huseyin Uzunalioglu, Mohamed Trabelsi",
-      "published": "2026-09-11",
-      "summary": "Recent breakthroughs in LLM-based systems and their abilities in problem solving and coding have allowed progress in the AI for Science paradigm, potentially replacing human roles in machine learning (ML) research. However, while several frameworks of fully autonomous end-to-end ML research have been proposed, successful implementations of them are often limited to problems with narrow search spaces, like language modeling or biomedical ML benchmarks. In this paper, we explore how autonomous research can be adapted to solve open-ended, industry-grade ML problems, by considering a case study: telecom ticket retrieval, an open-ended task with degrees of freedom in representation, architecture, and training data generation. We discover that autonomous research for open-ended problems with commercial and open-source agents shows both promise and limitations: while autonomous research can excel in narrow hyperparameter optimization, it lacks human-like intuition and creativity and requires operational overhead. Even with minimal human supervision, autonomous research can reach $90\\%$ of state-of-the-art performance (0.34 vs. 0.38 Recall@1) in a much shorter time period (10 weeks vs. 10 ",
+      "title": "SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection",
+      "link": "http://arxiv.org/abs/2609.15910v1",
+      "authors": "Tong Jian, Aditya Thurvas Senthil Kumar, Xinyi Li, Ziling Chen, Tianyu Dai, Ali Sengul, Matteo Grimaldi, Wenjie Lu, Saleh Nabi, Tao Yu",
+      "published": "2026-09-14",
+      "summary": "Slip detection is fundamental to dexterous manipulation, yet existing systems often lack precise characterization of detection latency and cross-platform generalization. We present SlipSense, a multimodal tactile slip-detection framework built on TacV5, a compact sensor integrating a $32 \\times 32$ piezoresistive array operating at 240 Hz and a 3-axis MEMS accelerometer operating at 8 kHz. The piezoresistive array captures spatial pressure distributions, while the accelerometer captures friction-induced vibrations, providing complementary slip cues. The framework performs modality-specific encoding, intra-sensor fusion, and cross-modal attention with causal temporal prediction at 240 Hz. Experiments on a dataset of 1.4 million frames spanning 37 objects demonstrate the complementarity of the two modalities. SlipSense achieves 96.7% Macro F1 with a false-positive rate below 1.6%, detecting 76% of slip events within 23.1 ms. When trained solely on UMI data, SlipSense generalizes zero-shot to a Tesollo dexterous hand, transferring across unseen objects, distinct sensor units, and robotic platforms without retraining.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "MAxBench: A Multinomial Concept Recovery Benchmark",
-      "link": "http://arxiv.org/abs/2609.13072v1",
-      "authors": "Divya Appapogu, Freya Behrens, Yonatan Belinkov, Aaron Mueller",
-      "published": "2026-09-11",
-      "summary": "Fine-grained control of language model behaviors (e.g., steering) is among the more actionable outcomes of interpretability research. For binary concepts such as refusal, a single direction in activation space often suffices for steering. However, many concepts are not binary: Animals and Countries contain many subcategories, each with multiple instances. For these concepts, the search space over possible representation geometries is far larger than for binary concepts; it is thus not clear what geometries are most appropriate, nor what methods are most effective at recovering them. In this work, we introduce MAxBench, a geometry-agnostic evaluation framework for multinomial concept representations based on sampling from the recovered concept representation. We use MAxBench to compare 10 localization methods (covering 5 geometry types) across 6 concepts and 4 models. Using this framework, we find that (i) affine subspaces steer more reliably and have greater recall than rank-one or linear subspaces; (ii) much of this advantage is due to better non-zero offsets rather than the choice of bases; (iii) manifold steering is competitive with the best methods when applicable; and (iv) no ",
+      "title": "Anatomical Grounding and Leakage-Aware Multimodal Contrastive Learning for Alzheimer's Disease Classification from Structural MRI",
+      "link": "http://arxiv.org/abs/2609.15888v1",
+      "authors": "Paul-Gabriel Nicolae, Irina Georgiana Mocanu",
+      "published": "2026-09-14",
+      "summary": "Deep networks trained on structural MRI for Alzheimer's disease (AD) staging often reach reasonable accuracy while attending to anatomically irrelevant regions, and multimodal models that add clinical tables frequently rely on variables that were used to assign the diagnostic label in the first place. We study both issues with a deliberately lightweight slice-based encoder (ResNet18 with a one-layer Transformer over slices) on 1,075 baseline T1-weighted scans from ADNI-1. First, we use FastSurfer segmentations as an anatomical reference: YOLOv8 models trained on segmentation-derived labels localize Alzheimer-relevant structures with mAP_50 above 0.96, and a Grad-CAM comparison shows that the image-only classifier frequently attends to the skull, orbits and background. Second, we adapt a CLIP-style image - tabular contrastive framework and organize ADNIMERGE variables along a label-leakage spectrum. Fusion with cognitive scores yields 87.3% three-way accuracy, which we treat as a leakage-driven upper bound rather than an imaging result; fusion with regional volumes yields 73.0%. We observe that the choice of contrastive target changes what the image encoder learns: on MCI vs. CN, th",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering",
-      "link": "http://arxiv.org/abs/2609.13071v1",
-      "authors": "Kérian Fiter, Adil Lagrou, Franck Dervault, Bentley Oakes",
-      "published": "2026-09-11",
-      "summary": "Enterprise Digital Twins (EDTs) promise data-driven decision support at organizational scale, but realizing them requires navigating siloed departments, tacit knowledge, and high-stakes decisions with long-horizon consequences. Existing approaches involve domain experts during model development but focus less on early organizational buy-in in EDTs. We present a vision for trustworthy EDT engineering grounded in an `involving before evolving' paradigm: rapidly involving stakeholders through a working prototype before evolving toward federation and full interoperability. Our three-stage approach combines foundation models for rapid prototyping, an ontological backbone for federated interoperability, and observability tooling for stakeholder trust. We ground our vision in an ongoing collaboration with Michelin, a multinational manufacturer, where an initial prototype has helped support stakeholder buy-in.",
+      "title": "Privacy-enhanced federated learning via asynchronous aggregation and local differential perturbation",
+      "link": "http://arxiv.org/abs/2609.15885v1",
+      "authors": "Zhen Zhong, Shini Yang, Liesheng Wei",
+      "published": "2026-09-14",
+      "summary": "This study proposes a privacy-enhanced federated learning framework to address secure collaborative training in distributed data environments. The framework integrates Dynamic Differential Privacy (DDP), lightweight Homomorphic Encryption (HE), and Local Differential Privacy (LDP) mechanisms to ensure data privacy protection during model training. Additionally, the framework employs an asynchronous aggregation strategy with version control to support distributed training in asynchronous environments. Experimental validation on the CIFAR-10 and Purchase-100 benchmark datasets demonstrates that the method maintains high classification accuracy (up to 82.6%) even under stringent privacy constraints (ε = 0.1), while reducing communication overhead by 21.3% compared to FedAvg. Experimental results demonstrate that this framework effectively balances privacy protection and model performance in distributed machine learning scenarios, providing a scalable technical foundation for large-scale distributed collaborative computing.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Anchoring Clinical Events in Time: UID-Preserving Multimodal Reconstruction and Source-Grounded Adjudication",
-      "link": "http://arxiv.org/abs/2609.13062v1",
-      "authors": "Sayantan Kumar, Nicolas Grimaldi, Jack Cummins, Jeremy C. Weiss",
-      "published": "2026-09-11",
-      "summary": "Clinical timelines support treatment-window analysis and leakage-free modeling, but discharge summaries often obscure chronology and structured EHR tables describe only part of the patient course. We present a UID-preserving framework that links each narrative event occurrence to its source span and retains that identity through text-only estimation, structured-evidence retrieval, timestamped source-row grounding, and joint revision. We also present GAVEL, an LLM judge that compares two UID-aligned timelines against the narrative and structured record, to augment prior matching and temporal assessments. Across six open-weight models and 40 mixed-critical-care summaries, the GLM 5.2 multimodal revision, as compared to its text-only variant, improved temporal agreement without reducing event recovery and performed competitively with clinician annotations, while other model revisions showed smaller gains and lower overall performance. Ablations showed that UIDs primarily preserve event retention, whereas source-row linkage supports temporal placement. Blinded human review upheld most GAVEL findings, and controlled adjudication favored multimodal over text-only GLM 5.2 but did not for ",
+      "title": "Learning Multimodal One-step Flow Policy via Value-weighted Optimal Transport",
+      "link": "http://arxiv.org/abs/2609.15883v1",
+      "authors": "Jaehun Shon, Jinha Choi, Jongwook Jeon, Jongmin Lee",
+      "published": "2026-09-14",
+      "summary": "Offline reinforcement learning aims to learn a policy solely from fixed datasets, which often contain multimodal action distributions. Flow policies can naturally represent such multimodal behaviors, but learning an efficient one-step flow policy remains challenging: standard value guidance often leads to mode collapse or exploits overestimation bias in out-of-distribution regions. To address this, we introduce One-step Flow policy via Optimal Transport (OptiFlow), a framework for one-step flow policy learning as a structured sample-allocation problem. OptiFlow jointly trains a value-aware reference flow policy and an efficient one-step policy, coupling their action samples through state-wise entropic optimal transport. For each state, critic-estimated values define the priority of distillation target actions, while the action-distance cost ensures geometrically compatible pairings. By avoiding direct critic maximization, our transport-guided approach enables in-distribution exploitation by anchoring the one-step policy to high-value, dataset-supported modes without the risk of out-of-distribution divergence. Experimental results demonstrate that OptiFlow effectively captures optim",
       "tags": [
         "cs.AI"
       ]
