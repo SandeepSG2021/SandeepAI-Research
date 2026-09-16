@@ -4,6 +4,16 @@
   "last_updated": "2026-09-16",
   "papers": [
     {
+      "title": "Our framework for reporting model misalignment",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 16 Se",
+      "summary": "Our framework for reporting model misalignment OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Reimagining advertising with AI",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2NXl1LWRfMzJIT0szLXg2R3RSRl9fekxZRUl2d0lHNUhPdFJ2a0txYTVQMnIzSGhJYnozSFFRTTM4R3RoRW9NZ0Y1U0NXdXBCS0R0OGJVSElMSU56UmJIQUppMGtybE9n?oc=5",
       "authors": "OpenAI",
@@ -19,6 +29,16 @@
       "authors": "OpenAI",
       "published": "Wed, 16 Se",
       "summary": "How workers are unlocking new ways of working OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How to connect AI usage to business value",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5TXotNTNJTDR6cEF0WVYwejk5RG90ZUVNbVZaNjBWYkxpVk9wVHZ3STFVWEhOclU4QWVtbEpZcUF6X09CWU9od3FhTGJLU3hCYjdINFhyWW1Ldzk3dGpia1N1RTdNUVd4Unp5ZGxDVll1VkRDNXc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 16 Se",
+      "summary": "How to connect AI usage to business value OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 16 Se",
       "summary": "GPT-6 Astra: The next generation in intelligence for work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The AI policy window is open. We need to act.",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Nk92bjU2QkFrUWR3enpvc2JRd2RDR2JMRDJpb0RvbFdpOEVDTEtfbVBvbm5NTllaOUNmR1ZDTmtoYXFLalVMSlBtZEpqckZaaTJfMw?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 09 Se",
-      "summary": "The AI policy window is open. We need to act. OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Gd1lFYm5WdVZrVGJfNFFqd1Z5ekNCNnExZzdTR1otTkxJbllnUnZSVFcyM011dV9OeUtKLXBadVZDb21sOWRneVVxSnhnRG1FLWMwNGVCOHZqZk5TODN1RGkta2czb3hDajU3c1p3?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "How GPT-5.6 Sol helps run quantum computing experiments OpenAI",
       "tags": [
         "OpenAI"
       ]
