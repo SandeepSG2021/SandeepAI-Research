@@ -14,11 +14,21 @@
       ]
     },
     {
-      "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
+      "title": "Introducing Muse Image and Muse Video - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
       "authors": "Meta AI",
-      "published": "Wed, 11 Ja",
-      "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
+      "published": "Tue, 07 Ju",
+      "summary": "Introducing Muse Image and Muse Video AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Meta Movie Gen - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XTmp6Tm00a2V2Yk9tenBnVVBkbGJRQnhvV1JWZjhGTlhzb19sdDN6bTY2bU9GdjhTUUZLOUFVeFNUSnBXMWsyX3VOQ295TTY4?oc=5",
+      "authors": "Meta AI",
+      "published": "Fri, 04 Oc",
+      "summary": "Meta Movie Gen AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -29,6 +39,26 @@
       "authors": "Meta AI",
       "published": "Wed, 08 Ap",
       "summary": "Introducing Muse Spark: Scaling Towards Personal Superintelligence AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 11 Ja",
+      "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing V-JEPA 2 - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4X0ZETVA1cFhtQW5TbjFPUlJmM0FGMWtlY0xza0tGWjVocFdUX1d2LU11ZkI1OUxzbFFpMWNIUGRIRWF6T0V4ZDg1RQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Fri, 30 Ja",
+      "summary": "Introducing V-JEPA 2 AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -69,36 +99,6 @@
       "authors": "Meta AI",
       "published": "Thu, 28 Ap",
       "summary": "Studying the brain to build AI that processes language as people do AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Multi-Token Attention - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IVnY5OE0zakU3Wk1TN0tERkw1WF96UHlyQUZWdHUzeEt0YmFzRDRBVFhwb18yenRrYnpaWjFqRXl1eWZmMVlaN3I2c3JIM3hFQUdsLW1hUDB0U1VFRXZhN3FHVzU5aFh0SWxLMnEzbEVwQQ?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 04 Ap",
-      "summary": "Multi-Token Attention AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "FLAME : Factuality-Aware Alignment for Large Language Models - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2hDNFRPU05nbDNVMWRDaFBLcFZLa2cyMHh4cFdWT2prZ19lSHBTWDJRM1I5SnlzdFpObk10UEJid21fcTlFa1JZUFBndF9XcGRaODRzbjJCUVJheTdrbTdWZDJpczk0dHM5dC1zbS10YWdRYW5jS0w4X3ZDTTEwR3J4WWxhRHFoZVlhaUxmLUVubVRIMGJfZ0lNaUJkeDVHOVJn?oc=5",
-      "authors": "Meta AI",
-      "published": "Tue, 17 De",
-      "summary": "FLAME : Factuality-Aware Alignment for Large Language Models AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Scalable Neural Contextual Bandit for Recommender Systems - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3BMcnd4N1pIeVFEeENpWGRWSjBTT3l1c1EtTnlhQUxNcjg4NHpLa3pCZjMyYTFCNGZIaFhMRERHeXFNSUt1VWdKck9JR2lMQVRueVhaclRSNy1Uc1RSamVyVFVJamZiWnRKVTM3Q3BhSUZ2M2JYRmdhcVNwVTlRNjA0XzY5QmRaMzNzUk5KREFlczZoTE9WQmRteUlXbjhCZFE?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 22 Fe",
-      "summary": "Scalable Neural Contextual Bandit for Recommender Systems AI at Meta",
       "tags": [
         "Meta AI"
       ]
