@@ -14,11 +14,21 @@
       ]
     },
     {
-      "title": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "title": "Measuring AI capabilities in intelligence targeting and conventional weapons",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTY0c01YMl93bHRWWDNiU0VMYnQwM1VHdDlkZ0VYdlRnOTFoM3RKYTczWVNQZlhtdVkwdkFmbGFWLU9qWmFDOWZfUlJMWl9nUnBoODhCb2ZRWGo0ZnQ5emtNbkstZXpScUlaXzNQd3FKWUcxZXJYV2VmZmIwZDFhcWRfdUpkTGpkNXpfcmhIaFhKaWZldGc?oc=5",
       "authors": "Anthropic",
       "published": "Thu, 10 Se",
-      "summary": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models Anthropic",
+      "summary": "Measuring AI capabilities in intelligence targeting and conventional weapons Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 04 Se",
+      "summary": "Formalizing Fermat's Last Theorem Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -84,21 +94,11 @@
       ]
     },
     {
-      "title": "How Claude's text watermarking works",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+      "title": "Agentic misalignment: How LLMs could be insider threats",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xaEtzV2ZoZUNiVUFjNENPcU9VV0VUYU15eGVCOTRlcU5IOFpkcGx1NWJ1OFpIM3Y0Wlh4anR5YmpQRkNPS011WWg1UmNUZ2wtQ0xjRExJd0lqbU9oT1ZPTXAtSVVIUQ?oc=5",
       "authors": "Anthropic",
-      "published": "Fri, 14 Au",
-      "summary": "How Claude's text watermarking works Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Core views on AI safety: When, why, what, and how",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSXEwQkhIekYzdnV4a3lqTW1TdEpMeTFNWDZmc0dzcGp6SjRicnJXZFFxSjNuT3VaSjB1Y2dWcXhHdnNncUNCdmhVck1iVUVYVF96dGpzWUN0dVVaLUlTTmdMWXI?oc=5",
-      "authors": "Anthropic",
-      "published": "Wed, 08 Ma",
-      "summary": "Core views on AI safety: When, why, what, and how Anthropic",
+      "published": "Fri, 20 Ju",
+      "summary": "Agentic misalignment: How LLMs could be insider threats Anthropic",
       "tags": [
         "Anthropic"
       ]

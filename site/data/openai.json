@@ -4,6 +4,16 @@
   "last_updated": "2026-09-16",
   "papers": [
     {
+      "title": "Reimagining advertising with AI",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2NXl1LWRfMzJIT0szLXg2R3RSRl9fekxZRUl2d0lHNUhPdFJ2a0txYTVQMnIzSGhJYnozSFFRTTM4R3RoRW9NZ0Y1U0NXdXBCS0R0OGJVSElMSU56UmJIQUppMGtybE9n?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 16 Se",
+      "summary": "Reimagining advertising with AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XMnIxNjBrMVh1OXY0VlNzWGlBTFZBU1dVMDdmLTVkVWo5TlJnTkFObzFzN1NOUEExUWl6ejl0Q0x1LV9fQmFoRVNUb2x3bW1DTVJZMjRBU3AyMy16ZlVkZWcxYlBnMFVfbWRBNTNjSUNmSEJWZ0NN?oc=5",
       "authors": "OpenAI",
@@ -19,16 +29,6 @@
       "authors": "OpenAI",
       "published": "Thu, 10 Se",
       "summary": "Introducing the Agents API OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jY1dXTUcwbGFoeDJyQkJFbWlnT0F4akVwaE5FcTUtMzZMZWR2RUtVR3owa0d0cGY3RXhlVDNZV2xxVGV5cThyWUU0VjVSaUEwZjdlbG5Fbzl4eGR2ajhjN3dVSU1EOVhCdkY3azcxdjlFZ0Z4?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 14 Se",
-      "summary": "Perplexity trusts GPT-6 Astra with end-to-end systems OpenAI",
       "tags": [
         "OpenAI"
       ]
