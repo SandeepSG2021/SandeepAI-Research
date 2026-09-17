@@ -4,6 +4,16 @@
   "last_updated": "2026-09-17",
   "papers": [
     {
+      "title": "Making global data easier to explore",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "authors": "Prem Ramaswami",
+      "published": "Thu, 17 Se",
+      "summary": "UN System Data Commons Data webpage",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "title": "AI for Societal Impact",
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
       "authors": "Google AI Blog",
@@ -101,18 +111,6 @@
       "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
       "tags": [
         "Google DeepMind",
-        "AI"
-      ]
-    },
-    {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "authors": "Four Flynn",
-      "published": "Wed, 02 Se",
-      "summary": "Introducing Fairwind Program",
-      "tags": [
-        "Gemini models",
-        "Safety & Security",
         "AI"
       ]
     }

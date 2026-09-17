@@ -4,6 +4,16 @@
   "last_updated": "2026-09-17",
   "papers": [
     {
+      "title": "Introducing the Life Sciences Verification Program",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 17 Se",
+      "summary": "Introducing the Life Sciences Verification Program Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "An alignment assessment of recent cybersecurity incidents",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVVuc004cms0OWlHYm9ZanBnaXJVWDgtWHNRWGhROEtCSVg3aDVxcFBoVU94UnpJVTV4cmhYVjRhUzFkMTFwNjljMVRiT0ZYR1Q2SW5VN2RET1hTbzJkdDB5aFJkV3kxVG1YYkZ3cVV4Z1VWak1lakQtMXJQOFhYXw?oc=5",
       "authors": "Anthropic",
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Fri, 20 Ju",
       "summary": "Agentic misalignment: How LLMs could be insider threats Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "How Claude's text watermarking works",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 14 Au",
-      "summary": "How Claude's text watermarking works Anthropic",
       "tags": [
         "Anthropic"
       ]

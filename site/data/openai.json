@@ -4,6 +4,16 @@
   "last_updated": "2026-09-17",
   "papers": [
     {
+      "title": "Introducing Astra for Law",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02Q2I5Zkx2QXlObXZrY2g3Q0Fxa1c1SXJVT0VfZXdhc1JuOTBOeUJEeWpsdWxocHlUakhpeDRoWFdOejV6TWEzeDZINW5XcUpw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 17 Se",
+      "summary": "Introducing Astra for Law OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Our framework for reporting model misalignment",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 10 Se",
       "summary": "Build more natural voice experiences with GPT‑Live‑1 in the API OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkSzF3UlMxcWo0MVFPSDM0WHJwSGkzdkgyWmdJOE91Wks1cjNQNFZMS2JEUUNYYmUwcDR5cW5xdVlvMjVhcTM4YWhQNTJqOVhzR3ZOaA?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 10 Se",
-      "summary": "Now everyone can put data to work OpenAI",
       "tags": [
         "OpenAI"
       ]
