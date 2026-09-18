@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-17",
+  "last_updated": "2026-09-18",
   "papers": [
     {
       "title": "Introducing Astra for Law",
@@ -34,21 +34,21 @@
       ]
     },
     {
-      "title": "Reimagining advertising with AI",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2NXl1LWRfMzJIT0szLXg2R3RSRl9fekxZRUl2d0lHNUhPdFJ2a0txYTVQMnIzSGhJYnozSFFRTTM4R3RoRW9NZ0Y1U0NXdXBCS0R0OGJVSElMSU56UmJIQUppMGtybE9n?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 16 Se",
-      "summary": "Reimagining advertising with AI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "How workers are unlocking new ways of working",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qX2RTNUY5NVRybTdKR2tLb2ZFaWdpVmdZcnFkQjAtejdza1RadG9SZHZUUUJiWm5Ja0tLT09VZnoySzhYM29NWWFNZ2pSbTVwemNXRTZFT0NobjlQR1IycEJtcWFFUQ?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 16 Se",
       "summary": "How workers are unlocking new ways of working OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2NXl1LWRfMzJIT0szLXg2R3RSRl9fekxZRUl2d0lHNUhPdFJ2a0txYTVQMnIzSGhJYnozSFFRTTM4R3RoRW9NZ0Y1U0NXdXBCS0R0OGJVSElMSU56UmJIQUppMGtybE9n?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 16 Se",
+      "summary": "Reimagining advertising with AI OpenAI",
       "tags": [
         "OpenAI"
       ]

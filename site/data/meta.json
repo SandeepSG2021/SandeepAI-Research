@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-09-17",
+  "last_updated": "2026-09-18",
   "papers": [
     {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
@@ -19,6 +19,16 @@
       "authors": "Meta AI",
       "published": "Tue, 07 Ju",
       "summary": "Introducing Muse Image and Muse Video AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNC1udEdYdEhzd29jVTV6YWhvUjZrRVIzSzR5WktVZzRudE5OUENGbTFFbU55QmZveHhqV1JjakhhWkF2b1poOXFJZVZKVFRaNWJrdGtKWHB0a21obGtuempn?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 08 Ap",
+      "summary": "Introducing Muse Spark: Scaling Towards Personal Superintelligence AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -49,16 +59,6 @@
       "authors": "Meta AI",
       "published": "Fri, 04 Oc",
       "summary": "Meta Movie Gen AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNC1udEdYdEhzd29jVTV6YWhvUjZrRVIzSzR5WktVZzRudE5OUENGbTFFbU55QmZveHhqV1JjakhhWkF2b1poOXFJZVZKVFRaNWJrdGtKWHB0a21obGtuempn?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 08 Ap",
-      "summary": "Introducing Muse Spark: Scaling Towards Personal Superintelligence AI at Meta",
       "tags": [
         "Meta AI"
       ]
