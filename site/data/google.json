@@ -4,6 +4,26 @@
   "last_updated": "2026-09-18",
   "papers": [
     {
+      "title": "New experts join Google’s AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "authors": "Zanna Iscenko",
+      "published": "Fri, 18 Se",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Co-creating the future of fashion with Google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "authors": "Yeawon Choi",
+      "published": "Fri, 18 Se",
+      "summary": "Jane Wade and Sergio Hudson",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "title": "Making global data easier to explore",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "authors": "Prem Ramaswami",
@@ -89,28 +109,6 @@
       "tags": [
         "Search",
         "Shopping",
-        "AI"
-      ]
-    },
-    {
-      "title": "Get ready for the game with new football features in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "authors": "Denise Ho",
-      "published": "Wed, 09 Se",
-      "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
-      "tags": [
-        "Search",
-        "AI"
-      ]
-    },
-    {
-      "title": "Recreating a 70-year love story frame by frame",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "authors": "Michael Chang",
-      "published": "Wed, 09 Se",
-      "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-      "tags": [
-        "Google DeepMind",
         "AI"
       ]
     }
