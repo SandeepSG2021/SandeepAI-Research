@@ -4,6 +4,16 @@
   "last_updated": "2026-09-19",
   "papers": [
     {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jdk5uWUFCcXpnb29laUpDOVhwNG85MVNLektyNUZlVGxsZGM1dzlkakpjUmozMEJkZy1sclhmd1JBLWlpYmwwbVRESFotZG8wZWlMbUxGRk5UN0FxTGNnZ1BVWjk1d1QyYzVJ?oc=5",
+      "authors": "OpenAI",
+      "published": "Sat, 19 Se",
+      "summary": "Introducing the Australian Youth Safety Blueprint OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing Astra for Law",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02Q2I5Zkx2QXlObXZrY2g3Q0Fxa1c1SXJVT0VfZXdhc1JuOTBOeUJEeWpsdWxocHlUakhpeDRoWFdOejV6TWEzeDZINW5XcUpw?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Fri, 11 Se",
       "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 10 Se",
-      "summary": "Build more natural voice experiences with GPT‑Live‑1 in the API OpenAI",
       "tags": [
         "OpenAI"
       ]
