@@ -1,8 +1,18 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-09-19",
   "papers": [
+    {
+      "title": "Partnering with Accenture on embedded evaluation",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zV25taFVITFJSbmFtMnJkRnRZMF9MOUdTaUNBSmgwc0czUmFuMEZJZHVrM0t6elFIVVJvQ1dSelJ0a2xHTDhSWnNOcUF6NmVXREFXSm5iMWVoRmJjZUVDMFhoSHRrUkRXMnNmU3Jybw?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 18 Se",
+      "summary": "Partnering with Accenture on embedded evaluation Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
     {
       "title": "How Claude is uplifting biomolecular modeling",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PbzNJUlpWVXZ6VzVsNU13YVBoQUNmTDNEUG83cTFoZk1oU0ZQMFJCWFhqNTFZSGVZWkg3RjBRNktiaXZjd1ZoNTRLM3NpS2V4a3lVUXRJVXFDbXVwRmhfdDlPSy04ZVBzUHB3aHFEUjRtcHVzd0dvN0NYMA?oc=5",
@@ -29,16 +39,6 @@
       "authors": "Anthropic",
       "published": "Wed, 09 Se",
       "summary": "An alignment assessment of recent cybersecurity incidents Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Ben Bernanke joins the Long-Term Benefit Trust",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaVloYTdBU1U4NHcwcm9wamZXOC14alFSVlBNM0pnc1pxanlMVGE2elZfbDlmdWY1cEpJODVTZ19rdDZkS1lSSmt1WmNtODV2Y215ODBB?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 09 Ju",
-      "summary": "Ben Bernanke joins the Long-Term Benefit Trust Anthropic",
       "tags": [
         "Anthropic"
       ]
