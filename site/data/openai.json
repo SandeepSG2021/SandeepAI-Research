@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-19",
+  "last_updated": "2026-09-20",
   "papers": [
     {
       "title": "Introducing Astra for Law",
@@ -9,16 +9,6 @@
       "authors": "OpenAI",
       "published": "Thu, 17 Se",
       "summary": "Introducing Astra for Law OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jdk5uWUFCcXpnb29laUpDOVhwNG85MVNLektyNUZlVGxsZGM1dzlkakpjUmozMEJkZy1sclhmd1JBLWlpYmwwbVRESFotZG8wZWlMbUxGRk5UN0FxTGNnZ1BVWjk1d1QyYzVJ?oc=5",
-      "authors": "OpenAI",
-      "published": "Sat, 19 Se",
-      "summary": "Introducing the Australian Youth Safety Blueprint OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -44,6 +34,16 @@
       ]
     },
     {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jdk5uWUFCcXpnb29laUpDOVhwNG85MVNLektyNUZlVGxsZGM1dzlkakpjUmozMEJkZy1sclhmd1JBLWlpYmwwbVRESFotZG8wZWlMbUxGRk5UN0FxTGNnZ1BVWjk1d1QyYzVJ?oc=5",
+      "authors": "OpenAI",
+      "published": "Sat, 19 Se",
+      "summary": "Introducing the Australian Youth Safety Blueprint OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How to connect AI usage to business value",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5TXotNTNJTDR6cEF0WVYwejk5RG90ZUVNbVZaNjBWYkxpVk9wVHZ3STFVWEhOclU4QWVtbEpZcUF6X09CWU9od3FhTGJLU3hCYjdINFhyWW1Ldzk3dGpia1N1RTdNUVd4Unp5ZGxDVll1VkRDNXc?oc=5",
       "authors": "OpenAI",
@@ -64,21 +64,21 @@
       ]
     },
     {
-      "title": "Introducing the Agents API",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoM3lZaDNuLUc5aXZtdTRfY1l3d0VKcGxYaGxkZXlzVmZpR3VRSUoyaWotQ1hxTlZMbGt3SWNOUkwtY3RZNDg5dktGdFlBczhhUFp0V1RnUU83ekwtSm00Wk1n?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 10 Se",
-      "summary": "Introducing the Agents API OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing ChatGPT for Financial Services",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55RjB3U1pjRUtMSUlGaGhvX0ptWFVkYlg5Rk1Fd3AtYVBEZm5UQmpVQmc1Yi1WRkFqbEVrOVFrQ2FpMVNCTDRDZDNsY1k5VHhBS1FQSjhaM2Y1aVliOC1XSW1HLW8wY1RfZWJFMDE3N3Zmdw?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 10 Se",
       "summary": "Introducing ChatGPT for Financial Services OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing the Agents API",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoM3lZaDNuLUc5aXZtdTRfY1l3d0VKcGxYaGxkZXlzVmZpR3VRSUoyaWotQ1hxTlZMbGt3SWNOUkwtY3RZNDg5dktGdFlBczhhUFp0V1RnUU83ekwtSm00Wk1n?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 10 Se",
+      "summary": "Introducing the Agents API OpenAI",
       "tags": [
         "OpenAI"
       ]
