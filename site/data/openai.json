@@ -4,6 +4,16 @@
   "last_updated": "2026-09-21",
   "papers": [
     {
+      "title": "How V7 gives AI agents institutional memory",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ydmNpUWd5Slg5OHl5ZXRsdTZzaE9ZMmF6LVpxWWRSSXhhQzJxelNfSGh6NEFMYkl2LTNZM3E4eGQ5Zw?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 21 Se",
+      "summary": "How V7 gives AI agents institutional memory OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing Astra for Law",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02Q2I5Zkx2QXlObXZrY2g3Q0Fxa1c1SXJVT0VfZXdhc1JuOTBOeUJEeWpsdWxocHlUakhpeDRoWFdOejV6TWEzeDZINW5XcUpw?oc=5",
       "authors": "OpenAI",
@@ -34,16 +44,6 @@
       ]
     },
     {
-      "title": "How to connect AI usage to business value",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5TXotNTNJTDR6cEF0WVYwejk5RG90ZUVNbVZaNjBWYkxpVk9wVHZ3STFVWEhOclU4QWVtbEpZcUF6X09CWU9od3FhTGJLU3hCYjdINFhyWW1Ldzk3dGpia1N1RTdNUVd4Unp5ZGxDVll1VkRDNXc?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 16 Se",
-      "summary": "How to connect AI usage to business value OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "How workers are unlocking new ways of working",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qX2RTNUY5NVRybTdKR2tLb2ZFaWdpVmdZcnFkQjAtejdza1RadG9SZHZUUUJiWm5Ja0tLT09VZnoySzhYM29NWWFNZ2pSbTVwemNXRTZFT0NobjlQR1IycEJtcWFFUQ?oc=5",
       "authors": "OpenAI",
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jdk5uWUFCcXpnb29laUpDOVhwNG85MVNLektyNUZlVGxsZGM1dzlkakpjUmozMEJkZy1sclhmd1JBLWlpYmwwbVRESFotZG8wZWlMbUxGRk5UN0FxTGNnZ1BVWjk1d1QyYzVJ?oc=5",
-      "authors": "OpenAI",
-      "published": "Sat, 19 Se",
-      "summary": "Introducing the Australian Youth Safety Blueprint OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XMnIxNjBrMVh1OXY0VlNzWGlBTFZBU1dVMDdmLTVkVWo5TlJnTkFObzFzN1NOUEExUWl6ejl0Q0x1LV9fQmFoRVNUb2x3bW1DTVJZMjRBU3AyMy16ZlVkZWcxYlBnMFVfbWRBNTNjSUNmSEJWZ0NN?oc=5",
       "authors": "OpenAI",
       "published": "Fri, 11 Se",
       "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jdk5uWUFCcXpnb29laUpDOVhwNG85MVNLektyNUZlVGxsZGM1dzlkakpjUmozMEJkZy1sclhmd1JBLWlpYmwwbVRESFotZG8wZWlMbUxGRk5UN0FxTGNnZ1BVWjk1d1QyYzVJ?oc=5",
+      "authors": "OpenAI",
+      "published": "Sat, 19 Se",
+      "summary": "Introducing the Australian Youth Safety Blueprint OpenAI",
       "tags": [
         "OpenAI"
       ]
