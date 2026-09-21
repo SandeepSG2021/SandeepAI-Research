@@ -4,11 +4,31 @@
   "last_updated": "2026-09-21",
   "papers": [
     {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 21 Se",
+      "summary": "Advisory Group on Mathematics and Artificial Intelligence OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How V7 gives AI agents institutional memory",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ydmNpUWd5Slg5OHl5ZXRsdTZzaE9ZMmF6LVpxWWRSSXhhQzJxelNfSGh6NEFMYkl2LTNZM3E4eGQ5Zw?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 21 Se",
       "summary": "How V7 gives AI agents institutional memory OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hdk5PcXZDNWxPVm9UMkJ4aVdtblM3ZjU5eDFNc3lNdkNEMDVMSi1NNzBGcTRHSFU5NWlzLWpBZWU1M1NTUjF4NzA2ZTJYaU5kbk1kclVwcHFNNmp5QWVBWUhONEt2bVROeVE?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 21 Se",
+      "summary": "Building standards for the next phase of AI OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 10 Se",
       "summary": "Introducing the Agents API OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55RjB3U1pjRUtMSUlGaGhvX0ptWFVkYlg5Rk1Fd3AtYVBEZm5UQmpVQmc1Yi1WRkFqbEVrOVFrQ2FpMVNCTDRDZDNsY1k5VHhBS1FQSjhaM2Y1aVliOC1XSW1HLW8wY1RfZWJFMDE3N3Zmdw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 10 Se",
-      "summary": "Introducing ChatGPT for Financial Services OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "Introducing ChatGPT Images 2.5 OpenAI",
       "tags": [
         "OpenAI"
       ]
