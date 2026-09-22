@@ -4,6 +4,26 @@
   "last_updated": "2026-09-22",
   "papers": [
     {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 22 Se",
+      "summary": "Introducing GPT-6 Sol and Luna OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91cmxXV1ROeWtFV3ZUdlRiWGs3ZDRBR3ZWOEIxTklBN1pwTzJnNnJxdFptaW51VVRXUTFDSVRJcFFXeU16YV85aUNIRzZqb2o2VlRhZGFVOUQ3aXFPeUNwalIzZzQtTW1WeDdwQ1J2NE1pNzAxUlNiVFJWOA?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 22 Se",
+      "summary": "Priorities and principles for effective third party assessments OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
       "authors": "OpenAI",
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 16 Se",
       "summary": "Reimagining advertising with AI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How workers are unlocking new ways of working",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qX2RTNUY5NVRybTdKR2tLb2ZFaWdpVmdZcnFkQjAtejdza1RadG9SZHZUUUJiWm5Ja0tLT09VZnoySzhYM29NWWFNZ2pSbTVwemNXRTZFT0NobjlQR1IycEJtcWFFUQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 16 Se",
-      "summary": "How workers are unlocking new ways of working OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XMnIxNjBrMVh1OXY0VlNzWGlBTFZBU1dVMDdmLTVkVWo5TlJnTkFObzFzN1NOUEExUWl6ejl0Q0x1LV9fQmFoRVNUb2x3bW1DTVJZMjRBU3AyMy16ZlVkZWcxYlBnMFVfbWRBNTNjSUNmSEJWZ0NN?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 11 Se",
-      "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users OpenAI",
       "tags": [
         "OpenAI"
       ]
