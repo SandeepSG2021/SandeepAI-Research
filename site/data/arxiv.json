@@ -1,104 +1,104 @@
 {
   "source": "ARXIV-AI",
   "source_url": "https://arxiv.org/list/cs.AI/recent",
-  "last_updated": "2026-09-21",
+  "last_updated": "2026-09-22",
   "papers": [
     {
-      "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
-      "link": "http://arxiv.org/abs/2609.22086v1",
-      "authors": "Hongyang Du, Lan Yan, Christian Flores, Asim Kadav",
-      "published": "2026-09-18",
-      "summary": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedures from experience. The memory widens by acquiring procedures for recurring uncovered subtasks and deepens by revising existing procedures against their own successful and failed executions, while a matched replay gate admits only changes that repair failures without regressing observed successes. Five rounds over 1,406 real user briefs and 1,869 automatically graded trajectories, with no weight updates and no human labels, grow the bank from 76 documentation-derived skills to 139 and raise GenEval2 execution success on Claude-Sonnet-4 from 72.7% to 99.3% (+11.99 points in generation quality), with 61.8% and 67.6% win rates against the no-skill agent across four specialized design benchmarks on Claude-Sonnet-4 and Claude-Opus-4.6. We further",
+      "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+      "link": "http://arxiv.org/abs/2609.25001v1",
+      "authors": "Yiran Wang, Xingyilang Yin, Junfu Pu, Guangzhi Wang, Kaifeng Li, Mingyu Ouyang, Huiqiang Sun, Lingen Li, Cheng Cheng, Wangbo Yu, Honghao Chen, Xiaodong Cun, Chi-Man Pun, Zhiguo Cao, Ying Shan",
+      "published": "2026-09-21",
+      "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance online rollouts. To address these challenges, we introduce GameHorizon, a unified data and evaluation suite that measures gameplay capabilities at different horizons for diverse model families. GameHorizon Suite consists of three components. First, GameHorizon-Annotator is a scalable and automated annotation pipeline for multi-horizon instructions. Second, utilizing the pipeline, we construct GameHorizon-Data, the first large-scale AAA gameplay dataset with temporally aligned videos, player actions, and multi-horizon instructions. It comprises 5,000 hours of recordings from 21 games, collected by 100 human expert players. Third, we build GameHorizon-Bench with reproducible offline and stepwise online testing. The offline track enables reproducible evaluation using thousands of standardized questions organized into three primary tasks and a seri",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
-      "link": "http://arxiv.org/abs/2609.22068v1",
-      "authors": "Bowen Ye, Lei Li, Shicheng Li, Zihao Yue, Linghao Zhang, Hanglong Lv, Yuanxin Liu, Wenhan Ma, Hao Tian, Rang Li, Jinhao Dong, Yikai Zhao, Xiangwei Deng, Hailin Zhang, Liang Zhao, Qi Liu, Lingpeng Kong, Tong Yang, Fuli Luo",
-      "published": "2026-09-18",
-      "summary": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be extracted. To better scale RL environments, we present CodeMidas, an agentic pipeline that turns implemented functionality in existing codebases into executable RL environments using source code as its only task-specific input. CodeMidas allocates agentic compute to every stage of environment construction: agents explore implemented functionality to formulate behavioral specifications, construct tests grounded in execution of the original code, and validate and filter candidate tasks through execution checks and repeated solution rollouts. The resulting dataset has 5,545 training tasks from 3,185 open-source codebases spanning 23 programming languages and 15 technical domains. Training MiMo-V2.5 on these tasks with GRPO improves performance on all five diverse benchmarks, covering issue repair (DeepSWE + 11.7%), whole-program construction (ProgramBench +17%), and terminal work (Terminal-B",
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "link": "http://arxiv.org/abs/2609.24984v1",
+      "authors": "Wangbo Yu, Kunhao Liu, Wenbo Hu, Shenghai Yuan, Chaoran Feng, Haiyang Zhou, Yukun Huang, Yiran Wang, Wang Zhao, Yingmin Luo, Ying Shan",
+      "published": "2026-09-21",
+      "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific tokens before denoising, without explicit depth-based correspondences. By combining this memory with recent temporal context and few-step distillation, WorldCrafter enables streaming scene exploration from a single input image or text prompt. Experiments across static and dynamic scenes show substantial gains in long-horizon consistency and camera-control accuracy while preserving visual quality during minute-scale exploration.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
-      "link": "http://arxiv.org/abs/2609.22067v1",
-      "authors": "Renkai Ma, Ruyuan Wan, Xuan Lu, Fan Yang, Chen Chen, Lingyao Li",
-      "published": "2026-09-18",
-      "summary": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093 first-person Reddit posts about using OpenClaw, each for its human value, agent aspect, value fulfillment, and user outcome. The 21 values form six value groups, including Autonomous, Dependable, and Affordable Operation, Bounded Reach, Reviewability, and Equitable Access. Relative to each aspect's corpus share, values clustered not at the agent's outputs but at the operating conditions users set around a run. Values were usually met where users described what the agent delivered, in five of six groups, and mostly unmet where users described supervising it, in all six groups. We conceptualize this pattern as value-sensitive delegation. Supporting human values requires attention not only to what an agent accomplishes, but to the conditions users set around delegation, including cost, access, and oversight.",
+      "title": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation",
+      "link": "http://arxiv.org/abs/2609.24976v1",
+      "authors": "Haoran Yuan, Zekai Wang, Boning Shao, Haoran Lu, Trevor Darrell, Ismini Lourentzou, Wei Zhan",
+      "published": "2026-09-21",
+      "summary": "Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generation, but remain largely vision-centric and therefore cannot directly model these contact dynamics. We present DexTacWAM, a visuo-tactile WAM that encodes each fingertip independently, aggregates the resulting features through a finger- and pose-aware tactile compressor, and injects the tactile latent into a video diffusion world model for joint visuo-tactile world modeling. Across six contact-rich dexterous manipulation tasks on a 22-DoF bimanual platform, DexTacWAM achieves the highest score on every task, averaging 70.6 versus 38.0 for the strongest baseline. Ablations attribute the gain to modeling contact evolution as part of the predicted world state rather than tactile conditioning alone: removing tactile world modeling reduces the four-task mean from 74.7 to 26.6 while keeping the same tactile features and action expert. After four hours of tactile-encoder adaptation with a frozen pretrained vision VAE, our continual vision-to-touch learning extends the pretrained video model to to",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Gricea: An Open Science Platform for Conversational AI Research",
-      "link": "http://arxiv.org/abs/2609.22039v1",
-      "authors": "Nikhil Sharma, Yunlin Gong, Xinyang Cheng, Ziang Xiao",
-      "published": "2026-09-18",
-      "summary": "We need studies on conversational AI (CAI) at scale to understand human behavior and shape CAI design. However, fragmented reporting of systems and study configurations hinders replication, extension, and knowledge accumulation. We present Gricea, an open-science platform representing studies as configurable, deployable research artifacts that researchers can run, inspect, share, and reuse. Informed by a formative analysis of prior CAI research, Gricea couples study procedures, participant-facing systems, and conversational task behavior in. In a replication study using Gricea, we replicated configurations 93% of eligible CUI 2026 papers; while also flagging missing information in 96% of papers that hinder faithful replication --- further motivating Gricea's need. In a user study, researchers and practitioners from diverse backgrounds successfully constructed runnable studies addressing various open-ended research questions. Together, these findings demonstrate Gricea's support for constructing, reproducing, and extending CAI studies through shared research artifacts, enabling cumulative knowledge building through open science.",
+      "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+      "link": "http://arxiv.org/abs/2609.24974v1",
+      "authors": "Haoran Ye, Yuxing Lu, Haonan Dong, Zhaochen Su, Guojie Song",
+      "published": "2026-09-21",
+      "summary": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the best harness varies across domains, instances, and models, a general-purpose agent must either settle for a suboptimal shared harness or route among an ever-growing set of specialized ones. We therefore study agent harness distillation: using a domain- or instance-optimized harness as training-time guidance and transferring the behaviors it induces into model weights, so that its gains survive under a single fixed target harness. The challenge is that the two harnesses differ in action space and available information, so guidance from the optimized harness cannot serve directly as supervision for the target one. We introduce Harness-Zero, which enables harness distillation through agent-as-harness. Guided by the optimized harness, a harnessing agent corrects student responses before execution in the target harness's action space, turning harness guidance into training demonstrations. Fine-tuning on the resulting trajectories internalizes harness-induced behavior into the model, so the spe",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
-      "link": "http://arxiv.org/abs/2609.22008v1",
-      "authors": "Lorenzo Corti, Jie Yang",
-      "published": "2026-09-18",
-      "summary": "Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones, is central to their reliable deployment. Yet, methods that identify VLM behaviours remain scarce. We present DiaVLo, a diagnostic framework that leverages human curation and VLMs' generation capabilities to construct specifications of desired and observed VLM behaviours, surfacing potential misalignments. Beyond this, DiaVLo also provides causal estimates to identify the most influential concepts steering VLM behaviours. We evaluate DiaVLo on several open-source VLMs under both classification and generation conditions. Our experiments show that DiaVLo produces behaviour labels that correlate with model performance and provide context for measured performance. DiaVLo surfaced behaviours that are clearly aligned and misaligned, alongside patterns in how VLMs perceive, organise, and prioritise concepts.",
+      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "link": "http://arxiv.org/abs/2609.24972v1",
+      "authors": "Peng Xia, Rujun Han, Zifeng Wang, Yanfei Chen, Yufan Zhang, Yoonho Lee, Chengsong Huang, Han Yu, Zhongying CuiZhu, Yifei Ming, Huaxiu Yao, Burak Gokturk, Tomas Pfister, Chen-Yu Lee",
+      "published": "2026-09-21",
+      "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints ",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents",
-      "link": "http://arxiv.org/abs/2609.21997v1",
-      "authors": "Hafsa Akbar, Daniel Platnick, Marjan Alirezaie, Hossein Rahnama",
-      "published": "2026-09-18",
-      "summary": "LLM agents in social simulation revise their opinions implicitly, in context: how open an agent is to persuasion can neither be specified nor verified, and collective outcomes inherit the model's training prior. We introduce Bayesian Chronicle Agents (BCA), a minimal belief layer separating \\emph{what} an agent believes from \\emph{how} it speaks. Each stance is a probability, updated by one Bayesian step per utterance heard. A single prior-strength parameter $κ$ encodes stubbornness, modeled after its role in Friedkin--Johnsen (FJ) opinion dynamics. We then sweep this parameter to yield three canonical regimes of opinion dynamics on demand (consensus, persistent disagreement, committed-minority influence), with persistent disagreement matching the FJ closed-form fixed points at $R^2\\!=\\!0.93$--$0.99$. We further show that prescribed $κ$ remains recoverable after the language round-trip, with perfect rank-order recovery across all four models. Explicit belief also makes simulation auditable: the layer surfaces systematic per-model stance biases that end-to-end simulation would silently absorb.",
+      "title": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
+      "link": "http://arxiv.org/abs/2609.24971v1",
+      "authors": "Soumil Rathi, Deshraj Yadav, Taranjeet Singh",
+      "published": "2026-09-21",
+      "summary": "Agents today often take real-world actions that depend on long-term memory and context recall over time. However, most current memory benchmarks are built for a conversational question-answer format, where the question itself signals that some fact must be retrieved, and often which one. Moreover, benchmarks rarely require anything beyond accuracy from submissions, allowing memory systems to make unreasonable cost/time tradeoffs to achieve higher scores. We present DolphinBench, a benchmark that evaluates memory directly through an agent's task completion. DolphinBench includes three knowledge-work personas with roughly 500k tokens of user messages per persona and evaluates agents on tasks that depend on information from that history. We verify all 200 tasks per persona by running an agent with and without the relevant history, requiring success with it and failure without it. Finally, we require all evaluations to report total cost and latency alongside accuracy, which enables us to evaluate agent memory systems holistically. No existing memory benchmark combines all three. The dataset and evaluation code are available at https://dolphinbench.ai.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal",
-      "link": "http://arxiv.org/abs/2609.21996v1",
-      "authors": "Hiskias Dingeto",
-      "published": "2026-09-18",
-      "summary": "Large language models can hold knowledge they do not report. A model may sandbag on a capability evaluation, or answer against what it internally knows, and its outputs alone cannot tell whether it is hiding an answer or simply does not have one. We borrow the Concealed Information Test, a forensic method that identifies guilty knowledge by presenting a suspect with the true detail among plausible decoys and measuring a stronger response to the item they recognize. Our method, Probe of Internal Recognition (PIR), does the same inside a model. It presents a question with its candidate answers and reads, from the model's internal states, which candidate the model recognizes as correct. PIR is reference-free, needing no honest reference model and no labeled truth corpus. Across eight models from five families (Gemma, Qwen, Llama, Mistral, and Phi), PIR recovers the recognized answer at 0.70 to 0.87 balanced accuracy, well above the 0.28 to 0.40 unknown-item baseline and the 0.25 chance rate. It stays readable across every form of concealment we test, from prompted deception and trained sandbagging to external password-locked and circuit-broken checkpoints, with recognition between 0.8",
+      "title": "Rare Event Estimation via Iterative Unalignment",
+      "link": "http://arxiv.org/abs/2609.24969v1",
+      "authors": "Hanming Yang, Daksh Mittal, Jing Dong, Hongseok Namkoong",
+      "published": "2026-09-21",
+      "summary": "As agents are deployed with increased autonomy, even extremely rare events along their stochastic output trajectories can occur and prove catastrophic. Safe deployment therefore does not depend on whether these events can occur, but on how often they might. We study the problem of estimating the probability of rare events that arise from stochastic variation in the agent's own actions. Estimating this type of risk requires searching over the combinatorially vast space of trajectories. Naive Monte Carlo is computationally prohibitive in this regime, and constructing effective importance sampling (IS) proposals requires coordinated changes to a context-dependent chain of conditional distributions. We develop a new IS method that perturbs the original model's weights to construct the proposal. The proposal is itself a differentiably parameterized language model, enabling gradient-based search over weight space. We formulate an objective that combines a differentiable surrogate for event amplification and an adaptive regularization scheme that dynamically balances amplification against estimator stability. We evaluate our approach on $\\sim$120M and $\\sim$2.6B models across three event ",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities",
-      "link": "http://arxiv.org/abs/2609.21967v1",
-      "authors": "Jagadeesh Balam, Travis Bartley, Edresson Casanova, Sanjay Chauhan, Chen Chen, Zhehuai Chen, Zijia Chen, Francesco Ciannella, Slyne Deng, Mikyas Desta, Harishchandra Dubey, Slim Essid, Nourchene Ferchichi, Boris Ginsburg, Mariana Graterol F",
-      "published": "2026-09-18",
-      "summary": "We introduce NemotronLabs VoiceChat, an open full-duplex speech-to-speech model with native tool-calling capabilities. NemotronLabs VoiceChat combines a streaming speech encoder and decoder-only language model with parallel specialized output streams for agent text and structured function calls, an auxiliary RNN-T branch for incremental user transcription, and a streaming TTS decoder. This design enables the model to listen, transcribe, reason, invoke tools, and speak within a unified streaming architecture while preserving the temporal behavior required for natural conversation. On Full-Duplex-Bench 1.0, NemotronLabs VoiceChat achieves the lowest pause-handling takeover rates among evaluated open-weight systems, 100\\% takeover following user interruptions, and a 4.33/5 post-interruption response-quality score. On Full-Duplex-Bench 1.5, it resumes its response after user backchannels in 93\\% of cases. NemotronLabs VoiceChat obtains a 55.1 normalized average on VoiceBench and, on Full-Duplex-Bench 3.0 (FDB 3.0), achieves 82.5\\% tool-selection F1, while argument accuracy and end-to-end tool execution remain areas for improvement. These results demonstrate that full-duplex interaction",
+      "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+      "link": "http://arxiv.org/abs/2609.24967v1",
+      "authors": "Xinrui Shi, Yanzhe Zhang, Diyi Yang",
+      "published": "2026-09-21",
+      "summary": "LLM agents are increasingly deployed in collaborative settings, yet long-term interaction may give rise to undesirable coordination. We study the emergence of collusion in a long-horizon multi-agent environment: two agents repeatedly complete individual tasks, share task logs, verify each other's work, and receive rewards. We introduce realistic constraints that make compliance with the verification protocol incompatible with reward maximization, and find that agents increasingly deviate from the protocol over repeated interactions. Collusion emerges in 94% of trajectories across 10 models, and more capable models within the same family reach it earlier. Controlled peer interventions show that collusion is shaped by peer behavior, while ablations reveal additional effects of reward structure, the verification feedback agents receive, and their interaction history. In particular, restricting the amount and scope of interaction history available to agents reduces collusion. Overall, our findings show that long-horizon interaction can reshape how agents coordinate in ways that create safety risks.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Learning Cardiac Features: ECG Biometrics Across Time and~Exercise",
-      "link": "http://arxiv.org/abs/2609.21962v1",
-      "authors": "Luca Thiebaud, Paul Chauchat, Mustapha Ouladsine, Stéphane Delliaux",
-      "published": "2026-09-18",
-      "summary": "Electrocardiograms (ECGs) carry subject-specific patterns enabling reliable individual discrimination, forming the basis of ECG biometrics. Beyond authentication, this paradigm holds significant potential to secure sensitive cardiac data and to serve as a pretext task in self-supervised learning. Yet, most studies remain confined to singlesession, resting data, leaving robustness to temporal and physiological variations largely untested. We address this gap by evaluating ECG biometrics under realistic conditions involving exercise-induced stress and cross-session variability. A Siamese ResNet with late multi-lead fusion strategy is trained on a large ECG dataset extracted from cardiopulmonary exercise tests and evaluated with a exercise-and time-aware protocol, as well as on public benchmarks. This first extensive assessment of ECG biometrics under combined physiological and temporal variability achieves an intra-session rest-to-peak EER of 1.7% and stateof-the-art 3.9% on the CYBHi dataset. Findings support the presence of an intrinsic cardiac signature resilient to physiological and temporal drift.",
+      "title": "Jev for Scientific Decisions: Evaluating Semantic Choices and Their Consequences",
+      "link": "http://arxiv.org/abs/2609.24965v1",
+      "authors": "Boyuan Deng, Shuyi Fan, Hongyang Zhang, Xinhong Xie",
+      "published": "2026-09-21",
+      "summary": "Scientific workflows often require choosing among known relations before a deterministic calculation can proceed. Whether observations share a culture, treatment or reference standard can change the scientific meaning of the resulting count or comparison. We evaluate Jev as a semantic decision component using a harness that follows its documented guidance and assigns arithmetic to code. The study compares twelve model configurations on twenty source-grounded Choices across ten scientific cases, each repeated five times. We measure semantic selections, downstream outputs and final claim labels separately. Jev matched five other configurations at complete semantic correctness and achieved the lowest observed median latency among successful responses. Across three comparison models, seven wrong selections on one culture-history question changed downstream counts while preserving the correct final label. These results identify a useful role for Jev in prepared scientific decision tasks and show why evaluating that role requires checking the relations and quantities that a workflow will reuse.",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence",
-      "link": "http://arxiv.org/abs/2609.21942v1",
-      "authors": "Eshika Pathak, Leela Krishna",
-      "published": "2026-09-18",
-      "summary": "A robot that fails at a task faces the first decision in corrective dialogue: act on its own diagnosis, consult another onboard sensor, or interrupt a person. Choosing well requires knowing how much the robot's sensors reveal about the cause and how reliable the robot's own diagnosis is. We build a simulated benchmark in which every failure's true cause is known, because we injected it, and measure what each sensor reveals, with explicit checks against data leakage. Some failures are diagnosable from camera images; others only from the robot's force data (0.99 from force data, no image method above 0.55). We then test six open vision-language models. Their behavior tracks the surface of the prompt, not the evidence: moving the refusal option from last to first in the answer list collapses refusal rates from 78-100% to 0-6% in three of the six swept model-and-family pairs. Accuracy from frames stays at or below a majority-class baseline under every prompt variant, with or without worked examples, and stated confidence carries no information about correctness. Handing the same models the force data as ten lines of text produces the first above-baseline diagnoses, in four of the six m",
+      "title": "Generative Tutorial: Towards Live Contextualized Visual Instructions for Physical Tasks",
+      "link": "http://arxiv.org/abs/2609.24955v1",
+      "authors": "Muzhe Wu, Zuchen Li, Xu Wang, Anhong Guo",
+      "published": "2026-09-21",
+      "summary": "Visual instructions for physical tasks are typically authored in one context and followed in another, requiring users to translate demonstrated tools, materials, and spatial relationships into their own environment. We introduce Generative Tutorial, a conceptual framework for live visual instruction that depicts intended outcomes and actions within the user's environment and task flow. A formative evaluation of state-of-the-art image and video generation identifies failures and potential benefits across 15 physical tasks. Drawing on these findings, we build an augmented-reality prototype system that proactively generates goal images and demonstration videos using observed workspace context and predicted visual outcomes of preceding actions. A 24-participant lab study found higher task performance quality, greater perceived workspace correspondence, and shorter step-confirmation intervals with the system than with pre-authored guidance. Qualitative findings highlighted how contextual resemblance shapes trust, how generation errors affect interpretation, and how guidance delivery should adapt to users' needs, informing future designs.",
       "tags": [
         "cs.AI"
       ]
