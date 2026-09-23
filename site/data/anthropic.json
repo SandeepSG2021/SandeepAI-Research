@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-09-22",
+  "last_updated": "2026-09-23",
   "papers": [
     {
       "title": "Partnering with Accenture on embedded evaluation",
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "Introducing Anthropic's AI for Science Program",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00ZDdFMFBwQWdCY3JUQWNZUlZOODFlbmxMNzcwWjZCRzdCcDF5eE02UjlvLThJOVowUU5iZG5oSW1FOTl0VFVzMlU5dkpLenAyOTJmNUZxMVRvYThyX3FBc0Fzbw?oc=5",
+      "title": "How Claude's text watermarking works",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
       "authors": "Anthropic",
-      "published": "Mon, 05 Ma",
-      "summary": "Introducing Anthropic's AI for Science Program Anthropic",
+      "published": "Fri, 14 Au",
+      "summary": "How Claude's text watermarking works Anthropic",
       "tags": [
         "Anthropic"
       ]

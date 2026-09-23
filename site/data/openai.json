@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-22",
+  "last_updated": "2026-09-23",
   "papers": [
     {
       "title": "Better prompt caching for GPT-6",
@@ -74,6 +74,16 @@
       ]
     },
     {
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FXzY5WE1tZlB2RlpRaFF3Ulh0NTkwS2ZzNi05bzgwSWlfOGd0Y1Z1VnhPSFFOckdkaWFBYkQwekNvM21nOXNhNmMwdFBLX05waF9saEQ0MGFFTTFJeTJLSjRDdlk3VTZ4NFVRcGd1TlByZw?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 22 Se",
+      "summary": "Parallel cut research time and cost in half with GPT‑6 Astra OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How V7 gives AI agents institutional memory",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ydmNpUWd5Slg5OHl5ZXRsdTZzaE9ZMmF6LVpxWWRSSXhhQzJxelNfSGh6NEFMYkl2LTNZM3E4eGQ5Zw?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 17 Se",
       "summary": "Introducing Astra for Law OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Our framework for reporting model misalignment",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 16 Se",
-      "summary": "Our framework for reporting model misalignment OpenAI",
       "tags": [
         "OpenAI"
       ]
