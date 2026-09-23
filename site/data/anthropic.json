@@ -4,6 +4,16 @@
   "last_updated": "2026-09-23",
   "papers": [
     {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
+      "authors": "Anthropic",
+      "published": "Wed, 23 Se",
+      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Partnering with Accenture on embedded evaluation",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41YnFXeHFUcVFFaWNCWVNqMjU3NTVVcnIyT0dtTjFfdDk4dlRJWXhocm00bkVjT2tqZ0RQMXphRktyT3lVUFo2Q0dOZEI0QkRkU3RJcnBLOEFvcTBhWEZlckprbURaVmRGWjk2Yg?oc=5",
       "authors": "Anthropic",
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Thu, 30 Ju",
       "summary": "Investigating three real-world incidents in our cybersecurity evaluations Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Introducing Anthropic's AI for Science Program",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00ZDdFMFBwQWdCY3JUQWNZUlZOODFlbmxMNzcwWjZCRzdCcDF5eE02UjlvLThJOVowUU5iZG5oSW1FOTl0VFVzMlU5dkpLenAyOTJmNUZxMVRvYThyX3FBc0Fzbw?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 05 Ma",
-      "summary": "Introducing Anthropic's AI for Science Program Anthropic",
       "tags": [
         "Anthropic"
       ]

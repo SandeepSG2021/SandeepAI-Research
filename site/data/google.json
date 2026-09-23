@@ -4,6 +4,18 @@
   "last_updated": "2026-09-23",
   "papers": [
     {
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "authors": "Aaron Luber",
+      "published": "Wed, 23 Se",
+      "summary": "Google Beam promotional animation",
+      "tags": [
+        "Google Workspace",
+        "Google Research",
+        "AI"
+      ]
+    },
+    {
       "title": "New experts join Google’s AI & Economy team",
       "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
       "authors": "Zanna Iscenko",
@@ -97,18 +109,6 @@
         "Gemini",
         "Google Cloud",
         "Developer tools",
-        "AI"
-      ]
-    },
-    {
-      "title": "3 ways to prep for your next big race with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "authors": "Peter Schottenfels",
-      "published": "Thu, 10 Se",
-      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
-      "tags": [
-        "Search",
-        "Shopping",
         "AI"
       ]
     }
