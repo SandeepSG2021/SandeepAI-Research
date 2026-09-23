@@ -4,6 +4,16 @@
   "last_updated": "2026-09-23",
   "papers": [
     {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2NIQXp3NEUzaFBIbmpKLWhlcW5KcUlBT3YwLWpwYWpXQmhjRnRhOVY5WFFjVzhIanBzRkJ4czZqV2ZhTGN4cG9KRVRybUFqYnJKQ2d6ZFVRQjFnVUJZTndwZU1uWFlWZGd6VWp0M2hpVDdIMmkya28zanE1TnJtTjlHMWM1TkRHVGNBMFBn?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 23 Se",
+      "summary": "OpenAI extends cyber access to Ukraine for civilian defense OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Better prompt caching for GPT-6",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQkZLY05WQ0t5TktTNnlvck10eTFFZllrYXNpVlRFd0lTeWpJZ0N6YTd6b2ZZQmlJLUY1TkdFN3ctZ2RaX2tNWFJQRHQtODVLZFRxczFQb3VneG9QVVR6Y2tVOTFQT0Fz?oc=5",
       "authors": "OpenAI",
@@ -44,21 +54,21 @@
       ]
     },
     {
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSkFfdW9HeG91ZzhvYk5RVTJqNm1OSG1hYml5SS01TWFRTnBfVzdYZjJTNmc1b3FCZ1IxWUUxcUJyNEFReGV0dHVUb3F2UF9Kck5NN1Z3NlNMcmpQSjEzRTZlZzJjZ0hjMVQ5TGxoWWROWWtadGVmSWlTd204ZkU?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "Expanding OpenAI Academy with new learning paths OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Building standards for the next phase of AI",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hdk5PcXZDNWxPVm9UMkJ4aVdtblM3ZjU5eDFNc3lNdkNEMDVMSi1NNzBGcTRHSFU5NWlzLWpBZWU1M1NTUjF4NzA2ZTJYaU5kbk1kclVwcHFNNmp5QWVBWUhONEt2bVROeVE?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 21 Se",
       "summary": "Building standards for the next phase of AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSkFfdW9HeG91ZzhvYk5RVTJqNm1OSG1hYml5SS01TWFRTnBfVzdYZjJTNmc1b3FCZ1IxWUUxcUJyNEFReGV0dHVUb3F2UF9Kck5NN1Z3NlNMcmpQSjEzRTZlZzJjZ0hjMVQ5TGxoWWROWWtadGVmSWlTd204ZkU?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 21 Se",
+      "summary": "Expanding OpenAI Academy with new learning paths OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 17 Se",
       "summary": "Introducing Astra for Law OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Our framework for reporting model misalignment",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 16 Se",
-      "summary": "Our framework for reporting model misalignment OpenAI",
       "tags": [
         "OpenAI"
       ]
