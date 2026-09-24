@@ -14,21 +14,21 @@
       ]
     },
     {
-      "title": "Introducing MentalHealthBench",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWMWZSZnd6UUh0UDZ3UEY0M2lKYjVXcUVWVlIzNWpYd3ZiY0Z0ZDlzb0xWSHVhTG5QejZXRnBzV0pJd2hVVW9EcXJVLW5IRzN6YUh0TzRQbUNJVWhtc0x3Q3NhVXd6dw?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 23 Se",
-      "summary": "Introducing MentalHealthBench OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSllHMS1Cb2QyZVQ5QVh2SEJzamI0N2tfSjE0OGJYQ2hzdERiMldGZnpGZ3AtYUk2NU1FNGVLNGEwcU9pQUJUa0F4V0lZVXVfd1RGbGZQZF81b29EMWFoYUp5X051YkNsYjJmclJLR3Z4dw?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 23 Se",
       "summary": "Sam Altman’s remarks at the United Nations Security Council OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing MentalHealthBench",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWMWZSZnd6UUh0UDZ3UEY0M2lKYjVXcUVWVlIzNWpYd3ZiY0Z0ZDlzb0xWSHVhTG5QejZXRnBzV0pJd2hVVW9EcXJVLW5IRzN6YUh0TzRQbUNJVWhtc0x3Q3NhVXd6dw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 24 Se",
+      "summary": "Introducing MentalHealthBench OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -54,16 +54,6 @@
       ]
     },
     {
-      "title": "Two years of OpenAI Academy",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pTm1fMjdaS1JxMVFYTGo5Q2gxTVdWVmNRZWFsNmNLU2RnMWl6LTVlXzAwWWl1RnRjVEdxSG5NSHFzSkZodk8zNjk0ZmYwZjFkQXVhOGUyajF2LW5WOWx6MUZRTQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 23 Se",
-      "summary": "Two years of OpenAI Academy OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Better prompt caching for GPT-6",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQkZLY05WQ0t5TktTNnlvck10eTFFZllrYXNpVlRFd0lTeWpJZ0N6YTd6b2ZZQmlJLUY1TkdFN3ctZ2RaX2tNWFJQRHQtODVLZFRxczFQb3VneG9QVVR6Y2tVOTFQT0Fz?oc=5",
       "authors": "OpenAI",
@@ -77,7 +67,7 @@
       "title": "Introducing GPT-6 Sol and Luna",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 23 Se",
+      "published": "Tue, 22 Se",
       "summary": "Introducing GPT-6 Sol and Luna OpenAI",
       "tags": [
         "OpenAI"
@@ -89,6 +79,16 @@
       "authors": "OpenAI",
       "published": "Tue, 22 Se",
       "summary": "Priorities and principles for effective third party assessments OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Two years of OpenAI Academy",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pTm1fMjdaS1JxMVFYTGo5Q2gxTVdWVmNRZWFsNmNLU2RnMWl6LTVlXzAwWWl1RnRjVEdxSG5NSHFzSkZodk8zNjk0ZmYwZjFkQXVhOGUyajF2LW5WOWx6MUZRTQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 23 Se",
+      "summary": "Two years of OpenAI Academy OpenAI",
       "tags": [
         "OpenAI"
       ]
