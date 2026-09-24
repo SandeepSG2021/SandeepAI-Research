@@ -1,14 +1,44 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-23",
+  "last_updated": "2026-09-24",
   "papers": [
+    {
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kRFFhNDJrSUZUWmtDYnlqaXBCemhTVkdJb093MnRhZWpXQU9zenZsSG9zQWhMbXExWGUyZEd3eE9NRktQdkFncE9VQ2o3OWswdU05clNqcVltV1ZHOHFUd0dXeng0SnVlUFlZNy1Lb2dkRE9iQXc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 23 Se",
+      "summary": "ChatGPT Ads expands to Southeast Asia and Taiwan OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Introducing MentalHealthBench",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWMWZSZnd6UUh0UDZ3UEY0M2lKYjVXcUVWVlIzNWpYd3ZiY0Z0ZDlzb0xWSHVhTG5QejZXRnBzV0pJd2hVVW9EcXJVLW5IRzN6YUh0TzRQbUNJVWhtc0x3Q3NhVXd6dw?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 23 Se",
       "summary": "Introducing MentalHealthBench OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSllHMS1Cb2QyZVQ5QVh2SEJzamI0N2tfSjE0OGJYQ2hzdERiMldGZnpGZ3AtYUk2NU1FNGVLNGEwcU9pQUJUa0F4V0lZVXVfd1RGbGZQZF81b29EMWFoYUp5X051YkNsYjJmclJLR3Z4dw?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 23 Se",
+      "summary": "Sam Altman’s remarks at the United Nations Security Council OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JX21aTWVHSG9paXFVQ0hiajZqU095SWY3YVhRbzNPSWZmRWFYSXREY3NRTUp0U283dGhyTjVCUXdtNl9kUzZIeU1JbjhzdUtFRGhpREdZRQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 23 Se",
+      "summary": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -47,7 +77,7 @@
       "title": "Introducing GPT-6 Sol and Luna",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 22 Se",
+      "published": "Wed, 23 Se",
       "summary": "Introducing GPT-6 Sol and Luna OpenAI",
       "tags": [
         "OpenAI"
@@ -64,41 +94,11 @@
       ]
     },
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90S1FDR1RBcUt5a1k5OVFkS1JTeDJ6ZHpRZEhNbTlrVS1FOWJzOFJTRk53aGdXcXZ3LUNCWjhiaEdvRGFjTnc?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "Advisory Group on Mathematics and Artificial Intelligence OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSkFfdW9HeG91ZzhvYk5RVTJqNm1OSG1hYml5SS01TWFRTnBfVzdYZjJTNmc1b3FCZ1IxWUUxcUJyNEFReGV0dHVUb3F2UF9Kck5NN1Z3NlNMcmpQSjEzRTZlZzJjZ0hjMVQ5TGxoWWROWWtadGVmSWlTd204ZkU?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "Expanding OpenAI Academy with new learning paths OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Building standards for the next phase of AI",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hdk5PcXZDNWxPVm9UMkJ4aVdtblM3ZjU5eDFNc3lNdkNEMDVMSi1NNzBGcTRHSFU5NWlzLWpBZWU1M1NTUjF4NzA2ZTJYaU5kbk1kclVwcHFNNmp5QWVBWUhONEt2bVROeVE?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "Building standards for the next phase of AI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How V7 gives AI agents institutional memory",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ydmNpUWd5Slg5OHl5ZXRsdTZzaE9ZMmF6LVpxWWRSSXhhQzJxelNfSGh6NEFMYkl2LTNZM3E4eGQ5Zw?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "How V7 gives AI agents institutional memory OpenAI",
+      "published": "Wed, 23 Se",
+      "summary": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
