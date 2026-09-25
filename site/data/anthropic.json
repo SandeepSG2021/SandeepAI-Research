@@ -1,8 +1,18 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-09-24",
+  "last_updated": "2026-09-25",
   "papers": [
+    {
+      "title": "Project Swap: What happens when agents trade for us?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QNW9yOVdvcUdTcThnUGpqSzJjbmZoY2lneThEZFNacjBKdzN6N2xFYXQzSjBKSXdsVk9ZRXotZjhjeVVtcXRJbGpNTDhSSUc1ajVKUTZOamVMcVE?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 24 Se",
+      "summary": "Project Swap: What happens when agents trade for us? Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
@@ -69,16 +79,6 @@
       "authors": "Anthropic",
       "published": "Thu, 27 Au",
       "summary": "Expanding our support for scientists Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Introducing Anthropic's AI for Science Program",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00ZDdFMFBwQWdCY3JUQWNZUlZOODFlbmxMNzcwWjZCRzdCcDF5eE02UjlvLThJOVowUU5iZG5oSW1FOTl0VFVzMlU5dkpLenAyOTJmNUZxMVRvYThyX3FBc0Fzbw?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 05 Ma",
-      "summary": "Introducing Anthropic's AI for Science Program Anthropic",
       "tags": [
         "Anthropic"
       ]
