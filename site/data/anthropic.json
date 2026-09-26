@@ -1,24 +1,24 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-09-25",
+  "last_updated": "2026-09-26",
   "papers": [
-    {
-      "title": "Project Swap: What happens when agents trade for us?",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QNW9yOVdvcUdTcThnUGpqSzJjbmZoY2lneThEZFNacjBKdzN6N2xFYXQzSjBKSXdsVk9ZRXotZjhjeVVtcXRJbGpNTDhSSUc1ajVKUTZOamVMcVE?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 24 Se",
-      "summary": "Project Swap: What happens when agents trade for us? Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
     {
       "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5",
       "authors": "Anthropic",
       "published": "Fri, 25 Se",
       "summary": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Project Swap: What happens when agents trade for us?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QNW9yOVdvcUdTcThnUGpqSzJjbmZoY2lneThEZFNacjBKdzN6N2xFYXQzSjBKSXdsVk9ZRXotZjhjeVVtcXRJbGpNTDhSSUc1ajVKUTZOamVMcVE?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 24 Se",
+      "summary": "Project Swap: What happens when agents trade for us? Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "How Claude's text watermarking works",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+      "title": "Introducing Claude for Education",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDRDZ4Uk1nV09FN2NjQ3Y3MHE3TEtROXlzdk1mS3NCR2tIQjdxYlJucHZORTFPNnNSWDlZcmJwd2syeHlUSmxlNXBfWjJYN3Q5TmpTRWNmUjlQVWlZbXNaaG1sSlpKNUFUV21qMnFkOWI?oc=5",
       "authors": "Anthropic",
-      "published": "Fri, 14 Au",
-      "summary": "How Claude's text watermarking works Anthropic",
+      "published": "Wed, 02 Ap",
+      "summary": "Introducing Claude for Education Anthropic",
       "tags": [
         "Anthropic"
       ]
     },
     {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
+      "title": "Core views on AI safety: When, why, what, and how",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSXEwQkhIekYzdnV4a3lqTW1TdEpMeTFNWDZmc0dzcGp6SjRicnJXZFFxSjNuT3VaSjB1Y2dWcXhHdnNncUNCdmhVck1iVUVYVF96dGpzWUN0dVVaLUlTTmdMWXI?oc=5",
       "authors": "Anthropic",
-      "published": "Thu, 30 Ju",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations Anthropic",
+      "published": "Wed, 08 Ma",
+      "summary": "Core views on AI safety: When, why, what, and how Anthropic",
       "tags": [
         "Anthropic"
       ]
