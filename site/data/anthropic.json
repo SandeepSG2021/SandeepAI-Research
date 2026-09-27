@@ -14,16 +14,6 @@
       ]
     },
     {
-      "title": "Project Swap: What happens when agents trade for us?",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QNW9yOVdvcUdTcThnUGpqSzJjbmZoY2lneThEZFNacjBKdzN6N2xFYXQzSjBKSXdsVk9ZRXotZjhjeVVtcXRJbGpNTDhSSUc1ajVKUTZOamVMcVE?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 24 Se",
-      "summary": "Project Swap: What happens when agents trade for us? Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
       "authors": "Anthropic",
@@ -49,6 +39,16 @@
       "authors": "Anthropic",
       "published": "Thu, 17 Se",
       "summary": "Introducing the Life Sciences Verification Program Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Project Swap: What happens when agents trade for us?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QNW9yOVdvcUdTcThnUGpqSzJjbmZoY2lneThEZFNacjBKdzN6N2xFYXQzSjBKSXdsVk9ZRXotZjhjeVVtcXRJbGpNTDhSSUc1ajVKUTZOamVMcVE?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 24 Se",
+      "summary": "Project Swap: What happens when agents trade for us? Anthropic",
       "tags": [
         "Anthropic"
       ]
