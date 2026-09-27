@@ -4,16 +4,6 @@
   "last_updated": "2026-09-27",
   "papers": [
     {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VVZhWFVHX1cxSHlKVk42c0NWak1EZkJZa2tYdGlFeUpDdFdBeHVUUmk3eVJaYjJmdkhPTTFiQVNNaHdtU3lLaXZzZw?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 25 Se",
-      "summary": "Proaction boosts sales 60% and saves 75+ hours with Codex OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing MentalHealthBench",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWMWZSZnd6UUh0UDZ3UEY0M2lKYjVXcUVWVlIzNWpYd3ZiY0Z0ZDlzb0xWSHVhTG5QejZXRnBzV0pJd2hVVW9EcXJVLW5IRzN6YUh0TzRQbUNJVWhtc0x3Q3NhVXd6dw?oc=5",
       "authors": "OpenAI",
@@ -44,16 +34,6 @@
       ]
     },
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "Advisory Group on Mathematics and Artificial Intelligence OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Expanding OpenAI Academy with new learning paths",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSkFfdW9HeG91ZzhvYk5RVTJqNm1OSG1hYml5SS01TWFRTnBfVzdYZjJTNmc1b3FCZ1IxWUUxcUJyNEFReGV0dHVUb3F2UF9Kck5NN1Z3NlNMcmpQSjEzRTZlZzJjZ0hjMVQ5TGxoWWROWWtadGVmSWlTd204ZkU?oc=5",
       "authors": "OpenAI",
@@ -74,11 +54,11 @@
       ]
     },
     {
-      "title": "How V7 gives AI agents institutional memory",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ydmNpUWd5Slg5OHl5ZXRsdTZzaE9ZMmF6LVpxWWRSSXhhQzJxelNfSGh6NEFMYkl2LTNZM3E4eGQ5Zw?oc=5",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VVZhWFVHX1cxSHlKVk42c0NWak1EZkJZa2tYdGlFeUpDdFdBeHVUUmk3eVJaYjJmdkhPTTFiQVNNaHdtU3lLaXZzZw?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "How V7 gives AI agents institutional memory OpenAI",
+      "published": "Thu, 24 Se",
+      "summary": "Proaction boosts sales 60% and saves 75+ hours with Codex OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -94,11 +74,31 @@
       ]
     },
     {
-      "title": "Reimagining advertising with AI",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2NXl1LWRfMzJIT0szLXg2R3RSRl9fekxZRUl2d0lHNUhPdFJ2a0txYTVQMnIzSGhJYnozSFFRTTM4R3RoRW9NZ0Y1U0NXdXBCS0R0OGJVSElMSU56UmJIQUppMGtybE9n?oc=5",
+      "title": "How V7 gives AI agents institutional memory",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ydmNpUWd5Slg5OHl5ZXRsdTZzaE9ZMmF6LVpxWWRSSXhhQzJxelNfSGh6NEFMYkl2LTNZM3E4eGQ5Zw?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 16 Se",
-      "summary": "Reimagining advertising with AI OpenAI",
+      "published": "Mon, 21 Se",
+      "summary": "How V7 gives AI agents institutional memory OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 08 Se",
+      "summary": "Introducing ChatGPT Images 2.5 OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 08 Se",
+      "summary": "On the Navier–Stokes Millennium Prize Problem OpenAI",
       "tags": [
         "OpenAI"
       ]
