@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-27",
+  "last_updated": "2026-09-28",
   "papers": [
     {
       "title": "Introducing MentalHealthBench",
@@ -54,16 +54,6 @@
       ]
     },
     {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VVZhWFVHX1cxSHlKVk42c0NWak1EZkJZa2tYdGlFeUpDdFdBeHVUUmk3eVJaYjJmdkhPTTFiQVNNaHdtU3lLaXZzZw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 24 Se",
-      "summary": "Proaction boosts sales 60% and saves 75+ hours with Codex OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing Astra for Law",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02Q2I5Zkx2QXlObXZrY2g3Q0Fxa1c1SXJVT0VfZXdhc1JuOTBOeUJEeWpsdWxocHlUakhpeDRoWFdOejV6TWEzeDZINW5XcUpw?oc=5",
       "authors": "OpenAI",
@@ -84,6 +74,16 @@
       ]
     },
     {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VVZhWFVHX1cxSHlKVk42c0NWak1EZkJZa2tYdGlFeUpDdFdBeHVUUmk3eVJaYjJmdkhPTTFiQVNNaHdtU3lLaXZzZw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 24 Se",
+      "summary": "Proaction boosts sales 60% and saves 75+ hours with Codex OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Research acceleration: The view inside OpenAI",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PaU1kVmVkamQtbXI0aE5aU2plRHlhT0dsbi1VTDlJTFBsNEZOQUVpdENyWVB3ZTZ6TFFSakp3RGFmbXprVl94QnZVMVR6OUEzY1c1ZG1YdF9naWZEb0ZqbHQ0Y1c2dnljWjhZeDVmbC1TTEdQ?oc=5",
       "authors": "OpenAI",
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "An Alien Mind",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "authors": "OpenAI",
-      "published": "Sun, 06 Se",
-      "summary": "An Alien Mind OpenAI",
+      "published": "Thu, 03 Se",
+      "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
       "tags": [
         "OpenAI"
       ]
