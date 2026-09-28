@@ -4,6 +4,16 @@
   "last_updated": "2026-09-28",
   "papers": [
     {
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "authors": "Google AI Blog",
+      "published": "Mon, 28 Se",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "title": "Google Beam expands with new regions, partners, and customers",
       "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
       "authors": "Aaron Luber",
@@ -96,19 +106,6 @@
       "published": "Mon, 14 Se",
       "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "DevFest is back",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "authors": "Natalie McHugh",
-      "published": "Mon, 14 Se",
-      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon",
-      "tags": [
-        "Gemini",
-        "Google Cloud",
-        "Developer tools",
         "AI"
       ]
     }
