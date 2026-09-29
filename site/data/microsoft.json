@@ -4,6 +4,16 @@
   "last_updated": "2026-09-29",
   "papers": [
     {
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "authors": "Nicolo Fusi, Jonathan M. Carlson",
+      "published": "Tue, 29 Se",
+      "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions. The post Introducing Quine: An AI research system designed for the complexity of biology appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
       "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
       "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
       "authors": "Microsoft Research Team",
@@ -89,16 +99,6 @@
       "authors": "Akshay Nambi, Yash Pandya, Sahil Gupta, Sarthak Harne, Kavyansh Chourasia, Yash Lara, Ahmed Awadallah",
       "published": "Thu, 30 Ju",
       "summary": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve. The post Echoverse: Deep, evolving environments for computer-use agents appeared first on Microsoft Research .",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "EvoLib: Turning experience into evolving knowledge",
-      "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
-      "authors": "Weijia Xu, Zelalem Gero, Michel Galley, Eric Yuan, Jianfeng Gao",
-      "published": "Thu, 30 Ju",
-      "summary": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. The post EvoLib: Turning experience into evolving knowledge appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
