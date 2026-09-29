@@ -4,6 +4,36 @@
   "last_updated": "2026-09-29",
   "papers": [
     {
+      "title": "Introducing dots",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 29 Se",
+      "summary": "Introducing dots OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 29 Se",
+      "summary": "Introducing GPT-6.1 Sol OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 29 Se",
+      "summary": "DevDay 2026 Recap OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Towards safety cases for frontier AI training",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5cm5nT3BoSU9lR283QzQzbGlfQ1FSUGhobEFLc2E4YkxaMEZLb1N6LWlWeG5VYUE5azlyWFZuM1lGdUVaNnRKNjBJUlNYdGIwUGNCMmg5U29IRkZoSjRiUVdVSUo3MThsUUhXM2llaGd5UkMyYlhqNHBydw?oc=5",
       "authors": "OpenAI",
@@ -44,10 +74,20 @@
       ]
     },
     {
+      "title": "Introducing MentalHealthBench",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWMWZSZnd6UUh0UDZ3UEY0M2lKYjVXcUVWVlIzNWpYd3ZiY0Z0ZDlzb0xWSHVhTG5QejZXRnBzV0pJd2hVVW9EcXJVLW5IRzN6YUh0TzRQbUNJVWhtc0x3Q3NhVXd6dw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 24 Se",
+      "summary": "Introducing MentalHealthBench OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing GPT-6 Sol and Luna",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 23 Se",
+      "published": "Tue, 29 Se",
       "summary": "Introducing GPT-6 Sol and Luna OpenAI",
       "tags": [
         "OpenAI"
@@ -59,46 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 21 Se",
       "summary": "Advisory Group on Mathematics and Artificial Intelligence OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xYXlidUh5V3k5N1pfbzFnenFDUE1Zc3k1QnBCSFl0bGxoR1NjYWE1X0g4U3dtUVlzZGFLSHhubzFMT3lsSnVrYmN2UFl1Z1VSa19iQ2FObWZpVE5OTERDaUlPdEhaTmlFUHVfamNqWTJsaEdxMDUwaDd3?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 23 Se",
-      "summary": "Harvey turns legal context into stronger drafts with GPT-6 Astra OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90S1FDR1RBcUt5a1k5OVFkS1JTeDJ6ZHpRZEhNbTlrVS1FOWJzOFJTRk53aGdXcXZ3LUNCWjhiaEdvRGFjTnc?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 23 Se",
-      "summary": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ydmNpUWd5Slg5OHl5ZXRsdTZzaE9ZMmF6LVpxWWRSSXhhQzJxelNfSGh6NEFMYkl2LTNZM3E4eGQ5Zw?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "Introducing ChatGPT Images 2.5 OpenAI",
       "tags": [
         "OpenAI"
       ]
