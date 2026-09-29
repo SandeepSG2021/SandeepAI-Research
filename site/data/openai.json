@@ -1,8 +1,28 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-09-29",
   "papers": [
+    {
+      "title": "How we will do better for Australia",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd1FCSHpCVVRJaldYZ3p0VnpBY0RrYUN6NGpST1drVG8waEg0VXFJM2Vpb255M1ZlaW1kajVQbUNUQ3FxYlpiM1JmbnJhb2U0WVJVWFlwMjQ0c2J3eW1qRHpEY21RWjRJWFVmVUNn?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 29 Se",
+      "summary": "How we will do better for Australia OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xX2U5WmNGcmRBR0RwcnYzRUJscG9OWGswcFJEWVVQSEJwTE1HWTdPWVp5ZjZSLVg5ekNKT3dFSW5NUVdvbVRhdHplRFZsTy1uejIzUFdpN3RvdUdYVnQ0NDFwbmMwSG5ZNWpwaA?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 28 Se",
+      "summary": "The Lenfest Institute grows landmark program with expanded OpenAI support OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Introducing GPT-6 Sol and Luna",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
@@ -14,21 +34,11 @@
       ]
     },
     {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90S1FDR1RBcUt5a1k5OVFkS1JTeDJ6ZHpRZEhNbTlrVS1FOWJzOFJTRk53aGdXcXZ3LUNCWjhiaEdvRGFjTnc?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 23 Se",
-      "summary": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSkFfdW9HeG91ZzhvYk5RVTJqNm1OSG1hYml5SS01TWFRTnBfVzdYZjJTNmc1b3FCZ1IxWUUxcUJyNEFReGV0dHVUb3F2UF9Kck5NN1Z3NlNMcmpQSjEzRTZlZzJjZ0hjMVQ5TGxoWWROWWtadGVmSWlTd204ZkU?oc=5",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 21 Se",
-      "summary": "Expanding OpenAI Academy with new learning paths OpenAI",
+      "summary": "Advisory Group on Mathematics and Artificial Intelligence OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -39,6 +49,16 @@
       "authors": "OpenAI",
       "published": "Wed, 23 Se",
       "summary": "Harvey turns legal context into stronger drafts with GPT-6 Astra OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90S1FDR1RBcUt5a1k5OVFkS1JTeDJ6ZHpRZEhNbTlrVS1FOWJzOFJTRk53aGdXcXZ3LUNCWjhiaEdvRGFjTnc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 23 Se",
+      "summary": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Sun, 06 Se",
       "summary": "Research acceleration: The view inside OpenAI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VVZhWFVHX1cxSHlKVk42c0NWak1EZkJZa2tYdGlFeUpDdFdBeHVUUmk3eVJaYjJmdkhPTTFiQVNNaHdtU3lLaXZzZw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 24 Se",
-      "summary": "Proaction boosts sales 60% and saves 75+ hours with Codex OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 03 Se",
-      "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
       "tags": [
         "OpenAI"
       ]
