@@ -4,6 +4,16 @@
   "last_updated": "2026-09-30",
   "papers": [
     {
+      "title": "Can we predict the jobs robots will do?",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
+      "authors": "Anthropic",
+      "published": "Wed, 30 Se",
+      "summary": "Can we predict the jobs robots will do? Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "What do you want from AI?",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZOUN3YlBVMkVMVGkzNXQ0R0F4T181Z0dPSWd4QnpnMnR1M0FzckZnUDNqZ09JcG1OSUFwc2s0WkdIRTRGZlg0S015NnZjem9oUWF6MzYyYkpvTUU1OWlMZGxtbHQ?oc=5",
       "authors": "Anthropic",
@@ -39,16 +49,6 @@
       "authors": "Anthropic",
       "published": "Wed, 23 Se",
       "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Introducing the Life Sciences Verification Program",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 17 Se",
-      "summary": "Introducing the Life Sciences Verification Program Anthropic",
       "tags": [
         "Anthropic"
       ]

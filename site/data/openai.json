@@ -4,10 +4,30 @@
   "last_updated": "2026-09-30",
   "papers": [
     {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbEgxOFhvU3ZzR0JYMjZDbWhRaXlQeGoyci1PRGhfWkFhSGpER29fLXZydWRybEdpVEhUX0dCZ3pwS0ViUWRxVy1NVXZNREVfN2pOMU96c2NmSmlpY1lheUwxMGxuVjlmTV9uSkszVHU0RFhVVVNNUU42TkNjb084cThtaWc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 30 Se",
+      "summary": "Disrupting a coordinated model-distillation campaign OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hblBZcnhraWVOaEE1MTZnS3F5bUFYRUhRdm9jMlZvTUxrdlhCMHVYYUJHUHNaNWxmcGJlVTFyc2laSHRvek14Z2N0YmZfeHVBbUVudlQxWTBqTmdsVDl1VFU5YlJVMkhRZmtHbDhBZDEwTEU?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 30 Se",
+      "summary": "Helping small businesses put AI to work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing dots",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 30 Se",
+      "published": "Mon, 28 Se",
       "summary": "Introducing dots OpenAI",
       "tags": [
         "OpenAI"
@@ -64,16 +84,6 @@
       ]
     },
     {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 29 Se",
-      "summary": "Introducing GPT-6 Sol and Luna OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xX2U5WmNGcmRBR0RwcnYzRUJscG9OWGswcFJEWVVQSEJwTE1HWTdPWVp5ZjZSLVg5ekNKT3dFSW5NUVdvbVRhdHplRFZsTy1uejIzUFdpN3RvdUdYVnQ0NDFwbmMwSG5ZNWpwaA?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 28 Se",
       "summary": "Basis completes a tax workbook 2x faster with GPT-6 Astra OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xYXlidUh5V3k5N1pfbzFnenFDUE1Zc3k1QnBCSFl0bGxoR1NjYWE1X0g4U3dtUVlzZGFLSHhubzFMT3lsSnVrYmN2UFl1Z1VSa19iQ2FObWZpVE5OTERDaUlPdEhaTmlFUHVfamNqWTJsaEdxMDUwaDd3?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 23 Se",
-      "summary": "Harvey turns legal context into stronger drafts with GPT-6 Astra OpenAI",
       "tags": [
         "OpenAI"
       ]
