@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-09-30",
+  "last_updated": "2026-10-01",
   "papers": [
     {
       "title": "Disrupting a coordinated model-distillation campaign",
@@ -27,7 +27,7 @@
       "title": "Introducing dots",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 28 Se",
+      "published": "Wed, 30 Se",
       "summary": "Introducing dots OpenAI",
       "tags": [
         "OpenAI"
@@ -47,7 +47,7 @@
       "title": "DevDay 2026 Recap",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 30 Se",
+      "published": "Tue, 29 Se",
       "summary": "DevDay 2026 Recap OpenAI",
       "tags": [
         "OpenAI"
@@ -74,21 +74,11 @@
       ]
     },
     {
-      "title": "Introducing MentalHealthBench",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWMWZSZnd6UUh0UDZ3UEY0M2lKYjVXcUVWVlIzNWpYd3ZiY0Z0ZDlzb0xWSHVhTG5QejZXRnBzV0pJd2hVVW9EcXJVLW5IRzN6YUh0TzRQbUNJVWhtc0x3Q3NhVXd6dw?oc=5",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
       "authors": "OpenAI",
-      "published": "Thu, 24 Se",
-      "summary": "Introducing MentalHealthBench OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xX2U5WmNGcmRBR0RwcnYzRUJscG9OWGswcFJEWVVQSEJwTE1HWTdPWVp5ZjZSLVg5ekNKT3dFSW5NUVdvbVRhdHplRFZsTy1uejIzUFdpN3RvdUdYVnQ0NDFwbmMwSG5ZNWpwaA?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 28 Se",
-      "summary": "The Lenfest Institute grows landmark program with expanded OpenAI support OpenAI",
+      "published": "Tue, 29 Se",
+      "summary": "Introducing GPT-6 Sol and Luna OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Mon, 28 Se",
       "summary": "Basis completes a tax workbook 2x faster with GPT-6 Astra OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xYXlidUh5V3k5N1pfbzFnenFDUE1Zc3k1QnBCSFl0bGxoR1NjYWE1X0g4U3dtUVlzZGFLSHhubzFMT3lsSnVrYmN2UFl1Z1VSa19iQ2FObWZpVE5OTERDaUlPdEhaTmlFUHVfamNqWTJsaEdxMDUwaDd3?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 23 Se",
+      "summary": "Harvey turns legal context into stronger drafts with GPT-6 Astra OpenAI",
       "tags": [
         "OpenAI"
       ]
