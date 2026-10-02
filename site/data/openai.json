@@ -34,31 +34,21 @@
       ]
     },
     {
-      "title": "Helping small businesses put AI to work",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hblBZcnhraWVOaEE1MTZnS3F5bUFYRUhRdm9jMlZvTUxrdlhCMHVYYUJHUHNaNWxmcGJlVTFyc2laSHRvek14Z2N0YmZfeHVBbUVudlQxWTBqTmdsVDl1VFU5YlJVMkhRZmtHbDhBZDEwTEU?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 30 Se",
-      "summary": "Helping small businesses put AI to work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMzROamdoS05xQklLa1NpU2s4UEtLWUR4WUhFTTZPUDd0TnlGeEpQbmtBVWV4WDdWSDQtckxMNDRrUlZQMUdJWXN6YXNtWkxiRGVuaG0zcF8xb3piUUttMnZnd2tWQQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 01 Oc",
-      "summary": "How Albertsons Companies is reimagining retail from the inside out OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing dots",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 30 Se",
       "summary": "Introducing dots OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hblBZcnhraWVOaEE1MTZnS3F5bUFYRUhRdm9jMlZvTUxrdlhCMHVYYUJHUHNaNWxmcGJlVTFyc2laSHRvek14Z2N0YmZfeHVBbUVudlQxWTBqTmdsVDl1VFU5YlJVMkhRZmtHbDhBZDEwTEU?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 30 Se",
+      "summary": "Helping small businesses put AI to work OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -74,6 +64,16 @@
       ]
     },
     {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMzROamdoS05xQklLa1NpU2s4UEtLWUR4WUhFTTZPUDd0TnlGeEpQbmtBVWV4WDdWSDQtckxMNDRrUlZQMUdJWXN6YXNtWkxiRGVuaG0zcF8xb3piUUttMnZnd2tWQQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 01 Oc",
+      "summary": "How Albertsons Companies is reimagining retail from the inside out OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing GPT-6.1 Sol",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
       "authors": "OpenAI",
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jSzVIbXFSdEl5RUhrcVE3ck9MSmRBaDFmcThWMVY1Y3lqNXk4MV92THJrQTVWTy1pRmZYV1dMeG03bEpWcE85SmQySkNXX2pFN3BQem1sZXFZb3c?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 01 Oc",
-      "summary": "The Den frees up 10-15 hours a week to grow with ChatGPT Work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Towards safety cases for frontier AI training",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5cm5nT3BoSU9lR283QzQzbGlfQ1FSUGhobEFLc2E4YkxaMEZLb1N6LWlWeG5VYUE5azlyWFZuM1lGdUVaNnRKNjBJUlNYdGIwUGNCMmg5U29IRkZoSjRiUVdVSUo3MThsUUhXM2llaGd5UkMyYlhqNHBydw?oc=5",
       "authors": "OpenAI",
       "published": "Tue, 29 Se",
       "summary": "Towards safety cases for frontier AI training OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jSzVIbXFSdEl5RUhrcVE3ck9MSmRBaDFmcThWMVY1Y3lqNXk4MV92THJrQTVWTy1pRmZYV1dMeG03bEpWcE85SmQySkNXX2pFN3BQem1sZXFZb3c?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 01 Oc",
+      "summary": "The Den frees up 10-15 hours a week to grow with ChatGPT Work OpenAI",
       "tags": [
         "OpenAI"
       ]
