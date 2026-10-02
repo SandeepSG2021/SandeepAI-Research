@@ -4,6 +4,20 @@
   "last_updated": "2026-10-02",
   "papers": [
     {
+      "title": "The latest AI news we announced in September 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "authors": "Blog Team",
+      "published": "Fri, 02 Oc",
+      "summary": "A video showing the September AI updates",
+      "tags": [
+        "Google DeepMind",
+        "Googlebook",
+        "AI",
+        "Gemini App",
+        "Gemini models"
+      ]
+    },
+    {
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
       "authors": "Google AI Blog",
@@ -95,16 +109,6 @@
       "authors": "Scott Strand",
       "published": "Tue, 15 Se",
       "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "authors": "Google AI Blog",
-      "published": "Mon, 14 Se",
-      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
       "tags": [
         "AI"
       ]
