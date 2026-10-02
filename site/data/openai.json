@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-01",
+  "last_updated": "2026-10-02",
   "papers": [
     {
       "title": "How Albertsons Companies is reimagining retail from the inside out",
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 29 Se",
-      "summary": "Introducing GPT-6.1 Sol OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "DevDay 2026 Recap",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
       "authors": "OpenAI",
       "published": "Tue, 29 Se",
       "summary": "DevDay 2026 Recap OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 29 Se",
+      "summary": "Introducing GPT-6.1 Sol OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -97,7 +97,7 @@
       "title": "Introducing GPT-6 Sol and Luna",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 22 Se",
+      "published": "Tue, 29 Se",
       "summary": "Introducing GPT-6 Sol and Luna OpenAI",
       "tags": [
         "OpenAI"
