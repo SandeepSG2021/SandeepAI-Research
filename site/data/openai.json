@@ -4,21 +4,21 @@
   "last_updated": "2026-10-02",
   "papers": [
     {
-      "title": "The eternal complement",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWmpWcUY1SVAtVWc2bnhmNHhSOWVFYnY4aGR3RG4xRHZwWlNNdFhwRS1aSUZhQk5kNUpGRnhBdU03T01rU0JXaWdnQ1hPck1RT0lCbE03V3Q5Ti05?oc=5",
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kYWZLMUhLYkYzVEtyTHFjUWwwNUEyVVlxUWhmcHNuTXRLT1FJSWE2TVo1dEpPWURjdG1uMTJYTUJlOTNGY2NYZHQ1MzBDbXRWWWlUTUp5c0g3NmJhRDgwX1FSUHVmdjA?oc=5",
       "authors": "OpenAI",
-      "published": "Thu, 01 Oc",
-      "summary": "The eternal complement OpenAI",
+      "published": "Fri, 02 Oc",
+      "summary": "A model guide for the GPT-6 family OpenAI",
       "tags": [
         "OpenAI"
       ]
     },
     {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMzROamdoS05xQklLa1NpU2s4UEtLWUR4WUhFTTZPUDd0TnlGeEpQbmtBVWV4WDdWSDQtckxMNDRrUlZQMUdJWXN6YXNtWkxiRGVuaG0zcF8xb3piUUttMnZnd2tWQQ?oc=5",
+      "title": "The eternal complement",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWmpWcUY1SVAtVWc2bnhmNHhSOWVFYnY4aGR3RG4xRHZwWlNNdFhwRS1aSUZhQk5kNUpGRnhBdU03T01rU0JXaWdnQ1hPck1RT0lCbE03V3Q5Ti05?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 01 Oc",
-      "summary": "How Albertsons Companies is reimagining retail from the inside out OpenAI",
+      "summary": "The eternal complement OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -39,6 +39,16 @@
       "authors": "OpenAI",
       "published": "Wed, 30 Se",
       "summary": "Helping small businesses put AI to work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMzROamdoS05xQklLa1NpU2s4UEtLWUR4WUhFTTZPUDd0TnlGeEpQbmtBVWV4WDdWSDQtckxMNDRrUlZQMUdJWXN6YXNtWkxiRGVuaG0zcF8xb3piUUttMnZnd2tWQQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 01 Oc",
+      "summary": "How Albertsons Companies is reimagining retail from the inside out OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 29 Se",
       "summary": "Towards safety cases for frontier AI training OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "Advisory Group on Mathematics and Artificial Intelligence OpenAI",
       "tags": [
         "OpenAI"
       ]
