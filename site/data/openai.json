@@ -24,16 +24,6 @@
       ]
     },
     {
-      "title": "The eternal complement",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWmpWcUY1SVAtVWc2bnhmNHhSOWVFYnY4aGR3RG4xRHZwWlNNdFhwRS1aSUZhQk5kNUpGRnhBdU03T01rU0JXaWdnQ1hPck1RT0lCbE03V3Q5Ti05?oc=5",
-      "authors": "OpenAI",
-      "published": "Sat, 03 Oc",
-      "summary": "The eternal complement OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Disrupting a coordinated model-distillation campaign",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbEgxOFhvU3ZzR0JYMjZDbWhRaXlQeGoyci1PRGhfWkFhSGpER29fLXZydWRybEdpVEhUX0dCZ3pwS0ViUWRxVy1NVXZNREVfN2pOMU96c2NmSmlpY1lheUwxMGxuVjlmTV9uSkszVHU0RFhVVVNNUU42TkNjb084cThtaWc?oc=5",
       "authors": "OpenAI",
@@ -89,6 +79,16 @@
       "authors": "OpenAI",
       "published": "Tue, 29 Se",
       "summary": "Introducing GPT-6.1 Sol OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The eternal complement",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWmpWcUY1SVAtVWc2bnhmNHhSOWVFYnY4aGR3RG4xRHZwWlNNdFhwRS1aSUZhQk5kNUpGRnhBdU03T01rU0JXaWdnQ1hPck1RT0lCbE03V3Q5Ti05?oc=5",
+      "authors": "OpenAI",
+      "published": "Sat, 03 Oc",
+      "summary": "The eternal complement OpenAI",
       "tags": [
         "OpenAI"
       ]
