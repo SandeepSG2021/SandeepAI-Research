@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-10-02",
+  "last_updated": "2026-10-03",
   "papers": [
     {
       "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "An alignment assessment of recent cybersecurity incidents",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFZuQXh2LWp1d0NoNDQ2cHdrTktoZ0dIdDUyeEVrSGVyWDBzT3dsV3lhelR6RXhtYy03MTNSYVlya2hSZm1MMHVkZVFMeEt4RDFJM0Z2TW9SRlFDYTM5eGhxU2YzTWNJOU8yWWktWjU5Y0FUeDdLV0lfdnJ2SW9uZE0zOFFXZw?oc=5",
+      "title": "Introducing the Life Sciences Verification Program",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU?oc=5",
       "authors": "Anthropic",
-      "published": "Wed, 09 Se",
-      "summary": "An alignment assessment of recent cybersecurity incidents Anthropic",
+      "published": "Thu, 17 Se",
+      "summary": "Introducing the Life Sciences Verification Program Anthropic",
       "tags": [
         "Anthropic"
       ]
     },
     {
-      "title": "Introducing Anthropic's AI for Science Program",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00ZDdFMFBwQWdCY3JUQWNZUlZOODFlbmxMNzcwWjZCRzdCcDF5eE02UjlvLThJOVowUU5iZG5oSW1FOTl0VFVzMlU5dkpLenAyOTJmNUZxMVRvYThyX3FBc0Fzbw?oc=5",
+      "title": "An alignment assessment of recent cybersecurity incidents",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFZuQXh2LWp1d0NoNDQ2cHdrTktoZ0dIdDUyeEVrSGVyWDBzT3dsV3lhelR6RXhtYy03MTNSYVlya2hSZm1MMHVkZVFMeEt4RDFJM0Z2TW9SRlFDYTM5eGhxU2YzTWNJOU8yWWktWjU5Y0FUeDdLV0lfdnJ2SW9uZE0zOFFXZw?oc=5",
       "authors": "Anthropic",
-      "published": "Mon, 05 Ma",
-      "summary": "Introducing Anthropic's AI for Science Program Anthropic",
+      "published": "Wed, 09 Se",
+      "summary": "An alignment assessment of recent cybersecurity incidents Anthropic",
       "tags": [
         "Anthropic"
       ]
