@@ -4,6 +4,16 @@
   "last_updated": "2026-10-05",
   "papers": [
     {
+      "title": "Building advertising for the way people use AI",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTGpFWUV6LXBPamVmUVVuZktVbi13bVZaVUg3NEdQWjdjcXZpNXVBNDNlRGIzRmV0ZUlBYTIzeXV1VmZBMXh0NnpkTGpCYmJrUFFhanBwY0lKVFctYWNLLUNpRzdtOXktbVVFa0x6Ry1zQQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 05 Oc",
+      "summary": "Building advertising for the way people use AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "A model guide for the GPT-6 family",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kYWZLMUhLYkYzVEtyTHFjUWwwNUEyVVlxUWhmcHNuTXRLT1FJSWE2TVo1dEpPWURjdG1uMTJYTUJlOTNGY2NYZHQ1MzBDbXRWWWlUTUp5c0g3NmJhRDgwX1FSUHVmdjA?oc=5",
       "authors": "OpenAI",
@@ -54,6 +64,16 @@
       ]
     },
     {
+      "title": "How we will do better for Australia",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd1FCSHpCVVRJaldYZ3p0VnpBY0RrYUN6NGpST1drVG8waEg0VXFJM2Vpb255M1ZlaW1kajVQbUNUQ3FxYlpiM1JmbnJhb2U0WVJVWFlwMjQ0c2J3eW1qRHpEY21RWjRJWFVmVUNn?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 29 Se",
+      "summary": "How we will do better for Australia OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Towards safety cases for frontier AI training",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5cm5nT3BoSU9lR283QzQzbGlfQ1FSUGhobEFLc2E4YkxaMEZLb1N6LWlWeG5VYUE5azlyWFZuM1lGdUVaNnRKNjBJUlNYdGIwUGNCMmg5U29IRkZoSjRiUVdVSUo3MThsUUhXM2llaGd5UkMyYlhqNHBydw?oc=5",
       "authors": "OpenAI",
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 30 Se",
       "summary": "Helping small businesses put AI to work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "On the Navier–Stokes Millennium Prize Problem OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "Introducing ChatGPT Images 2.5 OpenAI",
       "tags": [
         "OpenAI"
       ]
