@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-04",
+  "last_updated": "2026-10-05",
   "papers": [
     {
       "title": "A model guide for the GPT-6 family",
@@ -27,7 +27,7 @@
       "title": "Introducing dots",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 30 Se",
+      "published": "Mon, 28 Se",
       "summary": "Introducing dots OpenAI",
       "tags": [
         "OpenAI"
@@ -54,11 +54,11 @@
       ]
     },
     {
-      "title": "Helping small businesses put AI to work",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hblBZcnhraWVOaEE1MTZnS3F5bUFYRUhRdm9jMlZvTUxrdlhCMHVYYUJHUHNaNWxmcGJlVTFyc2laSHRvek14Z2N0YmZfeHVBbUVudlQxWTBqTmdsVDl1VFU5YlJVMkhRZmtHbDhBZDEwTEU?oc=5",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5cm5nT3BoSU9lR283QzQzbGlfQ1FSUGhobEFLc2E4YkxaMEZLb1N6LWlWeG5VYUE5azlyWFZuM1lGdUVaNnRKNjBJUlNYdGIwUGNCMmg5U29IRkZoSjRiUVdVSUo3MThsUUhXM2llaGd5UkMyYlhqNHBydw?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 30 Se",
-      "summary": "Helping small businesses put AI to work OpenAI",
+      "published": "Tue, 29 Se",
+      "summary": "Towards safety cases for frontier AI training OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -74,31 +74,31 @@
       ]
     },
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
+      "title": "Helping small businesses put AI to work",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hblBZcnhraWVOaEE1MTZnS3F5bUFYRUhRdm9jMlZvTUxrdlhCMHVYYUJHUHNaNWxmcGJlVTFyc2laSHRvek14Z2N0YmZfeHVBbUVudlQxWTBqTmdsVDl1VFU5YlJVMkhRZmtHbDhBZDEwTEU?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "Advisory Group on Mathematics and Artificial Intelligence OpenAI",
+      "published": "Wed, 30 Se",
+      "summary": "Helping small businesses put AI to work OpenAI",
       "tags": [
         "OpenAI"
       ]
     },
     {
-      "title": "The eternal complement",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWmpWcUY1SVAtVWc2bnhmNHhSOWVFYnY4aGR3RG4xRHZwWlNNdFhwRS1aSUZhQk5kNUpGRnhBdU03T01rU0JXaWdnQ1hPck1RT0lCbE03V3Q5Ti05?oc=5",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
       "authors": "OpenAI",
-      "published": "Sun, 04 Oc",
-      "summary": "The eternal complement OpenAI",
+      "published": "Tue, 08 Se",
+      "summary": "On the Navier–Stokes Millennium Prize Problem OpenAI",
       "tags": [
         "OpenAI"
       ]
     },
     {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jSzVIbXFSdEl5RUhrcVE3ck9MSmRBaDFmcThWMVY1Y3lqNXk4MV92THJrQTVWTy1pRmZYV1dMeG03bEpWcE85SmQySkNXX2pFN3BQem1sZXFZb3c?oc=5",
+      "title": "Introducing ChatGPT Images 2.5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
       "authors": "OpenAI",
-      "published": "Thu, 01 Oc",
-      "summary": "The Den frees up 10-15 hours a week to grow with ChatGPT Work OpenAI",
+      "published": "Tue, 08 Se",
+      "summary": "Introducing ChatGPT Images 2.5 OpenAI",
       "tags": [
         "OpenAI"
       ]
