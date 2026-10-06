@@ -1,104 +1,104 @@
 {
   "source": "ARXIV-AI",
   "source_url": "https://arxiv.org/list/cs.AI/recent",
-  "last_updated": "2026-10-05",
+  "last_updated": "2026-10-06",
   "papers": [
     {
-      "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
-      "link": "http://arxiv.org/abs/2610.03717v1",
-      "authors": "Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan, Nhi Ngoc Nguyen, Jeremy Collins, James Hays, Shreyas Kousik, Animesh Garg",
-      "published": "2026-10-02",
-      "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is not because of a lack of supervisory signal, but rather due to inconspicuous architectural choices: \\textit{spatially expressive decoders} that dilute representational capabilities of the scene encoder, and \\textit{low-level pixel-space targets} that hinder feature learning. We present SNAP, a self-supervised encoder-decoder transformer that addresses both through a pose-conditioned local decoder and a latent-space reconstruction objective. SNAP is task agnostic, and we show that it is competitive with special-purpose geometry-supervised methods. SNAP also performs competitively against self-supervised representations across five tasks: visual localization, pose estimation, point correspondence, depth estimation, and robot manipulation. Remarkably, SNAP's patch features exhibit emergent viewpoint invariance that approaches heavily supervised models despite lower compute and data budgets. ",
+      "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+      "link": "http://arxiv.org/abs/2610.06852v1",
+      "authors": "Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang, Hsi-An Chen, Chun-Wei Tuan Mu, Yu-Lun Liu",
+      "published": "2026-10-05",
+      "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally faithful, hallucination-free, editable layout. Existing methods fail characteristically: image-to-image models stretch blocks and reject extreme ratios, text-to-image agentic systems hallucinate content, and parse-then-render systems mis-route edges. We propose an agentic pipeline factored into Parse, Style, and Layout stages, each pairing a main agent with a critic that combines deterministic constraint checks with VLM visual feedback so connectivity is explicitly checked and prevented from being silently broken. Outputs are draw.io-editable mxGraph XML. On a curated benchmark of 100 flowcharts at five aspect ratios, evaluated by Gemini 3.1 Pro and validated against human judgments, our method reaches 68.6% Content Fidelity versus 11.2-41",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-      "link": "http://arxiv.org/abs/2610.03715v1",
-      "authors": "Ruihong Shen, Žiga Kovačič, Peter Kulits, Xingrui Wang, Zizhang Li, Joshua B. Tenenbaum, Alan Yuille, Jieneng Chen, Jiajun Wu",
-      "published": "2026-10-02",
-      "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse physical phenomena, including deformation, fluid flow, and fracture. We perform extensive benchmarking of frontier models, finding that strong static reconstruction capabilities do not yet translate into reliable reconstruction of complex dynamics. 4DCodeBench provides a testbed for tracking progress toward agents that can interpret the dynamics of the world through code. Our benchmark is available at https://github.com/4DCodeBench/4DCodeBench",
+      "title": "Base Models Can Reason By Taking a Cue From Training Data",
+      "link": "http://arxiv.org/abs/2610.06851v1",
+      "authors": "Sophie L. Wang, Amil Dravid, Rulin Shao, Kevin Farhat, Sewon Min, Alexei A. Efros",
+      "published": "2026-10-05",
+      "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinforcement learning (RL)-trained counterparts on math and coding. For instance, the cue \".\\n\\nOkay\" raises Olmo-3-7B's MATH-500 pass@1 accuracy from 42% to 78%, while \"Alright,\" raises Qwen3-14B's from 72% to 87%. Second, RL makes these cues more likely, while fixing them recovers much of its performance gain over the base model. Third, we trace the reasoning effects of token cues to the training data. We perform causal data interventions to turn an arbitrary word, such as \"chicken\", into an effective reasoning cue, or remove an existing cue's effect. A similar edit makes the prompt instruction \"Think duck duck goose\" as effective as \"Think step by step\" at eliciting reasoning. We also find that the hidden state representations induced by different cues correlate with different document types from the training set. Finally, we extend our study of token cues with a case study in language model s",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
-      "link": "http://arxiv.org/abs/2610.03713v1",
-      "authors": "Nishit Anand, Ramani Duraiswami, Dinesh Manocha",
-      "published": "2026-10-02",
-      "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environment, which changes, so knowledge that was accurate when acquired may later become false, and discarding it is required behavior rather than a defect. Non-stationary ground truth is well studied in the concept drift literature and in the temporal factuality of language models, but has not been formulated for world models, which are distinctive in that they also encode knowledge that must never be revised. We argue that continual world models require retention stratified by invariance timescale, separating invariants such as physics and object permanence, which must never be revised, from instance-level facts that should be revised as soon as the environment changes. Standard forgetting metrics cannot distinguish a world model that has correctly revised outdated knowledge from one that has suffered catastrophic forgetting, and consequently rank a frozen model highest, while existing physical-re",
+      "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+      "link": "http://arxiv.org/abs/2610.06846v1",
+      "authors": "Haojin Deng, Zhiping Lin, Yimin Yang",
+      "published": "2026-10-05",
+      "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-projection sensitivity. IBMI is confounded by class-attribute correlation and is not a measure of causal feature reliance. We pair these diagnostics with BiasFlow Regularization (BFR), a supervised, composable class-conditional centroid-alignment penalty. W-IBMI verifies the quantity BFR optimizes; it is scale dependent and does not independently establish attribute removal. Across the reported small-scale benchmarks, adding BFR improves or preserves mean WGA, with gains up to +26.0 pp on UrbanCars. The principal independent stress test freezes CelebA-Std backbones and trains fresh heads on biased data: BFR+GroupDRO improves WGA from 40.7% to 64.1%, while Male probe accuracy decreases from 92.5% to 72.2%. Attribute information remains recoverable, and cross-task results are mixed. A controlled synthetic-watermark ImageNet experiment additionally improves watermark-shift accuracy by +23.0",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
-      "link": "http://arxiv.org/abs/2610.03710v1",
-      "authors": "Kush Hari, Justin Kerr, Nidhya Shivakumar, Samarth Mahapatra, Carmelo Sferrazza, Jiahui Lei, Jitendra Malik, C. Karen Liu, Ken Goldberg, Angjoo Kanazawa",
-      "published": "2026-10-02",
-      "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images are processed foveally by allocating more visual tokens to the image centers, focusing computation on task-relevant features. Such Active Visual Fixation (AVF) requires carefully coordinated gaze during task execution, which we accomplish hierarchically by first training a low-level gaze servoing policy conditioned on a goal object, then training a target selector which emits fixation goals based on task progress. Both modules are trained with RL on real-world data: the first is trained with a dense geometric reward and the second co-trains with the BC gripper policy which allows it to discover fixation sequences that can resemble a human's fixation sequence while performing the task. EyeRobot 2.0 further takes advantage of fixation by canonicalizing gripper information into a fixation-relative SE(3) frame, which compacts the size of the action distribution to learn. We collect teleoperatio",
+      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "link": "http://arxiv.org/abs/2610.06844v1",
+      "authors": "Omer Dahary, Etai Sella, Hadar Averbuch-Elor, Daniel Cohen-Or, Or Patashnik",
+      "published": "2026-10-05",
+      "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work, we introduce a framework for reading this contextual space through natural-language interrogation. We train a lightweight bottleneck network that maps intermediate contextual tokens into the input space of a frozen Large Language Model (LLM), allowing the LLM to answer questions about the emerging image directly from these hidden representations. Our reader reveals that contextual tokens encode a rich, global representation of the emerging scene: generation-specific semantics, including attributes left underspecified by the prompt, are accessible surprisingly early in denoising, while increasingly fine-grained details become readable over time. Remarkably, this information remains decodable even when the MM-DiT receives an empty prompt, showing that contextual tokens accumulate substantial image-specific information from the evolving visual representation itself. We further find that generations with more",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
-      "link": "http://arxiv.org/abs/2610.03693v1",
-      "authors": "Jungkyu Park, Dhruva Biswas, Joseph Cappadona, Cerise Tang, Ken G. Zeng, Bartosz Machura, Chuwen Liu, Paolo Tarantino, Coral Omene, Francisco J. Esteva, Rohit Bhargava, Marcin Braun, Kamila Paździerz, Jakub Czerwiński, Hanna Romańska-Knight",
-      "published": "2026-10-02",
-      "summary": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first stage learns the transcriptome from histopathology using 8,742 patients across 32 cancer types, corroborated by pathologist review and spatial agreement with measured expression. This simplifies the second stage to predicting pCR from inferred expression and clinical variables. Developed using 1,080 patients (five cohorts) and evaluated in 1,412 patients (nine cohorts), the model achieves a pooled AUROC of 0.79 (95% CI, 0.73-0.85), discriminating responders within molecular subtypes. It outperforms histopathological biomarkers, remaining stable across intratumoral sampling and with minimal biopsy tissue. Ablations show transcriptome-wide inference improves discrimination over clinical variables alone or one-stage pathology models, and robustness by avoiding genomic assays' gene selection constraints. These results indicate that biologically informed compression may generalize to data-sparse applications in precision oncology.",
+      "title": "Recursive Video In-Context Learning for Agentic Robot",
+      "link": "http://arxiv.org/abs/2610.06843v1",
+      "authors": "Wenrui Bao, Xinxin Liu, Bingxin Xu, Yuzhang Shang",
+      "published": "2026-10-05",
+      "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fits poorly into an agent's context. The full video slows every turn, fixed keyframes lose the contact detail that decides whether a grasp holds, and what the agent needs shifts from the task's structure while planning to the frames around each contact. We introduce Recursive Video In-Context Learning (RV-ICL), a training-free method that turns a demonstration into a hierarchy the agent navigates rather than a prompt it receives. The hierarchy is built from the sub-events of the demonstration, such as grasps and releases. Its levels grow finer, from keyframes of the whole task to phases, moments and short clips, and are exposed through read-only tools. The agent reads the coarse levels before planning. During execution it re-enters the hierarchy whenever a step needs more detail and loads only the clip of its current sub-goal. One demonstration per task is enough. Built on RPent, RV-ICL raises success from 92.6% to 96.5% on LIBERO-PRO and from 86.7% to 95.8% on LIBERO-",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
-      "link": "http://arxiv.org/abs/2610.03675v1",
-      "authors": "Hui Chen, Xuan Qi, James Xu Zhao, Zhaopeng Feng, Shilong Liu, Kuang Xu, Pang Wei Koh, Bryan Hooi",
-      "published": "2026-10-02",
-      "summary": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance gain over a fixed number of iterations. We argue that practical optimization should maximize gain per unit cost. To this end, we propose FrugalEvo, a cost-aware evolutionary framework where a stronger, higher-cost LLM explores solution strategies, and a cheaper LLM implements them and iteratively refines the resulting code. We also design a cache-efficient evolution process, where our harness and prompts maximize the sharing of prefixes across different evolution steps, to improve cache reuse. To measure solution quality throughout a fixed cost budget, we introduce Budget-Aware Area Under the Curve (BA-AUC), defined as the area under the best-so-far evaluation score curve over cumulative LLM cost, up to the budget. Across 10 mathematical and systems optimization tasks, FrugalEvo matches or surpasses state-of-the-art baselines, including OpenEvolve, ShinkaEvolve, AdaEvolve, and EvoX, in final solution quality and achieves higher BA-AUC on 9 tasks. It also achieves hig",
+      "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
+      "link": "http://arxiv.org/abs/2610.06831v1",
+      "authors": "David Serrano-Lozano, Duygu Ceylan, Yannick Hold-Geoffroy, Iliyan Georgiev, Javier Vazquez-Corral, Anna Frühstück",
+      "published": "2026-10-05",
+      "summary": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter coefficient, a prompt weight, or an interpolation factor. This strength relates poorly to perceptual change. The image can partially revert as the slider moves, long stretches of the range produce no visible difference, and short intervals transform the image abruptly. Remapping the strength could fix this uneven pace, but only if the trajectory is monotone, which current methods do not enforce. We therefore distinguish the slider from the strength, and require perceptual distance from the input to grow linearly with the slider value. We introduce UniSlider, a lightweight LoRA trained on a few-step editing backbone so that its strength approximates this ideal slider. Few-step sampling lets us impose this objective in pixel space without intermediate ground truth, and the backbone's output is preserved at full strength. However, a low-rank adapter cannot make the strength fully uniform. Our slider is thus an inference-time remapping of the strength, obtained by adaptive sampling. Since ",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles",
-      "link": "http://arxiv.org/abs/2610.03656v1",
-      "authors": "Junyoung Koh, Hao-Wen Dong",
-      "published": "2026-10-02",
-      "summary": "Multi-pitch estimation in vocal ensembles is challenging because singers occupy overlapping pitch ranges and often sing at closely spaced fundamental frequencies, causing their harmonics to overlap in time-frequency representations. Existing models commonly use harmonic constant-Q transform (HCQT)-based representations to provide frequency-adaptive resolution, at the cost of expensive feature extraction when training mixtures are generated on the fly. We revisit this design and compare HCQT with a linear short-time Fourier transform (STFT), whose frequency bins are directly provided as model inputs. Despite its fixed frequency resolution and the absence of a pitch-aligned input grid, the linear STFT outperforms HCQT while substantially reducing feature-extraction cost. Further analysis shows that a longer analysis window or broader spectral coverage provides no additional improvement, while restricting the input to the predicted pitch range reduces the advantage of the linear STFT. These results suggest that finer frequency resolution does not necessarily improve vocal-ensemble MPE, and that shorter analysis windows can be more effective for time-varying vocal pitches.",
+      "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+      "link": "http://arxiv.org/abs/2610.06830v1",
+      "authors": "Haozhen Zhang, Haodong Yue, Quanyu Long, Jianzhu Bao, Qingyuan Liu, Tao Feng, Bohan Liu, Weida Liang, Wenya Wang",
+      "published": "2026-10-05",
+      "summary": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic manner, which can incur unnecessary preprocessing cost and discard details that later prove essential. Recent studies have begun shifting memory processing toward runtime adaptation, but typically specialize in particular operations or fixed processing schemes, leaving flexible control over performance, cost, and latency largely underexplored. To address this challenge, we present \\textbf{MemPilot}, a flexible framework that orchestrates on-demand memory curation under different performance--cost--latency preferences. Specifically, we optimize a multi-step LLM policy via reinforcement learning to iteratively choose between retrieving from query-agnostic memory and delegating query-specific curation of raw multimodal history to heterogeneous LLMs and VLMs. The policy jointly controls evidence amount, curation instructions, model selection, and visual access, enabling fine-grained allocation of runtime computation. To optimize this policy under competing objectives, we adapt objective-wi",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search",
-      "link": "http://arxiv.org/abs/2610.03651v1",
-      "authors": "Sean Culatana, Shang-En Huang, Kang Li",
-      "published": "2026-10-02",
-      "summary": "Dense-retrieval services must switch among embedding-prefix dimensions and index bit rates as latency, quality, and memory budgets change. Tuning a quantizer separately for each rate gives the best quality, but the retrieval tier then holds several code streams and quantizer states at once. We introduce Matryoshka Residual Vector Quantization (MRVQ), a post-hoc residual quantizer for frozen embeddings. Its maximum-rate code can be truncated two ways: dropping residual stages lowers the rate, and dropping embedding coordinates lowers the dimension. One resident artifact therefore serves every (dimension, rate) pair we evaluate. Across FiQA and NFCorpus, four embedding families, and {4, 8, 16}-byte codes, MRVQ is the lowest-RAM design we evaluate. It uses 17.8-22.0x less memory than three separately trained QINCo2 indices, and 1.89-2.02x less than a lean shared-model steelman. The saving is not free: per-rate QINCo2 is 0.026-0.107 nDCG@10 better on FiQA. But MRVQ beats PQ, OPQ, and AdANNS-OPQ at matched code size. We also evaluate a low-build-cost PCA-scalar design that attains quality comparable to RaBitQ and its extension while fitting 420x faster at the median. Finally, we report ",
+      "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+      "link": "http://arxiv.org/abs/2610.06829v1",
+      "authors": "Yifan Zhang, Yutong Dai, Viraj Prabhu, Zhiyuan Hu, Ran Xu, Zeyuan Chen",
+      "published": "2026-10-05",
+      "summary": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for credit assignment, while frontier-language-model judges are too expensive to call at every step and cannot be assumed available at deployment. We introduce CLIFT, a training and test-time scaling method built around conformal self-verification. During training, the agent answers natural-language verification questions about its own rollouts; a Compositional Conformal Certifier keeps only question signals whose URL-conditional evidence agrees with a training-time judge, assigns signed trust weights through polarity-aware lift, and blends the resulting verifier score into per-step rewards in a way that never subtracts from the judge baseline. At test time, the same certified bank is frozen and reused as structured evidence for Conformal Trajectory Selection (CTS): the agent samples a greedy rollout and one or more diverse retries, the self-verifier summarises each URL trace, and a conservative majority-vote rule chooses whether to swap away from the current incumbent without calling any ",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "On-Board Anomaly Detection for Efficient Marine Environmental Monitoring",
-      "link": "http://arxiv.org/abs/2610.03649v1",
-      "authors": "Thomas Goudemant, Clotilde Szywala, Benjamin Francesconi, Michelle Aubrun, Yves Bobichon, Marjorie Bellizzi, Adrien Girard",
-      "published": "2026-10-02",
-      "summary": "Marine ecosystems are impacted by various threats such as oil spills, algal blooms, and sediment floods, which disrupt habitats, wildlife, and human activities. Advances in satellite imagery and Artificial Intelligence (AI) have enhanced our capabilities for early detection and mitigation of such hazards. In this paper, we propose a marine event detection pipeline for Earth observation satellites equipped with multi- or hyperspectral sensors. Our approach includes a self-supervised neural network encoder that compresses satellite images into a reduced latent space, enabling efficient onboard processing. A machine learning anomaly detection model identifies deviations from normal sea patterns to detect environmental anomalies. We compare its performance against traditional algorithms such as Isolation Forest, One-Class Support Vector Machine and Local Outlier Factors. Our lightweight, resource-efficient pipeline is optimized for deployment on satellites with limited computational resources, ranging from embedded CPUs to AI hardware accelerators. By prioritizing the transmission of critical information, our solution enhances system responsiveness and optimizes satellite communication",
+      "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+      "link": "http://arxiv.org/abs/2610.06824v1",
+      "authors": "Oliver Jaffe, Dane Sherburn",
+      "published": "2026-10-05",
+      "summary": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments, and interpret experimental results. TasteVal measures the experimental component of research taste; given a fixed research problem, we measure how well a model iteratively designs experiments and draws conclusions from their outcomes. We operationalize experimental research taste as compute efficiency; a Researcher who reaches the same score as an expert human using half the serial experimental compute has twice the experimental taste. Experimental taste thus acts as a multiplier on experimental compute, making it a key input to forecasts of AI progress. TasteVal consists of 8 novel, challenging, open-ended tasks representative of frontier AI R&D. To isolate taste from coding ability, the model under evaluation acts as a Researcher that iteratively designs experiments while a fixed Coder agent implements them and reports their results. The Researcher executes until either the 40 H100 hour or 120 wall-clock hour budgets are exhausted. We recruit 24 human experts, at least 2 per task, and ",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System",
-      "link": "http://arxiv.org/abs/2610.03639v1",
-      "authors": "Rubén Manrique, Michelle Castellanos, Jorge Morales, Juan David Gutiérrez, Antonio Barreto Rozo, Joaquín Vélez Navarro",
-      "published": "2026-10-02",
-      "summary": "Large language models (LLMs) are increasingly used to support legal practice, education, and research, yet their reliability in national legal systems outside the United States remains largely undocumented. We introduce an expert-validated benchmark for evaluating LLM reliability on the Colombian legal system. The benchmark comprises 1,042 items spanning ten areas of law and three question formats (closed multiple-choice, semi-open, and open-ended IRAC), built through a human-in-the-loop pipeline with multi-stage expert review. We evaluate 15 contemporary proprietary and open-weight models with format-appropriate metrics. Accuracy on closed questions ranges widely, from 0.905 (Gemini 3.1 Pro) to 0.577, but on free-text legal answers factual correctness never exceeds 0.45 (on a 0-1 scale) for any model. We find a dissociation between answer relevancy and correctness (Spearman rho = -0.46): models reliably sound responsive while frequently being wrong, a pattern of particular concern for non-expert users. Closed-question accuracy and free-text correctness are strongly rank-correlated (rho = 0.94), so cheap multiple-choice screening predicts model ranking but overstates absolute relia",
+      "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors",
+      "link": "http://arxiv.org/abs/2610.06823v1",
+      "authors": "Tanbin Islam Rohan, Pranjol Sen Gupta, Tanusree Debi, Nazmus Sakib",
+      "published": "2026-10-05",
+      "summary": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a transformer-based temporal corrector for sleep heart rate (HR) estimation from wrist accelerometry. SeqSmoother combines spectral descriptors with an intermediate Nightbeat-derived frequency anchor and a physics-motivated sub-harmonic feature designed to identify harmonic frequency lock-on. All inference-time features are derived from wrist accelerometry, while ECG is used only to construct reference HR labels and training-label quality weights. We evaluate SeqSmoother using 13 participant-disjoint held-out folds and compare it with the official Nightbeat implementation under a matched 60-s window and 15-s step protocol. Across all out-of-fold predictions, SeqSmoother achieved a participant-macro MAE of 1.60 bpm. On Nightbeat-retained matched intervals, Nightbeat achieved lower absolute error than SeqSmoother (0.615 versus 1.091 bpm), while SeqSmoother provided estimates over a larger portion of the eligible recording; Nightbeat produced final estimates for 72.85% of ",
       "tags": [
         "cs.AI"
       ]
