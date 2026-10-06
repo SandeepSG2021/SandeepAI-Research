@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-05",
+  "last_updated": "2026-10-06",
   "papers": [
     {
       "title": "Our approach to EU text provenance rules",
@@ -34,20 +34,10 @@
       ]
     },
     {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6ai1hTnV5dGU3dFRmSWE3cXpYNEExNHpQTVJESWlNdFJJdk15OFc0ZHhyNWZiOHRpcjhlMlFKcHBrUUx6bENvaVVMVTZqZVVmRnVYeHZ3?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 02 Oc",
-      "summary": "Chatham scales its capital markets expertise with OpenAI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing dots",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 28 Se",
+      "published": "Wed, 30 Se",
       "summary": "Introducing dots OpenAI",
       "tags": [
         "OpenAI"
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Wed, 30 Se",
       "summary": "Helping small businesses put AI to work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 21 Se",
+      "summary": "Advisory Group on Mathematics and Artificial Intelligence OpenAI",
       "tags": [
         "OpenAI"
       ]
