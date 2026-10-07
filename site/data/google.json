@@ -4,6 +4,16 @@
   "last_updated": "2026-10-07",
   "papers": [
     {
+      "title": "Introducing Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "authors": "Maryam Karimzadehgan",
+      "published": "Wed, 07 Oc",
+      "summary": "Overview of Playground",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "title": "The latest AI news we announced in September 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "authors": "Blog Team",
@@ -100,16 +110,6 @@
         "Accessibility",
         "Google Research",
         "Nonprofits",
-        "AI"
-      ]
-    },
-    {
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "authors": "Scott Strand",
-      "published": "Tue, 15 Se",
-      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
-      "tags": [
         "AI"
       ]
     }
