@@ -1,14 +1,44 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "papers": [
+    {
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 06 Oc",
+      "summary": "Sharing AI progress in mathematics OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RXzZqWjI3M3FjdC1IeVFTVGxQVXBKMnNKUmN0b3hvc05ZYmp3UXdoV2MtSkVkVlhXQnpISHBiMFk0bk5tYkZoYXhmN0Zubjcya3ZFMHk5bmxUM0JUNFh4R1FqX09MbDdhY0Faekgzaw?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 06 Oc",
+      "summary": "Advancing computer use with Ironclad OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZQkI1VUNwRzlDTy1KZkNtbXUwUFVWYTYwMm1KQW1HcThyLWFtTl9YSnN1Z1hyT0stMEJQR2pTOFRqZXZPZjM5dGtXRTFhOXZQV2taVXVKT3NNYjQ?oc=5",
       "authors": "OpenAI",
       "published": "Tue, 06 Oc",
       "summary": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93YUJfZWFpb2VQNEEzdENGbGR4aEE0UkZYWjE0XzhrM0lsLU82WWtXRG9TQ2VITXJuMnp4MVpLbWNOR20zV0VwNV9CcnJhZGs?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 06 Oc",
+      "summary": "How Jump Trading is scaling quant research with ChatGPT OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -69,36 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 29 Se",
       "summary": "DevDay 2026 Recap OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How we will do better for Australia",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd1FCSHpCVVRJaldYZ3p0VnpBY0RrYUN6NGpST1drVG8waEg0VXFJM2Vpb255M1ZlaW1kajVQbUNUQ3FxYlpiM1JmbnJhb2U0WVJVWFlwMjQ0c2J3eW1qRHpEY21RWjRJWFVmVUNn?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 28 Se",
-      "summary": "How we will do better for Australia OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 29 Se",
-      "summary": "Introducing GPT-6.1 Sol OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "Advisory Group on Mathematics and Artificial Intelligence OpenAI",
       "tags": [
         "OpenAI"
       ]

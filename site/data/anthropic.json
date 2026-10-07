@@ -1,8 +1,18 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "papers": [
+    {
+      "title": "Expanding the Cyber Verification Program",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 06 Oc",
+      "summary": "Expanding the Cyber Verification Program Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
     {
       "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
@@ -74,16 +84,6 @@
       ]
     },
     {
-      "title": "Introducing Claude for Education",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDRDZ4Uk1nV09FN2NjQ3Y3MHE3TEtROXlzdk1mS3NCR2tIQjdxYlJucHZORTFPNnNSWDlZcmJwd2syeHlUSmxlNXBfWjJYN3Q5TmpTRWNmUjlQVWlZbXNaaG1sSlpKNUFUV21qMnFkOWI?oc=5",
-      "authors": "Anthropic",
-      "published": "Wed, 02 Ap",
-      "summary": "Introducing Claude for Education Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDZjIwX2VvRTZPb3d0bGJMS3pRcktsTkgtTzFGV0tia0F0QWF3bFBsUVZQLWRGT0hrd3EtNXVEZl9qdlhySEZwMVo2X1YzSG5oTXRwUm5yNlJ2N0pfNUtQVE9sV3MyQm8?oc=5",
       "authors": "Anthropic",
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
+      "title": "Introducing Claude for Education",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDRDZ4Uk1nV09FN2NjQ3Y3MHE3TEtROXlzdk1mS3NCR2tIQjdxYlJucHZORTFPNnNSWDlZcmJwd2syeHlUSmxlNXBfWjJYN3Q5TmpTRWNmUjlQVWlZbXNaaG1sSlpKNUFUV21qMnFkOWI?oc=5",
       "authors": "Anthropic",
-      "published": "Thu, 30 Ju",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations Anthropic",
+      "published": "Wed, 02 Ap",
+      "summary": "Introducing Claude for Education Anthropic",
       "tags": [
         "Anthropic"
       ]
