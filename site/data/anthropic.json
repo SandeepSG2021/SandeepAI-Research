@@ -1,14 +1,54 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "papers": [
+    {
+      "title": "Introducing the Anthropic Cyber Mission",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 08 Oc",
+      "summary": "Introducing the Anthropic Cyber Mission Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "2026 Usage Policy update",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 08 Oc",
+      "summary": "2026 Usage Policy update Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Launching an opt-in vulnerability-finding service for open-source software",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYlVFa0lLSzZRaDNqRXNLWjFxOE0xa3pZdkNrV2hkNHkxTDg3QnVRdFVVclpaUXVXTVZyekdxNkRGQTFGTWdmb1h2NGtLT3pOaUJuZG8wYldhVUFMbEdta2o0eERWaGlTalpISG9reWhCTm9VSmI1X0RFVDJ3Rk1zSDF6YmEwZWRiVnFHSS1DczNLZw?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 08 Oc",
+      "summary": "Launching an opt-in vulnerability-finding service for open-source software Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
     {
       "title": "Building on our commitment to American scientific discovery",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
       "authors": "Anthropic",
       "published": "Thu, 08 Oc",
       "summary": "Building on our commitment to American scientific discovery Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Using Claude Science to produce the first complete map of the sky in UV light",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMnp6UURINkFSMTYxWUIwUkhnTkRQLWhjYS1tMFZ5VU1acWY5STFDRDcyVXJVN3JfdXU0bmMxd0VPaG9tM1NDcUJHTENGbHdLVkxLa1ZQUVY5enJIVndMYVRRem9Idmdmei1ZTWVR?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 08 Oc",
+      "summary": "Using Claude Science to produce the first complete map of the sky in UV light Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -59,46 +99,6 @@
       "authors": "Anthropic",
       "published": "Tue, 29 Se",
       "summary": "GLM-5.3 and the spread of advanced cyber capabilities Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "What do you want from AI?",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZOUN3YlBVMkVMVGkzNXQ0R0F4T181Z0dPSWd4QnpnMnR1M0FzckZnUDNqZ09JcG1OSUFwc2s0WkdIRTRGZlg0S015NnZjem9oUWF6MzYyYkpvTUU1OWlMZGxtbHQ?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 29 Se",
-      "summary": "What do you want from AI? Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
-      "authors": "Anthropic",
-      "published": "Wed, 23 Se",
-      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Introducing the Life Sciences Verification Program",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 17 Se",
-      "summary": "Introducing the Life Sciences Verification Program Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Introducing Anthropic's AI for Science Program",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00ZDdFMFBwQWdCY3JUQWNZUlZOODFlbmxMNzcwWjZCRzdCcDF5eE02UjlvLThJOVowUU5iZG5oSW1FOTl0VFVzMlU5dkpLenAyOTJmNUZxMVRvYThyX3FBc0Fzbw?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 05 Ma",
-      "summary": "Introducing Anthropic's AI for Science Program Anthropic",
       "tags": [
         "Anthropic"
       ]

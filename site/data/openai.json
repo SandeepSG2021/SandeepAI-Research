@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "papers": [
     {
       "title": "Disrupting AI-enabled “false front” operations",
@@ -9,6 +9,16 @@
       "authors": "OpenAI",
       "published": "Thu, 08 Oc",
       "summary": "Disrupting AI-enabled “false front” operations OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUN1NSM3FTc2tqZEdsWlpzRzYxaXFfdFZsLTZuY2JxSk5SVWtzTWVWcGZRRmRvcDROWjgyU3BfTjZmV0t4SnYw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 08 Oc",
+      "summary": "How Oracle turns days of work into minutes with ChatGPT and Codex OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -29,6 +39,16 @@
       "authors": "OpenAI",
       "published": "Wed, 07 Oc",
       "summary": "Helping teens learn, plan, and shape the future of AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOdExScjJHVHppUWxYLXBCT05xMGRwOWpQYmdkblAwdFM0alZ3SXlSUkNFbFFVUnJQM1hVSXA3d0JsWDh5U2dOZFhB?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 08 Oc",
+      "summary": "Pollo AI turns creative ideas into campaigns with OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 05 Oc",
       "summary": "Building advertising for the way people use AI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kYWZLMUhLYkYzVEtyTHFjUWwwNUEyVVlxUWhmcHNuTXRLT1FJSWE2TVo1dEpPWURjdG1uMTJYTUJlOTNGY2NYZHQ1MzBDbXRWWWlUTUp5c0g3NmJhRDgwX1FSUHVmdjA?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 02 Oc",
-      "summary": "A model guide for the GPT-6 family OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZQkI1VUNwRzlDTy1KZkNtbXUwUFVWYTYwMm1KQW1HcThyLWFtTl9YSnN1Z1hyT0stMEJQR2pTOFRqZXZPZjM5dGtXRTFhOXZQV2taVXVKT3NNYjQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 07 Oc",
-      "summary": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action OpenAI",
       "tags": [
         "OpenAI"
       ]
