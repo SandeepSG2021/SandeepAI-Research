@@ -14,16 +14,6 @@
       ]
     },
     {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUN1NSM3FTc2tqZEdsWlpzRzYxaXFfdFZsLTZuY2JxSk5SVWtzTWVWcGZRRmRvcDROWjgyU3BfTjZmV0t4SnYw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 08 Oc",
-      "summary": "How Oracle turns days of work into minutes with ChatGPT and Codex OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5",
       "authors": "OpenAI",
@@ -44,11 +34,11 @@
       ]
     },
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUN1NSM3FTc2tqZEdsWlpzRzYxaXFfdFZsLTZuY2JxSk5SVWtzTWVWcGZRRmRvcDROWjgyU3BfTjZmV0t4SnYw?oc=5",
       "authors": "OpenAI",
-      "published": "Fri, 09 Oc",
-      "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol OpenAI",
+      "published": "Thu, 08 Oc",
+      "summary": "How Oracle turns days of work into minutes with ChatGPT and Codex OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -69,6 +59,16 @@
       "authors": "OpenAI",
       "published": "Tue, 06 Oc",
       "summary": "How Jump Trading is scaling quant research with ChatGPT OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 09 Oc",
+      "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol OpenAI",
       "tags": [
         "OpenAI"
       ]
