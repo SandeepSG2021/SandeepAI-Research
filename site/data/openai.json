@@ -4,16 +4,6 @@
   "last_updated": "2026-10-10",
   "papers": [
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 09 Oc",
-      "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Disrupting AI-enabled “false front” operations",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kNmsxRmIwUjBlQmNJRHJTSy1zM3BiQkFXYmZJbjJrTGExalBtWngta1I4OWEyVkpWVERxQ2UtbVpoTFE1VUc5eVc5Mk14Q0pKZDJJN0t3YjFqWURFNVVaY2JTQUE2Vmh2eV9GTkFQVlVYR2t0NEN4dGRn?oc=5",
       "authors": "OpenAI",
@@ -34,21 +24,31 @@
       ]
     },
     {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 07 Oc",
-      "summary": "GPT-6 and Intelligent UI for everyone OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5",
       "authors": "OpenAI",
       "published": "Fri, 09 Oc",
       "summary": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 09 Oc",
+      "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 07 Oc",
+      "summary": "GPT-6 and Intelligent UI for everyone OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOdExScjJHVHppUWxYLXBCT05xMGRwOWpQYmdkblAwdFM0alZ3SXlSUkNFbFFVUnJQM1hVSXA3d0JsWDh5U2dOZFhB?oc=5",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wbmdmYW5mVDRpTVRwZnllT01IY0w0UTVqcVE4VzROV3o0dk9WOHdPUDNRWnFQWGNZby11STRNc2Y1QnhIRHFWMlpxODQxclhKUDAwbS1oUWNhbE5BZXJLY2Jn?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 08 Oc",
-      "summary": "Pollo AI turns creative ideas into campaigns with OpenAI OpenAI",
+      "summary": "LegalOn halves Codex costs while maintaining development speed OpenAI",
       "tags": [
         "OpenAI"
       ]
