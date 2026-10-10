@@ -1,8 +1,18 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-10-09",
+  "last_updated": "2026-10-10",
   "papers": [
+    {
+      "title": "Investigating unintended model actions in our evaluations and internal use",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fZEVTbmhab3RBQ25rOVd6cDg2akF0NlUwbVJnM1RjalBjd2ZlYWd5Q25UU2I3TjNUTno3WERteFQyTGtBb1UxTmZtOHpTZFZpbC1LMlFyMXVsbS1kWDUwVHM3aGtSWjA1c3FMU3JVcjZrRDZtQlViT3hEd1ZGQQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 09 Oc",
+      "summary": "Investigating unintended model actions in our evaluations and internal use Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
     {
       "title": "Introducing the Anthropic Cyber Mission",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
@@ -14,21 +24,21 @@
       ]
     },
     {
-      "title": "Launching an opt-in vulnerability-finding service for open-source software",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYlVFa0lLSzZRaDNqRXNLWjFxOE0xa3pZdkNrV2hkNHkxTDg3QnVRdFVVclpaUXVXTVZyekdxNkRGQTFGTWdmb1h2NGtLT3pOaUJuZG8wYldhVUFMbEdta2o0eERWaGlTalpISG9reWhCTm9VSmI1X0RFVDJ3Rk1zSDF6YmEwZWRiVnFHSS1DczNLZw?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 08 Oc",
-      "summary": "Launching an opt-in vulnerability-finding service for open-source software Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Using Claude Science to produce the first complete map of the sky in UV light",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMnp6UURINkFSMTYxWUIwUkhnTkRQLWhjYS1tMFZ5VU1acWY5STFDRDcyVXJVN3JfdXU0bmMxd0VPaG9tM1NDcUJHTENGbHdLVkxLa1ZQUVY5enJIVndMYVRRem9Idmdmei1ZTWVR?oc=5",
       "authors": "Anthropic",
       "published": "Thu, 08 Oc",
       "summary": "Using Claude Science to produce the first complete map of the sky in UV light Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Launching an opt-in vulnerability-finding service for open-source software",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYlVFa0lLSzZRaDNqRXNLWjFxOE0xa3pZdkNrV2hkNHkxTDg3QnVRdFVVclpaUXVXTVZyekdxNkRGQTFGTWdmb1h2NGtLT3pOaUJuZG8wYldhVUFMbEdta2o0eERWaGlTalpISG9reWhCTm9VSmI1X0RFVDJ3Rk1zSDF6YmEwZWRiVnFHSS1DczNLZw?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 08 Oc",
+      "summary": "Launching an opt-in vulnerability-finding service for open-source software Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Wed, 30 Se",
       "summary": "Can we predict the jobs robots will do? Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 29 Se",
-      "summary": "GLM-5.3 and the spread of advanced cyber capabilities Anthropic",
       "tags": [
         "Anthropic"
       ]

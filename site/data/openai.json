@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-09",
+  "last_updated": "2026-10-10",
   "papers": [
     {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -34,16 +34,6 @@
       ]
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 09 Oc",
-      "summary": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "GPT-6 and Intelligent UI for everyone",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
       "authors": "OpenAI",
@@ -54,11 +44,11 @@
       ]
     },
     {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93YUJfZWFpb2VQNEEzdENGbGR4aEE0UkZYWjE0XzhrM0lsLU82WWtXRG9TQ2VITXJuMnp4MVpLbWNOR20zV0VwNV9CcnJhZGs?oc=5",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 06 Oc",
-      "summary": "How Jump Trading is scaling quant research with ChatGPT OpenAI",
+      "published": "Fri, 09 Oc",
+      "summary": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -74,11 +64,11 @@
       ]
     },
     {
-      "title": "Advancing computer use with Ironclad",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RXzZqWjI3M3FjdC1IeVFTVGxQVXBKMnNKUmN0b3hvc05ZYmp3UXdoV2MtSkVkVlhXQnpISHBiMFk0bk5tYkZoYXhmN0Zubjcya3ZFMHk5bmxUM0JUNFh4R1FqX09MbDdhY0Faekgzaw?oc=5",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93YUJfZWFpb2VQNEEzdENGbGR4aEE0UkZYWjE0XzhrM0lsLU82WWtXRG9TQ2VITXJuMnp4MVpLbWNOR20zV0VwNV9CcnJhZGs?oc=5",
       "authors": "OpenAI",
       "published": "Tue, 06 Oc",
-      "summary": "Advancing computer use with Ironclad OpenAI",
+      "summary": "How Jump Trading is scaling quant research with ChatGPT OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Mon, 05 Oc",
       "summary": "Building advertising for the way people use AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOdExScjJHVHppUWxYLXBCT05xMGRwOWpQYmdkblAwdFM0alZ3SXlSUkNFbFFVUnJQM1hVSXA3d0JsWDh5U2dOZFhB?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 08 Oc",
+      "summary": "Pollo AI turns creative ideas into campaigns with OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
