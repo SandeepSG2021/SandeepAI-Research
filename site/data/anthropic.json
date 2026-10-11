@@ -74,16 +74,6 @@
       ]
     },
     {
-      "title": "Claude-shaped science",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 01 Oc",
-      "summary": "Claude-shaped science Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Can we predict the jobs robots will do?",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
       "authors": "Anthropic",
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Tue, 29 Se",
       "summary": "GLM-5.3 and the spread of advanced cyber capabilities Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Building on our commitment to American scientific discovery",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 08 Oc",
+      "summary": "Building on our commitment to American scientific discovery Anthropic",
       "tags": [
         "Anthropic"
       ]
