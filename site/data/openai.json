@@ -34,16 +34,6 @@
       ]
     },
     {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93YUJfZWFpb2VQNEEzdENGbGR4aEE0UkZYWjE0XzhrM0lsLU82WWtXRG9TQ2VITXJuMnp4MVpLbWNOR20zV0VwNV9CcnJhZGs?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 06 Oc",
-      "summary": "How Jump Trading is scaling quant research with ChatGPT OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing GPT-6.1 Sol",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
       "authors": "OpenAI",
@@ -54,11 +44,11 @@
       ]
     },
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kNmsxRmIwUjBlQmNJRHJTSy1zM3BiQkFXYmZJbjJrTGExalBtWngta1I4OWEyVkpWVERxQ2UtbVpoTFE1VUc5eVc5Mk14Q0pKZDJJN0t3YjFqWURFNVVaY2JTQUE2Vmh2eV9GTkFQVlVYR2t0NEN4dGRn?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 21 Se",
-      "summary": "Advisory Group on Mathematics and Artificial Intelligence OpenAI",
+      "published": "Thu, 08 Oc",
+      "summary": "Disrupting AI-enabled “false front” operations OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -69,16 +59,6 @@
       "authors": "OpenAI",
       "published": "Fri, 09 Oc",
       "summary": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kNmsxRmIwUjBlQmNJRHJTSy1zM3BiQkFXYmZJbjJrTGExalBtWngta1I4OWEyVkpWVERxQ2UtbVpoTFE1VUc5eVc5Mk14Q0pKZDJJN0t3YjFqWURFNVVaY2JTQUE2Vmh2eV9GTkFQVlVYR2t0NEN4dGRn?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 08 Oc",
-      "summary": "Disrupting AI-enabled “false front” operations OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -99,6 +79,26 @@
       "authors": "OpenAI",
       "published": "Wed, 30 No",
       "summary": "Introducing ChatGPT OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 08 Se",
+      "summary": "On the Navier–Stokes Millennium Prize Problem OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RVzNoUThNYkhfTXVTUGVoT3lLXzNfSFV5Y0IzLWR6YVhEaGhLeEllQ3lXbDVCYnlXSDMwYzBnLXBpWXZoVW1DMmpCQ085UUFFYWkzOG83NDc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 11 Fe",
+      "summary": "Harness engineering: leveraging Codex in an agent-first world OpenAI",
       "tags": [
         "OpenAI"
       ]
