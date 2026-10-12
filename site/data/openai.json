@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-11",
+  "last_updated": "2026-10-12",
   "papers": [
     {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -94,11 +94,11 @@
       ]
     },
     {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wbmdmYW5mVDRpTVRwZnllT01IY0w0UTVqcVE4VzROV3o0dk9WOHdPUDNRWnFQWGNZby11STRNc2Y1QnhIRHFWMlpxODQxclhKUDAwbS1oUWNhbE5BZXJLY2Jn?oc=5",
+      "title": "Reimagining advertising with AI",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2NXl1LWRfMzJIT0szLXg2R3RSRl9fekxZRUl2d0lHNUhPdFJ2a0txYTVQMnIzSGhJYnozSFFRTTM4R3RoRW9NZ0Y1U0NXdXBCS0R0OGJVSElMSU56UmJIQUppMGtybE9n?oc=5",
       "authors": "OpenAI",
-      "published": "Thu, 08 Oc",
-      "summary": "LegalOn halves Codex costs while maintaining development speed OpenAI",
+      "published": "Wed, 16 Se",
+      "summary": "Reimagining advertising with AI OpenAI",
       "tags": [
         "OpenAI"
       ]

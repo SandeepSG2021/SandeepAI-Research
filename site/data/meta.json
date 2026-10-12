@@ -1,18 +1,8 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-10-11",
+  "last_updated": "2026-10-12",
   "papers": [
-    {
-      "title": "The Strict Threshold for Gaussian Ellipsoid Fitting - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWkzWTl2SFN4Nk9TdDBzVUNSa0xGaFFIdlFWb2UxRXpvZm13bmRUMXctM3VuS3RhVHZmUFdCZmJTaVF5OUgyQTk0RkJFdzhTR1RXMUJ5ems5eW9fSnlQdGs3M2tPYjBqdzJJY3VvNXhWSWZjSlpiWk5uaVBYSHVwNHR0bVd5ZmZpVXptRFRMSVNjN2RrNlNEXzhn?oc=5",
-      "authors": "Meta AI",
-      "published": "Fri, 02 Oc",
-      "summary": "The Strict Threshold for Gaussian Ellipsoid Fitting AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
     {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
@@ -59,6 +49,16 @@
       "authors": "Meta AI",
       "published": "Fri, 30 Ja",
       "summary": "Introducing V-JEPA 2 AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "The Strict Threshold for Gaussian Ellipsoid Fitting - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWkzWTl2SFN4Nk9TdDBzVUNSa0xGaFFIdlFWb2UxRXpvZm13bmRUMXctM3VuS3RhVHZmUFdCZmJTaVF5OUgyQTk0RkJFdzhTR1RXMUJ5ems5eW9fSnlQdGs3M2tPYjBqdzJJY3VvNXhWSWZjSlpiWk5uaVBYSHVwNHR0bVd5ZmZpVXptRFRMSVNjN2RrNlNEXzhn?oc=5",
+      "authors": "Meta AI",
+      "published": "Fri, 02 Oc",
+      "summary": "The Strict Threshold for Gaussian Ellipsoid Fitting AI at Meta",
       "tags": [
         "Meta AI"
       ]

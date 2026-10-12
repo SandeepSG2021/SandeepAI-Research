@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-10-11",
+  "last_updated": "2026-10-12",
   "papers": [
     {
       "title": "Investigating unintended model actions in our evaluations and internal use",
