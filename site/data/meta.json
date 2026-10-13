@@ -1,14 +1,34 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-10-12",
+  "last_updated": "2026-10-13",
   "papers": [
+    {
+      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNC1udEdYdEhzd29jVTV6YWhvUjZrRVIzSzR5WktVZzRudE5OUENGbTFFbU55QmZveHhqV1JjakhhWkF2b1poOXFJZVZKVFRaNWJrdGtKWHB0a21obGtuempn?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 08 Ap",
+      "summary": "Introducing Muse Spark: Scaling Towards Personal Superintelligence AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
     {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 25 Se",
       "summary": "Connect 2024: The responsible approach we’re taking to generative AI AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing Muse Image and Muse Video - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
+      "authors": "Meta AI",
+      "published": "Tue, 07 Ju",
+      "summary": "Introducing Muse Image and Muse Video AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -79,26 +99,6 @@
       "authors": "Meta AI",
       "published": "Fri, 02 Oc",
       "summary": "Semiabelian Groups Need Not Be Monomial AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Three things everyone should know about Vision Transformers - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2NHYjhMX3FKcHdnak5BZG5kNUVUQ2dGaUQ0SVR5R2lWTV9uclNTbm9YNFVGQV9DbUJaaHhLUU5Hei1iOGVWb25pSXhPSXcyT0xuNXVlQmFGRXd2enFsQlRTVHk4Y0pVSm51emJpVWtqQVpwdlhseENWOXBwc3BoMG5YWi16WkIyLUg1ZW05RkhGR0JtYXJHeHlCSGxEX2JKdzFEdw?oc=5",
-      "authors": "Meta AI",
-      "published": "Sat, 15 Ju",
-      "summary": "Three things everyone should know about Vision Transformers AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Brain-to-Text Decoding: A Non-invasive Approach via Typing - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzFPSmpHZTBYUlY0NjhNQ0VPLURXZTlSYjFwNndhemV0X04tVzlaWlByMjN4VkVBaGRKQkt5elJQNU9aRHpBZS14bUNrN05zSldwUTlNemxMME9aTjhHaDVzUWRLLWtfdnJiczE3SjJhOWpmUFQ5Nm5KY1VpLVlHcjhuTk1Yd2NtbUc4NWhBeEhLUUJpOUw3bEFEd1pFM19QVFE?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 06 Fe",
-      "summary": "Brain-to-Text Decoding: A Non-invasive Approach via Typing AI at Meta",
       "tags": [
         "Meta AI"
       ]

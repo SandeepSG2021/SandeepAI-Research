@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-12",
+  "last_updated": "2026-10-13",
   "papers": [
     {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
