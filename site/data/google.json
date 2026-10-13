@@ -4,6 +4,17 @@
   "last_updated": "2026-10-13",
   "papers": [
     {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "authors": "Koray Kavukcuoglu",
+      "published": "Tue, 13 Oc",
+      "summary": "TBD",
+      "tags": [
+        "Gemini models",
+        "AI"
+      ]
+    },
+    {
       "title": "Introducing Playground: Create and play custom games",
       "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "authors": "Maryam Karimzadehgan",
@@ -97,19 +108,6 @@
       "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
       "tags": [
         "Google Research",
-        "AI"
-      ]
-    },
-    {
-      "title": "AI for everyone in every language",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "authors": "James Manyika",
-      "published": "Tue, 15 Se",
-      "summary": "Animation of several words in different languages slowly zooming past",
-      "tags": [
-        "Accessibility",
-        "Google Research",
-        "Nonprofits",
         "AI"
       ]
     }
