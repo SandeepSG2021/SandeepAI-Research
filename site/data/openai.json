@@ -4,6 +4,16 @@
   "last_updated": "2026-10-14",
   "papers": [
     {
+      "title": "The EU’s next chapter in AI is agentic",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 14 Oc",
+      "summary": "The EU’s next chapter in AI is agentic OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Higgsfield takes AI video from 1 minute to over 10",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5",
       "authors": "OpenAI",
@@ -44,16 +54,6 @@
       ]
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 29 Se",
-      "summary": "Introducing GPT-6.1 Sol OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing ChatGPT",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JQUtaelJMMzg0dXJSckhtN3I0c3c5WnlHZjNVall4OGhDTlJ3V0xDTnNiRmNzUnNaUFB3RGkxSVJJa19QaGpPVQ?oc=5",
       "authors": "OpenAI",
@@ -74,6 +74,16 @@
       ]
     },
     {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 08 Se",
+      "summary": "On the Navier–Stokes Millennium Prize Problem OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "OpenAI API",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11S3JPbDhJSEJ0LTJVZFk4R0tiTE1QWUFmTFB2ZG5WZ3QxQVNTSnhWN0JRZkNESG11dE4yWDY2RFF5SE5RNkY1WnE5ekU?oc=5",
       "authors": "OpenAI",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Fri, 15 Ma",
       "summary": "ChatGPT for personal finance and budgeting OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing Whisper",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kU1Y2VUoyUEM3VmFVaU9xdHhfd2xWTnJDQjNHcUZZdWVILXR1NFJQb2ZCM2xNWVJ1Y3dOaVNqZVpTVWZCZDgxRA?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Se",
-      "summary": "Introducing Whisper OpenAI",
       "tags": [
         "OpenAI"
       ]
