@@ -4,6 +4,16 @@
   "last_updated": "2026-10-14",
   "papers": [
     {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0c2UGZGcXdhWnY1ampSMHJhUW9ZWUVGSGpVQWx3eTlGUzliVUQ1N3NVXzZXaGtkTkR0LW9uUDNpNjM4YWEyaVkxZlhwSGdPbHFhZ1d2cjF2ZjA?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 14 Oc",
+      "summary": "How Third Moment Research runs 10,000 agents for 36+ hours OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "The EU’s next chapter in AI is agentic",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5",
       "authors": "OpenAI",
@@ -44,6 +54,16 @@
       ]
     },
     {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 09 Oc",
+      "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing dots",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
       "authors": "OpenAI",
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 08 Se",
       "summary": "On the Navier–Stokes Millennium Prize Problem OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI API",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11S3JPbDhJSEJ0LTJVZFk4R0tiTE1QWUFmTFB2ZG5WZ3QxQVNTSnhWN0JRZkNESG11dE4yWDY2RFF5SE5RNkY1WnE5ekU?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 11 Ju",
-      "summary": "OpenAI API OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "ChatGPT for personal finance and budgeting",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jMVZYNmlKRzNCcndxTHE2N2tEa21NRnpZLVd4OG91TGpCeDJaWTlqa0EzajdBdWVwZGlvMkctWmd3U0xxQ3N3MFR4bkNRVEJtYlZOeEFaUXdvYV8wT0pz?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 15 Ma",
-      "summary": "ChatGPT for personal finance and budgeting OpenAI",
       "tags": [
         "OpenAI"
       ]
