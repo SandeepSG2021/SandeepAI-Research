@@ -4,26 +4,6 @@
   "last_updated": "2026-10-14",
   "papers": [
     {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0c2UGZGcXdhWnY1ampSMHJhUW9ZWUVGSGpVQWx3eTlGUzliVUQ1N3NVXzZXaGtkTkR0LW9uUDNpNjM4YWEyaVkxZlhwSGdPbHFhZ1d2cjF2ZjA?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 14 Oc",
-      "summary": "How Third Moment Research runs 10,000 agents for 36+ hours OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "The EU’s next chapter in AI is agentic",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 14 Oc",
-      "summary": "The EU’s next chapter in AI is agentic OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Higgsfield takes AI video from 1 minute to over 10",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5",
       "authors": "OpenAI",
@@ -44,6 +24,16 @@
       ]
     },
     {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 14 Oc",
+      "summary": "Amp puts AI agents to work beyond code with OpenAI models OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Sharing AI progress in mathematics",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
       "authors": "OpenAI",
@@ -54,11 +44,31 @@
       ]
     },
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0c2UGZGcXdhWnY1ampSMHJhUW9ZWUVGSGpVQWx3eTlGUzliVUQ1N3NVXzZXaGtkTkR0LW9uUDNpNjM4YWEyaVkxZlhwSGdPbHFhZ1d2cjF2ZjA?oc=5",
       "authors": "OpenAI",
-      "published": "Fri, 09 Oc",
-      "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol OpenAI",
+      "published": "Wed, 14 Oc",
+      "summary": "How Third Moment Research runs 10,000 agents for 36+ hours OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 14 Oc",
+      "summary": "The EU’s next chapter in AI is agentic OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPbGxlYk5TUUh6Y0dzR01PeVFaOUxMNGNIeXdtSjhzTG55WGVwdTVqYWZ0bjg3WFFxdmJuSTFBeEh2RjJ0RlNPajlYSkpSQQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 14 Oc",
+      "summary": "SentinelOne cuts malware analysis from weeks to hours OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -74,31 +84,21 @@
       ]
     },
     {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 09 Oc",
+      "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Introducing ChatGPT",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JQUtaelJMMzg0dXJSckhtN3I0c3c5WnlHZjNVall4OGhDTlJ3V0xDTnNiRmNzUnNaUFB3RGkxSVJJa19QaGpPVQ?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 30 No",
       "summary": "Introducing ChatGPT OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Harness engineering: leveraging Codex in an agent-first world",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RVzNoUThNYkhfTXVTUGVoT3lLXzNfSFV5Y0IzLWR6YVhEaGhLeEllQ3lXbDVCYnlXSDMwYzBnLXBpWXZoVW1DMmpCQ085UUFFYWkzOG83NDc?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 11 Fe",
-      "summary": "Harness engineering: leveraging Codex in an agent-first world OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 08 Se",
-      "summary": "On the Navier–Stokes Millennium Prize Problem OpenAI",
       "tags": [
         "OpenAI"
       ]
