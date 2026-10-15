@@ -1,48 +1,8 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-14",
+  "last_updated": "2026-10-15",
   "papers": [
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 13 Oc",
-      "summary": "Higgsfield takes AI video from 1 minute to over 10 OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 07 Oc",
-      "summary": "GPT-6 and Intelligent UI for everyone OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 14 Oc",
-      "summary": "Amp puts AI agents to work beyond code with OpenAI models OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 06 Oc",
-      "summary": "Sharing AI progress in mathematics OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
     {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0c2UGZGcXdhWnY1ampSMHJhUW9ZWUVGSGpVQWx3eTlGUzliVUQ1N3NVXzZXaGtkTkR0LW9uUDNpNjM4YWEyaVkxZlhwSGdPbHFhZ1d2cjF2ZjA?oc=5",
@@ -64,6 +24,16 @@
       ]
     },
     {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 13 Oc",
+      "summary": "Amp puts AI agents to work beyond code with OpenAI models OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "SentinelOne cuts malware analysis from weeks to hours",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPbGxlYk5TUUh6Y0dzR01PeVFaOUxMNGNIeXdtSjhzTG55WGVwdTVqYWZ0bjg3WFFxdmJuSTFBeEh2RjJ0RlNPajlYSkpSQQ?oc=5",
       "authors": "OpenAI",
@@ -74,21 +44,51 @@
       ]
     },
     {
-      "title": "Introducing dots",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 29 Se",
-      "summary": "Introducing dots OpenAI",
+      "published": "Tue, 13 Oc",
+      "summary": "Higgsfield takes AI video from 1 minute to over 10 OpenAI",
       "tags": [
         "OpenAI"
       ]
     },
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
       "authors": "OpenAI",
-      "published": "Fri, 09 Oc",
-      "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol OpenAI",
+      "published": "Wed, 07 Oc",
+      "summary": "GPT-6 and Intelligent UI for everyone OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 06 Oc",
+      "summary": "Sharing AI progress in mathematics OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 05 Oc",
+      "summary": "Our approach to EU text provenance rules OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing dots",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 29 Se",
+      "summary": "Introducing dots OpenAI",
       "tags": [
         "OpenAI"
       ]
