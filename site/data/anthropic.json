@@ -4,6 +4,16 @@
   "last_updated": "2026-10-15",
   "papers": [
     {
+      "title": "An update on independent evaluators",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 15 Oc",
+      "summary": "An update on independent evaluators Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Preparing for the 2026 US midterms",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
       "authors": "Anthropic",
@@ -39,16 +49,6 @@
       "authors": "Anthropic",
       "published": "Fri, 09 Oc",
       "summary": "Investigating unintended model actions in our evaluations and internal use Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Launching an opt-in vulnerability-finding service for open-source software",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYlVFa0lLSzZRaDNqRXNLWjFxOE0xa3pZdkNrV2hkNHkxTDg3QnVRdFVVclpaUXVXTVZyekdxNkRGQTFGTWdmb1h2NGtLT3pOaUJuZG8wYldhVUFMbEdta2o0eERWaGlTalpISG9reWhCTm9VSmI1X0RFVDJ3Rk1zSDF6YmEwZWRiVnFHSS1DczNLZw?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 08 Oc",
-      "summary": "Launching an opt-in vulnerability-finding service for open-source software Anthropic",
       "tags": [
         "Anthropic"
       ]
