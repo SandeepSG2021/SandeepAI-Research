@@ -4,6 +4,16 @@
   "last_updated": "2026-10-16",
   "papers": [
     {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdmhqUzNHN09EMF9VUnNTcmlMTlpDVnlnTmxNa0tVY3h1bjJ4bmVDSWROR3JoRTgxb0dQcWYzNGF4dE9YYlNpRDlKVEx6OEVyM3RnY0R6WVRiZERYRVRtcnJ4WF9ZNWZFWVQ2a1Q5UFRnM2xYM0U5akZzOA?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 16 Oc",
+      "summary": "Designing more efficient quantum circuits with Claude Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "An update on independent evaluators",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
       "authors": "Anthropic",
@@ -69,16 +79,6 @@
       "authors": "Anthropic",
       "published": "Fri, 02 Oc",
       "summary": "Claude Frontier Academy: $100M to train 10,000 engineers Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Claude-shaped science",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 01 Oc",
-      "summary": "Claude-shaped science Anthropic",
       "tags": [
         "Anthropic"
       ]
