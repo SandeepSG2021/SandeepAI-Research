@@ -1,8 +1,18 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-15",
+  "last_updated": "2026-10-16",
   "papers": [
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 15 Oc",
+      "summary": "Bringing GPT-Rosalind to academic research labs OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Teaching students to think and learn through questions",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUM4cS05YTJBcTliVVRXaW9CVU1tWGFWRVZPWExRMzNpSDNIM0xSc0l6czdLOFFUSFFPN0czQ0l4cG9PeUNjYWVUajlQNF9ZalNZZTJ2S09VRTlqdlE3Y283MW5CLUE5V2hIdXdMX3V6OERkSHVqTWJLWGE2dmFtdHJSREFrb3c?oc=5",
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 13 Oc",
       "summary": "Higgsfield takes AI video from 1 minute to over 10 OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing dots",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 29 Se",
-      "summary": "Introducing dots OpenAI",
       "tags": [
         "OpenAI"
       ]
