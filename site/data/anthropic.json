@@ -4,16 +4,6 @@
   "last_updated": "2026-10-17",
   "papers": [
     {
-      "title": "How employment is changing at Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mOWJENVFMYm9BOWdRbjJXSllRMVJ3ZXh6RkMwQmJlWElqUU9TTENEamlIanRkSXE4UnRaRDROSnZNTXBGM0NoVGNDWkpXZEtrUHRzdlFNSEhVVjBjalloX1ZTQm5LX2RKRXc?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 16 Oc",
-      "summary": "How employment is changing at Anthropic Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Working at the frontier shapes expectations for the future",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QM0duQ25GemxVSnNkMzJPRDJGMjRHdzY0R0lBbXZIR2liVmJiUjJaeTJ1Yk1Rbzhua2RqMVNJTjZtdUNIUzNLSFNXSEcxNzZ1aEU5akVoaEIyS3BLX3BSQjhvZS1IWDNFOWZUbktxWQ?oc=5",
       "authors": "Anthropic",
@@ -24,11 +14,11 @@
       ]
     },
     {
-      "title": "Claude reveals ECDSA curve origins",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlZU9PaGR2ZHhuYnpFb1R2cWp1NnZmV3BtaWRSRmg3cVJOamplNG56dWM3andnUFFmU1NSZzdqVUdBU2IzZG5MeGV2ZjZ5NmVQWFE3S0xQUEVxX3F4dkpTdk5GaDg?oc=5",
+      "title": "How employment is changing at Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mOWJENVFMYm9BOWdRbjJXSllRMVJ3ZXh6RkMwQmJlWElqUU9TTENEamlIanRkSXE4UnRaRDROSnZNTXBGM0NoVGNDWkpXZEtrUHRzdlFNSEhVVjBjalloX1ZTQm5LX2RKRXc?oc=5",
       "authors": "Anthropic",
       "published": "Fri, 16 Oc",
-      "summary": "Claude reveals ECDSA curve origins Anthropic",
+      "summary": "How employment is changing at Anthropic Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -39,6 +29,16 @@
       "authors": "Anthropic",
       "published": "Fri, 16 Oc",
       "summary": "The AI expectations gap Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlZU9PaGR2ZHhuYnpFb1R2cWp1NnZmV3BtaWRSRmg3cVJOamplNG56dWM3andnUFFmU1NSZzdqVUdBU2IzZG5MeGV2ZjZ5NmVQWFE3S0xQUEVxX3F4dkpTdk5GaDg?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 16 Oc",
+      "summary": "Claude reveals ECDSA curve origins Anthropic",
       "tags": [
         "Anthropic"
       ]
