@@ -4,21 +4,21 @@
   "last_updated": "2026-10-17",
   "papers": [
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 16 Oc",
-      "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Bringing GPT-Rosalind to academic research labs",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 15 Oc",
       "summary": "Bringing GPT-Rosalind to academic research labs OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 16 Oc",
+      "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -49,16 +49,6 @@
       "authors": "OpenAI",
       "published": "Wed, 14 Oc",
       "summary": "The EU’s next chapter in AI is agentic OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Teaching students to think and learn through questions",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUM4cS05YTJBcTliVVRXaW9CVU1tWGFWRVZPWExRMzNpSDNIM0xSc0l6czdLOFFUSFFPN0czQ0l4cG9PeUNjYWVUajlQNF9ZalNZZTJ2S09VRTlqdlE3Y283MW5CLUE5V2hIdXdMX3V6OERkSHVqTWJLWGE2dmFtdHJSREFrb3c?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 15 Oc",
-      "summary": "Teaching students to think and learn through questions OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Wed, 14 Oc",
       "summary": "SentinelOne cuts malware analysis from weeks to hours OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 14 Oc",
+      "summary": "Amp puts AI agents to work beyond code with OpenAI models OpenAI",
       "tags": [
         "OpenAI"
       ]
