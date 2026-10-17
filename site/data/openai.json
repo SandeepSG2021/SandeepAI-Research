@@ -14,6 +14,16 @@
       ]
     },
     {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 16 Oc",
+      "summary": "How Itaú is building generative AI for its entire customer base OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Bringing GPT-Rosalind to academic research labs",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
       "authors": "OpenAI",
@@ -54,31 +64,11 @@
       ]
     },
     {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 07 Oc",
-      "summary": "GPT-6 and Intelligent UI for everyone OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Sharing AI progress in mathematics",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
       "authors": "OpenAI",
       "published": "Tue, 06 Oc",
       "summary": "Sharing AI progress in mathematics OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 14 Oc",
-      "summary": "Amp puts AI agents to work beyond code with OpenAI models OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -94,11 +84,21 @@
       ]
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPbGxlYk5TUUh6Y0dzR01PeVFaOUxMNGNIeXdtSjhzTG55WGVwdTVqYWZ0bjg3WFFxdmJuSTFBeEh2RjJ0RlNPajlYSkpSQQ?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 29 Se",
-      "summary": "Introducing GPT-6.1 Sol OpenAI",
+      "published": "Wed, 14 Oc",
+      "summary": "SentinelOne cuts malware analysis from weeks to hours OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 14 Oc",
+      "summary": "Amp puts AI agents to work beyond code with OpenAI models OpenAI",
       "tags": [
         "OpenAI"
       ]
