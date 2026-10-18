@@ -54,16 +54,6 @@
       ]
     },
     {
-      "title": "Introducing dots",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 29 Se",
-      "summary": "Introducing dots OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Teaching students to think and learn through questions",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUM4cS05YTJBcTliVVRXaW9CVU1tWGFWRVZPWExRMzNpSDNIM0xSc0l6czdLOFFUSFFPN0czQ0l4cG9PeUNjYWVUajlQNF9ZalNZZTJ2S09VRTlqdlE3Y283MW5CLUE5V2hIdXdMX3V6OERkSHVqTWJLWGE2dmFtdHJSREFrb3c?oc=5",
       "authors": "OpenAI",
@@ -77,7 +67,7 @@
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 14 Oc",
+      "published": "Tue, 13 Oc",
       "summary": "Amp puts AI agents to work beyond code with OpenAI models OpenAI",
       "tags": [
         "OpenAI"
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Wed, 30 No",
       "summary": "Introducing ChatGPT OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RVzNoUThNYkhfTXVTUGVoT3lLXzNfSFV5Y0IzLWR6YVhEaGhLeEllQ3lXbDVCYnlXSDMwYzBnLXBpWXZoVW1DMmpCQ085UUFFYWkzOG83NDc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 11 Fe",
+      "summary": "Harness engineering: leveraging Codex in an agent-first world OpenAI",
       "tags": [
         "OpenAI"
       ]
