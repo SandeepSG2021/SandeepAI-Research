@@ -4,6 +4,16 @@
   "last_updated": "2026-10-18",
   "papers": [
     {
+      "title": "Investing in the public benefit",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
+      "authors": "Anthropic",
+      "published": "Sun, 18 Oc",
+      "summary": "Investing in the public benefit Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "How employment is changing at Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mOWJENVFMYm9BOWdRbjJXSllRMVJ3ZXh6RkMwQmJlWElqUU9TTENEamlIanRkSXE4UnRaRDROSnZNTXBGM0NoVGNDWkpXZEtrUHRzdlFNSEhVVjBjalloX1ZTQm5LX2RKRXc?oc=5",
       "authors": "Anthropic",
@@ -24,21 +34,21 @@
       ]
     },
     {
-      "title": "The AI expectations gap",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 16 Oc",
-      "summary": "The AI expectations gap Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Claude reveals ECDSA curve origins",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlZU9PaGR2ZHhuYnpFb1R2cWp1NnZmV3BtaWRSRmg3cVJOamplNG56dWM3andnUFFmU1NSZzdqVUdBU2IzZG5MeGV2ZjZ5NmVQWFE3S0xQUEVxX3F4dkpTdk5GaDg?oc=5",
       "authors": "Anthropic",
       "published": "Fri, 16 Oc",
       "summary": "Claude reveals ECDSA curve origins Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "The AI expectations gap",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 16 Oc",
+      "summary": "The AI expectations gap Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Fri, 09 Oc",
       "summary": "Investigating unintended model actions in our evaluations and internal use Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Using Claude Science to produce the first complete map of the sky in UV light",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMnp6UURINkFSMTYxWUIwUkhnTkRQLWhjYS1tMFZ5VU1acWY5STFDRDcyVXJVN3JfdXU0bmMxd0VPaG9tM1NDcUJHTENGbHdLVkxLa1ZQUVY5enJIVndMYVRRem9Idmdmei1ZTWVR?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 08 Oc",
-      "summary": "Using Claude Science to produce the first complete map of the sky in UV light Anthropic",
       "tags": [
         "Anthropic"
       ]
