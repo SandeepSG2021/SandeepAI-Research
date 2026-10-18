@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-17",
+  "last_updated": "2026-10-18",
   "papers": [
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
@@ -24,21 +24,21 @@
       ]
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 16 Oc",
-      "summary": "How Itaú is building generative AI for its entire customer base OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0c2UGZGcXdhWnY1ampSMHJhUW9ZWUVGSGpVQWx3eTlGUzliVUQ1N3NVXzZXaGtkTkR0LW9uUDNpNjM4YWEyaVkxZlhwSGdPbHFhZ1d2cjF2ZjA?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 14 Oc",
       "summary": "How Third Moment Research runs 10,000 agents for 36+ hours OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 16 Oc",
+      "summary": "How Itaú is building generative AI for its entire customer base OpenAI",
       "tags": [
         "OpenAI"
       ]
