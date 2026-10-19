@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-10-18",
+  "last_updated": "2026-10-19",
   "papers": [
     {
       "title": "Investing in the public benefit",
@@ -64,16 +64,6 @@
       ]
     },
     {
-      "title": "An update on independent evaluators",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 15 Oc",
-      "summary": "An update on independent evaluators Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Strengthening our defenses against distillation attacks",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OcHNZdWYyUWdnYV9lY1lrOGw0MEhIY2dhY0dFbmxXUWd3QjYtanptamV5cEl1TVRXdGhsZnFtRUFUVzlNZXJGNWhnU1g2cDBEMDhEVXVDWUZkZmFPY1BZVEhucjBDY1U?oc=5",
       "authors": "Anthropic",
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Fri, 09 Oc",
       "summary": "Investigating unintended model actions in our evaluations and internal use Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Using Claude Science to produce the first complete map of the sky in UV light",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMnp6UURINkFSMTYxWUIwUkhnTkRQLWhjYS1tMFZ5VU1acWY5STFDRDcyVXJVN3JfdXU0bmMxd0VPaG9tM1NDcUJHTENGbHdLVkxLa1ZQUVY5enJIVndMYVRRem9Idmdmei1ZTWVR?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 08 Oc",
+      "summary": "Using Claude Science to produce the first complete map of the sky in UV light Anthropic",
       "tags": [
         "Anthropic"
       ]

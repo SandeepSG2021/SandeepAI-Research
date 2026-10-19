@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-18",
+  "last_updated": "2026-10-19",
   "papers": [
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
@@ -19,6 +19,16 @@
       "authors": "OpenAI",
       "published": "Wed, 14 Oc",
       "summary": "How Third Moment Research runs 10,000 agents for 36+ hours OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 06 Oc",
+      "summary": "Sharing AI progress in mathematics OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -44,31 +54,11 @@
       ]
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 06 Oc",
-      "summary": "Sharing AI progress in mathematics OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Teaching students to think and learn through questions",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUM4cS05YTJBcTliVVRXaW9CVU1tWGFWRVZPWExRMzNpSDNIM0xSc0l6czdLOFFUSFFPN0czQ0l4cG9PeUNjYWVUajlQNF9ZalNZZTJ2S09VRTlqdlE3Y283MW5CLUE5V2hIdXdMX3V6OERkSHVqTWJLWGE2dmFtdHJSREFrb3c?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 14 Oc",
       "summary": "Teaching students to think and learn through questions OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPbGxlYk5TUUh6Y0dzR01PeVFaOUxMNGNIeXdtSjhzTG55WGVwdTVqYWZ0bjg3WFFxdmJuSTFBeEh2RjJ0RlNPajlYSkpSQQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 14 Oc",
-      "summary": "SentinelOne cuts malware analysis from weeks to hours OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Thu, 11 Ju",
       "summary": "OpenAI API OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 03 Se",
+      "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
       "tags": [
         "OpenAI"
       ]
