@@ -34,16 +34,6 @@
       ]
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 16 Oc",
-      "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "How Itaú is building generative AI for its entire customer base",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
       "authors": "OpenAI",
@@ -84,21 +74,31 @@
       ]
     },
     {
-      "title": "OpenAI API",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11S3JPbDhJSEJ0LTJVZFk4R0tiTE1QWUFmTFB2ZG5WZ3QxQVNTSnhWN0JRZkNESG11dE4yWDY2RFF5SE5RNkY1WnE5ekU?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 11 Ju",
-      "summary": "OpenAI API OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "GPT-6 Astra: A new generation of intelligence",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 03 Se",
       "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 28 Au",
+      "summary": "Our decision on Cursor following its acquisition by SpaceX OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing the Agents API",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoM3lZaDNuLUc5aXZtdTRfY1l3d0VKcGxYaGxkZXlzVmZpR3VRSUoyaWotQ1hxTlZMbGt3SWNOUkwtY3RZNDg5dktGdFlBczhhUFp0V1RnUU83ekwtSm00Wk1n?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 10 Se",
+      "summary": "Introducing the Agents API OpenAI",
       "tags": [
         "OpenAI"
       ]
