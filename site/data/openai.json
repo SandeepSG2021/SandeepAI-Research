@@ -24,11 +24,11 @@
       ]
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 06 Oc",
-      "summary": "Sharing AI progress in mathematics OpenAI",
+      "published": "Fri, 16 Oc",
+      "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -74,16 +74,6 @@
       ]
     },
     {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 03 Se",
-      "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
       "authors": "OpenAI",
@@ -99,6 +89,16 @@
       "authors": "OpenAI",
       "published": "Thu, 10 Se",
       "summary": "Introducing the Agents API OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nUUlhVlJCYnhCcVlKeS1nVV9vTWVHX28wNnpBWXNLWVItRG1JYXctQm1uRmdMSTBfbUpvOU1XNXh1SmxsX2VkSDZFWEFUaVZkTjhaYmlJLXNoYmlOS2NPRGFaRjhWbjA?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 13 Fe",
+      "summary": "GPT-5.2 derives a new result in theoretical physics OpenAI",
       "tags": [
         "OpenAI"
       ]
