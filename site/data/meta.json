@@ -1,8 +1,18 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "papers": [
+    {
+      "title": "Muse Glimmer 30B: An On-Device Agentic Model - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjZZVk1ERVYyQmZEMEZSZE1yTFg4M3hYV0hyMmtqamx2VmgyYldwMTd6MzZmX1hIMkFJSWxhaUdZREo0QUFIWGdEXzhjczNCY0ItVklUQmJPSFFMNVFyNVJoTTY4Z2NjdDBhQmFJX01VTmZaS1NkMW8yc0trcnBxVy1KX3NZcTM1eGY2RUZZbw?oc=5",
+      "authors": "Meta AI",
+      "published": "Mon, 19 Oc",
+      "summary": "Muse Glimmer 30B: An On-Device Agentic Model AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
     {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
@@ -64,21 +74,11 @@
       ]
     },
     {
-      "title": "Introducing Muse Spark 1.1 - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
-      "authors": "Meta AI",
-      "published": "Thu, 09 Ju",
-      "summary": "Introducing Muse Spark 1.1 AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "The Strict Threshold for Gaussian Ellipsoid Fitting - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWkzWTl2SFN4Nk9TdDBzVUNSa0xGaFFIdlFWb2UxRXpvZm13bmRUMXctM3VuS3RhVHZmUFdCZmJTaVF5OUgyQTk0RkJFdzhTR1RXMUJ5ems5eW9fSnlQdGs3M2tPYjBqdzJJY3VvNXhWSWZjSlpiWk5uaVBYSHVwNHR0bVd5ZmZpVXptRFRMSVNjN2RrNlNEXzhn?oc=5",
+      "title": "Semiabelian Groups Need Not Be Monomial - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHlxdWZGd2ZNZlVaUXl0WUZ4aVFITnQtMjVNeExTcUZINVRWcTRpMUtMcGp6dWZtdXJySnZHVERqVTJCSE9BUEkwa29yWVctQVNQX0NYX2VZVkhqTEN0ZGZhLTBNaFJNTzFFT2I3RUpIcmhWTmJvS2pvMFhTaXNhaEFtR0pHaDhEdlE?oc=5",
       "authors": "Meta AI",
       "published": "Fri, 02 Oc",
-      "summary": "The Strict Threshold for Gaussian Ellipsoid Fitting AI at Meta",
+      "summary": "Semiabelian Groups Need Not Be Monomial AI at Meta",
       "tags": [
         "Meta AI"
       ]

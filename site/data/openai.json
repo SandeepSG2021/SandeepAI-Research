@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "papers": [
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
@@ -29,6 +29,16 @@
       "authors": "OpenAI",
       "published": "Fri, 16 Oc",
       "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing dots",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 29 Se",
+      "summary": "Introducing dots OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Thu, 10 Se",
       "summary": "Introducing the Agents API OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nUUlhVlJCYnhCcVlKeS1nVV9vTWVHX28wNnpBWXNLWVItRG1JYXctQm1uRmdMSTBfbUpvOU1XNXh1SmxsX2VkSDZFWEFUaVZkTjhaYmlJLXNoYmlOS2NPRGFaRjhWbjA?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 13 Fe",
-      "summary": "GPT-5.2 derives a new result in theoretical physics OpenAI",
       "tags": [
         "OpenAI"
       ]

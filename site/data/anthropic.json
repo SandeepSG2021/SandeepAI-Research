@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "papers": [
     {
       "title": "Investing in the public benefit",
@@ -34,21 +34,21 @@
       ]
     },
     {
-      "title": "The AI expectations gap",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 16 Oc",
-      "summary": "The AI expectations gap Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Claude reveals ECDSA curve origins",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlZU9PaGR2ZHhuYnpFb1R2cWp1NnZmV3BtaWRSRmg3cVJOamplNG56dWM3andnUFFmU1NSZzdqVUdBU2IzZG5MeGV2ZjZ5NmVQWFE3S0xQUEVxX3F4dkpTdk5GaDg?oc=5",
       "authors": "Anthropic",
       "published": "Fri, 16 Oc",
       "summary": "Claude reveals ECDSA curve origins Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "The AI expectations gap",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 16 Oc",
+      "summary": "The AI expectations gap Anthropic",
       "tags": [
         "Anthropic"
       ]
