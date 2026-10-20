@@ -4,6 +4,16 @@
   "last_updated": "2026-10-20",
   "papers": [
     {
+      "title": "Advancing coding in low‑resource programming languages",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NRVhFQTROZDktT3lCTEV5S3RndURZTlJISmctaThYa2t3dHJoWDNVODBSS2pFa1VrY1FGXzk4S1RncEt4b3hvU1BKbWRYdFB5U21EZmxaTGtEdGluSlpmcnRlVzUxRVdsWnY4dw?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 19 Oc",
+      "summary": "Advancing coding in low‑resource programming languages OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Bringing GPT-Rosalind to academic research labs",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
       "authors": "OpenAI",
@@ -24,11 +34,11 @@
       ]
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
       "authors": "OpenAI",
-      "published": "Fri, 16 Oc",
-      "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI",
+      "published": "Wed, 07 Oc",
+      "summary": "GPT-6 and Intelligent UI for everyone OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -44,21 +54,21 @@
       ]
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
       "authors": "OpenAI",
       "published": "Fri, 16 Oc",
-      "summary": "How Itaú is building generative AI for its entire customer base OpenAI",
+      "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin OpenAI",
       "tags": [
         "OpenAI"
       ]
     },
     {
-      "title": "Teaching students to think and learn through questions",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUM4cS05YTJBcTliVVRXaW9CVU1tWGFWRVZPWExRMzNpSDNIM0xSc0l6czdLOFFUSFFPN0czQ0l4cG9PeUNjYWVUajlQNF9ZalNZZTJ2S09VRTlqdlE3Y283MW5CLUE5V2hIdXdMX3V6OERkSHVqTWJLWGE2dmFtdHJSREFrb3c?oc=5",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 14 Oc",
-      "summary": "Teaching students to think and learn through questions OpenAI",
+      "published": "Fri, 16 Oc",
+      "summary": "How Itaú is building generative AI for its entire customer base OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -84,21 +94,11 @@
       ]
     },
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
+      "title": "Introducing ChatGPT Images 2.5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
       "authors": "OpenAI",
-      "published": "Fri, 28 Au",
-      "summary": "Our decision on Cursor following its acquisition by SpaceX OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Introducing the Agents API",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoM3lZaDNuLUc5aXZtdTRfY1l3d0VKcGxYaGxkZXlzVmZpR3VRSUoyaWotQ1hxTlZMbGt3SWNOUkwtY3RZNDg5dktGdFlBczhhUFp0V1RnUU83ekwtSm00Wk1n?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 10 Se",
-      "summary": "Introducing the Agents API OpenAI",
+      "published": "Tue, 08 Se",
+      "summary": "Introducing ChatGPT Images 2.5 OpenAI",
       "tags": [
         "OpenAI"
       ]
