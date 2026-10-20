@@ -4,6 +4,16 @@
   "last_updated": "2026-10-20",
   "papers": [
     {
+      "title": "Called to serve: Tech, research, and positive impact",
+      "link": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+      "authors": "Weishung Liu, Chris White",
+      "published": "Tue, 20 Oc",
+      "summary": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more. The post Called to serve: Tech, research, and positive impact appeared first on Microsoft Research .",
+      "tags": [
+        "Microsoft Research Podcast"
+      ]
+    },
+    {
       "title": "Proof-based general-purpose computing with Magnetar",
       "link": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
       "authors": "Srinath Setty",
@@ -89,16 +99,6 @@
       "authors": "Felix Pultar, John Gardner, Guoqing Liu, Marwin Segler",
       "published": "Mon, 21 Se",
       "summary": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving synthesis prediction of small molecules at scale with RetroChimera appeared first on Microsoft Research .",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
-      "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
-      "authors": "Naoto Usuyama, Jeya Maria Jose Valanarasu, Tristan Naumann",
-      "published": "Mon, 31 Au",
-      "summary": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration. The post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
