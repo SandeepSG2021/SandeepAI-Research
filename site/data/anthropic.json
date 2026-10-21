@@ -7,18 +7,8 @@
       "title": "Redesigning source control at Anthropic",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMFBucHdNeF8ycUFnZVdiOWlUREIxekVqT1IyWGlicVpWeUY5aFI5Z19TU25Ta2VuaS05SXo4ZlA2aW9iUVZJS3duYTBmXzNDX3JqVlpCakttR1JFejZ6NnhjRzBYZlpXOFBRU2V3?oc=5",
       "authors": "Anthropic",
-      "published": "Wed, 14 Oc",
+      "published": "Tue, 13 Oc",
       "summary": "Redesigning source control at Anthropic Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Investing in the public benefit",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
-      "authors": "Anthropic",
-      "published": "Sun, 18 Oc",
-      "summary": "Investing in the public benefit Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -34,11 +24,61 @@
       ]
     },
     {
+      "title": "Using Claude to reduce the attack surface of code",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZS2tNLWxGRlIzaHJvVTlwMExjckxUMDJ4VUhiaGMyZFBXRmc1T25HbjFkWFdtS3pSbWJWS01nNjFPelZEd3JLdENNUlR1QmtHVWJCNzI0VG9YbDZmdmdFdEN0VlhZSW5CZlVR?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 20 Oc",
+      "summary": "Using Claude to reduce the attack surface of code Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Investing in the public benefit",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
+      "authors": "Anthropic",
+      "published": "Sun, 18 Oc",
+      "summary": "Investing in the public benefit Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Announcements",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 20 Oc",
+      "summary": "Announcements Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "How employment is changing at Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mOWJENVFMYm9BOWdRbjJXSllRMVJ3ZXh6RkMwQmJlWElqUU9TTENEamlIanRkSXE4UnRaRDROSnZNTXBGM0NoVGNDWkpXZEtrUHRzdlFNSEhVVjBjalloX1ZTQm5LX2RKRXc?oc=5",
       "authors": "Anthropic",
       "published": "Fri, 16 Oc",
       "summary": "How employment is changing at Anthropic Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Working at the frontier shapes expectations for the future",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QM0duQ25GemxVSnNkMzJPRDJGMjRHdzY0R0lBbXZIR2liVmJiUjJaeTJ1Yk1Rbzhua2RqMVNJTjZtdUNIUzNLSFNXSEcxNzZ1aEU5akVoaEIyS3BLX3BSQjhvZS1IWDNFOWZUbktxWQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 16 Oc",
+      "summary": "Working at the frontier shapes expectations for the future Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "The AI expectations gap",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
+      "authors": "Anthropic",
+      "published": "Fri, 16 Oc",
+      "summary": "The AI expectations gap Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -59,46 +99,6 @@
       "authors": "Anthropic",
       "published": "Fri, 16 Oc",
       "summary": "Designing more efficient quantum circuits with Claude Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "The AI expectations gap",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 16 Oc",
-      "summary": "The AI expectations gap Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Working at the frontier shapes expectations for the future",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QM0duQ25GemxVSnNkMzJPRDJGMjRHdzY0R0lBbXZIR2liVmJiUjJaeTJ1Yk1Rbzhua2RqMVNJTjZtdUNIUzNLSFNXSEcxNzZ1aEU5akVoaEIyS3BLX3BSQjhvZS1IWDNFOWZUbktxWQ?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 16 Oc",
-      "summary": "Working at the frontier shapes expectations for the future Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Strengthening our defenses against distillation attacks",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OcHNZdWYyUWdnYV9lY1lrOGw0MEhIY2dhY0dFbmxXUWd3QjYtanptamV5cEl1TVRXdGhsZnFtRUFUVzlNZXJGNWhnU1g2cDBEMDhEVXVDWUZkZmFPY1BZVEhucjBDY1U?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 12 Oc",
-      "summary": "Strengthening our defenses against distillation attacks Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRTnpIbVhZdVJZa2ZyVy1Namo1b3Qxcm5IVEVJcmllZ0tITVJkd1FKTjBJazBDU3JRX055UHdkTUxtM0hQbG1aSmpKaFZxMFRTU1YzUzNtWi1jU2hiUjR6c3E5VWk?oc=5",
-      "authors": "Anthropic",
-      "published": "Mon, 12 Oc",
-      "summary": "AI models may be capable of self-replicating without access to a datacenter Anthropic",
       "tags": [
         "Anthropic"
       ]

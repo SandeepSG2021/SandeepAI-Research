@@ -4,6 +4,17 @@
   "last_updated": "2026-10-21",
   "papers": [
     {
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "authors": "Nitin Gajria",
+      "published": "Wed, 21 Oc",
+      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
+      "tags": [
+        "Google in Asia",
+        "AI"
+      ]
+    },
+    {
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "authors": "Koray Kavukcuoglu",
@@ -97,17 +108,6 @@
       "published": "Tue, 15 Se",
       "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Building AI to accelerate science and improve lives",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "authors": "James Manyika",
-      "published": "Tue, 15 Se",
-      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
-      "tags": [
-        "Google Research",
         "AI"
       ]
     }
