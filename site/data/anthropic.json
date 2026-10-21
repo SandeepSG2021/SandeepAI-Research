@@ -4,6 +4,16 @@
   "last_updated": "2026-10-21",
   "papers": [
     {
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Wed, 21 Oc",
+      "summary": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Using Claude to reduce the attack surface of code",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZS2tNLWxGRlIzaHJvVTlwMExjckxUMDJ4VUhiaGMyZFBXRmc1T25HbjFkWFdtS3pSbWJWS01nNjFPelZEd3JLdENNUlR1QmtHVWJCNzI0VG9YbDZmdmdFdEN0VlhZSW5CZlVR?oc=5",
       "authors": "Anthropic",
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Fri, 16 Oc",
       "summary": "Designing more efficient quantum circuits with Claude Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Announcements",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 20 Oc",
-      "summary": "Announcements Anthropic",
       "tags": [
         "Anthropic"
       ]
