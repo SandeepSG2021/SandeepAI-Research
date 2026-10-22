@@ -1,8 +1,18 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-21",
+  "last_updated": "2026-10-22",
   "papers": [
+    {
+      "title": "Broad access through consistent standards",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZbmliRnNKTFhtVU93U2NHcUZCY2JUdW1QZ0o2RzdmTnpPMVdmOG9Sd1N4aWZCRzEyVUE4YzVmamJqYXdJWWJUWnpsM2tJNWdubU13VHQzNUtNSHJIUTZaUHk0TVViMUVtMUlHUTVEOEJyVlo3VHc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 21 Oc",
+      "summary": "Broad access through consistent standards OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
@@ -34,21 +44,21 @@
       ]
     },
     {
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM29PNTRvNFBMbEFhQldaQ2lqX0VXWHdtRE1HUVp3SVRabmtXQlRqSFlJNXhMNEhMeXk4Q3YtOVlRTVA4bjZQNENfb0EwSnJaZ1R4VVZDRWx2ZTR3SDBSWA?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 21 Oc",
       "summary": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM29PNTRvNFBMbEFhQldaQ2lqX0VXWHdtRE1HUVp3SVRabmtXQlRqSFlJNXhMNEhMeXk4Q3YtOVlRTVA4bjZQNENfb0EwSnJaZ1R4VVZDRWx2ZTR3SDBSWA?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 21 Oc",
+      "summary": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 20 Oc",
       "summary": "Franchisee reconciles cash in 94% less time with ChatGPT Work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 15 Oc",
-      "summary": "Bringing GPT-Rosalind to academic research labs OpenAI",
       "tags": [
         "OpenAI"
       ]
