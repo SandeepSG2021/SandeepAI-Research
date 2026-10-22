@@ -4,6 +4,16 @@
   "last_updated": "2026-10-22",
   "papers": [
     {
+      "title": "Flint-interactive: A language for creating interactive data visualizations",
+      "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+      "authors": "Chenglong Wang, Yuwei Xiao, Alper Sarikaya, Michel Galley, Chris Quirk, Jianfeng Gao",
+      "published": "Thu, 22 Oc",
+      "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualizations appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
       "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
       "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
       "authors": "Xinzhi Zhang",
@@ -89,16 +99,6 @@
       "authors": "Microsoft Research Team",
       "published": "Mon, 28 Se",
       "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value. The post One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact appeared first on Microsoft Research .",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "Offloaded inference for real-world physical AI robotics",
-      "link": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
-      "authors": "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
-      "published": "Wed, 23 Se",
-      "summary": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads. The post Offloaded inference for real-world physical AI robotics appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]

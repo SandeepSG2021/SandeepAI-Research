@@ -4,16 +4,6 @@
   "last_updated": "2026-10-22",
   "papers": [
     {
-      "title": "Broad access through consistent standards",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZbmliRnNKTFhtVU93U2NHcUZCY2JUdW1QZ0o2RzdmTnpPMVdmOG9Sd1N4aWZCRzEyVUE4YzVmamJqYXdJWWJUWnpsM2tJNWdubU13VHQzNUtNSHJIUTZaUHk0TVViMUVtMUlHUTVEOEJyVlo3VHc?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "Broad access through consistent standards OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
       "authors": "OpenAI",
@@ -59,6 +49,16 @@
       "authors": "OpenAI",
       "published": "Wed, 21 Oc",
       "summary": "OpenAI models are coming to Google Cloud OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZbmliRnNKTFhtVU93U2NHcUZCY2JUdW1QZ0o2RzdmTnpPMVdmOG9Sd1N4aWZCRzEyVUE4YzVmamJqYXdJWWJUWnpsM2tJNWdubU13VHQzNUtNSHJIUTZaUHk0TVViMUVtMUlHUTVEOEJyVlo3VHc?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 21 Oc",
+      "summary": "Broad access through consistent standards OpenAI",
       "tags": [
         "OpenAI"
       ]
