@@ -4,6 +4,26 @@
   "last_updated": "2026-10-22",
   "papers": [
     {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 22 Oc",
+      "summary": "Uber brings ChatGPT Work to all employees with OpenAI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NEd6UTZDdVRiaUFfUEdtMDZuRk1CVDR2QnFLN29TU2tfaDEzV1RUMUVQNDFKT1A5QkQ4eVRxX3BvenlYNGJpNEV4WjBMZnJWY1c4TjFna0M4QzFLRWpXeG1IbVJIUnNYcGNXUw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 22 Oc",
+      "summary": "What FDE means at OpenAI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
       "authors": "OpenAI",
@@ -34,21 +54,21 @@
       ]
     },
     {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "OpenAI models are coming to Google Cloud",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 21 Oc",
       "summary": "OpenAI models are coming to Google Cloud OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 21 Oc",
+      "summary": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 19 Oc",
       "summary": "Advancing coding in low‑resource programming languages OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02dDdIYUFlOWx4LVR0LURHaU9SNkxnd3c2aFhKeEhhYzRuSUhkLTBQYVJBMGVaSE8xdzRGdVBGRmZDcUJ6Mkx5eHpuSQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "How AT&T is rethinking in-house legal work with OpenAI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VVWNyNXNMMWw5eV95T0x1REJKYlZzTnBEX2xUN2YxYkk2VVUxWXFSd0wtQ0N5WEJFYWNhU3hJSGxzcjVpVEViLXBBSEZSdlBUZlMtZC0tNUdDcW4wSURrNHBR?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "Democratic governance of frontier AI, part II: Empowering cyber defenders OpenAI",
       "tags": [
         "OpenAI"
       ]

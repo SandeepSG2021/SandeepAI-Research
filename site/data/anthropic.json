@@ -4,6 +4,16 @@
   "last_updated": "2026-10-22",
   "papers": [
     {
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 22 Oc",
+      "summary": "Donating Agent Skills to the Agentic AI Foundation Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5",
       "authors": "Anthropic",
@@ -64,16 +74,6 @@
       ]
     },
     {
-      "title": "The AI expectations gap",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 16 Oc",
-      "summary": "The AI expectations gap Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Claude reveals ECDSA curve origins",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlZU9PaGR2ZHhuYnpFb1R2cWp1NnZmV3BtaWRSRmg3cVJOamplNG56dWM3andnUFFmU1NSZzdqVUdBU2IzZG5MeGV2ZjZ5NmVQWFE3S0xQUEVxX3F4dkpTdk5GaDg?oc=5",
       "authors": "Anthropic",
@@ -84,11 +84,11 @@
       ]
     },
     {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdmhqUzNHN09EMF9VUnNTcmlMTlpDVnlnTmxNa0tVY3h1bjJ4bmVDSWROR3JoRTgxb0dQcWYzNGF4dE9YYlNpRDlKVEx6OEVyM3RnY0R6WVRiZERYRVRtcnJ4WF9ZNWZFWVQ2a1Q5UFRnM2xYM0U5akZzOA?oc=5",
+      "title": "The AI expectations gap",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
       "authors": "Anthropic",
       "published": "Fri, 16 Oc",
-      "summary": "Designing more efficient quantum circuits with Claude Anthropic",
+      "summary": "The AI expectations gap Anthropic",
       "tags": [
         "Anthropic"
       ]
