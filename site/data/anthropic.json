@@ -4,11 +4,11 @@
   "last_updated": "2026-10-23",
   "papers": [
     {
-      "title": "Open call for guest investigators in the life sciences",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc?oc=5",
+      "title": "An alignment assessment of the UK AISI cybertesting incident",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hcjNRbVFacnhzLWNNYnRkSTlVM2FkMnotYTd0MEpwTmlsQ2N1NlVPdjJjdXJhNG9FbC14d3FIR3pVaEh0SEdIamRWWmNTazRXVGNxbFg3dEFZN0RQT0tVcWpWZlpGTlZYb29uTW9PQQ?oc=5",
       "authors": "Anthropic",
-      "published": "Thu, 22 Oc",
-      "summary": "Open call for guest investigators in the life sciences Anthropic",
+      "published": "Fri, 23 Oc",
+      "summary": "An alignment assessment of the UK AISI cybertesting incident Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -19,6 +19,16 @@
       "authors": "Anthropic",
       "published": "Thu, 22 Oc",
       "summary": "LLMs are making formal software verification feasible at a much larger scale Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Open call for guest investigators in the life sciences",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 22 Oc",
+      "summary": "Open call for guest investigators in the life sciences Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -89,16 +99,6 @@
       "authors": "Anthropic",
       "published": "Fri, 16 Oc",
       "summary": "How employment is changing at Anthropic Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Claude reveals ECDSA curve origins",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlZU9PaGR2ZHhuYnpFb1R2cWp1NnZmV3BtaWRSRmg3cVJOamplNG56dWM3andnUFFmU1NSZzdqVUdBU2IzZG5MeGV2ZjZ5NmVQWFE3S0xQUEVxX3F4dkpTdk5GaDg?oc=5",
-      "authors": "Anthropic",
-      "published": "Fri, 16 Oc",
-      "summary": "Claude reveals ECDSA curve origins Anthropic",
       "tags": [
         "Anthropic"
       ]

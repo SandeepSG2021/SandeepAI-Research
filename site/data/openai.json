@@ -4,16 +4,6 @@
   "last_updated": "2026-10-23",
   "papers": [
     {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 23 Oc",
-      "summary": "OpenAI and Poland’s NASK partner to advance AI safety and security OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Build more responsive apps with the Decisions API",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
       "authors": "OpenAI",
@@ -44,31 +34,41 @@
       ]
     },
     {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "Using thousands of AI agents to uncover new leads in biological data OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM29PNTRvNFBMbEFhQldaQ2lqX0VXWHdtRE1HUVp3SVRabmtXQlRqSFlJNXhMNEhMeXk4Q3YtOVlRTVA4bjZQNENfb0EwSnJaZ1R4VVZDRWx2ZTR3SDBSWA?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "OpenAI models are coming to Google Cloud",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 21 Oc",
       "summary": "OpenAI models are coming to Google Cloud OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 23 Oc",
+      "summary": "OpenAI and Poland’s NASK partner to advance AI safety and security OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 20 Oc",
+      "summary": "OpenAI acquires Orchestra Bio OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 21 Oc",
+      "summary": "Using thousands of AI agents to uncover new leads in biological data OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5",
+      "title": "Securing our frontier model training environment",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5",
       "authors": "OpenAI",
-      "published": "Thu, 22 Oc",
-      "summary": "Uber brings ChatGPT Work to all employees with OpenAI OpenAI",
+      "published": "Fri, 23 Oc",
+      "summary": "Securing our frontier model training environment OpenAI",
       "tags": [
         "OpenAI"
       ]
     },
     {
-      "title": "OpenAI acquires Orchestra Bio",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
+      "title": "Advancing coding in low‑resource programming languages",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NRVhFQTROZDktT3lCTEV5S3RndURZTlJISmctaThYa2t3dHJoWDNVODBSS2pFa1VrY1FGXzk4S1RncEt4b3hvU1BKbWRYdFB5U21EZmxaTGtEdGluSlpmcnRlVzUxRVdsWnY4dw?oc=5",
       "authors": "OpenAI",
-      "published": "Tue, 20 Oc",
-      "summary": "OpenAI acquires Orchestra Bio OpenAI",
+      "published": "Mon, 19 Oc",
+      "summary": "Advancing coding in low‑resource programming languages OpenAI",
       "tags": [
         "OpenAI"
       ]
