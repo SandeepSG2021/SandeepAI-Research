@@ -4,6 +4,16 @@
   "last_updated": "2026-10-23",
   "papers": [
     {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 23 Oc",
+      "summary": "OpenAI and Poland’s NASK partner to advance AI safety and security OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Build more responsive apps with the Decisions API",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
       "authors": "OpenAI",
@@ -14,21 +24,21 @@
       ]
     },
     {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 22 Oc",
-      "summary": "Uber brings ChatGPT Work to all employees with OpenAI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "What FDE means at OpenAI",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NEd6UTZDdVRiaUFfUEdtMDZuRk1CVDR2QnFLN29TU2tfaDEzV1RUMUVQNDFKT1A5QkQ4eVRxX3BvenlYNGJpNEV4WjBMZnJWY1c4TjFna0M4QzFLRWpXeG1IbVJIUnNYcGNXUw?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 22 Oc",
       "summary": "What FDE means at OpenAI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 22 Oc",
+      "summary": "Uber brings ChatGPT Work to all employees with OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -54,21 +64,21 @@
       ]
     },
     {
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "OpenAI models are coming to Google Cloud OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM29PNTRvNFBMbEFhQldaQ2lqX0VXWHdtRE1HUVp3SVRabmtXQlRqSFlJNXhMNEhMeXk4Q3YtOVlRTVA4bjZQNENfb0EwSnJaZ1R4VVZDRWx2ZTR3SDBSWA?oc=5",
       "authors": "OpenAI",
       "published": "Wed, 21 Oc",
       "summary": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 21 Oc",
+      "summary": "OpenAI models are coming to Google Cloud OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Tue, 20 Oc",
       "summary": "OpenAI acquires Orchestra Bio OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZbmliRnNKTFhtVU93U2NHcUZCY2JUdW1QZ0o2RzdmTnpPMVdmOG9Sd1N4aWZCRzEyVUE4YzVmamJqYXdJWWJUWnpsM2tJNWdubU13VHQzNUtNSHJIUTZaUHk0TVViMUVtMUlHUTVEOEJyVlo3VHc?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "Broad access through consistent standards OpenAI",
       "tags": [
         "OpenAI"
       ]
