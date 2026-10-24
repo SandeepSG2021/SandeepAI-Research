@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-10-24",
   "papers": [
     {
       "title": "An alignment assessment of the UK AISI cybertesting incident",
@@ -44,21 +44,21 @@
       ]
     },
     {
-      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5",
-      "authors": "Anthropic",
-      "published": "Wed, 21 Oc",
-      "summary": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Using Claude to reduce the attack surface of code",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZS2tNLWxGRlIzaHJvVTlwMExjckxUMDJ4VUhiaGMyZFBXRmc1T25HbjFkWFdtS3pSbWJWS01nNjFPelZEd3JLdENNUlR1QmtHVWJCNzI0VG9YbDZmdmdFdEN0VlhZSW5CZlVR?oc=5",
       "authors": "Anthropic",
       "published": "Tue, 20 Oc",
       "summary": "Using Claude to reduce the attack surface of code Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Wed, 21 Oc",
+      "summary": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust Anthropic",
       "tags": [
         "Anthropic"
       ]

@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-10-24",
   "papers": [
     {
       "title": "Securing our frontier model training environment",

@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-10-24",
   "papers": [
     {
       "title": "Muse Glimmer 30B: An On-Device Agentic Model | Research - AI at Meta",
@@ -9,16 +9,6 @@
       "authors": "Meta AI",
       "published": "Mon, 19 Oc",
       "summary": "Muse Glimmer 30B: An On-Device Agentic Model | Research AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 11 Ja",
-      "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -64,21 +54,21 @@
       ]
     },
     {
-      "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
-      "authors": "Meta AI",
-      "published": "Sat, 05 Ap",
-      "summary": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "AI at Meta Blog - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE04ZDBzNjRjOWd2VENjOG1ud3hfWUpSNU5yU3pZcnhhRldOcEU5VXFwR0U4dVBfUUZmQ2JITWhB?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 12 Ju",
       "summary": "AI at Meta Blog AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
+      "authors": "Meta AI",
+      "published": "Sat, 05 Ap",
+      "summary": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -99,6 +89,16 @@
       "authors": "Meta AI",
       "published": "Fri, 04 Oc",
       "summary": "Meta Movie Gen AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Brain-to-Text Decoding: A Non-invasive Approach via Typing - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzFPSmpHZTBYUlY0NjhNQ0VPLURXZTlSYjFwNndhemV0X04tVzlaWlByMjN4VkVBaGRKQkt5elJQNU9aRHpBZS14bUNrN05zSldwUTlNemxMME9aTjhHaDVzUWRLLWtfdnJiczE3SjJhOWpmUFQ5Nm5KY1VpLVlHcjhuTk1Yd2NtbUc4NWhBeEhLUUJpOUw3bEFEd1pFM19QVFE?oc=5",
+      "authors": "Meta AI",
+      "published": "Thu, 06 Fe",
+      "summary": "Brain-to-Text Decoding: A Non-invasive Approach via Typing AI at Meta",
       "tags": [
         "Meta AI"
       ]
