@@ -54,26 +54,6 @@
       ]
     },
     {
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM29PNTRvNFBMbEFhQldaQ2lqX0VXWHdtRE1HUVp3SVRabmtXQlRqSFlJNXhMNEhMeXk4Q3YtOVlRTVA4bjZQNENfb0EwSnJaZ1R4VVZDRWx2ZTR3SDBSWA?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "OpenAI models are coming to Google Cloud OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5",
       "authors": "OpenAI",
@@ -84,11 +64,31 @@
       ]
     },
     {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM29PNTRvNFBMbEFhQldaQ2lqX0VXWHdtRE1HUVp3SVRabmtXQlRqSFlJNXhMNEhMeXk4Q3YtOVlRTVA4bjZQNENfb0EwSnJaZ1R4VVZDRWx2ZTR3SDBSWA?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 21 Oc",
+      "summary": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "OpenAI acquires Orchestra Bio",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
       "authors": "OpenAI",
       "published": "Tue, 20 Oc",
       "summary": "OpenAI acquires Orchestra Bio OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 21 Oc",
+      "summary": "OpenAI models are coming to Google Cloud OpenAI",
       "tags": [
         "OpenAI"
       ]
