@@ -4,6 +4,18 @@
   "last_updated": "2026-10-26",
   "papers": [
     {
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "authors": "Ronit Levavi Morad",
+      "published": "Mon, 26 Oc",
+      "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+      "tags": [
+        "Learning & Education",
+        "Google Research",
+        "AI"
+      ]
+    },
+    {
       "title": "Southeast Asia’s digital economy to hit $368 billion",
       "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "authors": "Nitin Gajria",
@@ -97,16 +109,6 @@
       "authors": "Prem Ramaswami",
       "published": "Thu, 17 Se",
       "summary": "UN System Data Commons Data webpage",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "AI for Societal Impact",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "authors": "Google AI Blog",
-      "published": "Tue, 15 Se",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
       "tags": [
         "AI"
       ]
