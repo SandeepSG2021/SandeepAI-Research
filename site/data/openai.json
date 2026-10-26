@@ -4,6 +4,36 @@
   "last_updated": "2026-10-26",
   "papers": [
     {
+      "title": "Introducing GPT-6.1 Terra",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 26 Oc",
+      "summary": "Introducing GPT-6.1 Terra OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03S3BlOGdkTVotcDU2MWFVcENVZE9wS1lCSmduRGQ1WUIzNV9BSkN0Y2ZzSlpscS1nQzFiMTRrcFpwQVBZZC1BZmdhWEtKdXFZZTRTX0dNa19CcHRCQ2w2YnRHaG1kMHZI?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 26 Oc",
+      "summary": "ChatGPT’s expanding world of work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVHFCU09tQ2h3SW1DY2pNR05rYXFDXzd0OVNiUnF0S1JyVm1KUmJNcllJVF9VUnJSYkx5Y1cxci1nYVRlT2hVeG5YTUwxNVFYczF3bTlxVDNJa25ySS0wSWJtR2RqU3dyNk5SQg?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 26 Oc",
+      "summary": "How Fanatics and OpenAI streamline the fan experience OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Securing our frontier model training environment",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5",
       "authors": "OpenAI",
@@ -69,36 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 21 Oc",
       "summary": "Using thousands of AI agents to uncover new leads in biological data OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI acquires Orchestra Bio",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 20 Oc",
-      "summary": "OpenAI acquires Orchestra Bio OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "OpenAI models are coming to Google Cloud OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 15 Oc",
-      "summary": "Bringing GPT-Rosalind to academic research labs OpenAI",
       "tags": [
         "OpenAI"
       ]
