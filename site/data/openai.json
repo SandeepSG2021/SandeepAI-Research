@@ -84,21 +84,21 @@
       ]
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IT2N0TVdZaVRsYnVIbjBIcDhkSXEyMXk1TVBkZHYxWGdObThELUNnbm9qOWdJOS1yTHhLNzVtdFNtUUhfN3RPeVIzTFZKVi1za3ptVjFnTUFNSFJSUUhhLWFoZnhsSjBDcjd5UHV4RHN0V0huSXhj?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 23 Oc",
-      "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "What FDE means at OpenAI",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NEd6UTZDdVRiaUFfUEdtMDZuRk1CVDR2QnFLN29TU2tfaDEzV1RUMUVQNDFKT1A5QkQ4eVRxX3BvenlYNGJpNEV4WjBMZnJWY1c4TjFna0M4QzFLRWpXeG1IbVJIUnNYcGNXUw?oc=5",
       "authors": "OpenAI",
       "published": "Thu, 22 Oc",
       "summary": "What FDE means at OpenAI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 22 Oc",
+      "summary": "Build more responsive apps with the Decisions API OpenAI",
       "tags": [
         "OpenAI"
       ]
