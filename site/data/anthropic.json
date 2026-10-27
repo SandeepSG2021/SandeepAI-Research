@@ -54,16 +54,6 @@
       ]
     },
     {
-      "title": "Using Claude to reduce the attack surface of code",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZS2tNLWxGRlIzaHJvVTlwMExjckxUMDJ4VUhiaGMyZFBXRmc1T25HbjFkWFdtS3pSbWJWS01nNjFPelZEd3JLdENNUlR1QmtHVWJCNzI0VG9YbDZmdmdFdEN0VlhZSW5CZlVR?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 20 Oc",
-      "summary": "Using Claude to reduce the attack surface of code Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Redesigning source control at Anthropic",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMFBucHdNeF8ycUFnZVdiOWlUREIxekVqT1IyWGlicVpWeUY5aFI5Z19TU25Ta2VuaS05SXo4ZlA2aW9iUVZJS3duYTBmXzNDX3JqVlpCakttR1JFejZ6NnhjRzBYZlpXOFBRU2V3?oc=5",
       "authors": "Anthropic",
@@ -99,6 +89,16 @@
       "authors": "Anthropic",
       "published": "Fri, 16 Oc",
       "summary": "How employment is changing at Anthropic Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Announcements",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 20 Oc",
+      "summary": "Announcements Anthropic",
       "tags": [
         "Anthropic"
       ]
