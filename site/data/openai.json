@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-27",
   "papers": [
     {
       "title": "Introducing GPT-6.1 Terra",
@@ -19,6 +19,16 @@
       "authors": "OpenAI",
       "published": "Mon, 26 Oc",
       "summary": "ChatGPT’s expanding world of work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NZVQ2WVFsSTFYMUtGcm1VSXZLT0VUSGphTmNlNWtpZ2RiN3lfU0dtVjZKU05acWd4UzN3NTIxdEU5bWxvZlB2Z1VPMGFJTUlmYm04bWhxa1NacU55dVNPTTMxODZJRktLXzRB?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 26 Oc",
+      "summary": "How Ultrafast cut incident investigation from hours to minutes at OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Wed, 21 Oc",
       "summary": "How we built ChatGPT’s novel ad stack for user trust and relevance OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "Using thousands of AI agents to uncover new leads in biological data OpenAI",
       "tags": [
         "OpenAI"
       ]
