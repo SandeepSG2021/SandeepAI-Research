@@ -1,8 +1,18 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "papers": [
+    {
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
+      "authors": "Anthropic",
+      "published": "Wed, 28 Oc",
+      "summary": "Expanding our partnership with GSA to bring Claude to all levels of government Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
     {
       "title": "Early progress on accelerating drug development with Claude",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1RcFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn?oc=5",
@@ -19,6 +29,16 @@
       "authors": "Anthropic",
       "published": "Tue, 27 Oc",
       "summary": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "How AI agents shape experts’ judgment calls",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IaTRIX2lBc1kwcDRXenZsRXRxcy1vZWVQVlBGdlJsS1p1bkpOQzBpblRRU0l6elhUa0Z3a0RmOVlaV1NmUlgxU3pQWjE2UTVNcEdMdDBBQ0VobFBMS2k5MS1yQ3dQMzQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 27 Oc",
+      "summary": "How AI agents shape experts’ judgment calls Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -79,26 +99,6 @@
       "authors": "Anthropic",
       "published": "Tue, 13 Oc",
       "summary": "Redesigning source control at Anthropic Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "How Claude designed protein binders against scorpion neurotoxins",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VNkRtQVc2UUZVVmgyWUJOQU5RSjdCMjQ0V1JuczVKVmxoME1pQ295LWZ5a3J1M21SWk1yWUtGQ01pbTN3bFVldVVmc01QLXNYYlBqRi04UnZ4VWR5NzU1dTZuYzFxRVA5enZObVVFeE1sVURIVFp1NGVn?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 20 Oc",
-      "summary": "How Claude designed protein binders against scorpion neurotoxins Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Investing in the public benefit",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
-      "authors": "Anthropic",
-      "published": "Sun, 18 Oc",
-      "summary": "Investing in the public benefit Anthropic",
       "tags": [
         "Anthropic"
       ]

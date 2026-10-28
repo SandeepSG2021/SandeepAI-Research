@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "papers": [
     {
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
@@ -54,11 +54,11 @@
       ]
     },
     {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pOTNhSUYxckRBNnBHTDJEV2ZPZ1M2ZmFNclFvUEk0OWZOakx3UEJzU1ZETnM3VVFMMi1xYVRlWnNoZ3ZyZGlQOFhiaGRuX0c2dXNSVlhBQ0FHWjRMTFY2U0FmNnh0akNQOXc?oc=5",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVHFCU09tQ2h3SW1DY2pNR05rYXFDXzd0OVNiUnF0S1JyVm1KUmJNcllJVF9VUnJSYkx5Y1cxci1nYVRlT2hVeG5YTUwxNVFYczF3bTlxVDNJa25ySS0wSWJtR2RqU3dyNk5SQg?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 26 Oc",
-      "summary": "Greptile takes bug detection beyond code review with GPT-6 Astra OpenAI",
+      "summary": "How Fanatics and OpenAI streamline the fan experience OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -74,31 +74,31 @@
       ]
     },
     {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pOTNhSUYxckRBNnBHTDJEV2ZPZ1M2ZmFNclFvUEk0OWZOakx3UEJzU1ZETnM3VVFMMi1xYVRlWnNoZ3ZyZGlQOFhiaGRuX0c2dXNSVlhBQ0FHWjRMTFY2U0FmNnh0akNQOXc?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 26 Oc",
+      "summary": "Greptile takes bug detection beyond code review with GPT-6 Astra OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IT2N0TVdZaVRsYnVIbjBIcDhkSXEyMXk1TVBkZHYxWGdObThELUNnbm9qOWdJOS1yTHhLNzVtdFNtUUhfN3RPeVIzTFZKVi1za3ptVjFnTUFNSFJSUUhhLWFoZnhsSjBDcjd5UHV4RHN0V0huSXhj?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 23 Oc",
+      "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NZVQ2WVFsSTFYMUtGcm1VSXZLT0VUSGphTmNlNWtpZ2RiN3lfU0dtVjZKU05acWd4UzN3NTIxdEU5bWxvZlB2Z1VPMGFJTUlmYm04bWhxa1NacU55dVNPTTMxODZJRktLXzRB?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 26 Oc",
       "summary": "How Ultrafast cut incident investigation from hours to minutes at OpenAI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "What FDE means at OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NEd6UTZDdVRiaUFfUEdtMDZuRk1CVDR2QnFLN29TU2tfaDEzV1RUMUVQNDFKT1A5QkQ4eVRxX3BvenlYNGJpNEV4WjBMZnJWY1c4TjFna0M4QzFLRWpXeG1IbVJIUnNYcGNXUw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 22 Oc",
-      "summary": "What FDE means at OpenAI OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 22 Oc",
-      "summary": "Build more responsive apps with the Decisions API OpenAI",
       "tags": [
         "OpenAI"
       ]

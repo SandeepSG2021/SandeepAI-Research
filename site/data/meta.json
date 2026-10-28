@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "papers": [
     {
       "title": "Muse Glimmer 30B: An On-Device Agentic Model | Research - AI at Meta",
@@ -39,6 +39,16 @@
       "authors": "Meta AI",
       "published": "Tue, 07 Ju",
       "summary": "Introducing Muse Image and Muse Video AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing SAM 3D: Powerful 3D Reconstruction for Physical World Images - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZNjlIbHBkVnNzZER5X1J3MWkxYl8zNmM4STdsRXgta2tLLXVtd0ZyUEFKWDNpRFZuRDBHTHd1UUNKaWROZnYw?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 19 No",
+      "summary": "Introducing SAM 3D: Powerful 3D Reconstruction for Physical World Images AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -89,16 +99,6 @@
       "authors": "Meta AI",
       "published": "Fri, 04 Ap",
       "summary": "Multi-Token Attention AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "FLAME : Factuality-Aware Alignment for Large Language Models - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2hDNFRPU05nbDNVMWRDaFBLcFZLa2cyMHh4cFdWT2prZ19lSHBTWDJRM1I5SnlzdFpObk10UEJid21fcTlFa1JZUFBndF9XcGRaODRzbjJCUVJheTdrbTdWZDJpczk0dHM5dC1zbS10YWdRYW5jS0w4X3ZDTTEwR3J4WWxhRHFoZVlhaUxmLUVubVRIMGJfZ0lNaUJkeDVHOVJn?oc=5",
-      "authors": "Meta AI",
-      "published": "Tue, 17 De",
-      "summary": "FLAME : Factuality-Aware Alignment for Large Language Models AI at Meta",
       "tags": [
         "Meta AI"
       ]
