@@ -4,6 +4,16 @@
   "last_updated": "2026-10-28",
   "papers": [
     {
+      "title": "Legora is building the agentic operating system for legal work",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 28 Oc",
+      "summary": "Legora is building the agentic operating system for legal work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ca1otcHJaQVN6SUk5ck9iOTRENVdhWW82Q3o4aW9DTjZIaXhhUngxSDFQNXAtbVRkSGh0a1M5OFp4LVM4Qm5HaXJCbHYxMjU2WEVPZG1KZVlLWjhY?oc=5",
       "authors": "OpenAI",
@@ -79,16 +89,6 @@
       "authors": "OpenAI",
       "published": "Fri, 23 Oc",
       "summary": "Securing our frontier model training environment OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IT2N0TVdZaVRsYnVIbjBIcDhkSXEyMXk1TVBkZHYxWGdObThELUNnbm9qOWdJOS1yTHhLNzVtdFNtUUhfN3RPeVIzTFZKVi1za3ptVjFnTUFNSFJSUUhhLWFoZnhsSjBDcjd5UHV4RHN0V0huSXhj?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 23 Oc",
-      "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) OpenAI",
       "tags": [
         "OpenAI"
       ]
