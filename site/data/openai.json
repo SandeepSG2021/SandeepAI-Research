@@ -24,16 +24,6 @@
       ]
     },
     {
-      "title": "Legora is building the agentic operating system for legal work",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 28 Oc",
-      "summary": "Legora is building the agentic operating system for legal work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ca1otcHJaQVN6SUk5ck9iOTRENVdhWW82Q3o4aW9DTjZIaXhhUngxSDFQNXAtbVRkSGh0a1M5OFp4LVM4Qm5HaXJCbHYxMjU2WEVPZG1KZVlLWjhY?oc=5",
       "authors": "OpenAI",
@@ -54,21 +44,21 @@
       ]
     },
     {
-      "title": "Introducing GPT-6.1 Terra",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 26 Oc",
-      "summary": "Introducing GPT-6.1 Terra OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "ChatGPT’s expanding world of work",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03S3BlOGdkTVotcDU2MWFVcENVZE9wS1lCSmduRGQ1WUIzNV9BSkN0Y2ZzSlpscS1nQzFiMTRrcFpwQVBZZC1BZmdhWEtKdXFZZTRTX0dNa19CcHRCQ2w2YnRHaG1kMHZI?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 26 Oc",
       "summary": "ChatGPT’s expanding world of work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIYy1GQVhzVjQ3LTAyVW42QnlOOVZISGJsS05mc0gtRG5WZ2lkVks0REVvcENkYXVPVW1sVUw3dThYY01Ib1FCTUNkanBCMXduYTdGUXFqREdFYUdtVVhsN0ZtT2VoSWJlandTbUxvSVh1OUgxMWc?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 29 Oc",
+      "summary": "How we detect frontier model misalignment OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -84,11 +74,21 @@
       ]
     },
     {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTC1GQUF5NlJ1MHBZcnk5RkN1M254dzUzN3VJM2NyN2JHTGo2OW5ORDlvN0oxUk5IMmN4NS1GMjE1bDhndmh0X2xRNExDS19RNmNSUkJ4LWhsQVBYVEppNElBdi1vaEwxVV9DcmNEdw?oc=5",
+      "title": "Introducing GPT-6.1 Terra",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 26 Oc",
-      "summary": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases OpenAI",
+      "summary": "Introducing GPT-6.1 Terra OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 28 Oc",
+      "summary": "Legora is building the agentic operating system for legal work OpenAI",
       "tags": [
         "OpenAI"
       ]
