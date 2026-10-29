@@ -4,6 +4,26 @@
   "last_updated": "2026-10-29",
   "papers": [
     {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xNEEzYVdFemd2ZlNTclVaYVZ4M0JlcTBSODQ2ODlQRWpkc05hWk5sMDIxVG00OEJCbm8wX284VFBTTm1kUEktV0VlemVUQzI2WWFBNTlOWQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 29 Oc",
+      "summary": "An updated Model Spec for more capable and beneficial AI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIYy1GQVhzVjQ3LTAyVW42QnlOOVZISGJsS05mc0gtRG5WZ2lkVks0REVvcENkYXVPVW1sVUw3dThYY01Ib1FCTUNkanBCMXduYTdGUXFqREdFYUdtVVhsN0ZtT2VoSWJlandTbUxvSVh1OUgxMWc?oc=5",
+      "authors": "OpenAI",
+      "published": "Thu, 29 Oc",
+      "summary": "How we detect frontier model misalignment OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXdEZ3OGhkclFyelppYjhRXzd3dW1mY05Va3hJQWZqWDBXeEJlOURCM2llMG5wV240bEo2bzJPdnNKbDh0a2dBQkRsU2ZCdG9MWHF0dC1YblduV0RKN1ZzY2pEQzdZZFhJdU91R0JUUXFKOUE?oc=5",
       "authors": "OpenAI",
@@ -34,6 +54,16 @@
       ]
     },
     {
+      "title": "Legora is building the agentic operating system for legal work",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 28 Oc",
+      "summary": "Legora is building the agentic operating system for legal work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "Working with academic communities to build scientific understanding",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5",
       "authors": "OpenAI",
@@ -54,16 +84,6 @@
       ]
     },
     {
-      "title": "How we detect frontier model misalignment",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIYy1GQVhzVjQ3LTAyVW42QnlOOVZISGJsS05mc0gtRG5WZ2lkVks0REVvcENkYXVPVW1sVUw3dThYY01Ib1FCTUNkanBCMXduYTdGUXFqREdFYUdtVVhsN0ZtT2VoSWJlandTbUxvSVh1OUgxMWc?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 29 Oc",
-      "summary": "How we detect frontier model misalignment OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVHFCU09tQ2h3SW1DY2pNR05rYXFDXzd0OVNiUnF0S1JyVm1KUmJNcllJVF9VUnJSYkx5Y1cxci1nYVRlT2hVeG5YTUwxNVFYczF3bTlxVDNJa25ySS0wSWJtR2RqU3dyNk5SQg?oc=5",
       "authors": "OpenAI",
@@ -79,26 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 26 Oc",
       "summary": "Introducing GPT-6.1 Terra OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Legora is building the agentic operating system for legal work",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
-      "authors": "OpenAI",
-      "published": "Wed, 28 Oc",
-      "summary": "Legora is building the agentic operating system for legal work OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 23 Oc",
-      "summary": "Securing our frontier model training environment OpenAI",
       "tags": [
         "OpenAI"
       ]
