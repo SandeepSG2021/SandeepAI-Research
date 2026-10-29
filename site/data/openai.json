@@ -1,8 +1,18 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-29",
   "papers": [
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXdEZ3OGhkclFyelppYjhRXzd3dW1mY05Va3hJQWZqWDBXeEJlOURCM2llMG5wV240bEo2bzJPdnNKbDh0a2dBQkRsU2ZCdG9MWHF0dC1YblduV0RKN1ZzY2pEQzdZZFhJdU91R0JUUXFKOUE?oc=5",
+      "authors": "OpenAI",
+      "published": "Wed, 28 Oc",
+      "summary": "OpenAI and ServiceNow expand partnership across enterprise workflows OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
     {
       "title": "Legora is building the agentic operating system for legal work",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
@@ -79,16 +89,6 @@
       "authors": "OpenAI",
       "published": "Mon, 26 Oc",
       "summary": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfS012dGhid2padWk5WHhmcjltT2tzODQyMDUyQzN0cUFNR0VBdUdvYXN3bGJqeWpqV0k3cDV6NmwtazAtWXZZUlJqQzdxYjBxZVI4Q1RmNTFjdw?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 27 Oc",
-      "summary": "How Check Point accelerates vulnerability research with Daybreak OpenAI",
       "tags": [
         "OpenAI"
       ]
