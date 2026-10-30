@@ -1,8 +1,18 @@
 {
   "source": "Microsoft-AI",
   "source_url": "https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/",
-  "last_updated": "2026-10-29",
+  "last_updated": "2026-10-30",
   "papers": [
+    {
+      "title": "Microsoft Research Focus – Edition #97",
+      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+      "authors": "Sowbhagya Suresh",
+      "published": "Thu, 29 Oc",
+      "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus – Edition #97 appeared first on Microsoft Research .",
+      "tags": [
+        "Microsoft Research Podcast"
+      ]
+    },
     {
       "title": "Flint-interactive: A language for creating interactive data visualizations",
       "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
@@ -89,16 +99,6 @@
       "authors": "Nicolo Fusi, Jonathan M. Carlson",
       "published": "Tue, 29 Se",
       "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions. The post Introducing Quine: An AI research system designed for the complexity of biology appeared first on Microsoft Research .",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
-      "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
-      "authors": "Microsoft Research Team",
-      "published": "Mon, 28 Se",
-      "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value. The post One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]

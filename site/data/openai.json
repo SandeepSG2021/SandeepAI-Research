@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-29",
+  "last_updated": "2026-10-30",
   "papers": [
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
@@ -44,16 +44,6 @@
       ]
     },
     {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ca1otcHJaQVN6SUk5ck9iOTRENVdhWW82Q3o4aW9DTjZIaXhhUngxSDFQNXAtbVRkSGh0a1M5OFp4LVM4Qm5HaXJCbHYxMjU2WEVPZG1KZVlLWjhY?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 27 Oc",
-      "summary": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Legora is building the agentic operating system for legal work",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
       "authors": "OpenAI",
@@ -84,21 +74,31 @@
       ]
     },
     {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVHFCU09tQ2h3SW1DY2pNR05rYXFDXzd0OVNiUnF0S1JyVm1KUmJNcllJVF9VUnJSYkx5Y1cxci1nYVRlT2hVeG5YTUwxNVFYczF3bTlxVDNJa25ySS0wSWJtR2RqU3dyNk5SQg?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 26 Oc",
-      "summary": "How Fanatics and OpenAI streamline the fan experience OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing GPT-6.1 Terra",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 26 Oc",
       "summary": "Introducing GPT-6.1 Terra OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 23 Oc",
+      "summary": "Securing our frontier model training environment OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVHFCU09tQ2h3SW1DY2pNR05rYXFDXzd0OVNiUnF0S1JyVm1KUmJNcllJVF9VUnJSYkx5Y1cxci1nYVRlT2hVeG5YTUwxNVFYczF3bTlxVDNJa25ySS0wSWJtR2RqU3dyNk5SQg?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 26 Oc",
+      "summary": "How Fanatics and OpenAI streamline the fan experience OpenAI",
       "tags": [
         "OpenAI"
       ]

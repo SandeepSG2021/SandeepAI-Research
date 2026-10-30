@@ -1,7 +1,7 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-10-29",
+  "last_updated": "2026-10-30",
   "papers": [
     {
       "title": "Muse Glimmer 30B: An On-Device Agentic Model | Research - AI at Meta",
@@ -24,11 +24,31 @@
       ]
     },
     {
+      "title": "Introducing Llama 3.1: Our most capable models to date - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
+      "authors": "Meta AI",
+      "published": "Tue, 23 Ju",
+      "summary": "Introducing Llama 3.1: Our most capable models to date AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
       "title": "Introducing SAM 3D: Powerful 3D Reconstruction for Physical World Images - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZNjlIbHBkVnNzZER5X1J3MWkxYl8zNmM4STdsRXgta2tLLXVtd0ZyUEFKWDNpRFZuRDBHTHd1UUNKaWROZnYw?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 19 No",
       "summary": "Introducing SAM 3D: Powerful 3D Reconstruction for Physical World Images AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Byte Latent Transformer: Patches Scale Better Than Tokens | Research - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbm8xbVBwUUxZaFVoNDBjQ0N4eUxUQ19MU2V0N0VIRW9yQ21oT1MwZEowLTM5cE5URUQ2dS1xazJwVlZQbjlQN0ZYN3ljc3dJRHltOEhGRmZnUGVsREdBYU92NDQ0WFNJVWJDZ0VkdGVMMVVPa0lPSzZfcnN4RXNOQV9jN2o3SXJTVERnMl9PQTJGWjJTcVloLW55eUROUDRy?oc=5",
+      "authors": "Meta AI",
+      "published": "Thu, 12 De",
+      "summary": "Byte Latent Transformer: Patches Scale Better Than Tokens | Research AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -79,26 +99,6 @@
       "authors": "Meta AI",
       "published": "Tue, 03 Ma",
       "summary": "Democratizing access to large-scale language models with OPT-175B AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Our next-generation Meta Training and Inference Accelerator - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2x5NFJ3U0o2Tmx3V3dmTkJqei1HV3VpcjU0TnNaNWJfZWpxNzVValo0MVZPTmktXzhhNk01dkpxd2JUd1pfQWZUWXNBNVRKOF9hRFJmUHR4V1pKSmRMd1B6dmFMZXdQVTJVV1V4Z25NRVdURXVTa3gtRFJzUjNIbVZ1RmZvYzF0UHJvQWN3?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 10 Ap",
-      "summary": "Our next-generation Meta Training and Inference Accelerator AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW9DTHJ3LS1CaUl2WkNOX0NkTmpKQzBtdElNT2FMN1QySGt0RkRnTlc0RTBHZVRjVnFxMHBKRFdoeWV2cEpobE5VVzVDVjk3SEUzR0ZydWVVRnRXaTByb3NIY09Fc29oYmFLWm9QRlpkUDl3MzNxWEV3eThEMlBMcE0yTVYxalpBSENhYVo4MTVMcEZCX2REOE9pejVralJvNEhr?oc=5",
-      "authors": "Meta AI",
-      "published": "Tue, 21 Ju",
-      "summary": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects AI at Meta",
       "tags": [
         "Meta AI"
       ]
