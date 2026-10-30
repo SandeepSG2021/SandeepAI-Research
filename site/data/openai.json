@@ -4,6 +4,26 @@
   "last_updated": "2026-10-30",
   "papers": [
     {
+      "title": "Community safety report and new protections for teens",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDdEeGdlVEw2QWdWT1RQT2hqeWUwQVVmY2FvZl9YRXh5WUdycG1aZHR3XzhxT3FhOXhqb0tBVDlVeFppUlBMaTg3SFRBMHM4Z29ORkF3MDI3bklrYTR2QmYwQWNBekxVSklqWXFZdkRBSEllTnc3SlNWRXNDUDJoc1p4eTBfdw?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 30 Oc",
+      "summary": "Community safety report and new protections for teens OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcXc5N3BLX3dyMm5VMW1ZUy1nanQzUGk1ajB1dU5CWnBuX05ndXpvX1MySVVoRFRmU3pVZjNlTjZVRERBcTloTUNjaXl5b3JSc1M5Tm55V2d2b3JMd0NNdm52TUpLWE9BaGtHSWs1R1VxUWVTMVFTMElPVnBDQWM?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 30 Oc",
+      "summary": "Making it easier for websites to express AI training preferences OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "An updated Model Spec for more capable and beneficial AI",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xNEEzYVdFemd2ZlNTclVaYVZ4M0JlcTBSODQ2ODlQRWpkc05hWk5sMDIxVG00OEJCbm8wX284VFBTTm1kUEktV0VlemVUQzI2WWFBNTlOWQ?oc=5",
       "authors": "OpenAI",
@@ -64,16 +84,6 @@
       ]
     },
     {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sdFBJTFB3bDUwOEhVSnFNZ3BvS2tkTVFkY2dHNzk1QWNJMU1oSTVFSjRpR0g4akZsNDdjcmZmVDR0M2Q1QmNwcERKZ2NYdXE2NVNXaU5MaURYaXBHTGc?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 29 Oc",
-      "summary": "How Ropes & Gray is developing AI for transactional diligence OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Introducing GPT-6.1 Terra",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
       "authors": "OpenAI",
@@ -84,21 +94,11 @@
       ]
     },
     {
-      "title": "Securing our frontier model training environment",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sdFBJTFB3bDUwOEhVSnFNZ3BvS2tkTVFkY2dHNzk1QWNJMU1oSTVFSjRpR0g4akZsNDdjcmZmVDR0M2Q1QmNwcERKZ2NYdXE2NVNXaU5MaURYaXBHTGc?oc=5",
       "authors": "OpenAI",
-      "published": "Fri, 23 Oc",
-      "summary": "Securing our frontier model training environment OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVHFCU09tQ2h3SW1DY2pNR05rYXFDXzd0OVNiUnF0S1JyVm1KUmJNcllJVF9VUnJSYkx5Y1cxci1nYVRlT2hVeG5YTUwxNVFYczF3bTlxVDNJa25ySS0wSWJtR2RqU3dyNk5SQg?oc=5",
-      "authors": "OpenAI",
-      "published": "Mon, 26 Oc",
-      "summary": "How Fanatics and OpenAI streamline the fan experience OpenAI",
+      "published": "Thu, 29 Oc",
+      "summary": "How Ropes & Gray is developing AI for transactional diligence OpenAI",
       "tags": [
         "OpenAI"
       ]
