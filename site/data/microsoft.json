@@ -4,6 +4,16 @@
   "last_updated": "2026-10-30",
   "papers": [
     {
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "authors": "Somya Chatterjee, Harshita Sahijwani, Min Chen, Sushmitha Rajeswari Muppa, Dayquan Julienne, Irene Shaffer, Chandra Inguva, Jenny Chen, Minha Hwang, Sam Ade Jacobs",
+      "published": "Fri, 30 Oc",
+      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on Microsoft Research .",
+      "tags": [
+        "Research Blog"
+      ]
+    },
+    {
       "title": "Microsoft Research Focus – Edition #97",
       "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
       "authors": "Sowbhagya Suresh",
@@ -89,16 +99,6 @@
       "authors": "Rohan Kannan",
       "published": "Wed, 30 Se",
       "summary": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives. The post Forecasting space weather risks on power grids appeared first on Microsoft Research .",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-      "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-      "authors": "Nicolo Fusi, Jonathan M. Carlson",
-      "published": "Tue, 29 Se",
-      "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions. The post Introducing Quine: An AI research system designed for the complexity of biology appeared first on Microsoft Research .",
       "tags": [
         "Research Blog"
       ]
