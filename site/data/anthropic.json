@@ -4,16 +4,6 @@
   "last_updated": "2026-10-31",
   "papers": [
     {
-      "title": "AI for Science expands to foundations and research institutions",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
-      "authors": "Anthropic",
-      "published": "Wed, 28 Oc",
-      "summary": "AI for Science expands to foundations and research institutions Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Early progress on accelerating drug development with Claude",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1RcFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn?oc=5",
       "authors": "Anthropic",
@@ -44,6 +34,16 @@
       ]
     },
     {
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw?oc=5",
+      "authors": "Anthropic",
+      "published": "Mon, 26 Oc",
+      "summary": "Anthropic files S-1 with the SEC for proposed initial public offering Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
       "authors": "Anthropic",
@@ -54,11 +54,11 @@
       ]
     },
     {
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw?oc=5",
+      "title": "AI for Science expands to foundations and research institutions",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
       "authors": "Anthropic",
-      "published": "Mon, 26 Oc",
-      "summary": "Anthropic files S-1 with the SEC for proposed initial public offering Anthropic",
+      "published": "Wed, 28 Oc",
+      "summary": "AI for Science expands to foundations and research institutions Anthropic",
       "tags": [
         "Anthropic"
       ]
@@ -74,21 +74,21 @@
       ]
     },
     {
-      "title": "Open call for guest investigators in the life sciences",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 22 Oc",
-      "summary": "Open call for guest investigators in the life sciences Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Redesigning source control at Anthropic",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMFBucHdNeF8ycUFnZVdiOWlUREIxekVqT1IyWGlicVpWeUY5aFI5Z19TU25Ta2VuaS05SXo4ZlA2aW9iUVZJS3duYTBmXzNDX3JqVlpCakttR1JFejZ6NnhjRzBYZlpXOFBRU2V3?oc=5",
       "authors": "Anthropic",
       "published": "Tue, 13 Oc",
       "summary": "Redesigning source control at Anthropic Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Open call for guest investigators in the life sciences",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc?oc=5",
+      "authors": "Anthropic",
+      "published": "Thu, 22 Oc",
+      "summary": "Open call for guest investigators in the life sciences Anthropic",
       "tags": [
         "Anthropic"
       ]
