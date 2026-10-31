@@ -1,14 +1,14 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-30",
+  "last_updated": "2026-10-31",
   "papers": [
     {
-      "title": "Community safety report and new protections for teens",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDdEeGdlVEw2QWdWT1RQT2hqeWUwQVVmY2FvZl9YRXh5WUdycG1aZHR3XzhxT3FhOXhqb0tBVDlVeFppUlBMaTg3SFRBMHM4Z29ORkF3MDI3bklrYTR2QmYwQWNBekxVSklqWXFZdkRBSEllTnc3SlNWRXNDUDJoc1p4eTBfdw?oc=5",
+      "title": "Fair use benefits everyone",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xRFJYTWdFRS1kQWdTY1BCamowNGFzOW04b19BLVM1aEt0U01LeXg1eUJSVWZGb1JFVUtia0FFMjBGMWRfWUxpNnpudEtoS0lVQlZITmIyU1VmUFAxbG1XclNR?oc=5",
       "authors": "OpenAI",
       "published": "Fri, 30 Oc",
-      "summary": "Community safety report and new protections for teens OpenAI",
+      "summary": "Fair use benefits everyone OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -19,6 +19,16 @@
       "authors": "OpenAI",
       "published": "Fri, 30 Oc",
       "summary": "Making it easier for websites to express AI training preferences OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDdEeGdlVEw2QWdWT1RQT2hqeWUwQVVmY2FvZl9YRXh5WUdycG1aZHR3XzhxT3FhOXhqb0tBVDlVeFppUlBMaTg3SFRBMHM4Z29ORkF3MDI3bklrYTR2QmYwQWNBekxVSklqWXFZdkRBSEllTnc3SlNWRXNDUDJoc1p4eTBfdw?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 30 Oc",
+      "summary": "Community safety report and new protections for teens OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -47,7 +57,7 @@
       "title": "The future of the firm",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
       "authors": "OpenAI",
-      "published": "Fri, 30 Oc",
+      "published": "Sat, 31 Oc",
       "summary": "The future of the firm OpenAI",
       "tags": [
         "OpenAI"
@@ -89,16 +99,6 @@
       "authors": "OpenAI",
       "published": "Mon, 26 Oc",
       "summary": "Introducing GPT-6.1 Terra OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sdFBJTFB3bDUwOEhVSnFNZ3BvS2tkTVFkY2dHNzk1QWNJMU1oSTVFSjRpR0g4akZsNDdjcmZmVDR0M2Q1QmNwcERKZ2NYdXE2NVNXaU5MaURYaXBHTGc?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 29 Oc",
-      "summary": "How Ropes & Gray is developing AI for transactional diligence OpenAI",
       "tags": [
         "OpenAI"
       ]
