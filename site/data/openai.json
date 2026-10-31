@@ -14,16 +14,6 @@
       ]
     },
     {
-      "title": "Making it easier for websites to express AI training preferences",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcXc5N3BLX3dyMm5VMW1ZUy1nanQzUGk1ajB1dU5CWnBuX05ndXpvX1MySVVoRFRmU3pVZjNlTjZVRERBcTloTUNjaXl5b3JSc1M5Tm55V2d2b3JMd0NNdm52TUpLWE9BaGtHSWs1R1VxUWVTMVFTMElPVnBDQWM?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 30 Oc",
-      "summary": "Making it easier for websites to express AI training preferences OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "An updated Model Spec for more capable and beneficial AI",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xNEEzYVdFemd2ZlNTclVaYVZ4M0JlcTBSODQ2ODlQRWpkc05hWk5sMDIxVG00OEJCbm8wX284VFBTTm1kUEktV0VlemVUQzI2WWFBNTlOWQ?oc=5",
       "authors": "OpenAI",
@@ -39,6 +29,16 @@
       "authors": "OpenAI",
       "published": "Thu, 29 Oc",
       "summary": "How we detect frontier model misalignment OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcXc5N3BLX3dyMm5VMW1ZUy1nanQzUGk1ajB1dU5CWnBuX05ndXpvX1MySVVoRFRmU3pVZjNlTjZVRERBcTloTUNjaXl5b3JSc1M5Tm55V2d2b3JMd0NNdm52TUpLWE9BaGtHSWs1R1VxUWVTMVFTMElPVnBDQWM?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 30 Oc",
+      "summary": "Making it easier for websites to express AI training preferences OpenAI",
       "tags": [
         "OpenAI"
       ]
