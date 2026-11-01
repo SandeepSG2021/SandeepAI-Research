@@ -1,7 +1,7 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-10-31",
+  "last_updated": "2026-11-01",
   "papers": [
     {
       "title": "Fair use benefits everyone",
@@ -44,16 +44,6 @@
       ]
     },
     {
-      "title": "Community safety report and new protections for teens",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDdEeGdlVEw2QWdWT1RQT2hqeWUwQVVmY2FvZl9YRXh5WUdycG1aZHR3XzhxT3FhOXhqb0tBVDlVeFppUlBMaTg3SFRBMHM4Z29ORkF3MDI3bklrYTR2QmYwQWNBekxVSklqWXFZdkRBSEllTnc3SlNWRXNDUDJoc1p4eTBfdw?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 30 Oc",
-      "summary": "Community safety report and new protections for teens OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "Working with academic communities to build scientific understanding",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5",
       "authors": "OpenAI",
@@ -69,6 +59,16 @@
       "authors": "OpenAI",
       "published": "Mon, 26 Oc",
       "summary": "ChatGPT’s expanding world of work OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDdEeGdlVEw2QWdWT1RQT2hqeWUwQVVmY2FvZl9YRXh5WUdycG1aZHR3XzhxT3FhOXhqb0tBVDlVeFppUlBMaTg3SFRBMHM4Z29ORkF3MDI3bklrYTR2QmYwQWNBekxVSklqWXFZdkRBSEllTnc3SlNWRXNDUDJoc1p4eTBfdw?oc=5",
+      "authors": "OpenAI",
+      "published": "Fri, 30 Oc",
+      "summary": "Community safety report and new protections for teens OpenAI",
       "tags": [
         "OpenAI"
       ]
