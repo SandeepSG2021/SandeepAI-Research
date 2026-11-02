@@ -1,34 +1,14 @@
 {
   "source": "Meta-AI",
   "source_url": "https://ai.meta.com/research/",
-  "last_updated": "2026-11-01",
+  "last_updated": "2026-11-02",
   "papers": [
-    {
-      "title": "Muse Glimmer 30B: An On-Device Agentic Model | Research - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjZZVk1ERVYyQmZEMEZSZE1yTFg4M3hYV0hyMmtqamx2VmgyYldwMTd6MzZmX1hIMkFJSWxhaUdZREo0QUFIWGdEXzhjczNCY0ItVklUQmJPSFFMNVFyNVJoTTY4Z2NjdDBhQmFJX01VTmZaS1NkMW8yc0trcnBxVy1KX3NZcTM1eGY2RUZZbw?oc=5",
-      "authors": "Meta AI",
-      "published": "Mon, 19 Oc",
-      "summary": "Muse Glimmer 30B: An On-Device Agentic Model | Research AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
     {
       "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
       "authors": "Meta AI",
       "published": "Wed, 25 Se",
       "summary": "Connect 2024: The responsible approach we’re taking to generative AI AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
-      "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
-      "authors": "Meta AI",
-      "published": "Wed, 11 Ja",
-      "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
       "tags": [
         "Meta AI"
       ]
@@ -84,21 +64,41 @@
       ]
     },
     {
-      "title": "Three things everyone should know about Vision Transformers - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2NHYjhMX3FKcHdnak5BZG5kNUVUQ2dGaUQ0SVR5R2lWTV9uclNTbm9YNFVGQV9DbUJaaHhLUU5Hei1iOGVWb25pSXhPSXcyT0xuNXVlQmFGRXd2enFsQlRTVHk4Y0pVSm51emJpVWtqQVpwdlhseENWOXBwc3BoMG5YWi16WkIyLUg1ZW05RkhGR0JtYXJHeHlCSGxEX2JKdzFEdw?oc=5",
-      "authors": "Meta AI",
-      "published": "Sat, 15 Ju",
-      "summary": "Three things everyone should know about Vision Transformers AI at Meta",
-      "tags": [
-        "Meta AI"
-      ]
-    },
-    {
       "title": "Brain-to-Text Decoding: A Non-invasive Approach via Typing - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzFPSmpHZTBYUlY0NjhNQ0VPLURXZTlSYjFwNndhemV0X04tVzlaWlByMjN4VkVBaGRKQkt5elJQNU9aRHpBZS14bUNrN05zSldwUTlNemxMME9aTjhHaDVzUWRLLWtfdnJiczE3SjJhOWpmUFQ5Nm5KY1VpLVlHcjhuTk1Yd2NtbUc4NWhBeEhLUUJpOUw3bEFEd1pFM19QVFE?oc=5",
       "authors": "Meta AI",
       "published": "Thu, 06 Fe",
       "summary": "Brain-to-Text Decoding: A Non-invasive Approach via Typing AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Bringing the world closer together with a foundational multimodal model for speech translation - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNlJicUU0RTJWZ2VjNF96VlFNcnp0TTJnUk5KQWR3VFVxNWNkYjU0clozVG03eG1Ha0FwZkhzaTUwbE5TNUJieWx0OS1xVjQ?oc=5",
+      "authors": "Meta AI",
+      "published": "Tue, 22 Au",
+      "summary": "Bringing the world closer together with a foundational multimodal model for speech translation AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Introducing Segment Anything: Working toward the first foundation model for image segmentation - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2FhdVBMY0tXNDRsXy1XNjIwN3phVTdZcmMzRHBkQ1o0QmZKWVpIbmFTQThZQ3pCZHdwdjYxZzhCRGc3Y253X2xrSGVSMmY0WlpHcDE5VWRSdHJHSTZZTzV2aklsWTZoNHZBTkszUFNWNW5Jdm4wNlZXTFhnWEpZOXFfX1Q?oc=5",
+      "authors": "Meta AI",
+      "published": "Wed, 05 Ap",
+      "summary": "Introducing Segment Anything: Working toward the first foundation model for image segmentation AI at Meta",
+      "tags": [
+        "Meta AI"
+      ]
+    },
+    {
+      "title": "Democratizing access to large-scale language models with OPT-175B - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOE1VUjRFT1VfcWdRb191X3F1S2NVcllTU2paMVo5RzVsWjZhcmlVTWNWay1Dby1iMUxGMk5xQkFhUFl3V0RGOFpMZmE3SEh6YzdLQzNtcmNwcnhVN3RyVTF5YWh3YUk4dVRTWkJBUjRNQ0MxWFFFWmtkeG1UaFU0eUFPbFUzNWZxby1sN0h4S2htc3Robmc?oc=5",
+      "authors": "Meta AI",
+      "published": "Tue, 03 Ma",
+      "summary": "Democratizing access to large-scale language models with OPT-175B AI at Meta",
       "tags": [
         "Meta AI"
       ]

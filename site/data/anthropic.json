@@ -1,7 +1,7 @@
 {
   "source": "Anthropic-AI",
   "source_url": "https://www.anthropic.com/research",
-  "last_updated": "2026-11-01",
+  "last_updated": "2026-11-02",
   "papers": [
     {
       "title": "AI for Science expands to foundations and research institutions",
@@ -24,21 +24,21 @@
       ]
     },
     {
-      "title": "How AI agents shape experts’ judgment calls",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IaTRIX2lBc1kwcDRXenZsRXRxcy1vZWVQVlBGdlJsS1p1bkpOQzBpblRRU0l6elhUa0Z3a0RmOVlaV1NmUlgxU3pQWjE2UTVNcEdMdDBBQ0VobFBMS2k5MS1yQ3dQMzQ?oc=5",
-      "authors": "Anthropic",
-      "published": "Tue, 27 Oc",
-      "summary": "How AI agents shape experts’ judgment calls Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMTTViWmp6TE1SU3lNQjd6aWozb0Rhd0VjSVlMOThjRXpFRjBvN1lZdVRreFg3UWRGNjNqRkViU3lQbFJuaHRIMXBJUHFHSXhpbTZSTGhybUxOdTU3bEFDMUIzd0NmcWRHRk1CckVLV2FIT1ZDb1ZMZHJ0WWhxSE0?oc=5",
       "authors": "Anthropic",
       "published": "Tue, 27 Oc",
       "summary": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "How AI agents shape experts’ judgment calls",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IaTRIX2lBc1kwcDRXenZsRXRxcy1vZWVQVlBGdlJsS1p1bkpOQzBpblRRU0l6elhUa0Z3a0RmOVlaV1NmUlgxU3pQWjE2UTVNcEdMdDBBQ0VobFBMS2k5MS1yQ3dQMzQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 27 Oc",
+      "summary": "How AI agents shape experts’ judgment calls Anthropic",
       "tags": [
         "Anthropic"
       ]
