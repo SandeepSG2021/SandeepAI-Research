@@ -4,6 +4,20 @@
   "last_updated": "2026-11-02",
   "papers": [
     {
+      "title": "The latest AI news we announced in October 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "authors": "Blog Team",
+      "published": "Mon, 02 No",
+      "summary": "Animated carousel of images from AI posts in October",
+      "tags": [
+        "Google DeepMind",
+        "Quantum computing",
+        "AI",
+        "Gemini App",
+        "Gemini models"
+      ]
+    },
+    {
       "title": "Our newest AI Quest: Mapping the human brain",
       "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "authors": "Ronit Levavi Morad",
@@ -99,16 +113,6 @@
       "authors": "Yeawon Choi",
       "published": "Fri, 18 Se",
       "summary": "Jane Wade and Sergio Hudson",
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "authors": "Prem Ramaswami",
-      "published": "Thu, 17 Se",
-      "summary": "UN System Data Commons Data webpage",
       "tags": [
         "AI"
       ]
