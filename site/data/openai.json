@@ -1,14 +1,24 @@
 {
   "source": "OpenAI-AI",
   "source_url": "https://openai.com/research/",
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "papers": [
     {
-      "title": "Introducing the Grid Protectors Program",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR3oxdk1UcmphMkNDb1JRZFBCV0xJY1lmc3NGWkp6WlFTbXNKTzFRcGVWYXpLZk9MQkVEdXp0RWdiOEtYY0ZEdkIxc01DVFpyUXJ1bWl4WG01Z2hSY3c?oc=5",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QWxBUzRHS0poRDcxSjVQT1ZLQjBqUnhOaS1kd01mWjVxMXMyWXN5S05MXzlvVUtVeVU2djZFVnZtdFhNMEwxZmVJZXppX2VreUIxT3M2aFotSUdhZ1JqdA?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 03 No",
+      "summary": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSWQ3UlhoYlJhdWx3aVBWTUVBVHBjUUI3bzA2THNGdmdObDBMNzZHeW1MN0MxMmV1cDJJV0NlUVFoOUp0YTNPM2YxNG9WQUhKakd6c0JFcUREUHM?oc=5",
       "authors": "OpenAI",
       "published": "Mon, 02 No",
-      "summary": "Introducing the Grid Protectors Program OpenAI",
+      "summary": "Scaling Git at OpenAI OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -17,8 +27,18 @@
       "title": "LifeVal",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44YkZiR01IUW5MMFJ2TkY5OWc0Wk5KZW16Szk3QkliQUcxbWI1eFBOdUtlNlplbXg3RzBwQUVUcDNkaGNVNVczcg?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 02 No",
+      "published": "Tue, 03 No",
       "summary": "LifeVal OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR3oxdk1UcmphMkNDb1JRZFBCV0xJY1lmc3NGWkp6WlFTbXNKTzFRcGVWYXpLZk9MQkVEdXp0RWdiOEtYY0ZEdkIxc01DVFpyUXJ1bWl4WG01Z2hSY3c?oc=5",
+      "authors": "OpenAI",
+      "published": "Mon, 02 No",
+      "summary": "Introducing the Grid Protectors Program OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -74,31 +94,11 @@
       ]
     },
     {
-      "title": "Fair use benefits everyone",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xRFJYTWdFRS1kQWdTY1BCamowNGFzOW04b19BLVM1aEt0U01LeXg1eUJSVWZGb1JFVUtia0FFMjBGMWRfWUxpNnpudEtoS0lVQlZITmIyU1VmUFAxbG1XclNR?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 30 Oc",
-      "summary": "Fair use benefits everyone OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "OpenAI acquires Orchestra Bio",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
       "authors": "OpenAI",
       "published": "Tue, 20 Oc",
       "summary": "OpenAI acquires Orchestra Bio OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
-      "authors": "OpenAI",
-      "published": "Thu, 15 Oc",
-      "summary": "Bringing GPT-Rosalind to academic research labs OpenAI",
       "tags": [
         "OpenAI"
       ]
