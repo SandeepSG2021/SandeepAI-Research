@@ -4,6 +4,16 @@
   "last_updated": "2026-11-03",
   "papers": [
     {
+      "title": "Progress on provable inference for large language models",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
+      "authors": "Anthropic",
+      "published": "Tue, 03 No",
+      "summary": "Progress on provable inference for large language models Anthropic",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
       "title": "AI for Science expands to foundations and research institutions",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
       "authors": "Anthropic",
@@ -84,21 +94,11 @@
       ]
     },
     {
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRTnpIbVhZdVJZa2ZyVy1Namo1b3Qxcm5IVEVJcmllZ0tITVJkd1FKTjBJazBDU3JRX055UHdkTUxtM0hQbG1aSmpKaFZxMFRTU1YzUzNtWi1jU2hiUjR6c3E5VWk?oc=5",
+      "title": "The AI expectations gap",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YLVJSLUJyWEFBRXpaNHZqeXY5aXFhNmdjWXFkMXROUGpVQ1hSQVQ4MEhkRVMzcjM2Nnc1MWxfUzk1RWtqdzQ1aDVnMzFzbWpnMHdMVlE4SG1rdHlLd3JoUDZ5enU?oc=5",
       "authors": "Anthropic",
-      "published": "Mon, 12 Oc",
-      "summary": "AI models may be capable of self-replicating without access to a datacenter Anthropic",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "2026 Usage Policy update",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
-      "authors": "Anthropic",
-      "published": "Thu, 08 Oc",
-      "summary": "2026 Usage Policy update Anthropic",
+      "published": "Fri, 16 Oc",
+      "summary": "The AI expectations gap Anthropic",
       "tags": [
         "Anthropic"
       ]

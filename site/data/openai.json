@@ -4,6 +4,16 @@
   "last_updated": "2026-11-03",
   "papers": [
     {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT05EalZxVWZpRk4tLUgzNHZmbnlXcXRmeHZIM3ppY0RzMk5CcmFySXZZdFV1bDVYWnRVdjJzeWEydzBWRmFWd2lWSzVsMTdwcFFtZTRWS0pvaDVJbURIdlZINGROaEV6RW8xRjZpYXU4Tng1c2tBVWd2OG9yemk4aWJjQQ?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 03 No",
+      "summary": "Preparing our next security sprint to harden OpenAI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QWxBUzRHS0poRDcxSjVQT1ZLQjBqUnhOaS1kd01mWjVxMXMyWXN5S05MXzlvVUtVeVU2djZFVnZtdFhNMEwxZmVJZXppX2VreUIxT3M2aFotSUdhZ1JqdA?oc=5",
       "authors": "OpenAI",
@@ -19,6 +29,16 @@
       "authors": "OpenAI",
       "published": "Mon, 02 No",
       "summary": "Scaling Git at OpenAI OpenAI",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95NGRMZ2tDQVJLQktpcl82dnBpWFMzeG1SYWxVVHBFcDRfdjR5ak5SbmxQd3VzOVJWZXllMFVlSzU0WjgzUFhyZmJRSmZjLXQ5ZTFlQjlFVUNXVHpUbENjTTFGUEFza1BDb1ZjVm15ZHpmZ3FuQUlON3JR?oc=5",
+      "authors": "OpenAI",
+      "published": "Tue, 03 No",
+      "summary": "Rewarding defenders with bigger bug bounties OpenAI",
       "tags": [
         "OpenAI"
       ]
@@ -44,16 +64,6 @@
       ]
     },
     {
-      "title": "Making it easier for websites to express AI training preferences",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcXc5N3BLX3dyMm5VMW1ZUy1nanQzUGk1ajB1dU5CWnBuX05ndXpvX1MySVVoRFRmU3pVZjNlTjZVRERBcTloTUNjaXl5b3JSc1M5Tm55V2d2b3JMd0NNdm52TUpLWE9BaGtHSWs1R1VxUWVTMVFTMElPVnBDQWM?oc=5",
-      "authors": "OpenAI",
-      "published": "Fri, 30 Oc",
-      "summary": "Making it easier for websites to express AI training preferences OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
       "title": "How we detect frontier model misalignment",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIYy1GQVhzVjQ3LTAyVW42QnlOOVZISGJsS05mc0gtRG5WZ2lkVks0REVvcENkYXVPVW1sVUw3dThYY01Ib1FCTUNkanBCMXduYTdGUXFqREdFYUdtVVhsN0ZtT2VoSWJlandTbUxvSVh1OUgxMWc?oc=5",
       "authors": "OpenAI",
@@ -74,31 +84,21 @@
       ]
     },
     {
-      "title": "ChatGPT’s expanding world of work",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03S3BlOGdkTVotcDU2MWFVcENVZE9wS1lCSmduRGQ1WUIzNV9BSkN0Y2ZzSlpscS1nQzFiMTRrcFpwQVBZZC1BZmdhWEtKdXFZZTRTX0dNa19CcHRCQ2w2YnRHaG1kMHZI?oc=5",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
       "authors": "OpenAI",
-      "published": "Mon, 26 Oc",
-      "summary": "ChatGPT’s expanding world of work OpenAI",
+      "published": "Thu, 15 Oc",
+      "summary": "Bringing GPT-Rosalind to academic research labs OpenAI",
       "tags": [
         "OpenAI"
       ]
     },
     {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5",
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
       "authors": "OpenAI",
-      "published": "Wed, 21 Oc",
-      "summary": "Using thousands of AI agents to uncover new leads in biological data OpenAI",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "OpenAI acquires Orchestra Bio",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
-      "authors": "OpenAI",
-      "published": "Tue, 20 Oc",
-      "summary": "OpenAI acquires Orchestra Bio OpenAI",
+      "published": "Mon, 05 Oc",
+      "summary": "Our approach to EU text provenance rules OpenAI",
       "tags": [
         "OpenAI"
       ]
